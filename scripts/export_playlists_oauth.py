@@ -138,6 +138,44 @@ def get_my_playlists(youtube):
         return None
 
 
+def get_video_durations(youtube, video_ids):
+    """
+    Obtém a duração de múltiplos vídeos em uma única chamada
+    
+    Args:
+        youtube: Cliente autenticado da API do YouTube
+        video_ids: Lista de IDs de vídeos
+        
+    Returns:
+        Dicionário {video_id: duration_string}
+    """
+    durations = {}
+    
+    try:
+        # API permite até 50 vídeos por chamada
+        for i in range(0, len(video_ids), 50):
+            batch = video_ids[i:i+50]
+            
+            request = youtube.videos().list(
+                part='contentDetails',
+                id=','.join(batch)
+            )
+            
+            response = request.execute()
+            
+            if 'items' in response:
+                for item in response['items']:
+                    video_id = item['id']
+                    duration = item['contentDetails']['duration']
+                    durations[video_id] = duration
+        
+        return durations
+        
+    except HttpError as e:
+        print(f"   ⚠️  Erro ao buscar durações: {e}")
+        return {}
+
+
 def get_playlist_videos(youtube, playlist_id):
     """
     Obtém todos os vídeos de uma playlist (pública ou privada)
@@ -180,6 +218,16 @@ def get_playlist_videos(youtube, playlist_id):
             next_page_token = response.get('nextPageToken')
             if not next_page_token:
                 break
+        
+        # Buscar durações de todos os vídeos
+        if videos:
+            print(f"   📊 Buscando durações de {len(videos)} vídeos...")
+            video_ids = [v['video_id'] for v in videos]
+            durations = get_video_durations(youtube, video_ids)
+            
+            # Adicionar duração a cada vídeo
+            for video in videos:
+                video['duration'] = durations.get(video['video_id'], 'PT0S')
         
         return videos
         

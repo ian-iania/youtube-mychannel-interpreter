@@ -165,6 +165,45 @@ def save_favorites(favorites):
         json.dump(favorites, f, ensure_ascii=False, indent=2)
 
 
+def format_duration(duration_iso):
+    """
+    Converte duração ISO 8601 (PT1H2M3S) para formato legível (1:02:03)
+    
+    Args:
+        duration_iso: String no formato ISO 8601 (ex: PT7M30S, PT1H5M, PT45S)
+    
+    Returns:
+        String formatada (ex: 7:30, 1:05:00, 0:45)
+    """
+    if not duration_iso or duration_iso == 'PT0S':
+        return '0:00'
+    
+    import re
+    
+    # Extrair horas, minutos e segundos
+    hours = 0
+    minutes = 0
+    seconds = 0
+    
+    # Padrão: PT1H2M3S
+    hour_match = re.search(r'(\d+)H', duration_iso)
+    minute_match = re.search(r'(\d+)M', duration_iso)
+    second_match = re.search(r'(\d+)S', duration_iso)
+    
+    if hour_match:
+        hours = int(hour_match.group(1))
+    if minute_match:
+        minutes = int(minute_match.group(1))
+    if second_match:
+        seconds = int(second_match.group(1))
+    
+    # Formatar
+    if hours > 0:
+        return f"{hours}:{minutes:02d}:{seconds:02d}"
+    else:
+        return f"{minutes}:{seconds:02d}"
+
+
 def download_audio_from_youtube(video_id):
     """
     Baixa apenas o áudio de um vídeo do YouTube
@@ -622,13 +661,19 @@ def main():
                     with col2:
                         st.markdown(f"### {idx + 1}. {video['title']}")
                         
-                        # Informações em colunas
-                        info_col1, info_col2, info_col3, info_col4 = st.columns(4)
+                        # Informações em colunas (agora 5 colunas para incluir duração)
+                        info_col1, info_col2, info_col3, info_col4, info_col5 = st.columns(5)
                         
                         with info_col1:
                             st.markdown(f"**📅 Publicado:** {video['published_at'][:10]}")
                         
                         with info_col2:
+                            # Duração do vídeo
+                            duration = video.get('duration', 'PT0S')
+                            formatted_duration = format_duration(duration)
+                            st.markdown(f"**⏱️ Duração:** {formatted_duration}")
+                        
+                        with info_col3:
                             # Indicador de privacidade da playlist
                             privacy_status = data['playlist_info'].get('privacy_status', 'unknown')
                             if privacy_status == 'private':
@@ -642,14 +687,14 @@ def main():
                                 privacy_text = "Pública"
                             st.markdown(f"**{privacy_icon} Playlist:** {privacy_text}")
                         
-                        with info_col3:
+                        with info_col4:
                             keywords_html = " ".join([
                                 f'<span class="keyword-badge">{k}</span>' 
                                 for k in video.get('matched_keywords', [])
                             ])
                             st.markdown(f"**🔑 Keywords:** {keywords_html}", unsafe_allow_html=True)
                         
-                        with info_col4:
+                        with info_col5:
                             st.markdown(f"[🔗 Abrir vídeo]({video['video_url']})")
                         
                         # Descrição
