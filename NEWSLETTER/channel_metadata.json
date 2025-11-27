@@ -1,0 +1,41 @@
+{
+  "channels": {
+    "UCxX9wt5FWQUAAz4UrysqK9A": {
+      "name": "Dave Ebbelaar",
+      "type": "person",
+      "description": "AI Engineer focado em LangChain e agentes"
+    },
+    "UCZPFjMe1uRSirmSpznqvJfQ": {
+      "name": "Deborah Folloni",
+      "type": "person",
+      "description": "Especialista em IA e automação"
+    },
+    "UCaiL2GDNpLYH6Wokkk1VNcg": {
+      "name": "OpenAI",
+      "type": "company",
+      "description": "Empresa de pesquisa em IA"
+    },
+    "UC_x5XG1OV2P6uZZ5FSM9Ttw": {
+      "name": "Google DeepMind",
+      "type": "company",
+      "description": "Pesquisa em IA do Google"
+    },
+    "UCbfYPyITQ-7l4upoX8nvctg": {
+      "name": "Two Minute Papers",
+      "type": "person",
+      "description": "Resumos de papers de IA"
+    },
+    "UCZHmQk67mSJgfCCTn7xBfew": {
+      "name": "Yannic Kilcher",
+      "type": "person",
+      "description": "Análises técnicas de papers"
+    },
+    "UCkYmJa8mw7zL3hYXqGvQcOg": {
+      "name": "AI Explained",
+      "type": "person",
+      "description": "Explicações sobre IA"
+    }
+  },
+  "default_type": "community",
+  "notes": "Adicione novos canais conforme necessário. Tipos: person, company, community"
+}

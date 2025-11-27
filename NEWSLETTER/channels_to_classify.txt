@@ -1,0 +1,254 @@
+# CLASSIFICAÇÃO DE CANAIS PARA NEWSLETTER
+#
+# INSTRUÇÕES:
+# 1. Escreva na frente de cada canal: person | company | community
+# 2. Deixe em branco para EXCLUIR o canal da newsletter
+#
+# EXEMPLOS:
+# Kurzgesagt – In a Nutshell | company
+# 3Blue1Brown | person
+# AI Explained | community
+# Manual do Mundo |           (deixar em branco = não incluir)
+#
+# TOTAL: 238 canais
+#
+================================================================================
+
+1littlecoder                                                 |   # 107,000 subs | @1littlecoder PERSON 
+3Blue1Brown                                                  |   # 7,900,000 subs | @3blue1brown PERSON
+5% Entertainment                                             |   # 141,000 subs | @5entertainment.  
+Afonso Lopes | Automações IA                                 |   # 2,060 subs | @afonsoautomacoes_ia PERSON
+AI and Tech for Education                                    |   # 30,100 subs | @aiandtechforeducation community
+AI Andy                                                      |   # 212,000 subs | @theaiandy PERSON
+AI Engineer                                                  |   # 275,000 subs | @aidotengineer PERSON
+AI Engineer Brasil                                           |   # 674 subs | @aiengineerbrasil PERSON
+AI Explained                                                 |   # 389,000 subs | @aiexplained-official PERSON
+AI Foundations                                               |   # 299,000 subs | @ai-foundations PERSON
+AI LABS                                                      |   # 105,000 subs | @ailabs-393 PERSON
+AI News                                                      |   # 90,400 subs | @ainewsofficial PERSON
+AI Revolution                                                |   # 494,000 subs | @airevolutionx PERSON
+AICodeKing                                                   |   # 115,000 subs | @aicodeking PERSON
+AlphaTheta / Pioneer DJ Global                               |   # 701,000 subs | @alphathetaglobal
+Analyst Academy                                              |   # 219,000 subs | @analystacademy Community
+Andrej Karpathy                                              |   # 1,140,000 subs | @andrejkarpathy PERSON
+André Arcas                                                  |   # 179,000 subs | @andre-arcas. 
+Anthropic                                                    |   # 314,000 subs | @anthropic-ai Company 
+Apple TV                                                     |   # 2,230,000 subs | @appletv  
+AppleGurus                                                   |   # 9,770 subs | @appleguruplus
+Argonalyst                                                   |   # 30,200 subs | @argonalyst PERSON
+Arseny Shatokhin                                             |   # 67,600 subs | @vrsen PERSON
+Arturia                                                      |   # 173,000 subs | @arturiaofficial
+Arxiv Papers                                                 |   # 10,100 subs | @arxivpapers Community
+Asimov Academy                                               |   # 143,000 subs | @asimovacademy Company
+AssemblyAI                                                   |   # 177,000 subs | @assemblyai
+At A Glance!                                                 |   # 5,200 subs | @ataglanceofficial
+Bariogênese                                                  |   # 32,400 subs | bariogenese
+Bhavesh Bhatt                                                |   # 108,000 subs | @bhattbhavesh91 PERSON
+Bill Gates                                                   |   # 3,820,000 subs | @billgates
+Billy Automações                                             |   # 11,000 subs | @billyautomacoes PERSON
+Bits of Chris | Augment, Stay Human                          |   # 5,870 subs | @bitsofchris
+Bloomberg Originals                                          |   # 4,860,000 subs | @business
+Blu Ciência                                                  |   # 54,300 subs | @bluciencia
+Boris Meinardus                                              |   # 95,500 subs | @borismeinardus
+ByteByteGo                                                   |   # 1,300,000 subs | @bytebytego Person 
+Canal das Curiosidades                                       |   # 270,000 subs | @canaldascuriosidadesof
+Canal Nostalgia                                              |   # 15,100,000 subs | @nostalgia
+Canaltech                                                    |   # 3,670,000 subs | @canaltech community 
+Cardio DF — Cardiologia e saúde cardiovascular em Brasília (DF) |   # 5,890,000 subs | @cardiodf
+Casa da Robótica                                             |   # 1,600 subs | casadarobotica
+Cecília Ramos                                                |   # 93,600 subs | @ceciliaramos.musica
+Central Pandora                                              |   # 291,000 subs | @centralpandora
+Chatling                                                     |   # 560 subs | @chatling
+Chronologicamente                                            |   # 2,090 subs | @chronologicamente
+Ciência Todo Dia                                             |   # 7,520,000 subs | @cienciatododia  
+Code A Program                                               |   # 19,600 subs | @codeaprogram PERSON
+Code with Ania Kubów                                         |   # 442,000 subs | @aniakubow PERSON
+Coletivo Superjazz                                           |   # 23 subs | @coletivosuperjazz7046
+Composio                                                     |   # 2,330 subs | @composio
+Comunidade ZDG                                               |   # 54,600 subs | @comunidadezdg Community
+CrewAI                                                       |   # 6,790 subs | @crewaiinc Company
+Curiosidades em geral                                        |   # 3,960 subs | @curiosidadesgeral
+D-Nox                                                        |   # 36,500 subs | @dnoxofficial
+Dan Galletta                                                 |   # 53,800 subs | @dangalletta Person
+Data Science in your pocket                                  |   # 23,600 subs | @datascienceinyourpocket Person
+Databricks                                                   |   # 148,000 subs | @databricks Company
+Databricks Brazil                                            |   # 2,890 subs | @databricks-brazil Company 
+Dave Ebbelaar                                                |   # 222,000 subs | @daveebbelaar Person
+Deborah Folloni                                              |   # 4,130 subs | @deborahfolloni Person
+DecisionForest                                               |   # 31,500 subs | @decisionforest Person
+DeepLearningAI                                               |   # 461,000 subs | @deeplearningai
+Depeche Mode                                                 |   # 3,100,000 subs | @depechemode
+Desvende & Descubra                                          |   # 215,000 subs | @desvendedescubra
+Dewain Robinson - The Copilot Studio Dude                    |   # 11,100 subs | @dewain27
+Didática Tech                                                |   # 134,000 subs | didaticatech
+Dispatch                                                     |   # 10,600 subs | @sagaratytube
+Duran Duran                                                  |   # 1,230,000 subs | @duranduran
+Easy Air Fryer Recipes - AirFrytus                           |   # 31,800 subs | @airfrytus
+El Professor da Oratória                                     |   # 748,000 subs | @elprofessordaoratoria
+Em Poucas Palavras – Kurzgesagt                              |   # 771,000 subs | @kurzgesagt_br
+English with Lucy                                            |   # 12,900,000 subs | @englishwithlucy
+Eric Tech                                                    |   # 28,800 subs | @ericwtech Person
+exame                                                        |   # 636,000 subs | @exame
+Explicação sem Complicação                                   |   # 114,000 subs | @explicacaosemcomplicacao
+Fahd Mirza                                                   |   # 49,700 subs | @fahdmirza Person 
+Filipe Deschamps                                             |   # 821,000 subs | @filipedeschamps Person
+Fill Escola de Roboticistas: Cursos de Robótica              |   # 3,580 subs | @fillescoladeroboticistascu8100
+Fireship                                                     |   # 4,050,000 subs | @fireship Person   
+Futurepedia                                                  |   # 613,000 subs | @futurepedia_io Person 
+Futurices                                                    |   # 287,000 subs | @futurices
+Físico Radioativo                                            |   # 52,000 subs | @fisicoradioativo
+Gabriel de Pinho                                             |   # 737,000 subs | @gabrieldepinho
+Galãs Feios                                                  |   # 1,120,000 subs | galasfeios
+Genspark                                                     |   # 23,000 subs | @genspark_ai Company
+GitHub                                                       |   # 560,000 subs | @github Company 
+Github Awesome                                               |   # 16,400 subs | @githubawesome
+Good Nerd                                                    |   # 347,000 subs | @goodnerd
+Google Cloud Tech                                            |   # 1,290,000 subs | @googlecloudtech Company 
+Google for Developers                                        |   # 2,570,000 subs | @googledevelopers
+Google Research                                              |   # 545,000 subs | @googleresearch
+Greg Isenberg                                                |   # 504,000 subs | @gregisenberg
+Groq                                                         |   # 30,900 subs | @groqinc
+Gustavo Cunha                                                |   # 943,000 subs | @gustavocunhavideos  
+Hackers Realm                                                |   # 28,800 subs | @hackersrealm
+Hashtag Programação                                          |   # 698,000 subs | @hashtagprogramacao
+Hashtag Treinamentos                                         |   # 1,870,000 subs | @hashtagtreinamentos
+Helena Liu                                                   |   # 252,000 subs | @helena-liu Person
+HuggingFace                                                  |   # 102,000 subs | @huggingface Company
+Ian Balleste                                                 |   # 2 subs | @ianballeste 
+Iania                                                        |   # 2 subs | @iania-brasil
+IBM Technology                                               |   # 1,470,000 subs | @ibmtechnology Company
+IGREJA BISCATERIANA                                          |   # 134,000 subs | @igrejabiscateriana_oficial
+Infinite Codes                                               |   # 118,000 subs | @infinitecodes_
+Inteligencia Artificial para advogados                       |   # 11,900 subs | @juridicoagil community
+Inteligência Mil Grau                                        |   # 61,900 subs | @inteligenciamilgrau
+InvestNews BR                                                |   # 782,000 subs | @investnewsbr
+James Briggs                                                 |   # 79,100 subs | @jamesbriggs
+James Montemagno                                             |   # 164,000 subs | @jamesmontemagno
+Jeff Su                                                      |   # 1,530,000 subs | @jeffsu
+Jonathan da Cruz                                             |   # 1,770 subs | @jonathandacruz
+Juliana Groninger                                            |   # 38,700 subs | @julianagroninger
+Keivisson Maker                                              |   # 1,620 subs | @keivissonmaker
+Kiro                                                         |   # 5,590 subs | @kirodotdev
+Kraftwerk                                                    |   # 147,000 subs | @kraftwerk
+Kurzgesagt – In a Nutshell                                   |   # 24,800,000 subs | @kurzgesagt
+LabMKT - FIA Business School                                 |   # 2,610 subs | @labmkt-fiabusinessschool
+LandingAI                                                    |   # 11,000 subs | @landingai
+LangChain                                                    |   # 160,000 subs | @langchain
+Langflow                                                     |   # 14,700 subs | @langflow
+Leon van Zyl                                                 |   # 76,900 subs | @leonvanzyl
+Lethic Z                                                     |   # 5,660 subs | @lethic
+Lex Fridman                                                  |   # 4,880,000 subs | @lexfridman
+Lowell Observatory                                           |   # 28,900 subs | @lowellobservatory1894
+Lussorich Movie PT                                           |   # 15,000 subs | @lussorichmovie_pt
+MacMagazine                                                  |   # 199,000 subs | @macmagazine
+MacVince                                                     |   # 161,000 subs | @macvince
+ManuAGI - AutoGPT Tutorials                                  |   # 35,100 subs | @manuagi
+Manual de Inteligência Artificial                            |   # 36,500 subs | @manualdeia
+Manual do Mundo                                              |   # 19,800,000 subs | @manualdomundo
+massiveattack                                                |   # 760,000 subs | @massiveattack
+Matt Williams                                                |   # 87,300 subs | @technovangelist
+Matt Wolfe                                                   |   # 864,000 subs | @mreflow
+Matthew Berman                                               |   # 529,000 subs | @matthew_berman
+Me Poupe!                                                    |   # 7,710,000 subs | @mepoupe
+Melhores Destinos                                            |   # 533,000 subs | @melhoresdestinos
+Mervin Praison                                               |   # 76,600 subs | @mervinpraison
+Microsoft                                                    |   # 2,180,000 subs | @microsoft
+Microsoft Azure                                              |   # 351,000 subs | @microsoftazure
+Microsoft Power Platform                                     |   # 76,000 subs | @mspowerplatform
+Mike Russell                                                 |   # 383,000 subs | @mikerussell
+Mohamad Hindi                                                |   # 3,170,000 subs | @mohindi
+Motovida                                                     |   # 276,000 subs | @motoviida
+Mozilla Developer                                            |   # 31,100 subs | @mozilladeveloper
+MundoReview                                                  |   # 13,800 subs | @omundoreview
+n8n                                                          |   # 193,000 subs | @n8n-io
+Neo4j                                                        |   # 58,200 subs | @neo4j
+Nerd Land                                                    |   # 3,020,000 subs | @nerdland
+NerdVerso Cast                                               |   # 19,700 subs | @nerdversocast
+Netão Bom Beef                                               |   # 1,360,000 subs | netaobombeef
+Neurologia e Psiquiatria                                     |   # 1,730,000 subs | @neurologiaepsiquiatria
+NeuroVox                                                     |   # 3,630,000 subs | @neurovox
+Newcious                                                     |   # 363,000 subs | @newcious
+NoCode StartUp                                               |   # 124,000 subs | @nocodestartup
+Olá, Ciência!                                                |   # 2,460,000 subs | @olaciencia
+omeleteve                                                    |   # 2,610,000 subs | @omeleteve
+Onde eu Clico                                                |   # 399,000 subs | @ondeeuclico
+OpenAI                                                       |   # 1,890,000 subs | @openai
+Osvaldo L. Santos-Pereira                                    |   # 232 subs | @ozlsp12
+Pai Nerd Filho Nerd                                          |   # 150,000 subs | @painerdfilhonerd
+Paula Bernardes                                              |   # 164,000 subs | @paulabernardes
+Piktochart                                                   |   # 13,600 subs | @piktochartvideo
+Pinecone                                                     |   # 12,600 subs | @pinecone-io
+PIPA                                                         |   # 584,000 subs | @pipa3642
+Pollen Robotics                                              |   # 4,460 subs | @pollenrobotics
+Primeiro Contato                                             |   # 4,730 subs | @primeirocontatoscifi
+Primo Pobre                                                  |   # 3,920,000 subs | @primopobre
+ProativaMente                                                |   # 665,000 subs | @proativamente
+Professor Julio Lombaldo                                     |   # 72,000 subs | @professorjuliolombaldo
+Prompt Engineer                                              |   # 19,200 subs | @promptengineer48
+Prompt Engineering                                           |   # 228,000 subs | @engineerprompt
+Psiquiatra Fernando Fernandes                                |   # 522,000 subs | @psiquiatrafernandofernandes
+Rakesh Gohel                                                 |   # 3,310 subs | @gohelrakesh
+Receitas Low Carb para Diabéticos                            |   # 692,000 subs | receitaslowcarbparadiabeticos
+Reda Marzouk                                                 |   # 13,300 subs | @redamarzouk
+RejuveAI                                                     |   # 1,490 subs | @rejuveai
+RenovadaMente                                                |   # 207,000 subs | @renovadamente-oficial
+Replit                                                       |   # 95,100 subs | @replit
+Rhavi Criador Digital                                        |   # 14,100 subs | @ocriadordigital
+Riley Brown                                                  |   # 162,000 subs | @rileybrownai
+Rob Boliver - Como usar o CANVA                              |   # 584,000 subs | @rob.boliver
+Rob The AI Guy                                               |   # 81,400 subs | @realrobtheaiguy
+Rodrigo Celoto                                               |   # 2,950 subs | @rodrigoceloto
+Ronaldo Gotlib - Advogado                                    |   # 50,500 subs | @ronaldogotlib
+Ronnald Hawk                                                 |   # 13,300 subs | @ronnaldhawk
+Runway                                                       |   # 121,000 subs | @runwayml
+Sam Witteveen                                                |   # 111,000 subs | @samwitteveenai
+Sancler Miranda                                              |   # 125,000 subs | @sanclermiranda
+SejaUmaPessoaMelhor                                          |   # 3,120,000 subs | @sejaumapessoamelhor
+SejaUmEstudanteMelhor                                        |   # 381,000 subs | @sejaumestudantemelhor
+sentdex                                                      |   # 1,430,000 subs | @sentdex
+Sessão Nerd                                                  |   # 2,630,000 subs | sessaonerdoficial
+Shira Ananda                                                 |   # 917 subs | @shiraananda369
+Sim AI                                                       |   # 1,270 subs | @simdotai
+SimpleMindMap                                                |   # 72,500 subs | @simplemindmap1
+SingularityNET                                               |   # 31,500 subs | @singularitynet
+Siraj Raval                                                  |   # 775,000 subs | @sirajraval
+Skill Leap AI                                                |   # 309,000 subs | @skillleapai
+somos míopes porque somos breves                             |   # 149,000 subs | @julianorighetto
+Sophia the Robot                                             |   # 73,100 subs | @sophiatherobot
+Star Wars Theory                                             |   # 3,310,000 subs | @starwarstheory
+Stargaze                                                     |   # 452,000 subs | @stargaze_youtube
+StarMorph AI                                                 |   # 10,900 subs | @starmorph
+StatQuest with Josh Starmer                                  |   # 1,540,000 subs | @statquest
+storytelling with data                                       |   # 73,300 subs | @storytellingwithdata
+Strategyzer                                                  |   # 109,000 subs | @strategyzer
+Synthesia                                                    |   # 78,000 subs | @synthesia-io
+Synthflow AI                                                 |   # 3,610 subs | @synthflowai
+Tech With Tim                                                |   # 1,910,000 subs | @techwithtim
+TecMundo                                                     |   # 4,170,000 subs | @tecmundo
+TecnoArt                                                     |   # 2,070,000 subs | @tecnoart101
+Tem Ciência                                                  |   # 212,000 subs | temciencia
+The Artificial Intelligence Channel                          |   # 119,000 subs | @maaaarth
+The Gray Cat                                                 |   # 2,510 subs | @thegraytcat
+The PyCoach                                                  |   # 42,500 subs | @thepycoach
+Theoretically Media                                          |   # 173,000 subs | @theoreticallymedia
+Thesys                                                       |   # 1,460 subs | @thesysdev
+Thu Vu                                                       |   # 326,000 subs | @thuvu5
+Tiago Forte                                                  |   # 372,000 subs | @tiagoforte
+Tiago Lemos                                                  |   # 116,000 subs | @tiagolemosx
+Tim Carambat                                                 |   # 31,800 subs | @timcarambat
+Together AI                                                  |   # 4,000 subs | @togetherdotai
+TVDJ - Respect The DJs                                       |   # 703 subs | @tvdjbr
+Two Minute Papers                                            |   # 1,750,000 subs | @twominutepapers
+Tyler & Snowi                                                |   # 5,270,000 subs | @tylerandsnowi
+Underfitted                                                  |   # 60,400 subs | @underfitted
+Unitree Robotics                                             |   # 1,290,000 subs | @unitreerobotics
+Universe of AI                                               |   # 10,800 subs | @universeofaiz
+VAST Data                                                    |   # 7,850 subs | @vastdata
+Visually Explained                                           |   # 58,400 subs | @visuallyexplainededucation
+Vogalizando a História                                       |   # 1,300,000 subs | @vogalizandoahistoria
+Weaviate vector database                                     |   # 12,800 subs | @weaviate
+Well Pires                                                   |   # 32,700 subs | @wellpiresai
+Wes Roth                                                     |   # 303,000 subs | @wesroth
+Windsurf                                                     |   # 19,000 subs | @windsurf
+World of Crypto                                              |   # 702 subs | @worldzofcrypto
+WorldofAI                                                    |   # 176,000 subs | @intheworldofai
