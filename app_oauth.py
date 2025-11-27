@@ -182,29 +182,47 @@ def download_audio_from_youtube(video_id):
         # Configurações para baixar apenas áudio
         ydl_opts = {
             'format': 'bestaudio/best',
-            'outtmpl': audio_file,
+            'outtmpl': audio_file,  # Sem extensão - yt-dlp não adiciona automaticamente
             'quiet': True,
             'no_warnings': True,
-            'extract_audio': True,
         }
         
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             info = ydl.extract_info(video_url, download=True)
             
-            # Encontrar o arquivo baixado
+            # Obter extensão do arquivo baixado
             ext = info.get('ext', 'webm')
-            final_file = f"{audio_file}.{ext}"
             
+            # yt-dlp pode baixar sem extensão, então verificar e renomear se necessário
+            if os.path.exists(audio_file):
+                # Arquivo sem extensão - renomear para incluir extensão
+                final_file = f"{audio_file}.{ext}"
+                os.rename(audio_file, final_file)
+                return final_file, None
+            
+            # Se já tem extensão
+            final_file = f"{audio_file}.{ext}"
             if os.path.exists(final_file):
                 return final_file, None
-            else:
-                # Tentar outras extensões comuns
-                for possible_ext in ['webm', 'm4a', 'mp3', 'opus']:
-                    possible_file = f"{audio_file}.{possible_ext}"
-                    if os.path.exists(possible_file):
-                        return possible_file, None
-                
-                return None, "Arquivo de áudio não encontrado após download"
+            
+            # Tentar outras extensões comuns
+            for possible_ext in ['webm', 'm4a', 'mp3', 'opus', 'ogg']:
+                possible_file = f"{audio_file}.{possible_ext}"
+                if os.path.exists(possible_file):
+                    return possible_file, None
+            
+            # Listar arquivos para debug
+            matching_files = [f for f in os.listdir('.') if f.startswith(f'temp_audio_{video_id}')]
+            if matching_files:
+                # Se encontrou arquivo, renomear para incluir extensão
+                found_file = matching_files[0]
+                if not '.' in found_file:  # Sem extensão
+                    renamed_file = f"{found_file}.{ext}"
+                    os.rename(found_file, renamed_file)
+                    return renamed_file, None
+                return found_file, None
+            
+            return None, "Arquivo de áudio não encontrado após download"
                 
     except Exception as e:
         return None, f"Erro ao baixar áudio: {str(e)}"
@@ -238,7 +256,7 @@ def transcribe_with_whisper(audio_file, language='pt'):
         # Abrir e enviar arquivo para Whisper
         with open(audio_file, 'rb') as audio:
             transcript = client.audio.transcriptions.create(
-                model="gpt-4o-mini",  # Modelo mais barato ($0.003/min)
+                model="whisper-1",  # Modelo Whisper ($0.006/min)
                 file=audio,
                 language=language,
                 response_format="verbose_json",
@@ -250,8 +268,8 @@ def transcribe_with_whisper(audio_file, language='pt'):
         if hasattr(transcript, 'segments') and transcript.segments:
             for segment in transcript.segments:
                 transcript_data.append({
-                    'start': segment['start'],
-                    'text': segment['text'].strip()
+                    'start': segment.start,
+                    'text': segment.text.strip()
                 })
         else:
             # Fallback: se não tiver segments, usar texto completo
