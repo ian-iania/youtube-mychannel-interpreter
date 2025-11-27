@@ -1,0 +1,10 @@
+{
+  "cached_at": 1764285441.45931,
+  "cache_type": "channel_info",
+  "key": "UC123",
+  "data": {
+    "channel_id": "UC123",
+    "title": "Test Channel",
+    "subscribers": 10000
+  }
+}

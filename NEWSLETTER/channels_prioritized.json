@@ -1,0 +1,830 @@
+{
+  "prioritized_at": "2025-11-27T20:19:58.990836",
+  "total_channels": 103,
+  "channels": [
+    {
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "channel_title": "3Blue1Brown",
+      "channel_type": "person",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 7900000
+    },
+    {
+      "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "channel_title": "Andrej Karpathy",
+      "channel_type": "person",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 1140000
+    },
+    {
+      "channel_id": "UCZgt6AzoyjslHTC9dz0UoTw",
+      "channel_title": "ByteByteGo",
+      "channel_type": "person",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 1300000
+    },
+    {
+      "channel_id": "UC_bXJnsgwOqEPA_-6N6faKw",
+      "channel_title": "Canaltech",
+      "channel_type": "community",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 3670000
+    },
+    {
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "channel_title": "Fireship",
+      "channel_type": "person",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 4050000
+    },
+    {
+      "channel_id": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "channel_title": "Google Cloud Tech",
+      "channel_type": "company",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 1290000
+    },
+    {
+      "channel_id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "channel_title": "Google for Developers",
+      "channel_type": "company",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 2570000
+    },
+    {
+      "channel_id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "channel_title": "IBM Technology",
+      "channel_type": "company",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 1470000
+    },
+    {
+      "channel_id": "UCwAnu01qlnVg1Ai2AbtTMaA",
+      "channel_title": "Jeff Su",
+      "channel_type": "person",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 1530000
+    },
+    {
+      "channel_id": "UCFtEEv80fQVKkD4h1PF-Xqw",
+      "channel_title": "Microsoft",
+      "channel_type": "company",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 2180000
+    },
+    {
+      "channel_id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "channel_title": "OpenAI",
+      "channel_type": "company",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 1890000
+    },
+    {
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "channel_title": "StatQuest with Josh Starmer",
+      "channel_type": "person",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 1540000
+    },
+    {
+      "channel_id": "UCdmGjywrxeOPfC7vDllmSgQ",
+      "channel_title": "TecMundo",
+      "channel_type": "community",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 4170000
+    },
+    {
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+      "channel_title": "Tech With Tim",
+      "channel_type": "person",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 1910000
+    },
+    {
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "channel_title": "Two Minute Papers",
+      "channel_type": "person",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 1750000
+    },
+    {
+      "channel_id": "UCsMbp4V8oxzHCMdOUP-3oWw",
+      "channel_title": "Unitree Robotics",
+      "channel_type": "company",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 1290000
+    },
+    {
+      "channel_id": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+      "channel_title": "sentdex",
+      "channel_type": "person",
+      "priority_score": 50,
+      "posting_frequency": "unknown",
+      "subscriber_count": 1430000
+    },
+    {
+      "channel_id": "UCU5JicSrEM5A63jkJ2QvGYw",
+      "channel_title": "Filipe Deschamps",
+      "channel_type": "person",
+      "priority_score": 45,
+      "posting_frequency": "unknown",
+      "subscriber_count": 821000
+    },
+    {
+      "channel_id": "UC_RovKmk0OCbuZjA8f08opw",
+      "channel_title": "Futurepedia",
+      "channel_type": "person",
+      "priority_score": 45,
+      "posting_frequency": "unknown",
+      "subscriber_count": 613000
+    },
+    {
+      "channel_id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "channel_title": "GitHub",
+      "channel_type": "company",
+      "priority_score": 45,
+      "posting_frequency": "unknown",
+      "subscriber_count": 560000
+    },
+    {
+      "channel_id": "UCT-VzthVAM_4ohDdKa-BbXA",
+      "channel_title": "Google Research",
+      "channel_type": "company",
+      "priority_score": 45,
+      "posting_frequency": "unknown",
+      "subscriber_count": 545000
+    },
+    {
+      "channel_id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "channel_title": "Greg Isenberg",
+      "channel_type": "person",
+      "priority_score": 45,
+      "posting_frequency": "unknown",
+      "subscriber_count": 504000
+    },
+    {
+      "channel_id": "UCo0jMsIPccAXghE_FCWIdNg",
+      "channel_title": "InvestNews BR",
+      "channel_type": "company",
+      "priority_score": 45,
+      "posting_frequency": "unknown",
+      "subscriber_count": 782000
+    },
+    {
+      "channel_id": "UChpleBmo18P08aKCIgti38g",
+      "channel_title": "Matt Wolfe",
+      "channel_type": "person",
+      "priority_score": 45,
+      "posting_frequency": "unknown",
+      "subscriber_count": 864000
+    },
+    {
+      "channel_id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "channel_title": "Matthew Berman",
+      "channel_type": "person",
+      "priority_score": 45,
+      "posting_frequency": "unknown",
+      "subscriber_count": 529000
+    },
+    {
+      "channel_id": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "channel_title": "Siraj Raval",
+      "channel_type": "person",
+      "priority_score": 45,
+      "posting_frequency": "unknown",
+      "subscriber_count": 775000
+    },
+    {
+      "channel_id": "UCauE-yGwb8bJ55BswgrGxAg",
+      "channel_title": "exame",
+      "channel_type": "company",
+      "priority_score": 45,
+      "posting_frequency": "unknown",
+      "subscriber_count": 636000
+    },
+    {
+      "channel_id": "UCpV_X0VrL8-jg3t6wYGS-1g",
+      "channel_title": "1littlecoder",
+      "channel_type": "person",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 107000
+    },
+    {
+      "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "channel_title": "AI Engineer",
+      "channel_type": "person",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 275000
+    },
+    {
+      "channel_id": "UCelfWQr9sXVMTvBzviPGlFw",
+      "channel_title": "AI LABS",
+      "channel_type": "community",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 105000
+    },
+    {
+      "channel_id": "UC0m81bQuthaQZmFbXEY9QSw",
+      "channel_title": "AICodeKing",
+      "channel_type": "person",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 115000
+    },
+    {
+      "channel_id": "UCrDwWp7EBBv4NwvScIpBDOA",
+      "channel_title": "Anthropic",
+      "channel_type": "company",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 314000
+    },
+    {
+      "channel_id": "UCxXL5491Db9U8Rhfs-2LVFg",
+      "channel_title": "Asimov Academy",
+      "channel_type": "community",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 143000
+    },
+    {
+      "channel_id": "UC5DNytAJ6_FISueUfzZCVsw",
+      "channel_title": "Code with Ania Kubów",
+      "channel_type": "person",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 442000
+    },
+    {
+      "channel_id": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+      "channel_title": "Databricks",
+      "channel_type": "company",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 148000
+    },
+    {
+      "channel_id": "UCn8ujwUInbJkBhffxqAPBVQ",
+      "channel_title": "Dave Ebbelaar",
+      "channel_type": "person",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 222000
+    },
+    {
+      "channel_id": "UCcIXc5mJsHVYTZR1maL5l9w",
+      "channel_title": "DeepLearningAI",
+      "channel_type": "community",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 461000
+    },
+    {
+      "channel_id": "UCpM_g95uzZ_OyhgukvrbbiQ",
+      "channel_title": "Helena Liu",
+      "channel_type": "person",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 252000
+    },
+    {
+      "channel_id": "UCHlNU7kIZhRgSbhHvFoy72w",
+      "channel_title": "HuggingFace",
+      "channel_type": "company",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 102000
+    },
+    {
+      "channel_id": "UCENTmbKaTphpWV2R2evVz2A",
+      "channel_title": "James Montemagno",
+      "channel_type": "person",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 164000
+    },
+    {
+      "channel_id": "UCC-lyoTfSrcJzA1ab3APAgw",
+      "channel_title": "LangChain",
+      "channel_type": "company",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 160000
+    },
+    {
+      "channel_id": "UC0m-80FnNY2Qb7obvTL_2fA",
+      "channel_title": "Microsoft Azure",
+      "channel_type": "company",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 351000
+    },
+    {
+      "channel_id": "UCYx10jQ_0QeqkV7gWiUE5yw",
+      "channel_title": "NoCode StartUp",
+      "channel_type": "community",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 124000
+    },
+    {
+      "channel_id": "UCRVzEriB1B2JKGpsLpL-uNg",
+      "channel_title": "Onde eu Clico",
+      "channel_type": "community",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 399000
+    },
+    {
+      "channel_id": "UCDq7SjbgRKty5TgGafW8Clg",
+      "channel_title": "Prompt Engineering",
+      "channel_type": "person",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 228000
+    },
+    {
+      "channel_id": "UCMcoud_ZW7cfxeIugBflSBw",
+      "channel_title": "Riley Brown",
+      "channel_type": "person",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 162000
+    },
+    {
+      "channel_id": "UCUBqu_z5uP0AZhYtuyFZB3g",
+      "channel_title": "Runway",
+      "channel_type": "company",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 121000
+    },
+    {
+      "channel_id": "UC55ODQSvARtgSyc8ThfiepQ",
+      "channel_title": "Sam Witteveen",
+      "channel_type": "person",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 111000
+    },
+    {
+      "channel_id": "UC9Ryt3XOGYBoAJVsBHNGDzA",
+      "channel_title": "Theoretically Media",
+      "channel_type": "person",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 173000
+    },
+    {
+      "channel_id": "UCJQJAI7IjbLcpsjWdSzYz0Q",
+      "channel_title": "Thu Vu",
+      "channel_type": "person",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 326000
+    },
+    {
+      "channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+      "channel_title": "Wes Roth",
+      "channel_type": "person",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 303000
+    },
+    {
+      "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "channel_title": "WorldofAI",
+      "channel_type": "community",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 176000
+    },
+    {
+      "channel_id": "UCiHVTkJtWSdc9N3h0nUGWLg",
+      "channel_title": "n8n",
+      "channel_type": "company",
+      "priority_score": 40,
+      "posting_frequency": "unknown",
+      "subscriber_count": 193000
+    },
+    {
+      "channel_id": "UCSv4qL8vmoSH7GaPjuqRiCQ",
+      "channel_title": "Arseny Shatokhin",
+      "channel_type": "person",
+      "priority_score": 35,
+      "posting_frequency": "unknown",
+      "subscriber_count": 67600
+    },
+    {
+      "channel_id": "UCBGxe5vTiVWv7e2gP6QB1Mw",
+      "channel_title": "Boris Meinardus",
+      "channel_type": "person",
+      "priority_score": 35,
+      "posting_frequency": "unknown",
+      "subscriber_count": 95500
+    },
+    {
+      "channel_id": "UCrPbAoQKz42Gm0mLdWatAEA",
+      "channel_title": "Comunidade ZDG",
+      "channel_type": "community",
+      "priority_score": 35,
+      "posting_frequency": "unknown",
+      "subscriber_count": 54600
+    },
+    {
+      "channel_id": "UCQy7CQvtuGSKp-2VGtmTAuQ",
+      "channel_title": "Inteligência Mil Grau",
+      "channel_type": "person",
+      "priority_score": 35,
+      "posting_frequency": "unknown",
+      "subscriber_count": 61900
+    },
+    {
+      "channel_id": "UCv83tO5cePwHMt1952IVVHw",
+      "channel_title": "James Briggs",
+      "channel_type": "person",
+      "priority_score": 35,
+      "posting_frequency": "unknown",
+      "subscriber_count": 79100
+    },
+    {
+      "channel_id": "UCtevzRsHEKhs-RK8pAqwSyQ",
+      "channel_title": "Leon van Zyl",
+      "channel_type": "person",
+      "priority_score": 35,
+      "posting_frequency": "unknown",
+      "subscriber_count": 76900
+    },
+    {
+      "channel_id": "UCHaF9kM2wn8C3CLRwLkC2GQ",
+      "channel_title": "Matt Williams",
+      "channel_type": "person",
+      "priority_score": 35,
+      "posting_frequency": "unknown",
+      "subscriber_count": 87300
+    },
+    {
+      "channel_id": "UCWTyktbw5JYoSBduu8LsBgQ",
+      "channel_title": "Mervin Praison",
+      "channel_type": "person",
+      "priority_score": 35,
+      "posting_frequency": "unknown",
+      "subscriber_count": 76600
+    },
+    {
+      "channel_id": "UCgc3NEslE8oISOEawhcpMCA",
+      "channel_title": "Microsoft Power Platform",
+      "channel_type": "company",
+      "priority_score": 35,
+      "posting_frequency": "unknown",
+      "subscriber_count": 76000
+    },
+    {
+      "channel_id": "UCvze3hU6OZBkB1vkhH2lH9Q",
+      "channel_title": "Neo4j",
+      "channel_type": "company",
+      "priority_score": 35,
+      "posting_frequency": "unknown",
+      "subscriber_count": 58200
+    },
+    {
+      "channel_id": "UCgoJjdR6-7AMu9fDitb6nVw",
+      "channel_title": "Replit",
+      "channel_type": "company",
+      "priority_score": 35,
+      "posting_frequency": "unknown",
+      "subscriber_count": 95100
+    },
+    {
+      "channel_id": "UC0FBv8ckxw1hrZxbUm3G7hA",
+      "channel_title": "Rob The AI Guy",
+      "channel_type": "person",
+      "priority_score": 35,
+      "posting_frequency": "unknown",
+      "subscriber_count": 81400
+    },
+    {
+      "channel_id": "UCToMOeQsY37qXDgmegkXf7g",
+      "channel_title": "Sophia the Robot",
+      "channel_type": "community",
+      "priority_score": 35,
+      "posting_frequency": "unknown",
+      "subscriber_count": 73100
+    },
+    {
+      "channel_id": "UC0Rqs6pyPoGaMT5HFMFdslg",
+      "channel_title": "Synthesia",
+      "channel_type": "company",
+      "priority_score": 35,
+      "posting_frequency": "unknown",
+      "subscriber_count": 78000
+    },
+    {
+      "channel_id": "UCgLxmJ8xER7Y7sywMN5SfWg",
+      "channel_title": "Underfitted",
+      "channel_type": "person",
+      "priority_score": 35,
+      "posting_frequency": "unknown",
+      "subscriber_count": 60400
+    },
+    {
+      "channel_id": "UCwvRf1alwULB0UOJD2mgnxA",
+      "channel_title": "AI and Tech for Education",
+      "channel_type": "person",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 30100
+    },
+    {
+      "channel_id": "UCnQRyzbUf63PV-q4DzWzTdg",
+      "channel_title": "Argonalyst",
+      "channel_type": "person",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 30200
+    },
+    {
+      "channel_id": "UCCkJI-ZJ0i3hUhare_oqZFQ",
+      "channel_title": "Arxiv Papers",
+      "channel_type": "community",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 10100
+    },
+    {
+      "channel_id": "UCJw95lTeK1G2cTosF18XJUA",
+      "channel_title": "Billy Automações",
+      "channel_type": "person",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 11000
+    },
+    {
+      "channel_id": "UCQoNosQTIxiMTL9C-gvFdjA",
+      "channel_title": "Data Science in your pocket",
+      "channel_type": "person",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 23600
+    },
+    {
+      "channel_id": "UCOXRjenlq9PmlTqd_JhAbMQ",
+      "channel_title": "Eric Tech",
+      "channel_type": "person",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 28800
+    },
+    {
+      "channel_id": "UCPix8N6PMRI4KzgyjuZeF0g",
+      "channel_title": "Fahd Mirza",
+      "channel_type": "person",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 49700
+    },
+    {
+      "channel_id": "UC0SWcHpA_TA00XUN9qZUn8w",
+      "channel_title": "Genspark",
+      "channel_type": "company",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 23000
+    },
+    {
+      "channel_id": "UC9Rrud-8CaHokDtK9FszvRg",
+      "channel_title": "Github Awesome",
+      "channel_type": "community",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 16400
+    },
+    {
+      "channel_id": "UCC4EsuM0n_-u5_eOuZFCfpA",
+      "channel_title": "Groq",
+      "channel_type": "company",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 30900
+    },
+    {
+      "channel_id": "UCX7-Wi9ioslA9691INtFO5Q",
+      "channel_title": "Hackers Realm",
+      "channel_type": "community",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 28800
+    },
+    {
+      "channel_id": "UCe57-fTSlOsHIrXA6mBHe3g",
+      "channel_title": "Inteligencia Artificial para advogados",
+      "channel_type": "person",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 11900
+    },
+    {
+      "channel_id": "UCYQS3jkfB79Diyr9sQJAj5Q",
+      "channel_title": "LandingAI",
+      "channel_type": "company",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 11000
+    },
+    {
+      "channel_id": "UCn2bInQrjdDYKEEmbpwblLQ",
+      "channel_title": "Langflow",
+      "channel_type": "company",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 14700
+    },
+    {
+      "channel_id": "UC1weYqfDgX0ALlNOSzcyblQ",
+      "channel_title": "ManuAGI - AutoGPT Tutorials",
+      "channel_type": "community",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 35100
+    },
+    {
+      "channel_id": "UCu9_-NMnyN1ltBBG1tKJzJw",
+      "channel_title": "Manual de Inteligência Artificial",
+      "channel_type": "person",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 36500
+    },
+    {
+      "channel_id": "UC02IWPisqHk2nsWfurnl-mQ",
+      "channel_title": "Pinecone",
+      "channel_type": "company",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 12600
+    },
+    {
+      "channel_id": "UCX6c6hTIqcphjMsXbeanJ1g",
+      "channel_title": "Prompt Engineer",
+      "channel_type": "person",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 19200
+    },
+    {
+      "channel_id": "UCPiCs9REsEymr43a0ceL_BQ",
+      "channel_title": "Ronnald Hawk",
+      "channel_type": "person",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 13300
+    },
+    {
+      "channel_id": "UCbTE8vfz5zuEK5uRnc2yjrw",
+      "channel_title": "SingularityNET",
+      "channel_type": "company",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 31500
+    },
+    {
+      "channel_id": "UCYwLV1gDwzGbg7jXQ52bVnQ",
+      "channel_title": "Universe of AI",
+      "channel_type": "community",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 10800
+    },
+    {
+      "channel_id": "UCJKT6kJ3IFYybWnL7jbXxhQ",
+      "channel_title": "Weaviate vector database",
+      "channel_type": "company",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 12800
+    },
+    {
+      "channel_id": "UCOu9pKHv94bFeRy5vzB-b1Q",
+      "channel_title": "Well Pires ",
+      "channel_type": "person",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 32700
+    },
+    {
+      "channel_id": "UCirYnEfIjR8L1-sM2ozb7QQ",
+      "channel_title": "Windsurf",
+      "channel_type": "company",
+      "priority_score": 30,
+      "posting_frequency": "unknown",
+      "subscriber_count": 19000
+    },
+    {
+      "channel_id": "UCPR4QNCFWnyuYs2Vjr3lydw",
+      "channel_title": "AI Engineer Brasil",
+      "channel_type": "community",
+      "priority_score": 25,
+      "posting_frequency": "unknown",
+      "subscriber_count": 674
+    },
+    {
+      "channel_id": "UCG8Woy3WwNyv2H_dLP_KFkg",
+      "channel_title": "Afonso Lopes | Automações IA ",
+      "channel_type": "person",
+      "priority_score": 25,
+      "posting_frequency": "unknown",
+      "subscriber_count": 2060
+    },
+    {
+      "channel_id": "UCTulKzR5sldNq2eAxxdaEuA",
+      "channel_title": "CrewAI",
+      "channel_type": "company",
+      "priority_score": 25,
+      "posting_frequency": "unknown",
+      "subscriber_count": 6790
+    },
+    {
+      "channel_id": "UCH3cq9mit-0UkTu1mTki20Q",
+      "channel_title": "Databricks Brazil",
+      "channel_type": "company",
+      "priority_score": 25,
+      "posting_frequency": "unknown",
+      "subscriber_count": 2890
+    },
+    {
+      "channel_id": "UCta1sF9e9YzzNG4OlQgIlXw",
+      "channel_title": "Deborah Folloni",
+      "channel_type": "person",
+      "priority_score": 25,
+      "posting_frequency": "unknown",
+      "subscriber_count": 4130
+    },
+    {
+      "channel_id": "UCeq1gSYxTHBSY4AanjyVgIw",
+      "channel_title": "Iania",
+      "channel_type": "company",
+      "priority_score": 25,
+      "posting_frequency": "unknown",
+      "subscriber_count": 2
+    },
+    {
+      "channel_id": "UC3M_z-XMGTFMBbCjVLPKkUA",
+      "channel_title": "Jonathan da Cruz",
+      "channel_type": "person",
+      "priority_score": 25,
+      "posting_frequency": "unknown",
+      "subscriber_count": 1770
+    },
+    {
+      "channel_id": "UCXouiHXUN8mba_K-jn1gqVg",
+      "channel_title": "Kiro",
+      "channel_type": "company",
+      "priority_score": 25,
+      "posting_frequency": "unknown",
+      "subscriber_count": 5590
+    },
+    {
+      "channel_id": "UCNaV-3aAm3_tuLXVaH-HeHQ",
+      "channel_title": "Rakesh Gohel",
+      "channel_type": "person",
+      "priority_score": 25,
+      "posting_frequency": "unknown",
+      "subscriber_count": 3310
+    },
+    {
+      "channel_id": "UCr62KqXlTysREBebCmKAZ6g",
+      "channel_title": "Rodrigo Celoto ",
+      "channel_type": "person",
+      "priority_score": 25,
+      "posting_frequency": "unknown",
+      "subscriber_count": 2950
+    },
+    {
+      "channel_id": "UCItTSkM7qX2YmkZBl7ktpvQ",
+      "channel_title": "Synthflow AI",
+      "channel_type": "company",
+      "priority_score": 25,
+      "posting_frequency": "unknown",
+      "subscriber_count": 3610
+    }
+  ]
+}
