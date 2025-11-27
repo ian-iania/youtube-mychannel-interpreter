@@ -1,0 +1,26 @@
+{
+  "playlist_info": {
+    "id": "PLr7GXSx8GpB6czP2xJLi6z4jgWws9f8B7",
+    "title": "Lanchain",
+    "description": "",
+    "channel_id": "UCGTz4KW3DAxEATihHdhglSQ",
+    "channel_title": "Persival Balleste",
+    "published_at": "2023-09-09T02:13:00.345987Z",
+    "video_count": 1,
+    "playlist_url": "https://www.youtube.com/playlist?list=PLr7GXSx8GpB6czP2xJLi6z4jgWws9f8B7"
+  },
+  "videos": [
+    {
+      "video_id": "nE2skSRWTTs",
+      "title": "Getting Started with GPT-3 vs. Open Source LLMs - LangChain #1",
+      "description": "LangChain is a popular framework that allows users to quickly build apps and pipelines around Large Language Models. It integrates directly with OpenAI's GPT-3 and GPT-3.5 models and Hugging Face's open-source alternatives like Google's flan-t5 models.\n\nIt can be used to for chatbots, Generative Question-Anwering (GQA), summarization, and much more.\n\nThe core idea of the library is that we can \"chain\" together different components to create more advanced use cases around LLMs. Chains may consist of multiple components from several modules. We'll explore all of this in these videos.\n\n🌲 Article:\nhttps://www.pinecone.io/learn/langchain-intro/\n\n📌 LangChain Handbook Code:\nhttps://github.com/pinecone-io/examples/blob/master/learn/generation/langchain/handbook/00-langchain-intro.ipynb\n\n🤖 AI Dev Studio:\nhttps://aurelio.ai\n\n🎉 Subscribe for Article and Video Updates!\nhttps://jamescalam.medium.com/subscribe\nhttps://medium.com/@jamescalam/membership\n\n👾 Discord:\nhttps://discord.gg/c5QtDB9RAP\n\n00:00 Getting LangChain\n01:14 Four Components of LangChain\n06:43 Using Hugging Face and OpenAI LLMs in LangChain\n07:13 LangChain Hugging Face LLM\n13:51 OpenAI LLMs in LangChain\n18:58 Final results from GPT-3",
+      "channel_title": "Persival Balleste",
+      "published_at": "2023-09-09T02:13:00Z",
+      "position": 0,
+      "thumbnail_url": "https://i.ytimg.com/vi/nE2skSRWTTs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=nE2skSRWTTs"
+    }
+  ],
+  "export_date": "2025-11-27T06:18:14.358836",
+  "total_videos_exported": 1
+}

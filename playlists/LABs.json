@@ -1,0 +1,986 @@
+{
+  "playlist_info": {
+    "id": "PLr7GXSx8GpB59FhiZJ9fz3Z_6qGxiGcRt",
+    "title": "LABs",
+    "description": "",
+    "channel_id": "UCGTz4KW3DAxEATihHdhglSQ",
+    "channel_title": "Persival Balleste",
+    "published_at": "2023-12-31T00:24:56.592207Z",
+    "video_count": 97,
+    "playlist_url": "https://www.youtube.com/playlist?list=PLr7GXSx8GpB59FhiZJ9fz3Z_6qGxiGcRt"
+  },
+  "videos": [
+    {
+      "video_id": "ZyFlySElG1U",
+      "title": "Mixtral 8x7B: Running MoE on Google Colab & Desktop Hardware For FREE!",
+      "description": "In this video, we unravel the innovative approach for accessing a mixture of experts on Google Colab.\n\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n☕ To help and Support me, Buy a Coffee or Donate to Support the Channel: https://ko-fi.com/worldofai - It would mean a lot if you did! Thank you so much, guys! Love yall\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n📅 Book a 1-On-1 Consulting Call With Me: https://calendly.com/worldzofai/ai-consulting-call-1\n🚨 Subscribe To My Second Channel:   @WorldzofCrypto   \nBusiness Inquires: intheworldzofai@gmail.com\n\n[MUST WATCH]:\nMixtral 8x7B: New Mistral Model IS INSANE! 8x BETTER Than Before - Beats GPT-4/Llama 2: https://youtu.be/53yhw2UMAiM?si=KiMykyAMOf6iJk6K\nHow To Install Uncensored Mixtral Locally For FREE! (EASY): https://youtu.be/DC2te4CZXeM?si=F9W0P9oVJjeObDOu\nDeepChat: Powerful Chatbot Platform - Customizable Features - TTS, Vision, Plugins, & FREE!: https://youtu.be/iCoV8Ipo8sc\n\n[Link's Used]:\nGithub Repo: https://github.com/dvmazur/mixtral-offloading/tree/master?tab=readme-ov-file\nGoogle Colab: https://colab.research.google.com/github/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb#scrollTo=db82zr2lhRgx\nResearch Paper: https://arxiv.org/pdf/2312.17238.pdf\n\nLearn the secrets behind running state-of-the-art MoE models on your desktop hardware and free-tier Google Colab instances efficiently. Join us as we delve into Mistral AI's cutting-edge model, exploring the strategies outlined in the research paper, \"Fast Inference of Mixture of Experts Language Models with Offloading.\" Get ready to elevate your Google Colab game with expert insights into MixTrAL-8x7B and mixed quantization.\n\nDive deep into the world of cutting-edge AI as we unveil the insights from the research paper. Discover how utilizing a sparse mixture of experts (MoE), activating specific model layers for a given input, accelerates token generation. While this comes with an increase in model size, our video will guide you through overcoming the challenge of running state-of-the-art MoE models on consumer hardware. Learn about the novel method employing parameter offloading algorithms, enabling the efficient utilization of MoE models on desktop hardware and free-tier Google Colab instances. This innovation makes Mistral AI's new model readily usable on Google Colab.\n\nIf you find this video insightful, don't forget to hit the like button, subscribe for more cutting-edge AI content, and share it with your network. Your support drives our mission to bring you the latest advancements in AI.\n\n🔍 Hashtags:\n#GoogleColabSecrets #MixTrAL8x7B #QuantizationMastery #MoEModels #DesktopEfficiency #FreeTierColab #AIInnovation #ExpertAccess #MistralAI #TechRevolution\n\n🏷️ SEO Tags:\nGoogle Colab, MixTrAL-8x7B, mixed quantization, desktop hardware, free-tier Google Colab, MoE models, Fast Inference, large language models, token generation, Mistral AI, AI innovation, Colab strategies, parameter offloading algorithms, tech revolution, research paper, Google Colab upgrade, expert efficiency, AI insights, YouTube tutorial, AI advancements, cutting-edge technology, Mistral AI model, efficient token generation.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2023-12-31T00:24:56Z",
+      "position": 0,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZyFlySElG1U/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ZyFlySElG1U"
+    },
+    {
+      "video_id": "DC2te4CZXeM",
+      "title": "How To Install Uncensored Mixtral Locally For FREE! (EASY)",
+      "description": "In this video, I will give you the ultimate guide on How To Install Uncensored Mixtral locally! Mixtral 8x7B, a high-quality sparse mixture of expert models with open weights! \n\n👩‍💻 My Recommended AI Engineer course is Scrimba – save an extra 20% on their Pro plans with My Link!: https://v2.scrimba.com/the-ai-engineer-path-c02v?via=worldofai\n\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n☕ To help and Support me, Buy a Coffee or Donate to Support the Channel: https://ko-fi.com/worldofai - It would mean a lot if you did! Thank you so much, guys! Love yall\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n📅 Book a 1-On-1 Consulting Call With Me: https://calendly.com/worldzofai/ai-consulting-call-1\nBusiness Inquires: intheworldzofai@gmail.com\n\n[MUST WATCH]:\nMixtral 8x7B: New Mistral Model IS INSANE! 8x BETTER Than Before - Beats GPT-4/Llama 2: https://youtu.be/53yhw2UMAiM\nOpenChat UPDATE: Best Opensource 7B Model EVER! Better Than ChatGPT & Mistral!: https://youtu.be/Vlr7Xz6bNWQ?si=6arrgG_TV3_1SJH_\nLlamaGPT: Access Uncensored LLAMA 2 - Self-Hosted, Offline, Private, and FREE! (Install Tutorial): https://youtu.be/NZFpEEpg1u4?si=dcz6BnKlQ6R_AGaV\n\n[Link's Used]:\nLM Studio: Easiest Way To Run ANY Opensource LLMs Locally! https://youtu.be/Z5_LvCwbgqg?si=hsD-m7bWoefvODZ2\nMixtral Model: https://mistral.ai/news/mixtral-of-experts/\nUncensored Model Card: https://huggingface.co/ehartford/dolphin-2.5-mixtral-8x7b\nDolphine-Mixtral Blogpost: https://erichartford.com/dolphin-25-mixtral-8x7b?source=more_articles_bottom_blogs\nUncensored Models Blogpost: https://erichartford.com/uncensored-models\n\nUnlock the power of AI with Mistral AI's latest release - Mixtral 8x7B! 🚀 In this step-by-step tutorial, discover the easy process of installing the uncensored version of Mixtral locally. Mistral AI is dedicated to advancing the field of AI by introducing innovative models, and Mixtral 8x7B stands out as a high-quality sparse mixture of experts model (SMoE) with open weights, licensed under Apache 2.0.\n\nKey Features of Mixtral:\n- Handles a context of 32k tokens gracefully.\n- Multilingual support: English, French, Italian, German, and Spanish.\n- Demonstrates exceptional performance in code generation.\n- Can be fine-tuned into an instruction-following model with a remarkable score of 8.3 on MT-Bench.\n\n👍 If you found this tutorial helpful, give it a thumbs up!\n🔔 Subscribe for more AI insights and tutorials.\n🔄 Share this video with fellow developers and AI enthusiasts.\n\nAdditional Tags:\n#AIInstallation #MixtralTutorial #MistralAI #OpenModels #AIInnovation\n\nHashtags:\n#AI #MachineLearning #OpenSourceAI #TechInnovation #DeveloperCommunity",
+      "channel_title": "Persival Balleste",
+      "published_at": "2023-12-31T01:06:47Z",
+      "position": 1,
+      "thumbnail_url": "https://i.ytimg.com/vi/DC2te4CZXeM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=DC2te4CZXeM"
+    },
+    {
+      "video_id": "TRjq7t2Ms5I",
+      "title": "Building Production-Ready RAG Applications: Jerry Liu",
+      "description": "Large Language Models (LLM's) are starting to revolutionize how users can search for, interact with, and generate new content. Some recent stacks and toolkits around Retrieval Augmented Generation (RAG) have emerged where users are building applications such as chatbots using LLMs on their own private data. This opens the door to a vast array of applications. However while setting up a naive RAG stack is easy, productionizing it is hard. In this talk, we talk about core techniques for evaluating and improving your retrieval systems for better performing RAG.\n\nRecorded live in San Francisco at the AI Engineer Summit 2023. See the full schedule of talks at https://ai.engineer/summit/schedule & join us at the AI Engineer World's Fair in 2024! Get your tickets today at https://ai.engineer/worlds-fair\n\nAbout Jerry Liu\nJerry Liu, the co-founder and CEO of LlamaIndex, brings a wealth of expertise to his role, with a career that spans the realms of ML engineering, AI research, and startups. Prior to his current position, he served as an ML engineer at Quora and engaged in AI research with Uber's ATG. A Princeton alumnus, Jerry's professional journey has been enriched by various publications, including his most recent works: Deep Structured Reactive Planning and MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models, reflecting his commitment to the field.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2023-12-31T01:07:24Z",
+      "position": 2,
+      "thumbnail_url": "https://i.ytimg.com/vi/TRjq7t2Ms5I/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=TRjq7t2Ms5I"
+    },
+    {
+      "video_id": "MlK6SIjcjE8",
+      "title": "LangChain Crash Course: Build a AutoGPT app in 25 minutes!",
+      "description": "Get the free Python course\nhttps://go.coursesfromnick.com/python\n\nGet the code: https://github.com/nicknochnack/Langchain-Crash-Course\n\nSign up for the Full Stack course here and use YOUTUBE50 to get 50% off:\nhttps://www.coursesfromnick.com/bundles/fullstackml\n\nHopefully you enjoyed this video. \n💼 Find AWESOME ML Jobs: https://www.jobsfromnick.com\n\nGet the Code: https://github.com/nicknochnack/LipNet \n\nLinks: \nCTC Blog Post: https://distill.pub/2017/ctc\n\nOh, and don't forget to connect with me!\nLinkedIn: https://bit.ly/324Epgo\nFacebook: https://bit.ly/3mB1sZD\nGitHub: https://bit.ly/3mDJllD\nPatreon: https://bit.ly/2OCn3UW\nJoin the Discussion on Discord: https://bit.ly/3dQiZsV\n\nHappy coding!\nNick",
+      "channel_title": "Persival Balleste",
+      "published_at": "2023-12-31T01:08:39Z",
+      "position": 3,
+      "thumbnail_url": "https://i.ytimg.com/vi/MlK6SIjcjE8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=MlK6SIjcjE8"
+    },
+    {
+      "video_id": "eE7CamOE-PA",
+      "title": "Gradio Crash Course - Fastest way to build & share Machine Learning apps",
+      "description": "Learn all about Gradio in this Crash Course. Gradio is a Python framework that lets you easily build and share Machine Learning apps.\n\nWebsite: https://gradio.app/\nBlog article: https://www.assemblyai.com/blog/getting-started-with-huggingfaces-gradio/\n\n\n▬▬▬▬▬▬▬▬▬▬▬▬ CONNECT ▬▬▬▬▬▬▬▬▬▬▬▬\n\n🖥️ Website: https://www.assemblyai.com\n🐦 Twitter: https://twitter.com/AssemblyAI\n🦾 Discord: https://discord.gg/Cd8MyVJAXd\n▶️  Subscribe: https://www.youtube.com/c/AssemblyAI?sub_confirmation=1\n🔥 We're hiring! Check our open roles: https://www.assemblyai.com/careers\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\nTimeline:\n00:00 Intro\n00:29 Getting Started\n03:11 Multiple inputs/outputs\n04:45 Image & Audio\n06:35 Gradio Blocks\n09:00 Global & Session states\n10:32 Share & host app\n\n#MachineLearning #Python",
+      "channel_title": "Persival Balleste",
+      "published_at": "2023-12-31T01:08:52Z",
+      "position": 4,
+      "thumbnail_url": "https://i.ytimg.com/vi/eE7CamOE-PA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=eE7CamOE-PA"
+    },
+    {
+      "video_id": "VKDoaXDT30A",
+      "title": "RAG with Azure AI Search and Azure Open AI in 9 minutes",
+      "description": "RAG [ Retrieval-Augmented Generation ] concept explained \n  📍  How we do we ingest data into our RAG architecture?\n  📍  How we do we query from  our RAG architecture?\n  📍 Detailed use of Azure AI Search and Azure OpenAI in RAG\n  📍 Demo of our built in RAG application              \n\n  Code: https://github.com/ambarishg/AZURE-AI-SEARCH\n\nPlaylist provided is [https://www.youtube.com/playlist?list=PL3mYo8cDslVVNnNCZOnnDqHlI7nLDotnW]",
+      "channel_title": "Persival Balleste",
+      "published_at": "2024-01-01T06:22:05Z",
+      "position": 5,
+      "thumbnail_url": "https://i.ytimg.com/vi/VKDoaXDT30A/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=VKDoaXDT30A"
+    },
+    {
+      "video_id": "OdpqciXDKjY",
+      "title": "Learn Azure OpenAI - Chat and Code with Your Own Data!",
+      "description": "GitHub Link: https://github.com/alex-wolf-ps/azure-ai-your-own-data/tree/main\n\nSubscribe to my gaming channel! https://www.youtube.com/channel/UCiLv4A6bdwGJU3Y8PITgIlg?view_as=subscriber?sub_confirmation=1.\n\nMy other AI videos: \n\nUse AI to chat with a NoSQL database: https://youtu.be/JhfNHnAahZ8\n\nChat with your relational database using AI: https://youtu.be/hw6oTjw9_Ro\n\nLearn to code a simple AI powered app: https://youtu.be/HzgqgA2qv-I\n\nLearn Azure OpenAI fundamentals: https://youtu.be/c66y0W5KFVY\n\nLearn how to authenticate to Azure OpenAI the RIGHT way: https://youtu.be/keIs_bpgdXs\n\nLearn how to use AI chat with a relational SQL database: https://youtu.be/hw6oTjw9_Ro\n\nIn this video you'll learn how to use Azure OpenAI with your own data and .NET - you'll see how to upload your data, chat with it using the browser experience, and connect to the service programmatically using .NET. Along the way you'll learn about core AI concepts, such as models, indexes and search data.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2024-01-01T06:42:00Z",
+      "position": 6,
+      "thumbnail_url": "https://i.ytimg.com/vi/OdpqciXDKjY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=OdpqciXDKjY"
+    },
+    {
+      "video_id": "IhVOdnUTtCg",
+      "title": "Create Your Own Talking Avatar Using Free Canva AI | Canva's HeyGen Tutorial",
+      "description": "Best Canva Alternative for Talking Avatar and Editing: https://bit.ly/42d715R\n\nIn this step-by-step tutorial, we'll show you how to bring your creations to life with Canva's HeyGen – a powerful and free AI tool that lets you create your very own talking avatars. Whether you want to enhance your presentations, engage your audience, or just add a unique touch to your content, HeyGen has got you covered.\n\nRelated Videos:\nUnlock Canva Pro for Free:-- https://youtu.be/iwr7Kq24_QU\nCanva Text to Image:-- https://youtu.be/XvH-zQxVla4\nCanva 100% Free Talking Avatar:-- https://youtu.be/Sdy1ndbJhEk\n\n\n📚 What You'll Learn:    How to access Canva's HeyGen for free.    Creating a personalized avatar that speaks like you.    Customizing your avatar's appearance and voice.    Adding text and speech to your avatars.    Exporting your talking avatar for use in videos, presentations, and more.\n\nHeyGen is an incredible tool for content creators, educators, and businesses looking to level up their visual and audio content. Join us in this tutorial, and by the end of it, you'll be well-equipped to create captivating talking avatars that can deliver your message with personality and flair!\n\nFor Business Inquiries: thelearnuponline@gmail.com\n\nFollow Our Social Account:\nFacebook:-- https://www.facebook.com/thelearnuponline\n\n🕒 Timestamps:\n00:00 - Introduction\n00:38 - Create Acount\n01:50 - Create Talking Avatar\n03:45 - Add Canva Design\n04:42 - Bonus Tips\n06:04 - Video Result\n\n#canvaheygen #canvatalkingavatar #canvaaitutorial",
+      "channel_title": "Persival Balleste",
+      "published_at": "2024-01-13T14:33:28Z",
+      "position": 7,
+      "thumbnail_url": "https://i.ytimg.com/vi/IhVOdnUTtCg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=IhVOdnUTtCg"
+    },
+    {
+      "video_id": "aphHCBSTx7Q",
+      "title": "Private video",
+      "description": "This video is private.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2024-01-17T23:28:07Z",
+      "position": 8,
+      "thumbnail_url": "",
+      "video_url": "https://www.youtube.com/watch?v=aphHCBSTx7Q"
+    },
+    {
+      "video_id": "-Rs8-M-xBFI",
+      "title": "Stop paying for ChatGPT with these two tools | LMStudio x AnythingLLM",
+      "description": "In this video, we are installing two user-friendly tools that make downloading, running, and managing a powerful local LLM to replace ChatGPT. Seriously.\n\nToday, with only a desktop computer with a retail GPU, and two free applications you will get a fully private Local LLM + RAG chatbot running in less than 5 minutes!\n\nThis is no joke - the teams at LM Studio and AnythingLLM are now fully integrated for your convenience. Run models like LLama-2, Mistral, CodeLLama, and more to make your dreams a reality at no expense of privacy.\n\nLMStudio: https://lmstudio.ai\nAnythingLLM: https://useanything.com/download\n\nChapters:\n0:00 Introduction to LMStudio x AnythingLLM\n0:57 What is AnythingLLM?\n1:20 Installing LMStudio\n1:53 Installing AnythingLLM\n2:10 LMStudio Basic use tutorial\n4:28 Testing out our model\n5:32 How to level up your LLM chat abilities\n6:00 Connecting LMStudio to AnythingLLM\n7:53 Send a basic chat on AnythingLLM to our custom model\n8:26 Adding knowledge to our LMStudio model\n10:08 What the future of chat with local LLMs is going to look like",
+      "channel_title": "Persival Balleste",
+      "published_at": "2024-03-27T04:04:16Z",
+      "position": 9,
+      "thumbnail_url": "https://i.ytimg.com/vi/-Rs8-M-xBFI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=-Rs8-M-xBFI"
+    },
+    {
+      "video_id": "-FMUt3OARy0",
+      "title": "Open Source Extraction Service",
+      "description": "Earlier this month we announced our most recent OSS use-case accelerant: a service for extracting structured data from unstructured sources, such as text and PDF documents. Today we are exposing a hosted version of the service with a simple front end.\n\nKey Links:\nHosted Extraction Service:  https://extract.langchain.com/ \nGitHub Repo: https://github.com/langchain-ai/langchain-extract\nBlog: blog.langchain.dev/open-source-extraction-service/",
+      "channel_title": "Persival Balleste",
+      "published_at": "2024-03-27T04:23:06Z",
+      "position": 10,
+      "thumbnail_url": "https://i.ytimg.com/vi/-FMUt3OARy0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=-FMUt3OARy0"
+    },
+    {
+      "video_id": "qPCtvVXSy28",
+      "title": "A GIGANTE CHINESA CHEGOU NA IA (EMO VAI MUDAR TUDO)",
+      "description": "Criação de vídeos por PNG\n\nhttps://github.com/HumanAIGC/EMO\n\n👉Meu curso completo sobre Inteligências Artificiais com foco em renda extra e viver de internet:\nhttps://pay.kiwify.com.br/OUx0Hgb\n\n👉Minha biblioteca de prompts Para Gerar Imagens: https://pay.kiwify.com.br/pK5t1a4\n\nVídeos Essenciais: \n\nMini curso Grátis sobre ChatGPT: https://youtu.be/B5SvU-t5YO4\nMini curso Grátis sobre Midjourney: https://youtu.be/gxH0Re01Tto\nTutorial completo sobre Leonardo AI: https://youtu.be/FXJ-0szMeOY\nTutorial completo sobre IAS: https://youtu.be/WieMCvQiH-U\n\n\n\nEditor:\ndesignersalvatore@gmail.com\n\nNeste canal, abordamos o que é a inteligência artificial e como ela está sendo aplicada em diferentes áreas, como tecnologia. Discutimos tipos de IA, como aprendizado profundo e racional, e os desafios e oportunidades que ela traz. O objetivo aqui é apresentar ferramentas de IA que facilitem o trabalho cotidiano das pessoas e como elas podem se preparar para o futuro com ela. Inscreva-se neste canal se quiser facilmente encontrar maneiras de trabalhar de forma independente, usando ferramentas como Midjourney, Stable diffusion, DALL·E 2, ChatGPT, etc.\n\n#midjourney #Stablediffusion #promptformidjourney #midjourneyai #chatgpt",
+      "channel_title": "Persival Balleste",
+      "published_at": "2024-03-27T05:36:31Z",
+      "position": 11,
+      "thumbnail_url": "https://i.ytimg.com/vi/qPCtvVXSy28/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=qPCtvVXSy28"
+    },
+    {
+      "video_id": "XMclGftra7s",
+      "title": "Google Earth Studio Tutorial 2024 -  Programa 100% Grátis",
+      "description": "Imagens aéreas sem ter Drone? Sim! Agora é possível. O Google Earth Studio está de cara nova e fizemos um tutorial completo sobre essa plataforma que vai te transformar em um expert. Ainda de quebra mostramos como você pode ganhar dinheiro usando a criatividade.\n\nSite de cadastro e acesso:\nhttps://earth.google.com/studio/ \n\nGoogle Earth Studio Tutorial 2024 - Programa 100% Grátis\nCAPÍTULOS\n\n00:00 Introdução ao Google Earth Studio\n02:59 Google Earth Studio - Como Cadastrar\n03:43 Google Earth Studio -  Novo Projeto\n05:57 Google Earth Studio - Área de trabalho\n06:42 Google Earth Studio - Como localizar um local\n07:59 Google Earth Studio - Estilo do Mapa e nome de ruas\n09:20 Google Earth Studio - Funções do Mouse\n10:58 Google Earth Studio - O que são Frames e como funcionam\n12:41 Google Earth Studio - Conhecendo a Guias\n13:37 Google Earth Studio - Configurando nossa animação\n15:43 Google Earth Studio - Como trocar frames por segundos\n17:11 Google Earth Studio - Modificadores latitude, longitude e rotação da câmera\n18:27 Google Earth Studio - Área útil do vídeo\n20:34 Google Earth Studio - Deletando Frames\n21:54 Google Earth Studio - Como travar a câmera em um local ou objeto\n22:42 Google Earth Studio - Dica sobre o Zoom\n23:37 Google Earth Studio - Câmera travada em objetos - Alvo da Câmera\n26:54 Google Earth Studio - movimento de Câmera Automático\n30:25 Ideia para ganhar Dinheiro e vender Serviço\n31:14 Google Earth Studio - Botão Renderizar\n34:39 Google Earth Studio - Projeto Cristo Redentor\n35:08 Google Earth Studio - Projeto Cliente\n35:47 Google Earth Studio - Conclusão\n\nSe inscreva no nosso Canal\nhttps://www.youtube.com/channel/UCPLx0p0xcVB8zEQpN6WOv8g?sub_confirmation=1\n\nOlá, meu nome é Diego Zanini, sou publicitário, gestor de tráfego, social média, designer, apaixonado por SEO e fundador de ZD Publicidade.\n\nAqui você confere temas como:\nInteligência Artificial para empresas, empreendedorismo, estratégias de marketing para pequenas empresas e profissionais autônomos, Wordpress, Tecnologia, SEO, Redes Sociais, Design Gráfico e muito mais. \n\nConheça a nossa agência e solicite um orçamento:\nhttps://www.zdpublicidade.com.br\nFace - https://www.facebook.com/diegozaninibr​\nInsta - https://www.instagram.com/zanini.socialmedia\nhttps://www.linkedin.com/in/diegozaninipro/\nhttps://www.youtube.com/@DiegoZanini\n\n#GoogleEarthStudio #videomaker #Drone #dronevideo #comoganhardinheiro #MarketingDigital #Marketing #EstrategiadeMarketing #PlanoDeMarketing #GoogleEarthStudioTutorial",
+      "channel_title": "Persival Balleste",
+      "published_at": "2024-05-27T05:04:57Z",
+      "position": 12,
+      "thumbnail_url": "https://i.ytimg.com/vi/XMclGftra7s/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=XMclGftra7s"
+    },
+    {
+      "video_id": "noeou-1DpUQ",
+      "title": "ESSE MOD DOS SPRUNKI ESCONDE SEGREDOS ASSUSTADORES",
+      "description": "ESSE MOD DOS SPRUNKI ESCONDE SEGREDOS ASSUSTADORES",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-08-07T10:49:17Z",
+      "position": 13,
+      "thumbnail_url": "https://i.ytimg.com/vi/noeou-1DpUQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=noeou-1DpUQ"
+    },
+    {
+      "video_id": "TmbV1mHXXH4",
+      "title": "YouTube MCP Server : AI for YouTube",
+      "description": "This video explains how to use YouTube MCP server to crawl YouTube using AI and Model Context Protocol. Model Context Protocol: Advanced AI Agents for Beginners : https://www.amazon.com/dp/B0FCCF348X #ai #chatgpt #generativeai #llm #youtube",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-09-20T07:05:10Z",
+      "position": 14,
+      "thumbnail_url": "https://i.ytimg.com/vi/TmbV1mHXXH4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=TmbV1mHXXH4"
+    },
+    {
+      "video_id": "vje6hgjSymg",
+      "title": "Infinite Talk: The Free AI Lip Sync Tool You Need to Try",
+      "description": "This new AI lip sync tool is an absolute game-changer. I just tested \"Infinite Talk,\" a completely free and open-source AI that creates stunningly realistic talking videos from a single static image.\n\n🔗 Try it yourself: infinitetalk.net\n\n🔔 Subscribe for more awesome AI tools!\n\n#aishorts #InfiniteTalk #AITool #LipSync #TalkingPhoto #OpenSourceAI #FreeAITools #GenerativeAI #AIvideo #FacelessContent #DigitalAvatar #ContentCreation #Tech",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-09-24T00:34:54Z",
+      "position": 15,
+      "thumbnail_url": "https://i.ytimg.com/vi/vje6hgjSymg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=vje6hgjSymg"
+    },
+    {
+      "video_id": "broGny92x6U",
+      "title": "Como criar um designer virtual com IA, no N8N?",
+      "description": "Acabei de montar um designer virtual capaz de criar thumbnails e artes ilimitadas pra vídeos e anúncios — tudo dentro do Discord.\n\nBasta eu digitar o que quero, mandar uma foto de referência e pronto: ele usa o GPT-4o pra transformar meu pedido em um prompt profissional, envia pro Nano Banana e me retorna cinco variações prontas em segundos.\n\nO melhor? Ele segue a identidade visual da marca e ainda permite editar imagens com o comando /edit.\n\nEssa é a solução ideal pra quem tem um fluxo constante de criação — agências, criadores de conteúdo, e até empresas que querem manter consistência visual sem depender de designers o tempo todo.\n\nE o mais legal: tudo isso foi feito no N8N, e o passo a passo completo estará disponível na Trilha Automatizando Tudo com N8N, da Asimov Academy em breve.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-15T22:39:53Z",
+      "position": 16,
+      "thumbnail_url": "https://i.ytimg.com/vi/broGny92x6U/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=broGny92x6U"
+    },
+    {
+      "video_id": "lcbTSEgkIjY",
+      "title": "Knowledge Graphs, SEC Filing Data & Causal AI: A Guide for Investors",
+      "description": "In today's digital age, the vast amount of data available to investors is both a boon and a challenge. With increasing volumes of information, it becomes imperative to structure, analyze, and interpret this data effectively to make informed investment decisions. One such tool that has gained prominence in the world of data analytics is the \"Knowledge Graph\". When combined with the SEC filing data and Causal AI, knowledge graphs can transform the way investors perceive and interact with financial data.\n\nRead as an article: https://www.alphanome.ai/post/knowledge-graphs-sec-filing-data-causal-ai-a-guide-for-investors",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-16T02:50:08Z",
+      "position": 17,
+      "thumbnail_url": "https://i.ytimg.com/vi/lcbTSEgkIjY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=lcbTSEgkIjY"
+    },
+    {
+      "video_id": "ZZzHZhD6EoQ",
+      "title": "Regulation D (SEC)",
+      "description": "In the United States under the Securities Act of 1933, any offer to sell securities must either be registered with the United States Securities and Exchange Commission (SEC) or meet certain qualifications to exempt them from such registration. Regulation D (or Reg D) contains the rules providing exemptions from the registration requirements, allowing some companies to offer and sell their securities without having to register the securities with the SEC. A Regulation D offering is intended to make access to the capital markets possible for small companies that could not otherwise bear the costs of a normal SEC registration. Reg D may also refer to an investment strategy, mostly associated with hedge funds, based upon the same regulation. The regulation is found under Title 17 of the Code of Federal Regulations, part 230, Sections 501 through 508. The legal citation is 17 C.F.R. §230.501 et seq.\nOn July 10th, 2013, the SEC issued new final regulations allowing public advertising and solicitation of Regulation D offers to accredited investors. \n\n\nThis video is targeted to blind users.\n\nAttribution:\nArticle text available under CC-BY-SA\nCreative Commons image source in video",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-16T19:15:08Z",
+      "position": 18,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZZzHZhD6EoQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ZZzHZhD6EoQ"
+    },
+    {
+      "video_id": "Nv7VU3AHFEc",
+      "title": "Build Agentic Shopping Experiences with C1",
+      "description": "",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-16T19:18:46Z",
+      "position": 19,
+      "thumbnail_url": "https://i.ytimg.com/vi/Nv7VU3AHFEc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Nv7VU3AHFEc"
+    },
+    {
+      "video_id": "fVijHNUz1Fk",
+      "title": "Automatizando Comentários do Instagram com n8n",
+      "description": "Automatize comentários no Instagram com o n8n e aumente seu engajamento sem esforço. 💬\nNeste vídeo, você vai aprender como configurar um fluxo simples que publica e responde comentários automaticamente.\nPerfeito para criadores, agências e quem quer economizar tempo nas redes sociais.\n\n👉 Acesse agora: https://jonathandacruz.com.br/automacao-n8n\n\n🔗 Baixe aqui o template\nhttps://pay.hotmart.com/B102444609Y\n \n#n8n #automacao #instagram",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-16T20:38:59Z",
+      "position": 20,
+      "thumbnail_url": "https://i.ytimg.com/vi/fVijHNUz1Fk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=fVijHNUz1Fk"
+    },
+    {
+      "video_id": "JaBQSDsu1K8",
+      "title": "I Cloned a $50 Million App in Less Than 15 Minutes Using AI (Bolt v2 Beginner’s Tutorial)",
+      "description": "Try Bolt v2 for free here: https://bolt.new/\n\nIn this video I show you how to clone any app or website that you want with AI. Bolt just released Bolt v2 and it is the #1 professional vibe coding tool right now. If you want to build an app or website, but don’t know how to code this video is for you!\n\nJoin AI Automation School (Learn To Automate Your Work & Make $ With AI) 👉 https://www.skool.com/ai-automation-school/about",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-24T05:57:05Z",
+      "position": 21,
+      "thumbnail_url": "https://i.ytimg.com/vi/JaBQSDsu1K8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=JaBQSDsu1K8"
+    },
+    {
+      "video_id": "CiRDkzyL4Ns",
+      "title": "🎨Lovart: O Primeiro Agente de Design do Mundo — Review Completo e Teste Real",
+      "description": "✅Teste Lovart Agora: https://tryit.cc/VjTrFD\n✖️Siga o Onde eu Clico no X: https://x.com/ondeeuclicoX?s=09\n💪Seja membro deste canal e ganhe benefícios:\nhttps://www.youtube.com/channel/UCRVzEriB1B2JKGpsLpL-uNg/join\n===============\nConheça o Lovart, o primeiro Agente de Design Tudo-em-Um do mundo — uma ferramenta de inteligência artificial que combina imagens, vídeos e até modelos 3D em um único ambiente.\nCom o Lovart, você tem um designer profissional 24h por dia, capaz de entender sua ideia, planejar, criar e entregar resultados com qualidade de nível profissional — tudo em questão de minutos.\n===============\n00:00 - Introdução\n00:29 - Apresentação\n00:59- Vantagens\n02:28 - Uso real 1\n06:32 - Uso real 2\n08:06 - Encerramento\n===============\n💰Produtos que eu recomendo:\n✅Echo Dot 5ª geração: https://amzn.to/3ZoffaX\n🎒Mochila Expansível HP Travel para Laptop de 15,6\": https://amzn.to/4afOOYX\n🎥Webcam USB Full HD 1080P: https://amzn.to/414BML6\n🐀Mouse Sem Fio Logitech Signature M650: https://amzn.to/497xRzk\n💻WB Suporte para Laptop Gro Anti-Derrapante: https://amzn.to/3C7r2BM\n⚡Nobreak ATTIV 600VA 120V Preto Intelbras: https://amzn.to/40xBjjZ\n===============\nO conteúdo sempre será gratuito, mas se você quiser me pagar um café é só CLICAR NO \"VALEU DEMAIS\" e escolher a quantia desejada! Seu nome ficará em destaque nos comentários como incentivador do canal!!!\n===============\nINSCREVA-SE NO CANAL:\nhttps://cutt.ly/aTYu0Gk\n===============\nCOMPARTILHE ESSE VÍDEO:\nhttps://youtu.be/CiRDkzyL4Ns\n===============\n#Lovart #IA #Design #InteligenciaArtificial #AgenteDeDesign #FerramentaDeDesign #CriaçãoComIA #DesignAutomatizado #MarketingDigital #Tecnologia\n===============",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-25T03:15:21Z",
+      "position": 22,
+      "thumbnail_url": "https://i.ytimg.com/vi/CiRDkzyL4Ns/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=CiRDkzyL4Ns"
+    },
+    {
+      "video_id": "970hd8EBECY",
+      "title": "The AI Tool EVERYONE Should Be Using",
+      "description": "🖥️ Download the free Marketer’s Guide to Google Gemini & NotebookLM: https://clickhubspot.com/425bce\n\nMore from Futurepedia:\n👉 Join the fastest-growing AI education platform! Try it free and explore 30+ top-rated courses in AI: https://bit.ly/futurepediaSL\n\nSummary:\nNotebookLM is more than just the viral AI podcast feature. It's the best tool I've found for actually understanding and retaining information - not just collecting it.\nIn this video, I'll show you every NotebookLM feature and explain what makes it so powerful: how it handles 260x more content than ChatGPT using RAG (Retrieval Augmented Generation), why it has such low hallucination rates, and how to use all the different output formats - podcasts, videos, mind maps, study guides, flashcards, and more.\nWhether you're a student, researcher, or just drowning in bookmarked articles and saved videos, this tutorial will show you how to turn scattered information into actual knowledge.\n\nChapters\n0:00 Intro\n0:25 Biggest problem with ChatGPT\n0:51 Basics\n2:48 How does it work?\n4:13 How does RAG work?\n6:56 Uploading sources\n7:27 Discover sources\n7:46 Chat panel\n9:14 Chat customization\n10:18 Studio panel\n10:32 Create a podcast\n12:25 Podcast settings\n12:47 Interactive podcast\n14:49 Mind map\n15:29 Reports\n16:22 Flashcards\n16:49 Quiz\n17:18 Video Overview\n18:28 The combination\n19:00 Pro features\n20:45 Unique use cases\n21:55 Futurepedia",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-25T03:17:40Z",
+      "position": 23,
+      "thumbnail_url": "https://i.ytimg.com/vi/970hd8EBECY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=970hd8EBECY"
+    },
+    {
+      "video_id": "5VvMP1fiMc8",
+      "title": "How to integrate C1 in just 2 steps | Power your AI apps with Generative UI",
+      "description": "In this video, we’ll show you how easy it is to integrate C1 into your AI apps. \nCheck us out: http://thesys.dev/?utm_source=youtube\n\n#ai #GenerativeUI #GenerativeAI #Interface  #UI #UX  #LLM #Design #Frontend #agent #chatgpt",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-25T03:21:32Z",
+      "position": 24,
+      "thumbnail_url": "https://i.ytimg.com/vi/5VvMP1fiMc8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=5VvMP1fiMc8"
+    },
+    {
+      "video_id": "40PJVPPhy5I",
+      "title": "Como Eu Crio Apps IRRESISTÍVEIS (Meus Segredos de Design)",
+      "description": "🎨 Cansado de criar apps feios que ninguém quer usar? Neste vídeo eu revelo os segredos de design que transformam apps comuns em experiências IRRESISTÍVEIS! São as mesmas estratégias que uso no Epic e na Donos e que fazem toda diferença na percepção do usuário.\n\n⏱️ TIMESTAMPS:\n00:00 - Introdução: Por que design importa (MUITO!)\n01:13 - Segredo #1: Identidade, Consistência e Familiaridade\n04:04 - Segredo #2: Planeje seu app pensando em design\n06:03 - Segredo #3: Copie como um artista!\n08:05 - Segredo #4: Sites para referências incríveis\n11:50 - Segredo #5: Configure seu código para manter consistência\n16:11 - Segredo #6: Componentes prontos que economizam tempo\n21:31 - Segredo #7: Elementos de Marca\n23:05 - Conclusão: Recapitulando os segredos!\n\n🎯 O QUE VOCÊ VAI APRENDER:\n✅ Como criar identidade visual que gruda na cabeça das pessoas\n✅ O poder da consistência para apps profissionais\n✅ Por que familiaridade = confiança do usuário\n✅ Como planejar design antes de codar (e economizar horas!)\n✅ Os melhores sites para encontrar inspiração de design\n✅ Onde achar componentes prontos e lindos\n✅ Como configurar seu código para nunca perder consistência\n\n💡 POR QUE ISSO IMPORTA:\nSe você cria apps funcionais mas que parecem \"amadores\"... este vídeo é para você! Esses segredos vão transformar completamente a percepção dos seus projetos!\n\n🔗 SITES APRESENTADOS NO VÍDEO \n\nMobbin: https://mobbin.com/\nDribble: https://dribbble.com/attio \nAiverse: https://www.aiverse.design/\nTweakCn: https://tweakcn.com/\nShadcn: https://ui.shadcn.com/\n21st Dev: https://21st.dev\nLucide: https://lucide.dev/\n\n👻 SOBRE O EPIC:\nO Epic transforma suas ideias soltas em especificações claras, para que o Lovable acerte a implementação de primeira e construa aplicações rápidas e seguras (mesmo que você não saiba nada de programação). Teste gratuitamente agora mesmo! https://goepic.dev\n\n📱 ME SIGA NAS REDES:\nInstagram: https://www.instagram.com/dfolloni/\nLinkedIn: https://www.linkedin.com/in/dfolloni/\nTwitter/X: https://x.com/dfolloni\n\n💬 COMENTE AQUI EMBAIXO:\nQual desses segredos você mais precisa aplicar nos seus apps? Me conta nos comentários! Leio todos e respondo sempre que posso 👇\n\n🔔 Inscreva-se no canal e ative o sininho para não perder os próximos vídeos sobre vibe coding!\n\n🙏 Obrigado por assistir! Se este vídeo te ajudou, deixe seu LIKE 👍 e compartilhe com aquele amigo vibe coder que precisa ver isso!\n\nTe vejo no próximo vídeo! 🚀",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-25T04:00:33Z",
+      "position": 25,
+      "thumbnail_url": "https://i.ytimg.com/vi/40PJVPPhy5I/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=40PJVPPhy5I"
+    },
+    {
+      "video_id": "Zz9P8AlmRvk",
+      "title": "I Designed a Full Brand Using ONLY Nanobanana, here's what happened",
+      "description": "AI-crafted visuals in seconds: https://piktochart.com/?sscid=51k9_tmewv\n\nHow do you create infographics? Try Piktochart, a fast and easy solution to create do-it-yourself infographics without any need for a designer's knowledge.\r\n\r\nNew! Piktochart's latest version allows you to create search friendly infographics, which means Google can rank you for keywords that appear on your infographics.\r\n\r\nWatch this channel to get quick tips (under 1 minute) on how to create infographics, from logging in, editing text/fonts, creating charts, special quick tips, editing layout that would really help you get the most of Piktochart, the infographic editor for non-designers.\n\nI challenged myself to build an entire brand using nothing but Nanobanana—yes, Nano Banana. From visuals to storytelling, everything was done using this single AI tool. In this video, I break down what happened when I pushed Nano Banana AI to its limits, show how to use it in real time, and share my full Nano Banana tutorial so you can try it too.\n\nIf you've heard about Google Nano Banana or been curious about how AI tools can be used for design and branding, this will give you a real look at what’s possible — and where the limits are.\n\nI also share some thoughts on the future of branding with AI, how Nano Banana compares to more traditional tools, and whether it’s actually worth your time.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-25T04:02:14Z",
+      "position": 26,
+      "thumbnail_url": "https://i.ytimg.com/vi/Zz9P8AlmRvk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Zz9P8AlmRvk"
+    },
+    {
+      "video_id": "8iA_f_UpzHc",
+      "title": "Turn Text Into a Knowledge Graph with 70B LLM on DGX Spark",
+      "description": "Looking to run local GraphRAG or other graph analytics use cases? With DGX Spark, you can prepare your local text files for graph use cases at your desk.\n\nIn this demo, a Llama-3.1-70B model served by Ollama runs locally in DGX Spark’s 128GB of unified memory. After uploading local biomedical research papers into the LLM, the model extracts nodes and relationships that are embedded into a knowledge graph. By processing entire documents at once, the knowledge graph retains critical long-range relationships that make GraphRAG and other graph analytics more accurate.\n\nThe entire demo runs on DGX Spark, enabling data privacy, security, and avoiding lag time with moving development to a data center. We use ArangoDB’s graph database to host our knowledge graph and three.js to explore it visually.\n\nGet started with the playbook here: https://build.nvidia.com/spark/txt2kg",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-28T01:33:55Z",
+      "position": 27,
+      "thumbnail_url": "https://i.ytimg.com/vi/8iA_f_UpzHc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=8iA_f_UpzHc"
+    },
+    {
+      "video_id": "LCJJwDjJYqI",
+      "title": "How to run Deepseek OCR on Cloud GPU? (Hands-on Deepseek OCR Tutorial)",
+      "description": "🔥 Sign up here - https://cloud.datacrunch.io/signin 🔥\nCoupon Code - 1littlecoder-ds-ocr (Validity 2 weeks)\n\nhttps://docs.datacrunch.io/resources/obtaining-free-credits/how-to-redeem-credits\n\nDeepseek OCR is the hottest thing in the LLM world. This step-by-step guide teaches how to run Deepseek OCR at scale - This is one the best tradeoff between Speed and Accuracy in the OCR world! \n\nDeepseek OCR comes with a great innovation and this can be much more than OCR use-cases. \n\nThe notebook used in the video - https://github.com/amrrs/deepseek-ocr-vllm/blob/main/deepseek-ocr-vllm.ipynb\n\n❤️ If you want to support the channel ❤️\nSupport here:\nPatreon - https://www.patreon.com/1littlecoder/\nKo-Fi - https://ko-fi.com/1littlecoder\n\n🧭 Follow me on 🧭\nTwitter - https://twitter.com/1littlecoder",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-28T01:44:21Z",
+      "position": 28,
+      "thumbnail_url": "https://i.ytimg.com/vi/LCJJwDjJYqI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=LCJJwDjJYqI"
+    },
+    {
+      "video_id": "kZm99RPpGGU",
+      "title": "3 Severely Under Utilized AI Techniques 99% of People Don't Know",
+      "description": "Start learning AI & automations for free: https://www.productcamps.com/free",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-28T19:02:57Z",
+      "position": 29,
+      "thumbnail_url": "https://i.ytimg.com/vi/kZm99RPpGGU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kZm99RPpGGU"
+    },
+    {
+      "video_id": "kK0Q3MCZWY4",
+      "title": "NVIDIA Nemotron Nano 2 VL (12B) : This SMALL, LOCAL VLM has GREAT RESULTS",
+      "description": "Model weights on HuggingFace - NVIDIA Nemotron Nano 2 VL: https://nvda.ws/4qBVoAQ\n\nIn this video, I walk through NVIDIA’s Nemotron Nano 2 VL—an open, efficient vision-language model for document intelligence and video understanding—showing real demos, setup tips, and how I use it daily (early access, in collaboration with NVIDIA).\n\n--\nKey Takeaways:\n\n🚀 Nemotron Nano 2 VL is an open, efficient multimodal VLM for OCR, tables, charts, diagrams, and video.  \n🧠 Hybrid Transformer + Mamba architecture delivers faster, more efficient performance than the last gen.  \n🔓 Open weights under Apache-2.0, plus an openly available training dataset for reproducible workflows.  \n🥇 Best-in-class OCR and chart reasoning in its class, with strong structured extraction.  \n🎥 Video input support uses efficient frame sampling to keep semantics while cutting token cost.  \n🔄 Hybrid reasoning: toggle deep reasoning vs. quick extraction via “slash think” and “slash no think.”  \n🔌 OpenAI-compatible API: works with Chatwise, KiloCode, RooCode, Cline, OpenWebUI, and Jan.  \n🧰 Colab notebook demo: point the OpenAI client to NVIDIA’s endpoint; mix images, video, and text.  \n📊 PDF Q&A and receipts summation demos; multi-image YoY analysis that explains its steps.  \n🧪 Practical pipeline: LLM-judged evaluations using Playwright screenshots and structured outputs.  \n💻 Daily coding: Architect mode, reliable tool-calling, and design summarization workflows.  \n⚠️ Limitations: no computer/browser control out of the box; community fine-tunes may explore this.  \n🧩 12B parameters; weights on Hugging Face; preview on NVIDIA NIM and Build platforms.  \n💼 Great for finance ops, business docs, and on-device-friendly automation.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-28T19:12:28Z",
+      "position": 30,
+      "thumbnail_url": "https://i.ytimg.com/vi/kK0Q3MCZWY4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kK0Q3MCZWY4"
+    },
+    {
+      "video_id": "ZHoVFkKs4sI",
+      "title": "The only PROMPTS for Data Analysis and Reports with ChatGPT that you’ll ever need!",
+      "description": "Save hours of manual work with this complete ChatGPT data analysis workflow! \nIn this video, I’ll show you exactly how to turn messy, real-world datasets into clear, professional reports and dashboards with all the prompts you need! \n\n\nPrompts in video: https://docs.google.com/document/d/1jSwWz8TnsZJjFfaYkD3rNuLdRgLygEgA3EfaFRb7U1w/edit?usp=sharing\n\n\nGet the full guide to Mastering Data Analysis with ChatGPT: Your Complete Guide \nto Tools, Techniques, and Prompts\nhttps://edutechai.gumroad.com/l/qpqul \n\n#chatgptworkflow #dataanalysis #aitools #chatgpttutorial #aiproductivity #reporting #chatgptforwork #digavframework #datavisualisation #chatgptdataanalysis #aiindata #analyticswithchatgpt #aiforprofessionals",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-28T19:44:31Z",
+      "position": 31,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZHoVFkKs4sI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ZHoVFkKs4sI"
+    },
+    {
+      "video_id": "9NKNNHCsykQ",
+      "title": "Coding Music in VS Code",
+      "description": "In this episode, Julia builds a browser-based DJ app from scratch, generating code and experimenting with real-time beats that turn VS Code into a music studio. By coding music patterns, beats, and effects live with Tone.js and GitHub Copilot, she shows how AI can compose, layer, and remix techno-inspired sounds straight from code. It’s vibe coding, creativity, and rhythm all in one fun, interactive demo.\n\n🔎 Chapters:\n00:00 Introduction to Tone.js\n00:28 Demo - Build a browser-based live coding music application\n05:58 Testing our app\n06:45 In summary\n\n🔗 Link:\nWeb App Tone: https://aka.ms/web-app-tone\nUse prompt files in VS Code:\nhttps://code.visualstudio.com/docs/copilot/customization/prompt-files\n\n🎙️ Featuring: Julia Kasper\n\n📲 Follow VS Code:\n* X: https://x.com/code\n* Bluesky: https://bsky.app/profile/vscode.dev\n* YouTube: https://youtube.com/code\n* LinkedIn: https://www.linkedin.com/showcase/104107263\n* GitHub: https://github.com/microsoft/vscode\n\n#vscode",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-28T20:18:41Z",
+      "position": 32,
+      "thumbnail_url": "https://i.ytimg.com/vi/9NKNNHCsykQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=9NKNNHCsykQ"
+    },
+    {
+      "video_id": "P5hJnYfA_EE",
+      "title": "The Easiest Way to Build Mobile Apps Ever (Vibecode App Tutorial)",
+      "description": "Build a Professional Mobile App Without Coding - Using the Vibecode App.\n\nYou should want to build high quality apps. With Vibecode you can. That's what we discuss in this video. You don't want to break, rork, or destroy your apps. You can build high quality apps directly from your phone with Vibecode.\n\nVibecode App: https://apps.apple.com/us/app/vibecode-ai-app-builder/id6742912146\n\n00:00 Introduction\n00:36 Understanding the Mobile App Market Shift\n01:45 Coming up with an App Idea (Worksheet)\n03:54 Market Research Using Sensor Tower\n05:28 What is my idea (Thumbnail Generator) \n10:01 Prototyping with Vibe Code App with ChatGPT\n11:45 App is Generating\n12:03 Testing our App\n13:03 Designing UI and Adding Assets\n16:11 Adding AI Features (API's)\n25:01 Testing Version System and Editing\n32:23 Final Testing and App Store",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-30T01:51:44Z",
+      "position": 33,
+      "thumbnail_url": "https://i.ytimg.com/vi/P5hJnYfA_EE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=P5hJnYfA_EE"
+    },
+    {
+      "video_id": "gpl-Zv3mEeU",
+      "title": "Claude Transforma o Excel em Uma IA Viva! OpenAI, Alibaba, Anthropic, Qualcomm e Muito Mais!",
+      "description": "Hoje foi o dia em que o Claude entrou no Excel — e não, não é metáfora.\n A Anthropic acaba de colocar sua IA direto dentro da ferramenta mais usada do mundo corporativo, e isso muda tudo.\nNeste vídeo, eu vou te mostrar como o Claude está transformando o Excel em um copiloto de planilhas: ele entende fórmulas, corrige erros, cria gráficos, conecta dados da Moody’s e da LSEG, e ainda explica o que cada cálculo significa — tudo em tempo real.\nE o mais louco é que essa novidade não veio sozinha.\n Enquanto isso, a OpenAI aprimorou o GPT-5 para lidar com saúde mental (com 91% de precisão clínica!), a Odyssey lançou vídeos interativos com IA em tempo real, e a Qualcomm e a AMD estão travando uma guerra silenciosa de chips e supercomputadores para rodar essa nova era de inteligência artificial.\nÉ literalmente o início da IA invisível — aquela que trabalha dentro das ferramentas que você já usa, sem precisar de prompt, extensão ou novo app.\n E o Excel, claro, é o primeiro campo de batalha.\n💡 O que você vai ver neste vídeo:\nComo o Claude se integra ao Excel e o que ele realmente faz\nAs 7 novas conexões financeiras da Anthropic (LSEG, Aiera, Moody’s e mais)\nPor que o Claude pode ultrapassar o Copilot\nA guerra silenciosa entre Anthropic, OpenAI, AMD e Qualcomm\nE o que isso tudo significa pro futuro do seu trabalho\n👉 Assista até o fim, porque eu vou te mostrar como esse movimento redefine o que é “trabalhar com IA” — e por que o Excel pode se tornar o epicentro da inteligência corporativa global.\nSe curtiu o vídeo, deixa o like, se inscreve no canal, e comenta aqui embaixo:\n Você deixaria o Claude mexer nas suas planilhas ou ainda prefere confiar nos seus “=SOMASE”? 😏\n📅 Vídeo novo toda semana — direto, leve e com o melhor da tecnologia e IA explicada sem enrolação.\n\n🔔 Seja membro deste canal e ganhe benefícios incríveis! 🎉\n👉 Clique aqui: https://www.youtube.com/channel/UCGJAcveK9o1xObmuR_bFhrA/join\n\n🎨 Thumb feita com IA no NewHero.ai: https://newhero.ai?via=paula\n\n✅ ChatLLM a IA mais COMPLETA: https://chatllm.abacus.ai/TSWPgFpmmq \n\n🤖🗣️ Clone Avatar Heygen: https://heygen.com/?sid=rewardful&via=paula\n\n📧 Para parcerias: paulaarbernardes@gmail.com\n\n🔗 Links da Descrição (Organizados)\n🔍 Referências Oficiais\nClaude no Excel (Anthropic) — https://www.anthropic.com/news\nOdyssey-2 — https://odyssey.ml/introducing-odyssey-2\nGPT-5 (OpenAI) — https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations/\n⚙️ Hardware e Parcerias\nQualcomm AI200 — https://www.bloomberg.com/news/articles/2025-10-27/qualcomm-unveils-chip-to-rival-nvidia-in-ai-accelerator-market\nAMD + DOE (Supercomputadores) — https://www.reuters.com/business/energy/us-department-energy-forms-1-billion-supercomputer-ai-partnership-with-amd-2025-10-27/\n🧠 Mercado e Tendências\nMercor AI Hiring — https://www.cnbc.com/2025/10/27/ai-hiring-startup-mercor-funding.html\nFraudes com IA — https://arstechnica.com/ai/2025/10/ai-generated-receipts-make-submitting-fake-expenses-easier/\n\n\nClaudeExcel, Anthropic, IAnotrabalho, GPT5, MicrosoftCopilot, Odyssey2, InteligenciaArtificial, ProdutividadeIA, Fintech, Supercomputadores, AMD, Qualcomm, AutomacaoEmpresarial, FuturoDoTrabalho, Tecnologia2025",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-30T01:57:21Z",
+      "position": 34,
+      "thumbnail_url": "https://i.ytimg.com/vi/gpl-Zv3mEeU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=gpl-Zv3mEeU"
+    },
+    {
+      "video_id": "sgE7rpOz8O0",
+      "title": "Google DeepMind Just Dropped a NEW AI TOOL: Pomelli!",
+      "description": "Google DeepMind just dropped a brand-new AI tool called Pomelli, and it might be their most creative project yet. It can design full marketing campaigns, generate ads, and understand your brand style — all on its own. Built by Google Labs in collaboration with DeepMind, Pomelli can analyze your website, learn your brand identity, and generate full social posts, taglines, and ads all on its own.\n\nIn this video, we break down:\nWhat Pomelli actually is\nHow it works behind the scenes\nWhy Google and DeepMind are moving into creative AI\nThe pros, the limitations, and what it means for the future of business marketing\nWhether you’re into AI tools, startups, or just curious about where Google is heading next, this is one update you’ll want to see.\n\n0:00 - Intro\n0:42 - Overview\n1:25 - How it Works\n3:13 - Demo!\n6:50 - Final thoughts\n\n🔗 My Links:\n📩 Sponsor a Video or Feature Your Product: intheuniverseofaiz@gmail.com\n🔥 Become a Patron (Private Discord): /worldofai\n🧠 Follow me on Twitter: /intheworldofai\n🌐 Website: https://www.worldzofai.com\n\n#Pomelli #GoogleDeepMind #GoogleAI #AItools2025 #CreativeAI #AIMarketing #GoogleLabs #DeepMindAI #AIInnovation #AIforBusiness #ArtificialIntelligence #AICreativity #MarketingAutomation #UniverseOfAi\n#AInews #GenerativeAI #BusinessAI #AIfuture\n\nPomelli, Google Pomelli, DeepMind Pomelli, Google DeepMind, Google DeepMind Pomelli, Pomelli AI, Pomelli explained, Pomelli demo, Google AI Pomelli, Google AI 2025, DeepMind 2025, Google Labs Pomelli, AI marketing tool, AI business tools, Creative AI, AI content creation, Google creative AI, AI campaign generator, DeepMind AI project, AI brand tools, AI for business, AI for marketing, Google Labs, DeepMind update, Pomelli tutorial, AI productivity 2025, Universe of AI, AI tools 2025, AI small business, AI business strategy, Google AI tools 2025, ChatGPT alternative, Google AI news, Google innovation 2025, AI branding, AI design tools",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-10-30T02:02:55Z",
+      "position": 35,
+      "thumbnail_url": "https://i.ytimg.com/vi/sgE7rpOz8O0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=sgE7rpOz8O0"
+    },
+    {
+      "video_id": "6aNcz90CeNE",
+      "title": "This New AI Browser Tool Lets You Automate Tasks 24/7! (Better Than Comet & Atlas)",
+      "description": "Access DeepAgent To Schedule & Automate Tasks: https://deepagent.abacus.ai/rqm\n\nDeepAgent just launched a brand new AI tool that lets you schedule out tasks that can be done in a browser. If you want to automate your work with AI or us the best AI browser that’s better than Comet Browser and Atlas Browser this video is for you.\n\nJoin AI Automation School (Learn To Automate Your Work & Make $ With AI) 👉 https://www.skool.com/ai-automation-school/about",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-02T23:32:38Z",
+      "position": 36,
+      "thumbnail_url": "https://i.ytimg.com/vi/6aNcz90CeNE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=6aNcz90CeNE"
+    },
+    {
+      "video_id": "0iWAugxM2ok",
+      "title": "Go from a Cursor, Replit, or Bolt Site to the App Store (in One Prompt)",
+      "description": "How to Seamlessly Convert Your Web App into a Mobile App for the App Store\n\nPrompt for converting your app:\nhttps://www.vibecodeapp.com/docs/prompting/web-to-mobile\n\nDownload Vibecode:\nhttps://apps.apple.com/us/app/vibecode-ai-app-builder/id6742912146\n\nYou should want to build high quality apps. With Vibecode you can. That's what we discuss in this video. You don't want to break, rork, or destroy your apps. You can build them directly from your phone with Vibecode.\n\nTIMESTAMPES\n00:00 converting web to mobile (Shared's conflicted copy 2025-10-31)\n01:31 The Web App We Will Convert\n03:40 The Mobile App that Builds Mobile Apps\n05:31 Mobile App Version 1 \n06:27 You can Publish this to the App Store\n08:02 Adding AI API's to your app \n08:58 Editing the Mobile App with the Select Feature",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-03T01:38:37Z",
+      "position": 37,
+      "thumbnail_url": "https://i.ytimg.com/vi/0iWAugxM2ok/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=0iWAugxM2ok"
+    },
+    {
+      "video_id": "w3pmfaczpLc",
+      "title": "A Problem You Never Knew About",
+      "description": "Thesys C1 is a Generative UI API that transforms AI applications from text-based chat interfaces into dynamic, interactive experiences. Generate buttons, forms, dashboards, and charts directly from LLM outputs. Works with GPT-4, Claude, and any AI model. Integrates seamlessly with Vercel AI SDK and existing AI apps.\n\nLINKS\nGet 5 Million Free Tokens: https://www.thesys.dev/?utm_source=youtube&utm_medium=creators&utm_campaign=ai_labs\n\nABOUT THIS VIDEO\nThe problem with AI apps today isn't the models—it's the UI. Every time your model output changes, hardcoded components break. When you add new use cases, you're rewriting code. Most developers default to text-based interfaces because they're easy, but they create a poor user experience.\nThesys C1 solves this by acting as middleware between your AI model and frontend. It automatically converts raw model responses into interactive UI components in real-time, adapting to your specific use case while matching your design system.\n\nWHAT YOU'LL LEARN\nThe fundamental UI problem in AI app development How C1 works as a Generative UI API Complete integration walkthrough for existing apps Live demo with Vercel AI SDK Interactive components, dashboards, and dynamic forms Tool calling and structured data rendering Claude skill setup for C1 development\n\nThis is how AI applications will work in the future. If you're building with AI, this changes everything.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-03T02:13:49Z",
+      "position": 38,
+      "thumbnail_url": "https://i.ytimg.com/vi/w3pmfaczpLc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=w3pmfaczpLc"
+    },
+    {
+      "video_id": "o2r4lZVxhcU",
+      "title": "mem0 : Add memory to LLM APIs demo",
+      "description": "mem0 helps add memory to any LLM. mem0 GitHub repo demo #ai #coding #llm #chatgpt #generativeai #programming #computerscience #computer #engineering #modelcontextprotocol",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-03T02:37:39Z",
+      "position": 39,
+      "thumbnail_url": "https://i.ytimg.com/vi/o2r4lZVxhcU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=o2r4lZVxhcU"
+    },
+    {
+      "video_id": "ZFcAwdMyiw4",
+      "title": "How to Use Task Master AI (Real-World Tutorial)",
+      "description": "What if your AI coding assistant wasn't just a pair programmer, but a full-on project manager? In this video, I take a deep dive into Task Master AI, a powerful tool for AI project management that aims to solve one of the biggest problems in AI development: context decay.\n\nUnlike other tools, Task Master uses a Model Control Protocol (MCP) server to manage your project's state. This means the AI can query for specific tasks without flooding its context window, allowing it to maintain focus and \"remember\" the entire plan.\n\nI put it to the test on a real-world project: migrating my 500+ article Astro blog from MDX files to Astro DB. Join me as I go through the full workflow:\n\n- Installation & Setup\n- Parsing a Product Requirements Document (PRD)\n- The core expand (for task breakdown), next, and update commands\n- A major debugging \"hiccup\" that almost stopped the project\n- My professional takeaways on this powerful methodology\n\nIs Task Master the AI project manager you've been missing? Let's find out.\n\nTask Master on GitHub: https://github.com/eyaltoledano/claude-task-master\n\n*Timecodes (Chapters)*\n\n00:00 - Intro\n01:03 - Project Overview\n01:57 - Installation & Setup\n03:04 - Parsing the PRD\n03:45 - How Task Master Works (MCP)\n04:51 - The Core Workflow\n06:15 - My Real-World Experience\n08:08 - Hiccup 1: The .env File Mystery\n08:31 - Hiccup 2: The Missing CLI\n08:36 - Purr-fessional Takeaways\n10:01 - Outro\n\nDon't forget to like, subscribe, and feed your cat!",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-03T04:14:13Z",
+      "position": 40,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZFcAwdMyiw4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ZFcAwdMyiw4"
+    },
+    {
+      "video_id": "_i_Y441Kd3g",
+      "title": "How to Build an AI Agent in 5 Minutes (NEW Google Tools)",
+      "description": "The game has officially changed. Google just launched a suite of new Gemini features, including a revolutionary AI Agent Builder that makes creating powerful AI automations as simple as writing a sentence.\n\nIn this video, we provide a strategic breakdown of what this means for you. We'll cover:\n- The new Google AI Agent Builder and how it can create \"co-workers\" that connect to your Gmail, Drive, and Calendar.\n- The new engine behind it: Gemini 2.5 Computer Use, a model that can control your browser.\n- Key updates to NotebookLM that make it easier than ever to gather information and build your knowledge base.\n\nIt's time to stop just talking about Agentic AI and start building.\n\n---\n**TIMESTAMPS:**\n\n0:00 - The Moment Everything Changed for AI\n0:56 - The AI Agent Arrives: Your New Workforce\n1:50 - A Practical Example: The Automated Coworker\n3:14 - The New Engine Powering AI Agents\n4:20 - Smarter Tools to Build Smarter Agents\n5:39 - The Big Picture: Welcome to the Era of AI Teammates\n---\n\nIf you're ready to start building your own AI agents and automating your work, subscribe to Agentic AI for step-by-step tutorials and strategic insights.\n\n#AIAgent #GoogleGemini #AgenticAI #AIAutomation",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-03T05:13:25Z",
+      "position": 41,
+      "thumbnail_url": "https://i.ytimg.com/vi/_i_Y441Kd3g/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=_i_Y441Kd3g"
+    },
+    {
+      "video_id": "NoPw4Har_Mo",
+      "title": "Eu Analisei os Principais Coding Assistants (Lovable, Cursor, Figma, Codex, Claude Code, v0)",
+      "description": "🤖 Testei TODOS os Coding Assistants populares e descobri qual é O MELHOR para vibe coding! Neste vídeo eu analiso Lovable, Figma Make, v0, Claude Code, Codex e Cursor - revelando os prós e contras de cada um e qual você deveria usar dependendo do seu objetivo.\n\n⏱️ TIMESTAMPS:\n00:00 - Introdução: A grande comparação\n00:29 - Coding Assistants Com opinião vs Sem Opinião\n02:44 - Prós de Coding Assistants com Opinião\n04:34 - Contras de Coding Assistants com Opinião\n08:06 - Prós de Coding Assistants sem Opinião\n09:37 - Contras de Coding Assistants sem Opinião\n12:45 - Lovable\n14:07 - Figma Make\n15:05 - v0\n17:00 - Claude Code\n18:22 - Codex\n19:38 - Cursor\n20:40 - Conclusão: Qual escolher?\n\n🎯 O QUE VOCÊ VAI APRENDER:\n✅ A diferença crucial entre assistants com e sem opinião\n✅ Quando usar cada tipo de coding assistant\n✅ Análise completa dos 6 principais assistants do mercado\n✅ Qual assistant é melhor para iniciantes vs avançados\n✅ Os prós e contras REAIS de cada ferramenta (sem marketing!)\n✅ Como escolher o assistant certo para seu projeto\n✅ Minha recomendação final para vibe coders\n\n💡 POR QUE ISSO IMPORTA:\nSe você está perdido entre tantas opções de coding assistants ou não sabe qual ferramenta usar para seu próximo projeto... este vídeo é para você! Eu testei todas essas ferramentas NA PRÁTICA e vou te mostrar exatamente qual usar em cada situação. Economize tempo e dinheiro escolhendo certo desde o início!\n\n🔥 ASSISTANTS ANALISADOS:\n• Lovable - O queridinho dos vibe coders\n• Figma Make - Direto do design para código\n• v0 - A aposta da Vercel\n• Claude Code - Vibe Coding via terminal\n• Codex - O poder da OpenAI\n• Cursor - O editor inteligente\n\n👻 SOBRE O EPIC:\nO Epic transforma suas ideias soltas em especificações claras, para que o Lovable acerte a implementação de primeira e construa aplicações rápidas e seguras (mesmo que você não saiba nada de programação). Teste gratuitamente agora mesmo! https://goepic.dev\n\n📱 ME SIGA NAS REDES:\nInstagram: https://www.instagram.com/dfolloni/\nLinkedIn: https://www.linkedin.com/in/dfolloni/\nTwitter/X: https://x.com/dfolloni\n\n💬 COMENTE AQUI EMBAIXO:\nQual coding assistant você usa hoje? Concorda com minha análise? Me conta nos comentários! Leio todos e respondo sempre que posso 👇\n\n🔔 Inscreva-se no canal e ative o sininho para não perder os próximos vídeos sobre vibe coding!\n\n🙏 Obrigado por assistir! Se este vídeo te ajudou, deixe seu LIKE 👍 e compartilhe com aquele amigo vibe coder que está em dúvida sobre qual ferramenta usar!\n\nTe vejo no próximo vídeo! 🚀",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-05T00:04:35Z",
+      "position": 42,
+      "thumbnail_url": "https://i.ytimg.com/vi/NoPw4Har_Mo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=NoPw4Har_Mo"
+    },
+    {
+      "video_id": "cecWVtAjG0g",
+      "title": "O framework que eu uso para ter idéias de negócios de IA LUCRATIVAS (Passo a Passo)",
+      "description": "💡 Cansado de não saber qual app de IA criar? Neste vídeo eu revelo o framework EXATO que uso para identificar ideias de negócios lucrativas - o mesmo que me levou a criar o Epic! São 3 perguntas simples que vão te mostrar oportunidades bilionárias escondidas no seu dia a dia.\n\n⏱️ Timestamps:\n\n00:00 - Introdução: O segredo das ideias lucrativas\n00:32 - Minha Filosofia: Busque soluções para melhorar\n04:25 - Pergunta #1: Quais gambiarras você faz?\n07:04- Pergunta #2: O que você tolera mas odeia?\n09:38 - Pergunta #3: Como você customiza o que você usa hoje?\n12:54 - Conclusão: Produtize essas coisas!\n\n🎯 O que você vai aprender:\n\n✅ As 3 perguntas que revelam oportunidades de ouro\n✅ Como transformar suas gambiarras em produtos lucrativos\n✅ Por que suas frustrações valem milhões de dólares\n✅ Como identificar o que as pessoas realmente precisam\n✅ Exemplos REAIS de apps que valem milhões (e começaram assim!)\n✅ O framework completo para validar suas ideias\n✅ Como suas customizações são sinais de demanda de mercado\n\n💡 Por que isso importa:\n\nSe você quer criar um negócio de IA mas não sabe por onde começar... este vídeo é para você! As melhores ideias não vêm de \"brainstorms criativos\" - elas vêm de resolver problemas REAIS que você já enfrenta. Este framework já gerou empresas milionárias e pode funcionar para você também!\n\n🔑 O framework em 3 passos:\n\n1️⃣ Produtize suas gambiarras\n2️⃣ Produtize suas frustrações\n3️⃣ Produtize suas customizações\n\n👻 Sobre o Epic:\n\nO Epic transforma suas ideias soltas em especificações claras, para que o Lovable acerte a implementação de primeira e construa aplicações rápidas e seguras (mesmo que você não saiba nada de programação). Teste gratuitamente agora mesmo! https://goepic.dev\n\n📱 Me siga nas redes:\n\nInstagram: https://www.instagram.com/dfolloni/\nLinkedIn: https://www.linkedin.com/in/dfolloni/\nTwitter/X: https://x.com/dfolloni\nMinha newsletter: https://dfolloni.substack.com\n\n💬 Comente aqui embaxo:\n\nQual gambiarra você faz que poderia virar um negócio? Me conta nos comentários! Leio todos e respondo sempre que posso 👇\n\n🔔 Inscreva-se no canal e ative o sininho para não perder os próximos vídeos sobre vibe coding!\n\n🙏 Obrigado por assistir! Se este vídeo te ajudou, deixe seu LIKE 👍 e compartilhe com aquele amigo empreendedor que precisa ver isso!\n\nTe vejo no próximo vídeo! 🚀",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-05T00:26:41Z",
+      "position": 43,
+      "thumbnail_url": "https://i.ytimg.com/vi/cecWVtAjG0g/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=cecWVtAjG0g"
+    },
+    {
+      "video_id": "6hRO1q8vv60",
+      "title": "4 ChatGPT Hacks that Cut My Workload in Half",
+      "description": "Grab HubSpot’s #ChatGPT ebook: https://clickhubspot.com/4f1519\n\nMost people waste hours going back and forth with ChatGPT, refining prompts until they finally get decent results. This video shows you four techniques that change that completely.\n\nYou'll learn how to reverse-engineer your best prompts, amplify one piece of content into multiple formats, use AI to critique its own work, and force ChatGPT to outline its reasoning before executing. Each technique is demonstrated with real examples you can apply immediately.\n\nThese methods have cut my AI workflow time in half, and they work across any role or industry.\n\n*TIMESTAMPS*\n00:00 Prompt Reversal Technique\n02:57 Free ChatGPT Resource\n03:35 The 5-Minute Amplifer\n06:06 The Red Team Technique\n08:09 Blueprint Scaffolding\n\n*RESOURCES MENTIONED*\nJoin the waitlist for my #AI Course: https://academy.jeffsu.org/ai-systems-academy?utm_source=youtube&utm_medium=video&utm_campaign=192\nWritten blogpost: https://www.jeffsu.org/4-chatgpt-hacks-that-cut-my-workload-in-half?utm_source=youtube&utm_medium=video&utm_campaign=192\n\n*BUILD A POWERFUL WORKFLOW*\n📈 The Workspace Academy - https://academy.jeffsu.org/workspace-academy?utm_source=youtube&utm_medium=video&utm_campaign=192\n✍️ My Notion Command Center - https://www.pressplay.cc/link/s/DE1C4C50\n\n*BE MY FRIEND:*\n📧 Subscribe to my newsletter - https://www.jeffsu.org/newsletter/?utm_source=youtube&utm_medium=video&utm_campaign=description\n📸 Instagram - https://instagram.com/j.sushie\n🤝 LinkedIn - https://www.linkedin.com/in/jsu05/\n\n*MY FAVORITE GEAR*\n🎬 My YouTube Gear - https://www.jeffsu.org/yt-gear/\n🎒 Everyday Carry - https://www.jeffsu.org/my-edc/\n\n#productivity",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-05T04:11:34Z",
+      "position": 44,
+      "thumbnail_url": "https://i.ytimg.com/vi/6hRO1q8vv60/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=6hRO1q8vv60"
+    },
+    {
+      "video_id": "SdO7qwI2CiA",
+      "title": "SORA 2 ILIMITADO e PROMPTS VIRAIS para VÍDEOS LUCRATIVOS com IA",
+      "description": "✅ Experimente o Sora 2 gratuitamente no insMind:\nhttps://www.insmind.com/utms/d13f82b9777e41eab436055f4cf3b60a\n\n✅ CURSO FILMMAKER COM IA: https://manualdeia.com.br/r/cursovideo/SdO7qwI2CiA \nAprenda as melhores técnicas para criar vídeos com Inteligência Artificial.\n🔽 O QUE VOCÊ GANHA NO CURSO 🔽\n⭐ Acesso ao GERADOR DE PROMPTS;\n⭐ Acesso ao BIBLIOTECA DE PROMPTS;\n⭐ Acesso ao FÓRUM EXCLUSIVO;\n⭐ Acesso a DESCONTOS EXCLUSIVOS nos Parceiros;\ne muitos ...\n\n👉 Post com todos os Prompts:\nhttps://www.manualdeia.com.br/prompts-virais-para-sora-2/\n\nPrompts Virais para Sora 2: o novo ouro da criação de vídeos com IA\n\nA chegada do Sora 2 transformou a forma como os criadores pensam em vídeo. A ferramenta da OpenAI elevou o nível do realismo, da fluidez e da narrativa visual gerada por inteligência artificial. Mas o verdadeiro segredo do sucesso dentro dessa nova era está nos prompts virais — aquelas combinações de palavras e conceitos que fazem um vídeo se espalhar pela internet, como se tivesse vida própria.\n\nTudo começa com a estrutura. Um prompt viral para Sora 2 não é apenas uma descrição técnica. É uma mini-história que equilibra clareza e emoção. Termos como “cinematic lighting”, “realistic motion” e “8K depth” ainda são fundamentais, mas o que realmente atrai atenção é a ideia por trás. Um exemplo é o uso de contrastes inesperados: um robô tocando piano em um campo de flores, uma criança olhando o nascer do sol em Marte, ou uma tempestade se formando dentro de um copo d’água. Essas imagens carregam um elemento de surpresa que desperta curiosidade e engajamento.\n\nOutra característica dos prompts virais em Sora 2 é o domínio da atmosfera. Não basta descrever o que acontece — é preciso transmitir o que se sente. Palavras que evocam sensações, como “melancholic tone”, “epic scale”, “mystical glow” ou “intimate realism”, ajudam o modelo a criar cenas com peso emocional. Os vídeos mais compartilhados são aqueles que parecem ter alma, mesmo quando são inteiramente digitais.\n\nTambém há uma ciência por trás do algoritmo social. Prompts que se tornam virais geralmente têm temas que tocam o imaginário coletivo: o futuro da humanidade, a nostalgia de um mundo perdido, a beleza da natureza, ou a mistura entre tecnologia e emoção. Criadores que dominam essa linguagem usam o Sora 2 não só para mostrar poder técnico, mas para provocar reflexão. É arte e engenharia em uma mesma linha de texto.\n\nO formato curto também contribui para o viral. Prompts projetados para vídeos de 5 a 10 segundos tendem a ter maior retenção em plataformas como YouTube Shorts, TikTok e Instagram Reels. Um início impactante, uma transição fluida e um desfecho visual inesperado são a receita clássica para despertar a reação imediata do espectador — aquela pausa involuntária antes de compartilhar o vídeo.\n\nPor fim, os prompts virais para Sora 2 são como fórmulas alquímicas: não existe uma regra fixa, mas há princípios universais. Clareza, emoção, contraste e timing. Quando esses elementos se alinham, o resultado é um vídeo que parece transcender o código — um fragmento de imaginação digital que ganha vida própria.\n\nO Sora 2 não é apenas uma ferramenta de geração de vídeo. É um espelho do imaginário humano. E os prompts virais são a linguagem secreta que conecta criadores e público nessa nova fronteira entre o real e o imaginado.\n\n#viralvideo #canaldarkyoutube #sora2 #openai #insmind #manualdeia",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-05T04:13:43Z",
+      "position": 45,
+      "thumbnail_url": "https://i.ytimg.com/vi/SdO7qwI2CiA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=SdO7qwI2CiA"
+    },
+    {
+      "video_id": "Ons1Fv3IE4U",
+      "title": "Orchestrator Agents & MCP: How AI Agents Drive Automation",
+      "description": "Ready to become a certified watsonx Data Scientist? Register now and use code IBMTechYT20 for 20% off of your exam → https://ibm.biz/BdbRy4\n\nLearn more about AI Agent Orchestration here → https://ibm.biz/BdbRyr\n\nHow do orchestrator agents manage multi‑agent systems? Melissa Hadley explains Model Context Protocol (MCP), workflow automation, and continuous learning to show how AI agents work together seamlessly. 🚀 See how orchestration improves task efficiency and performance in complex AI systems.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdbRys\n\n#multiagentsystems #modelcontextprotocol #agenticai",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-05T04:22:27Z",
+      "position": 46,
+      "thumbnail_url": "https://i.ytimg.com/vi/Ons1Fv3IE4U/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Ons1Fv3IE4U"
+    },
+    {
+      "video_id": "tchWeGgd_GQ",
+      "title": "As 5 Funções SECRETAS do Novo Cursor 2.0 - Tudo que você precisa saber",
+      "description": "🚀 O Cursor 2.0 chegou e mudou o jogo do desenvolvimento com IA.\n\nNeste vídeo, você vai descobrir como a nova LLM nativa do Cursor 2.0 revoluciona a arquitetura de código, permitindo multi-agentes, orquestração e revisão em paralelo, browser acoplado e até prompts por voz — tudo dentro da sua IDE.\n\nAcompanhe uma análise completa e veja na prática como o Cursor 2.0 está elevando o padrão do Vibe Coding. Testes reais, comparações entre modelos e um mergulho técnico na nova era do desenvolvimento com inteligência artificial aplicada.\n\n=================================================\n🚀INSCRIÇÕES ABERTAS! Black IA na veia: não perca a chance de turbinar sua carreira com 3 formações inéditas!\n👉 https://bit.ly/4oo9vrS\n\n================================================\n⭐ [As 5 Funções SECRETAS do Novo Cursor 2.0 - Tudo que você precisa saber]\n00:00:37 Novidades do Cursor 2.0 e visão geral da ferramenta\n00:02:16 Arquitetura multi-agentes e novas possibilidades\n00:03:48 Composer 1 – a LLM nativa e sua performance\n00:07:12 Testes práticos com múltiplos modelos (Composer, Sonnet e GPT-5 Codecs)\n00:13:06 Comparativo de resultados entre as LLMs\n00:15:34 Teste visual e interação com o console\n00:16:22 Prompt por voz e análise final das funcionalidades",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-05T04:31:24Z",
+      "position": 47,
+      "thumbnail_url": "https://i.ytimg.com/vi/tchWeGgd_GQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=tchWeGgd_GQ"
+    },
+    {
+      "video_id": "Q2SFqp_f9wI",
+      "title": "n8n Gemini 2.5 Pro: The Ultimate OCR Workflow for Invoice Processing",
+      "description": "Gemini 2.5 Pro has the highest visual reasoning scores , so I'm putting its OCR to the test. In this video, I replace the Google Vision API in my n8n invoice processing agent to see if Gemini 2.5 Pro can handle real-world, unstructured documents like folded, scratched, and blurry receipts.\n\nLet's dive into the capabilities of Google's latest, Gemini 2.5 Pro, and test its optical character recognition on a variety of datasets. This review explores how well the Gemini AI model performs with real-world examples and use cases, showcasing its potential as one of the top AI tools for data science. We'll also be testing various AI agent workflows!\n\nTo finish, we'll put the system to the ultimate test by batch-processing a folder of over 200 invoices  to see its real-world accuracy.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔗\n RESOURCES & LINKS\n\n💬\n Free Community & Support\nJoin our Discord: https://discord.com/invite/erictech\n\n📅\n Work With Me\nNew Projects - Free Strategy Call: https://calendar.app.google/sB9KrJP6e8j3EPmd9\nTechnical Consultation (Paid 1:1): https://calendar.app.google/BU9D589X3KNxnTeg6\n\n🤝\n Let's Connect\nLinkedIn: https://www.linkedin.com/in/ericwtech/\n\n➡️ GET THE COMPLETE n8n WORKFLOW TEMPLATE Skip the build and get this production-ready workflow, tested on 100+ datasets: https://buy.stripe.com/aFa5kCeRGbnleOJfP8cZa0m\n\n🔗 Mentioned in this Video:\nMy Original Invoice Agent (using Google Vision API): https://youtu.be/OhTZ48lnG2c?si=Z4oH3fqIN-v6wPlK\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n⏰ Timestamps: \n00:00 - Intro\n00:41 - Gemini 2.5 Pro vs. Google Vision API\n01:23 - Testing Gemini 2.5 Pro in Google AI Studio \n02:13 - Testing Difficult Receipts in Google Drive\n06:10 - n8n Invoice Agent Workflow Overview \n07:13 - Gemini 2.5 Pro API in n8n (HTTP Node) \n08:41 - Extracting Data & Saving to Google Sheets \n11:52 - Final Test w/ more Datasets (200+ Invoices)\n\n#n8n #gemini #ocr",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-05T04:34:45Z",
+      "position": 48,
+      "thumbnail_url": "https://i.ytimg.com/vi/Q2SFqp_f9wI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Q2SFqp_f9wI"
+    },
+    {
+      "video_id": "4J-dcCvmZJM",
+      "title": "Extract Patient Data from Lab Reports using ADE 💉📊  #ade #DocumentAI #healthcare",
+      "description": "👉 Watch the full video here: https://youtu.be/u-nXkJUFudg?si=UphyyxBtZeqmyGQt",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-05T04:35:24Z",
+      "position": 49,
+      "thumbnail_url": "https://i.ytimg.com/vi/4J-dcCvmZJM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=4J-dcCvmZJM"
+    },
+    {
+      "video_id": "MgqLAp4F3co",
+      "title": "Cognee: Superior AI Memory & Knowledge For AI Agents! Greatly Beats ChatGPT! (Opensource)",
+      "description": "Discover Cognee, the open-source AI memory and knowledge platform that takes AI agents to the next level! 🚀 Unlike traditional AI tools, Cognee builds an intelligent memory graph from your data, code, documents, and conversations, allowing AI agents to remember, understand, and reason contextually. Perfect for developers, teams, and researchers, Cognee helps you build smarter assistants, track knowledge over time, and unlock advanced insights—all in one system. 🧠💡\n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nOpen Agent Builder: Easily Create AI Agents That Can Automate Anything! Opensource n8n Alternative!: https://youtu.be/6sk-q79-zZE\nClaude Haiku 4.5: NEW Powerful Coding Model That's Cheap + Fast! Beats Sonnet 4 Easily!: https://youtu.be/qOB30aJZW9s\nOpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial): https://youtu.be/gHkdrO6IExM?si=lDxCrjGrwL6HAwnj\n\n📌 LINKS & RESOURCES\nGithub Repo: https://github.com/topoteretes/cognee\nDocs: https://docs.cognee.ai/getting-started/introduction\nWebsite: https://www.cognee.ai/\nGithub Notebook Templates: https://github.com/topoteretes/cognee/blob/main/notebooks/tutorial.ipynb\nUI Blog Post: https://www.cognee.ai/blog/cognee-news/product-announcement-cognee-ui\n\nIn this video, we explore how Cognee works, its practical use cases, and why it greatly outperforms ChatGPT in maintaining long-term context and actionable memory.\n\nWhat You'll Learn:\nHow Cognee ingests and structures data into a knowledge graph\nBuilding AI agents that remember past interactions\nUsing cognify(), memify(), and natural language search\nPractical applications for developers, teams, and AI enthusiasts\nStart leveraging Cognee today and supercharge your AI workflows!\n\nTags/Keywords:\nCognee, AI memory, AI knowledge base, AI agents, open source AI, ChatGPT alternative, AI assistant, AI development, AI workflow, knowledge graph, RAG AI, AI coding assistant, intelligent memory AI, Python AI, developer AI tools, machine learning, AI research, AI knowledge management\n\nHashtags:\n#Cognee #AI #OpenSourceAI #ChatGPTAlternative #KnowledgeGraph #AIAgents #MachineLearning #DeveloperTools #IntelligentMemory #PythonAI",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-05T20:10:08Z",
+      "position": 50,
+      "thumbnail_url": "https://i.ytimg.com/vi/MgqLAp4F3co/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=MgqLAp4F3co"
+    },
+    {
+      "video_id": "LEEmZP04oWU",
+      "title": "Week of Agents | New in Agent Bricks: MCP, Document Intelligence & More",
+      "description": "This week, Databricks is kicking off another “Week of Agents,” unveiling new Agent Bricks capabilities that make it easier to build trusted, production-ready AI agents. The latest updates expand governance with the new MCP Catalog and Marketplace, introduce intelligent document processing with ai_parse_document, and advance interoperability across any model, framework, or MCP server.\n\nAgent Bricks now gives every team the flexibility to build, evaluate, and scale AI agents confidently—on one open, governed platform. Tune in throughout the week for deeper dives into these releases!",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-06T00:39:44Z",
+      "position": 51,
+      "thumbnail_url": "https://i.ytimg.com/vi/LEEmZP04oWU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=LEEmZP04oWU"
+    },
+    {
+      "video_id": "zfQJs0TA8WI",
+      "title": "🔥 Grok Imagine Atualizado: Nova Função Texto para Vídeo, Remix e Duração Maior — GRÁTIS!",
+      "description": "🎁Teste a Inner AI Agora! Ganhe R$ 120 de Desconto: https://link.innerai.com/planos?referral_code=4fcfd25248bacac6c94f8\n✖️Siga o Onde eu Clico no X: https://x.com/ondeeuclicoX?s=09\n💪Seja membro deste canal e ganhe benefícios:\nhttps://www.youtube.com/channel/UCRVzEriB1B2JKGpsLpL-uNg/join\n===============\nO Grok Imagine acaba de receber uma atualização poderosa: agora ele transforma texto em vídeo direto no navegador! Neste vídeo, eu mostro como funciona o novo recurso da xAI, que promete mudar completamente a criação de conteúdo com inteligência artificial.\nVeja como gerar vídeos completos a partir de simples descrições e conheça os recursos visuais que colocam o Grok entre as ferramentas mais inovadoras do momento.\n================\n💰Produtos que eu recomendo:\n✅Echo Dot 5ª geração: https://amzn.to/3ZoffaX\n🎒Mochila Expansível HP Travel para Laptop de 15,6\": https://amzn.to/4afOOYX\n🎥Webcam USB Full HD 1080P: https://amzn.to/414BML6\n🐀Mouse Sem Fio Logitech Signature M650: https://amzn.to/497xRzk\n💻WB Suporte para Laptop Gro Anti-Derrapante: https://amzn.to/3C7r2BM\n⚡Nobreak ATTIV 600VA 120V Preto Intelbras: https://amzn.to/40xBjjZ\n===============\nO conteúdo sempre será gratuito, mas se você quiser me pagar um café é só CLICAR NO \"VALEU DEMAIS\" e escolher a quantia desejada! Seu nome ficará em destaque nos comentários como incentivador do canal!!!\n===============\nINSCREVA-SE NO CANAL:\nhttps://cutt.ly/aTYu0Gk\n===============\nCOMPARTILHE ESSE VÍDEO:\nhttps://youtu.be/zfQJs0TA8WI\n===============\n#GrokImagine #xAI #GrokAI #ElonMusk #TextToVideo #AIVideo #IA #InteligenciaArtificial #VideoAI #FerramentasDeIA\n===============",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-06T00:47:15Z",
+      "position": 52,
+      "thumbnail_url": "https://i.ytimg.com/vi/zfQJs0TA8WI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=zfQJs0TA8WI"
+    },
+    {
+      "video_id": "SWtIjKwIdfk",
+      "title": "Llama.cpp Gets a New Web UI",
+      "description": "Learn how to get started with llama.cpp new webui. \n\nLINKS:\nhttps://github.com/ggml-org/llama.cpp/discussions/16938\nhttps://github.com/ggml-org/llama.cpp/blob/master/docs/install.md\n\nGe my local Voice-to-text app: https://whryte.com/\nWebsite: https://engineerprompt.ai/\n\nRAG Beyond Basics Course:\nhttps://prompt-s-site.thinkific.com/courses/rag\n\nLet's Connect: \n🦾 Discord: https://discord.com/invite/t4eYQRUcXB\n☕ Buy me a Coffee: https://ko-fi.com/promptengineering\n|🔴 Patreon: https://www.patreon.com/PromptEngineering\n💼Consulting: https://calendly.com/engineerprompt/consulting-call\n📧 Business Contact: engineerprompt@gmail.com\nBecome Member: http://tinyurl.com/y5h28s6h\n\n💻 Pre-configured localGPT VM: https://bit.ly/localGPT (use Code: PromptEngineering for 50% off).  \n\nSignup for Newsletter, localgpt:\nhttps://tally.so/r/3y9bb0",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-06T00:51:35Z",
+      "position": 53,
+      "thumbnail_url": "https://i.ytimg.com/vi/SWtIjKwIdfk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=SWtIjKwIdfk"
+    },
+    {
+      "video_id": "xt70vorggWY",
+      "title": "This AI Creates Full Explainer Videos From a Single Prompt! (Golpo AI)",
+      "description": "YouTube content creation might never be the same again. A YC startup called Golpo just launched an AI platform that can turn a simple text prompt into a complete, high-quality explainer video in minutes. #aishorts\n\n🔔 Hit that SUBSCRIBE button for more game-changing AI tool reviews just like this!\n\n#GolpoAI #AIVideoGenerator #YouTubeAutomation #FacelessChannel #ArtificialIntelligence #ContentCreation #AITools #FutureOfTech #ExplainerVideo #Tech #YC",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-06T00:54:46Z",
+      "position": 54,
+      "thumbnail_url": "https://i.ytimg.com/vi/xt70vorggWY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=xt70vorggWY"
+    },
+    {
+      "video_id": "kAyYlWq6YJQ",
+      "title": "Turn Large PDF Tables into Excel-Ready Data using ADE 📈📊 #ade #pdf #excel",
+      "description": "👉 Watch the full video here: https://youtu.be/u-nXkJUFudg?si=UphyyxBtZeqmyGQt",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-06T00:55:31Z",
+      "position": 55,
+      "thumbnail_url": "https://i.ytimg.com/vi/kAyYlWq6YJQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kAyYlWq6YJQ"
+    },
+    {
+      "video_id": "Yx1BJYQv7m8",
+      "title": "Memos: Notion but private — run it yourself.  #github",
+      "description": "Memos: Notion but private — run it yourself\n\nIt’s an open-source, self-hosted note app with zero ads, zero telemetry, and zero subscriptions.\n\n#opensource #github #selfhosted #devtools",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-06T00:57:18Z",
+      "position": 56,
+      "thumbnail_url": "https://i.ytimg.com/vi/Yx1BJYQv7m8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Yx1BJYQv7m8"
+    },
+    {
+      "video_id": "KjimdycRdX8",
+      "title": "This NEW Cursor 2.0 Model is GOOD!",
+      "description": "I tested Cursor's NEW Composer Model on Web App task and it aced it!\n\nComposer is Cursor's new agent model designed for software engineering intelligence and speed. \nhttps://cursor.com/blog/composer\n\n❤️ If you want to support the channel ❤️\nSupport here:\nPatreon - https://www.patreon.com/1littlecoder/\nKo-Fi - https://ko-fi.com/1littlecoder\n\n🧭 Follow me on 🧭\nTwitter - https://twitter.com/1littlecoder",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-06T01:18:11Z",
+      "position": 57,
+      "thumbnail_url": "https://i.ytimg.com/vi/KjimdycRdX8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=KjimdycRdX8"
+    },
+    {
+      "video_id": "5v_-IfQdDgU",
+      "title": "RAG vs Fine-tuning (n8n) #n8n #rag #finetuning",
+      "description": "In this video, you'll learn the differences between Retrieval Augmented Generation (RAG) and fine-tuning models. RAG allows AI systems to access vast amounts of data using a vector database, while fine tune allows for further model optimization . See how these concepts work together in a simple n8n workflow.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-06T02:16:20Z",
+      "position": 58,
+      "thumbnail_url": "https://i.ytimg.com/vi/5v_-IfQdDgU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=5v_-IfQdDgU"
+    },
+    {
+      "video_id": "XZyFhmfaJfo",
+      "title": "Minhas 10 dicas mais úteis depois de criar mais de 60 AGENTES DE IA no N8N",
+      "description": "📌  Criação de prompts para Agentes de IA: https://alvoleads.com.br/prompts \n📌  Aula gratuita criação de Agentes de IA: https://alvoleads.com.br/grupo\n\n\n\n-\n\n\n\nDepois de criar mais de 60 agentes de IA no N8N, eu resolvi reunir neste vídeo as 10 lições mais valiosas que aprendi na prática.\n\nSe você quer entender como criar um agente de IA do zero, evitar os principais erros e aprender as estratégias que realmente funcionam nos bastidores, esse vídeo é pra você.\n\nAqui eu vou mostrar o que aprendi criando automações com N8N e integrando agentes de IA para WhatsApp que atendem, respondem, qualificam e até vendem sozinhos.\n\nEsses aprendizados vêm de projetos reais, com empresas de diferentes nichos, e são o tipo de conhecimento que você só adquire depois de colocar a mão na massa.\n\nAo longo do vídeo, eu compartilho passo a passo como estruturo meus fluxos e prompts, por que uso Postgres pra memória longa, como organizo dados no Supabase e como conecto tudo isso dentro do N8N.\n\nCada lição é um insight prático que pode acelerar muito o seu processo se você está criando automação com N8N ou começando a trabalhar com agentes de IA para iniciantes.\n\nVocê vai entender, por exemplo, como criar um agente de IA que entende áudio, processa a mensagem, resume a conversa e registra tudo automaticamente no banco de dados.\n\nEsse tipo de automação é o que está transformando o atendimento de negócios reais — clínicas, imobiliárias, escritórios e qualquer empresa que lida com leads todos os dias.\n\nTambém vou te mostrar como criar um agente de IA com N8N que vai muito além de responder perguntas.\n\nA ideia aqui é montar agentes que entendem o contexto, usam memória longa e conseguem agir de forma autônoma dentro do fluxo de vendas.\n\nEsses agentes são pensados pra gerar resultado real — seja agendando consultas, qualificando leads ou fazendo follow-ups automáticos.\n\nE se você quer dar os primeiros passos, esse vídeo também serve como um guia prático de como criar um agente de IA para WhatsApp — desde o planejamento do fluxo, a estruturação do prompt, até a parte técnica de conectar o N8N com o Chatwoot, Supabase e GPT.\n\nMesmo que você seja iniciante, vai conseguir entender a lógica por trás e aplicar no seu negócio.\n\nO vídeo também é ideal pra quem quer usar agentes de IA para vendas. Você vai entender como automatizar o atendimento comercial de forma estratégica, sem perder o toque humano.\n\nOs agentes que mostro aqui são capazes de captar leads, identificar interesse, fazer perguntas certas e enviar o lead qualificado direto pro time de vendas ou pro CRM.\n\nEssas 10 lições são resultado de dezenas de projetos e mais de 60 fluxos reais construídos.\nCada uma delas representa um passo na jornada de quem aprendeu como criar um agente de IA na prática, testando e ajustando até encontrar o que realmente dá resultado.\n\nSe você quer dominar automações com N8N, aprender como criar um agente de IA com N8N que se conecta com o WhatsApp e até como criar um agente de IA que entende áudio e conversa de forma natural com os clientes — esse vídeo vai te mostrar o caminho.\n\nAssiste até o final, porque no fim do vídeo eu deixei um convite especial pra uma aula prática, onde eu mostro na tela todo o processo: do planejamento até a criação completa do agente, ligando node por node dentro do N8N.\n\nEssa aula é exclusiva pra quem está realmente comprometido em aprender como criar um agente de IA e dominar agentes de IA para vendas de verdade.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-06T02:42:14Z",
+      "position": 59,
+      "thumbnail_url": "https://i.ytimg.com/vi/XZyFhmfaJfo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=XZyFhmfaJfo"
+    },
+    {
+      "video_id": "dBvSJvGkwRo",
+      "title": "Agente de IA para BARBEARIA no N8N com Atendimento e Agendamento Automático",
+      "description": "📌  Compre este Workflow aqui:\nhttps://alvoleads.com.br/templates-n8n/barbearia/\n\n📱  Grupo Whatsapp: https://alvoleads.com.br/grupo\n\n📌 Curso de Prompt: https://alvoleads.com.br/prompts\n\n📂 Templates N8N: https://alvoleads.com.br/templates-n8n/\n📱 API de Whatsapp que uso: https://alvoleads.com.br/y-uzapi\n\n➡️ Minha mentoria: https://alvoleads.com.br/y-mentoria-ia\n➡️ Meu Whatsapp: https://hermesmind.com.br/yt-afonso\n\n\n--------------------------------------------\n\n\nJá imaginou ter um Agente de IA para Barbearia que atende seus clientes no WhatsApp de forma automática, responde com naturalidade e ainda faz agendamentos automáticos direto no Google Calendar?\n\nÉ exatamente isso que eu mostro neste vídeo. Você vai aprender passo a passo como criar Agentes de IA no WhatsApp usando o N8N, conectando todas as ferramentas de forma inteligente e prática.\n\nA maioria das barbearias ainda depende de atendentes humanos para responder mensagens e marcar horários, o que gera filas de espera e perda de clientes. Com um Agente de IA para WhatsApp, você automatiza tudo isso sem perder o toque humano.\n\nO agente conversa com o cliente, entende o que ele quer, apresenta os serviços disponíveis, informa valores e envia os horários disponíveis — tudo em segundos.\n\nNesse vídeo eu mostro como montei o fluxo completo dentro do N8N, unindo IA, Google Calendar e WhatsApp.\n\nO resultado é um Agente de IA para Barbearia que faz o atendimento do início ao fim, confirmando o agendamento com mensagens personalizadas e até enviando lembretes automáticos.\n\nÉ o tipo de automação que transforma o atendimento tradicional em algo realmente profissional e escalável.\n\nDurante o vídeo, eu também explico a importância de estruturar bem o prompt — o cérebro da IA. Ele define a linguagem, o tom de voz e as instruções que o agente deve seguir.\n\nUm Agente de IA no N8N só funciona de verdade quando o prompt é claro, dividido por blocos e otimizado para respostas curtas, diretas e humanizadas. Assim, o cliente sente que está falando com alguém real, e não com um robô.\n\nAlém disso, o fluxo que eu ensino pode ser adaptado para qualquer outro negócio: clínicas, estúdios de beleza, academias e até profissionais autônomos.\n\nO segredo é entender como criar Agentes de IA no WhatsApp de forma estratégica, com lógica de atendimento e integração com sistemas de agenda como o Google Calendar.\n\nOutro ponto que abordo é o uso de IA para interpretar áudios. Cada vez mais clientes mandam mensagens de voz pedindo horários, e o Agente de IA que entende áudio é capaz de captar o que foi dito e agir de acordo — confirmando o corte, reagendando um horário ou oferecendo um serviço adicional. Esse tipo de recurso eleva a experiência do cliente e torna o processo ainda mais natural.\n\nO Agente de IA de atendimento que ensino no vídeo também pode lidar com cancelamentos, reagendamentos e confirmações. Ele é totalmente personalizável: você define o nome do barbeiro, os horários disponíveis, o tempo de cada serviço e a forma de resposta.\n\nAssim, cada barbearia pode ter um agente único, com a identidade da marca e o estilo de comunicação que quiser.\n\nO grande diferencial dessa automação é a integração total com o Google Calendar, que garante que todos os agendamentos automáticos fiquem sincronizados e atualizados em tempo real. Isso evita conflitos de horário e garante que o barbeiro tenha sempre o controle total da agenda, mesmo sem precisar abrir o celular.\n\nAo longo do vídeo, eu também mostro exemplos de mensagens, estrutura de prompts e dicas práticas pra deixar o fluxo leve, rápido e escalável. Essa é a base de qualquer Agente de IA no N8N: uma lógica simples, conectada e que realmente entrega resultado.\n\nSe você quer levar sua barbearia para o próximo nível, economizar tempo e oferecer uma experiência moderna pros seus clientes, esse vídeo é pra você.\n\nAprenda como criar Agentes de IA no WhatsApp do jeito certo, com foco em atendimento humanizado, agendamento automático e integração com Google Calendar.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-06T02:44:32Z",
+      "position": 60,
+      "thumbnail_url": "https://i.ytimg.com/vi/dBvSJvGkwRo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=dBvSJvGkwRo"
+    },
+    {
+      "video_id": "69voVwdcVYg",
+      "title": "Maya1 : 1st AI Voice Design TTS",
+      "description": "How to use Maya1 for free ? #ai #chatgpt #coding #programming #llm #generativeai #computerscience #computer #engineering #modelcontextprotocol",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-06T03:33:19Z",
+      "position": 61,
+      "thumbnail_url": "https://i.ytimg.com/vi/69voVwdcVYg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=69voVwdcVYg"
+    },
+    {
+      "video_id": "7WOhsEAWi9g",
+      "title": "🚀 Melhore QUALQUER imagem com IA (4K, 8K e até 32K!) – Aiarty Image Enhancer",
+      "description": "✅ Remova o ruído das suas fotos com IA, mantendo todos os detalhes nítidos e naturais — sem configurações complicadas!\n✨ Experimente o Aiarty Image Enhancer gratuitamente: https://tinyurl.com/yaphcx89\n💰 Economize 49% na Licença Vitalícia: https://tinyurl.com/4na7t489\n — Use em até 3 dispositivos, com atualizações gratuitas ilimitadas (sem assinatura).\n===============\nQuer transformar suas fotos comuns em imagens com qualidade de estúdio?\nO Aiarty Image Enhancer é uma ferramenta de inteligência artificial que melhora a nitidez, remove ruídos e aumenta a resolução de qualquer imagem — de retratos a paisagens — com um clique.\n===============\n💰Produtos que eu recomendo:\n✅Echo Dot 5ª geração: https://amzn.to/3ZoffaX\n🎒Mochila Expansível HP Travel para Laptop de 15,6\": https://amzn.to/4afOOYX\n🎥Webcam USB Full HD 1080P: https://amzn.to/414BML6\n🐀Mouse Sem Fio Logitech Signature M650: https://amzn.to/497xRzk\n💻WB Suporte para Laptop Gro Anti-Derrapante: https://amzn.to/3C7r2BM\n⚡Nobreak ATTIV 600VA 120V Preto Intelbras: https://amzn.to/40xBjjZ\n===============\nO conteúdo sempre será gratuito, mas se você quiser me pagar um café é só CLICAR NO \"VALEU DEMAIS\" e escolher a quantia desejada! Seu nome ficará em destaque nos comentários como incentivador do canal!!!\n===============\nINSCREVA-SE NO CANAL:\nhttps://cutt.ly/aTYu0Gk\n===============\nCOMPARTILHE ESSE VÍDEO:\nhttps://youtu.be/7WOhsEAWi9g\n===============\n#AiartyImageEnhancer #IA #ImageUpscale #FotoEm4K #FotoEm8K #AIImageEnhancer #AprimorarImagem #MelhorarFoto #FerramentaIA #Tecnologia\n===============",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-08T23:31:13Z",
+      "position": 62,
+      "thumbnail_url": "https://i.ytimg.com/vi/7WOhsEAWi9g/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=7WOhsEAWi9g"
+    },
+    {
+      "video_id": "YKLjoNUCOeo",
+      "title": "I Used ZOER AI to Build a NanoBanana AI Image Generator App in Minutes!",
+      "description": "Build the AI app of your dreams with ZOER today: https://zoer.ai/?utm_source=youtube&utm_medium=video&utm_campaign=Rob\n\nIn this video I show you how I vibe coded a NanoBanana AI image generator in minutes with AI. If you want to learn how to build AI apps without knowing how to code this video is for you. Zoer AI replaces Lovable, Netlify and Supabase and lets you use one ai tool to build the AI app of your dreams.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-09T02:58:38Z",
+      "position": 63,
+      "thumbnail_url": "https://i.ytimg.com/vi/YKLjoNUCOeo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=YKLjoNUCOeo"
+    },
+    {
+      "video_id": "6zw2p2l4fHI",
+      "title": "Google's Nano Banana 2.0: Best Image Generation Model EVER? The Photoshop killer",
+      "description": "Google’s latest image generation model, Nano Banana 2, just dropped into preview on Media.io — and the results are absolutely wild! 🌟 This ultra-lightweight AI image generator is designed to run insanely fast while still delivering high-quality visuals. Think of it as Google’s “small but deadly” model, now upgraded to a whole new level.\n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nOpen Agent Builder: Easily Create AI Agents That Can Automate Anything! Opensource n8n Alternative!: https://youtu.be/6sk-q79-zZE\nClaude Haiku 4.5: NEW Powerful Coding Model That's Cheap + Fast! Beats Sonnet 4 Easily!: https://youtu.be/qOB30aJZW9s\nOpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial): https://youtu.be/gHkdrO6IExM?si=lDxCrjGrwL6HAwnj\n\n📌 LINKS & RESOURCES\nAccess Nano Banana 2: https://www.media.io/ai/text-to-image\nTestingcatalog Blog: https://www.testingcatalog.com/early-look-at-images-generated-by-nano-banana-2/\nTesting Catalog Twitter: https://x.com/testingcatalog\nLegit Twitter: https://x.com/legit_api\n\nFrom what we’ve seen, Nano Banana 2 brings:\nNative 2K output with potential 4K upsampling 🎨\nHuge improvements in text rendering, charts, infographics 📊\nMultilingual support 🌐\nTransparency support for seamless compositing 🖼️\nBuilt on Gemini 3.0 Pro, a massive leap from the older 2.5 Flash model ⚡\nIf these specs hold, Google is about to disrupt the AI image generation game in a big way!\n\n💡 Why it matters:\nNano Banana 2 could become a Photoshop alternative for fast, high-quality AI image creation. Perfect for creators, designers, and anyone looking to generate visuals without compromise.\n\n🎬 Watch to see the insane previews and test results — Nano Banana 2 might just change the AI art game forever!\n\nTags (split by commas):\nNano Banana 2, Google AI, AI image generator, AI art, Photoshop alternative, Gemini 3.0 Pro, Media.io, AI visuals, image generation AI, fast AI model, text to image AI, multilingual AI, AI transparency, AI 2K images, AI 4K upsampling, small but deadly AI, best AI image generator\n\nHashtags:\n#NanoBanana2 #googleai  #aiimagegenerator  #aiart  #PhotoshopKiller #gemini3  #FastAI #aivisuals  #texttoimage  #AI2K #ai4kvideolookbookindianmodels  #nextgenai  #AIContentCreation 🎨🤖✨",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-09T05:41:09Z",
+      "position": 64,
+      "thumbnail_url": "https://i.ytimg.com/vi/6zw2p2l4fHI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=6zw2p2l4fHI"
+    },
+    {
+      "video_id": "AqUmQuktA20",
+      "title": "🎤 A IA Que Transforma Sua Voz ao Vivo – Testei o EaseUS VoiceWave!",
+      "description": "✅Baixe o EVW e desbloqueie até 70% de desconto usando meu código BFJOY2025: https://bit.ly/43cRPHg\n🚀Confira a Black Friday da EaseUS: https://bit.ly/4oTbjc7\n🎁Cupom 70% Off: BFJOY2025\n✖️Siga o Onde eu Clico no X: https://x.com/ondeeuclicoX?s=09\n💪Seja membro deste canal e ganhe benefícios:\nhttps://www.youtube.com/channel/UCRVzEriB1B2JKGpsLpL-uNg/join\n===============\nQuer mudar completamente sua voz em tempo real?\nCom o EaseUS VoiceWave, dá pra jogar, fazer lives e criar conteúdo com mais de 300 vozes diferentes, incluindo vozes com IA ultra-realistas!\n===============\n💰Produtos que eu recomendo:\n✅Echo Dot 5ª geração: https://amzn.to/3ZoffaX\n🎒Mochila Expansível HP Travel para Laptop de 15,6\": https://amzn.to/4afOOYX\n🎥Webcam USB Full HD 1080P: https://amzn.to/414BML6\n🐀Mouse Sem Fio Logitech Signature M650: https://amzn.to/497xRzk\n💻WB Suporte para Laptop Gro Anti-Derrapante: https://amzn.to/3C7r2BM\n⚡Nobreak ATTIV 600VA 120V Preto Intelbras: https://amzn.to/40xBjjZ\n===============\nO conteúdo sempre será gratuito, mas se você quiser me pagar um café é só CLICAR NO \"VALEU DEMAIS\" e escolher a quantia desejada! Seu nome ficará em destaque nos comentários como incentivador do canal!!!\n===============\nINSCREVA-SE NO CANAL:\nhttps://cutt.ly/aTYu0Gk\n===============\nCOMPARTILHE ESSE VÍDEO:\nhttps://youtu.be/AqUmQuktA20\n===============\n#voicechanger #aivoicechanger #voiceclone #EaseUSVoiceWave #voicechanger #aivoicechanger #discordvoicechanger #real-timevoicechanger #malevoicechanger #femalevoicechanger #freevoicechanger #fortnite #valorant #roblox #vrchat #voiceai #discordtips #discordtutorials #gamingsetup #blackfridaydeals #AItools #gamersbrasil\n===============",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-10T06:05:52Z",
+      "position": 65,
+      "thumbnail_url": "https://i.ytimg.com/vi/AqUmQuktA20/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=AqUmQuktA20"
+    },
+    {
+      "video_id": "dhplQXZaNyQ",
+      "title": "This NEW AI Tool Helps You Make Money With AI in 2025 (Monetize Faceless Animation Videos)",
+      "description": "Create Faceless Animation Videos For Free with Readkidz: https://turingmobihktechnologycolimited.sjv.io/5542Po\n\nIf you want to learn how to make money with AI in 2025 this video is for you. This video walks you through monetizing faceless animation videos and how to make them with a new AI tool.\n\nJoin AI Automation School (Learn To Automate Your Work & Make $ With AI) 👉 https://www.skool.com/ai-automation-school/about",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-11T05:15:29Z",
+      "position": 66,
+      "thumbnail_url": "https://i.ytimg.com/vi/dhplQXZaNyQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=dhplQXZaNyQ"
+    },
+    {
+      "video_id": "2aldTxnbNt0",
+      "title": "Cursor 2.0 Tutorial for Beginners (Full Course)",
+      "description": "Complete Cursor Guide with Kehan Zhang\n\nThis is the Complete Cursor Guide with Kehan Zhang, one of the best developers out there, who uses Cursor extensively. In this comprehensive course, learn how to confidently use Cursor to code landing pages, desktop apps, and more. No prior programming knowledge needed – just a computer.\n In this video:\n-we cover everything from the basics to advanced features of Cursor 2.0\n-how to transform it into a full-stack app\n-and how to compare it with other vibe coding tools like Replit, V0, and Lovable. \n\nTry out using Vibecode here (get your first 3 apps free): https://vibecode.go.link/9ADNT\n\nTry out the meme generator we creator in this video: https://meme-generator-one-psi.vercel.app/\n\nOur socials:\nhttps://x.com/kehanisvibing\nhttps://x.com/rileybrown\nhttps://www.instagram.com/realrileybrown/\nhttps://www.youtube.com/@vibecodeapp\n\nTIME STAMPS\n00:00 Introduction\n01:01 Overview of Cursor and Its Features\n01:47 Getting Started with Cursor\n02:39 Understanding IDE and Vibe Coding\n06:00 Cursor For Mobile Apps\n10:26 Downloading and Installing Cursor\n11:17 Creating and Managing Projects in Cursor\n15:14 Building a Simple Game with Cursor\n19:10 Advanced Features and Customization\n40:28 Fixing Styling Rules\n40:53 Redesigning the App\n42:17 Exploring Cursor 2.0 Features\n43:22 Setting Up the Project Structure\n44:17 Adding and Testing Meme Templates\n46:08 Debugging Text Issues\n49:46 Using Multiple Agents\n01:10:40 Creating Custom Commands\n01:14:15 Creating Commands in Settings Tab\n01:15:11 Introduction to Instant DB\n01:16:04 Setting Up Instant DB in Your Project\n01:18:24 Building a Full Stack Application\n01:19:04 Using the Agent to Plan and Build\n01:21:35 Refactoring to Next.js\n01:26:06 Testing and Debugging the Application\n01:53:02 Deploying the Application with Vercel\n01:55:35 Setting Up the CLI\n01:56:15 Understanding Command Line Interfaces (CLI)\n01:57:32 Deploying Code to Vercel\n01:58:07 Handling Environment Variables\n01:58:44 Interacting with the Vercel Deployment\n02:00:34 Exploring Cursor's Capabilities\n02:09:48 Comparing Vibe Coding Tools\n02:31:04 Final Thoughts and Recommendations",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-11T05:44:47Z",
+      "position": 67,
+      "thumbnail_url": "https://i.ytimg.com/vi/2aldTxnbNt0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=2aldTxnbNt0"
+    },
+    {
+      "video_id": "SQ-FJxkOW08",
+      "title": "🔥 GERE VÍDEOS LONGOS EXTRAORDINÁRIOS COM ESSA TÉCNICA USANDO IA de VÍDEO GRATUITA e ILIMITADA",
+      "description": "Veja como criar vídeo longos da maneira correta, independente do modelo de IA que esteja usando, pode ser qualquer um como o Grok, Sora 2, Veo 3 ou qualquer outro.\n\n✅ CURSO FILMMAKER COM IA: https://manualdeia.com.br/r/cursovideo/SQ-FJxkOW08 \nAprenda as melhores técnicas para criar vídeos com Inteligência Artificial.\n🔽 O QUE VOCÊ GANHA NO CURSO 🔽\n⭐ Acesso ao GERADOR DE PROMPTS;\n⭐ Acesso ao BIBLIOTECA DE PROMPTS;\n⭐ Acesso ao FÓRUM EXCLUSIVO;\n⭐ Acesso a DESCONTOS EXCLUSIVOS nos Parceiros;\n⭐ Acesso aos E-BOOKS EXCLUSIVOS do Canal;\n⭐ Acesso a Comunidade com MEU SUPORTE;\n⭐ Conteúdo Atualizado;\n⭐ Conteúdo Adicional: Curso Midjourney + Novidades;\n⭐ Conteúdo Adicional: Curso Eleven Labs;\n⭐ Periodicamente atualizado com NOVOS CONTEÚDOS;\n⭐ Acesso a TODAS AS AULAS;\n\n👉 Post com todos os links:\nhttps://www.manualdeia.com.br/videos-longos-lendarios-veja-como-fazer-videos-com-ia/\n\nA produção de vídeos longos com inteligência artificial está se tornando uma das áreas mais interessantes e inovadoras dentro do audiovisual. Se antes o uso da IA era visto apenas como uma ferramenta para criar pequenos clipes experimentais ou recursos visuais complementares, agora essa tecnologia já é capaz de sustentar narrativas completas, com começo, meio e fim. Essa mudança vem transformando tanto a forma de criar conteúdo quanto a maneira como produtores, criadores e empresas enxergam o futuro da produção audiovisual.\n\nA principal característica da produção de vídeos longos com IA é a capacidade de automatizar etapas que antes exigiam equipes inteiras: roteiro, direção de arte, animação, edição, correção de cor, efeitos visuais e até trilha sonora. Ferramentas avançadas permitem gerar cenas completas a partir de descrições de texto, criando movimentos de câmera, cenários detalhados e personagens coerentes. Claro, ainda existem limitações, principalmente na consistência ao longo de uma narrativa extensa, mas a evolução tem sido constante e rápida.\n\nOutra grande mudança está no processo criativo. Em vez de começar com um storyboard desenhado, muitos criadores iniciam a partir de prompts: instruções textuais que descrevem ambiente, atmosfera, cenas e estilo visual. O refinamento vem por iteração, onde o criador ajusta o prompt e reprocessa a cena até encontrar o resultado desejado. Isso transforma a função do criador em algo muito próximo ao papel de um diretor que guia a inteligência artificial para alcançar a estética e o tom pretendidos.\n\nA economia de recursos também é um dos fatores que fazem a produção de vídeos longos com IA se destacar. Mesmo com ferramentas pagas, o custo é muito menor do que o de uma produção tradicional. Não há gastos com locações, equipamentos, atores, figurinos e equipes numerosas. Para pequenas produtoras, criadores independentes e até empresas que querem gerar conteúdo educativo ou de marketing em larga escala, essa redução de custo abre portas que antes eram inacessíveis.\n\nPorém, a produção de vídeos longos não é apenas um processo automatizado. Criar algo que prenda atenção por vários minutos ou até horas exige domínio narrativo. A IA pode gerar imagens e cenas, mas quem dá sentido à história é o ser humano. A capacidade de construir personagens, provocar emoção e transmitir mensagem ainda é um talento que depende de sensibilidade, intenção e experiência criativa. A tecnologia auxilia, mas não substitui o olhar humano.\n\nO cenário aponta para um futuro onde o criador terá mais poder e autonomia. O que antes era um processo caro, lento e restrito a grandes estúdios está se tornando acessível a qualquer pessoa com uma ideia e vontade de aprender a dialogar com as ferramentas de IA. Essa democratização pode resultar em uma explosão de novos estilos de narrativa, novos gêneros audiovisuais e novas formas de expressão visual.\n\nA produção de vídeos longos com inteligência artificial é mais do que uma tendência tecnológica: é um novo capítulo para o cinema, para o conteúdo digital e para a arte visual. A fronteira entre imaginação e execução está se tornando cada vez menor. E quem souber explorar essa fronteira com criatividade estará na vanguarda do próximo grande movimento cultural da era digital.\n\n#iavideo #veo3 #googleveo3 #nanobanana2 #manualdeia",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-11T22:07:29Z",
+      "position": 68,
+      "thumbnail_url": "https://i.ytimg.com/vi/SQ-FJxkOW08/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=SQ-FJxkOW08"
+    },
+    {
+      "video_id": "wrrRccbXZ7E",
+      "title": "🤖 Essa Atualização do APOB AI Vai Surpreender Qualquer Criador!",
+      "description": "✅Teste Apob AI Agora: https://mega.apob.ai/ondeeuclico4\n🎁Cupom de Desconto: Gustavo15\n✖️Siga o Onde eu Clico no X: https://x.com/ondeeuclicoX?s=09\n💪Seja membro deste canal e ganhe benefícios:\nhttps://www.youtube.com/channel/UCRVzEriB1B2JKGpsLpL-uNg/join\n===============\nO APOB AI acaba de lançar um dos recursos mais poderosos do ano: o Image to Video Ultra S, que transforma qualquer imagem em um vídeo realista com movimentos naturais e detalhes impressionantes.\nE o melhor? Agora você pode combinar esse recurso com o Revideo, que adapta automaticamente o vídeo para TikTok, Reels ou Shorts — tudo direto no navegador e sem precisar editar manualmente.\n===============\n💰Produtos que eu recomendo:\n✅Echo Dot 5ª geração: https://amzn.to/3ZoffaX\n🎒Mochila Expansível HP Travel para Laptop de 15,6\": https://amzn.to/4afOOYX\n🎥Webcam USB Full HD 1080P: https://amzn.to/414BML6\n🐀Mouse Sem Fio Logitech Signature M650: https://amzn.to/497xRzk\n💻WB Suporte para Laptop Gro Anti-Derrapante: https://amzn.to/3C7r2BM\n⚡Nobreak ATTIV 600VA 120V Preto Intelbras: https://amzn.to/40xBjjZ\n===============\nO conteúdo sempre será gratuito, mas se você quiser me pagar um café é só CLICAR NO \"VALEU DEMAIS\" e escolher a quantia desejada! Seu nome ficará em destaque nos comentários como incentivador do canal!!!\n===============\nINSCREVA-SE NO CANAL:\nhttps://cutt.ly/aTYu0Gk\n===============\nCOMPARTILHE ESSE VÍDEO:\nhttps://youtu.be/thd6Sbwe9f4\n===============\n#apobai #image2video #revideo #aivideo #talkingavatar #aiavatar #aivideogenerator #aicontentcreator #videoai #aiediting #chattoedit #addsubtitles #imagegeneration #texttovideo #aiupdate\n===============",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-11T22:34:12Z",
+      "position": 69,
+      "thumbnail_url": "https://i.ytimg.com/vi/wrrRccbXZ7E/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=wrrRccbXZ7E"
+    },
+    {
+      "video_id": "xxPeg66n83w",
+      "title": "CHEGOU! Canva Vídeo 2.0: Novo Editor de vídeos grátis e fácil (ATUALIZAÇÃO 2025)",
+      "description": "Descubra o Canva Vídeo 2.0: edição mais rápida e profissional! Nova timeline, camadas e publicação direta. Você vai ganhar muito tempo!\n\n— ⚠️ LINKS IMPORTANTES\n\n🌍 Veja o link abaixo para conferir todas as novidades do Canva 2025 e Link pra Baixar o Affinity Grátis \n👉👉👉 https://partner.canva.com/novidadescanvacomia\n\n🔵 Ainda não tem Canva? Abra uma conta GRÁTIS AGORA: 👇 \n👉  https://partner.canva.com/degraca\n\n✨🎉 EXPERIMENTE O CANVA PRO GRÁTIS POR 30 DIAS! 🎉✨\n👉 https://partner.canva.com/45diasgratis\n\n🔥MONETIZE COM  O CANVA - SUPER desconto🔥\nO Único CURSO com professor ✅ CERTIFICADO pela própria ferramenta Canva. \n👉  https://www.robboliver.pro/\n\n🚀 Ganhe até R$10.000/mês com Motions Animados, sem prospectar clientes. Conheça o Animotion Pro 👇  \nhttps://robboliver.com.br/animotion-pv-insta/\n\n😎 MEUS TEMPLATES DE GRAÇA, JÁ PENSOU❓\nAo usar os meus templates você ajuda o projeto a crescer, USE TODOS ELES 😅\n👉https://partner.canva.com/templatesrob\n\n🎖 Seja membro do canal e ganhe benefícios:\nhttps://www.youtube.com/channel/UCWsePDWLUxK6Kg6VrIS4o7g/join\n\n—— 🔧 + FERRAMENTAS QUE USO E RECOMENDO!\n\n🔥 Essas são as ferramentas que mais me ajudam a gerar renda com o Canva e I.A.!\n👉 https://robboliver.eu/ferramentas\n\n——  📺 NÃO DEIXE DE ASSISTIR. \n\n🤑 Playlist DINHEIRO COM O CANVA - APRENDA!\n👉 https://youtube.com/playlist?list=PL6zWSzHHMuNrAX-jMn-QZcV-Yu3DT1aLo&si=IzqzNXJFcEO4J31w\n\n🔵 ATUALIZAÇÕES CANVA - FIQUE POR DENTRO DAS NOVIDADES. \n👉 https://youtube.com/playlist?list=PL6zWSzHHMuNqJOxnFmofw2-hhmM1ak-PZ&si=mF2gjgFW0sTb0Tvm\n\n🔵 AULÔES GRÁTIS - APRENDA MUUUUUITO!\n👉  https://youtube.com/playlist?list=PL6zWSzHHMuNpIUp7xSG3k3SlBff2nzy_i&si=qTP3tZJkedmXiHfo\n\n🔵 TRUQUES QUE PARECEM MÁGICA - ASSISTA!\n👉 https://youtube.com/playlist?list=PL6zWSzHHMuNqsl8wPa4GjQw2gNfUdxbFL&si=YHJhmd1B2M2U40BG\n\n🔵 APRENDA CANVA EM 1 MINUTO - SHORTSCANVA\n👉 https://bit.ly/3ElMdw2\n\n\n\n—— 👨💻 SOBRE MIM. \n\nEu sou Rob UX/UI designer e Embaixador certificado Canva, vivo na europa há muitos anos, onde eu obtive a minha formação, ajudo pessoas e negócios a ter maior alcance através do Canva. \n\nO Canva é uma ferramenta de design poderosa e gratuita que todos podem usar para criar o que você quiser.\n\nEu pessoalmente uso todos os dias!\n\nNesse canal, quero mostrar o Canva para o maior número possível pessoas, e ensinar vocês a criarem visuais e gráficos profissionais para criar sua marca, uso pessoal ou expandir seus negócios.\n\n\n\n📩☎️ CONECTE-SE COM O ROB ☎️📩\n\nMe siga no INSTAGRAM : https://www.instagram.com/rob.boliver/\nContato em Geral: suporte@robboliver.pro\n(EXCLUSIVO⚠️ para contatos comerciais): contato@robboliver.pro\n\n\n\n\n\n\n#Robboliver #comousarocanva   #canvacomousar \n\n\n\n⚠️⚠️Este canal tem caráter educativo.\nEu ensino ferramentas e estratégias reais, mas não prometo ganhos — o resultado depende do seu esforço e prática.\n\nTodo o conteúdo segue as políticas do YouTube e tem como objetivo educar, inspirar e abrir possibilidades reais.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-11T22:59:17Z",
+      "position": 70,
+      "thumbnail_url": "https://i.ytimg.com/vi/xxPeg66n83w/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=xxPeg66n83w"
+    },
+    {
+      "video_id": "AmK5RqfpAEE",
+      "title": "Building the Modern Quantum Architecture: Lecture 1 — Utility-Scale Quantum Applications",
+      "description": "Where is quantum computing headed—and what will it take to get there? In the first lecture of Building the Modern Quantum Architecture, Microsoft Technical Fellow Dr. Matthias Troyer charts the engineering path to a utility-scale quantum computer—a system capable of solving problems that classical machines can’t touch. \n\n📝You’ll learn: \n✅Why the most promising applications lie in chemistry and materials science, from better batteries to sustainable coolants. \n✅How quantum will work alongside AI and high-performance computing (HPC) to accelerate scientific discovery. \n✅Why teaching AI the laws of quantum physics could unlock breakthroughs in predicting material properties. \n\nThis series is designed for technical leaders, engineers, and scientists who want a clear view of the architecture, challenges, and hybrid workflows shaping quantum’s future.\n\nWatch now and follow the series: https://msft.it/6051tMafh\n\n#MicrosoftQuantum  #AzureQuantum #Majorana1  #QuantumComputing",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-12T04:35:43Z",
+      "position": 71,
+      "thumbnail_url": "https://i.ytimg.com/vi/AmK5RqfpAEE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=AmK5RqfpAEE"
+    },
+    {
+      "video_id": "mvHLFCE1thU",
+      "title": "Essa IA cria vídeos de anúncio sozinha (e é assustador)",
+      "description": "Conheça essa IA que cria vídeos de anúncio sozinha e comece a transformar sua produção de conteúdo — sem precisar de estúdio, equipe ou atores! 🎥🤖\n\nNo novo vídeo, você vai entender como automatizar todo o processo de criação de vídeos UGC (User Generated Content), desde a análise e roteirização até a geração da imagem e entrega final, usando ferramentas de IA integradas em um fluxo simples e visual.\n\nVocê vai ver como criar vídeos realistas de produtos em poucos minutos, com personalização, baixo custo e alto poder de conversão. Tudo isso usando plataformas como Lovable, N8N, Fall.ai, OpenAI e outras que tornam o processo acessível e escalável.\n\n=================================================\n🟡 INSCRIÇÕES ABERTAS! SUPER BLACK IA NA VEIA NOCODE STARTUP.\n👉 https://bit.ly/4oX2UVc\n\n================================================\n⭐ [Essa IA cria vídeos de anúncio sozinha (e é assustador)]\n00:00:45 - O que é UGC e por que converte tanto  \n00:02:00 - Automação do processo: visão geral  \n00:03:50 - Fluxo prático no Lovable e N8N  \n00:06:30 - Geração de imagens e vídeos com IA  \n00:09:00 - Personalização e exemplos de resultados",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-12T04:49:39Z",
+      "position": 72,
+      "thumbnail_url": "https://i.ytimg.com/vi/mvHLFCE1thU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=mvHLFCE1thU"
+    },
+    {
+      "video_id": "mCTMP1XgE5c",
+      "title": "The 86 Minute Guide to Building Apps With AI (Full Course)",
+      "description": "Mastering Vibe Coding: Step-by-Step Guide to Building AI-Powered Apps\n\nIn this video, I give you a comprehensive guide to vibe coding and building AI-powered applications. Discover how AI has transformed software development from traditional methods to conversational tools like ChatGPT and advanced image editing with tools like Nano Banana. \n\nI break this down into four main parts: \n\n-understanding popular AI tools, \n-comparing and creating workflows, \n-integrating these tools into real applications, \n-and finally, building both web and mobile apps. \n\nWhether you're a beginner or an experienced coder, this guide will enhance your skills and prepare you to build professional-grade apps using cutting-edge AI technologies.\n\nTry out Vibecode here and build your first app for free: https://vibecode.go.link?adj_t=1uk3t8gj\n\nTools / APIs I mentioned in this video: \n-ChatGPT (OpenAI)\n-Claude (Anthropic)\n-Obsidian\n-KREA \n-Ideogram\n-Nano Banana\n-Google AI Studio (Gemini) \n-FAL\n-Replit\n-Vibecode App\n\nTIME STAMPS: \n00:00 Introduction to Vibe Coding and AI Apps\n00:06 The Evolution of AI in Software\n00:50 Overview of the Video Structure\n02:52 Understanding Vibe Coding\n04:10 The Importance of AI Tools\n07:12 Getting Started with AI Tools\n09:38 Creating High-Quality Presentations with AI\n23:40 Using AI for YouTube Thumbnails\n33:39 Exploring Advanced AI Workflows\n42:22 Creating a Presentation Outline\n42:42 Uploading and Analyzing Presentations with Google AI Studio\n44:13 Using Google AI Studio for Video Analysis\n47:06 Recap and Summary of Tools Used\n51:46 Introduction to FAL and Its Models\n54:51 Building a Simple Web App with FAL and Replit\n57:02 Deploying the Web App and Using API Keys\n01:05:53 Creating a Mobile App with Vibe Code\n01:14:47 Generating Thumbnails and Presentation Slides\n01:24:08 Final Thoughts and Encouragement\n\nIf you liked this video, please leave a comment below, subscribe to my channel and I'll see you for the next one!",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-12T05:07:15Z",
+      "position": 73,
+      "thumbnail_url": "https://i.ytimg.com/vi/mCTMP1XgE5c/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=mCTMP1XgE5c"
+    },
+    {
+      "video_id": "Vw0XRuZwl6A",
+      "title": "How to Fix a Messy Inbox (in 2 Minutes)",
+      "description": "Your inbox is a mess. We get it.\n\nThis video shows how to use one simple prompt to get your Gmail under control. No complex filters, no coding.\n\nWe use Rube.app (powered by Composio) to automatically:\n- Label all incoming email\n- Draft replies to important messages\n- Organize all email data into a Google Sheet\n\nSee how it works.\n\nTry the tool: 👉 Rube.app: https://rube.app/\n\nHave a question or ran into an issue?\nJoin our active community support here —\nDiscord server: https://dub.composio.dev/discord\nDiscord support channel: https://dub.composio.dev/slVwOmG\n\n#gmail #ai #automation #productivity #composio #emailmanagement #inboxzero #rubeapp #workflowautomation #techtips",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-12T06:35:33Z",
+      "position": 74,
+      "thumbnail_url": "https://i.ytimg.com/vi/Vw0XRuZwl6A/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Vw0XRuZwl6A"
+    },
+    {
+      "video_id": "w565SOEOUaw",
+      "title": "Troque o Personagem de um Vídeo Usando Apenas 1 Foto com IA - Wan 2.2 Animate!",
+      "description": "Quer transformar qualquer foto em um vídeo completo usando Inteligência Artificial? 😱\nNeste vídeo eu te mostro como usar o Wan 2.2 Animate, uma das IAs mais incríveis de 2025, capaz de trocar rostos, animar expressões e criar vídeos realistas automaticamente!\n\n🎬 Tutorial completo: desde o upload da imagem até o resultado final.\n💡 Dica bônus: como ajustar o movimento e estilo da animação pra deixar mais natural.\n\niA usada no vídeo : https://wan-ai-wan2-2-animate.hf.space/\n\n🔔 Inscreva-se no canal e ative o sininho pra mais tutoriais de IA, vídeos automáticos e ferramentas que estão bombando agora!\n\n#Wan22Animate #IA #TrocaDeRosto #InteligenciaArtificial #Deepfake",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-12T07:05:54Z",
+      "position": 75,
+      "thumbnail_url": "https://i.ytimg.com/vi/w565SOEOUaw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=w565SOEOUaw"
+    },
+    {
+      "video_id": "NTXweoG_pMY",
+      "title": "🎨Nano Banana 2? Google Mixboard Ganha Função Insana — Agora Você Edita Imagens Só Desenhando!",
+      "description": "✅Google Labs X: https://x.com/GoogleLabs\n🚀Mixboard: https://labs.google.com/mixboard/welcome\n✖️Siga o Onde eu Clico no X: https://x.com/ondeeuclicoX?s=09\n💪Seja membro deste canal e ganhe benefícios:\nhttps://www.youtube.com/channel/UCRVzEriB1B2JKGpsLpL-uNg/join\n===============\nHoje eu mostro como usar o Mixboard (Google Labs) para anotações visuais — rabiscar, marcar, editar no quadro online — e transformar seu brainstorming ou apresentação numa experiência muito mais dinâmica.\n===============\n💰Produtos que eu recomendo:\n✅Echo Dot 5ª geração: https://amzn.to/3ZoffaX\n🎒Mochila Expansível HP Travel para Laptop de 15,6\": https://amzn.to/4afOOYX\n🎥Webcam USB Full HD 1080P: https://amzn.to/414BML6\n🐀Mouse Sem Fio Logitech Signature M650: https://amzn.to/497xRzk\n💻WB Suporte para Laptop Gro Anti-Derrapante: https://amzn.to/3C7r2BM\n⚡Nobreak ATTIV 600VA 120V Preto Intelbras: https://amzn.to/40xBjjZ\n===============\nO conteúdo sempre será gratuito, mas se você quiser me pagar um café é só CLICAR NO \"VALEU DEMAIS\" e escolher a quantia desejada! Seu nome ficará em destaque nos comentários como incentivador do canal!!!\n===============\nINSCREVA-SE NO CANAL:\nhttps://cutt.ly/aTYu0Gk\n===============\nCOMPARTILHE ESSE VÍDEO:\nhttps://youtu.be/NTXweoG_pMY\n===============\n#Mixboard #GoogleMixboard #GoogleLabs #ferramentascriativas #anotaçõesdigitais #designcolaborativo #brainstormingAI #nanobana2\n===============",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-13T04:24:33Z",
+      "position": 76,
+      "thumbnail_url": "https://i.ytimg.com/vi/NTXweoG_pMY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=NTXweoG_pMY"
+    },
+    {
+      "video_id": "U0k--FFJ6fE",
+      "title": "Google Stitch pode desbancar o Lovable?",
+      "description": "Em maio deste ano o Google lançou uma ferramenta gratuita de IA que cria o design aplicativos inteiros a partir de um único prompt... semelhante ao Lovable e Replit: mas gratuita.\n\nSeu nome é Stitch — e ela transforma sua descrição em interfaces completas, com HTML e Tailwind prontos pra deploy.\n\nVocê digita algo como “quero um app social com chat e perfis” e pronto: a IA gera um layout bonito, funcional e ainda exporta direto pro Figma se quiser ajustar o design.\n\nDá pra subir esboços, imagens, testar dark mode, trocar fontes — tudo em um clique.\nE o melhor: te permite até 350 gerações por mês gratuitamente.\n\nVocê já testou?\nComenta o que achou!",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-13T04:39:00Z",
+      "position": 77,
+      "thumbnail_url": "https://i.ytimg.com/vi/U0k--FFJ6fE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=U0k--FFJ6fE"
+    },
+    {
+      "video_id": "ZB_U5QlyY0Y",
+      "title": "rtrvr.ai v2: FULLY FREE Browser Use AI Agent! Automate ANYTHING! (Ranked #1 AI Web Agent)",
+      "description": "🔥 Introducing rtrvr.ai v2 — the #1 ranked AI web agent that lets you automate literally anything in your browser — completely FREE!: https://www.rtrvr.ai/\n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nOpen Agent Builder: Easily Create AI Agents That Can Automate Anything! Opensource n8n Alternative!: https://youtu.be/6sk-q79-zZE\nClaude Haiku 4.5: NEW Powerful Coding Model That's Cheap + Fast! Beats Sonnet 4 Easily!: https://youtu.be/qOB30aJZW9s\nOpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial): https://youtu.be/gHkdrO6IExM?si=lDxCrjGrwL6HAwnj\n\n📌 LINKS & RESOURCES\nWebsite: https://www.rtrvr.ai/\nCloud: https://www.rtrvr.ai/cloud\nExtension: https://chromewebstore.google.com/detail/rtrvrai-ai-web-agent/jldogdgepmcedfdhgnmclgemehfhpomg\nProduct Hunt: https://www.producthunt.com/products/rtrvr-ai/launches\nBenchmark Blog: https://www.rtrvr.ai/blog/web-bench-results\n\nWith its latest update, rtrvr.ai transforms your browser into a full-fledged AI automation engine, connecting with your favorite apps and running workflows end-to-end. From data scraping, form submissions, web research, to triggering cloud workflows — it’s faster, smarter, and 100% local.\n\n✨ New in v2:\n🌐 Browser as MCP Server: Let AI agents remotely control your browser (e.g., trigger Jira or Notion workflows)\n☁️ Cloud & API Platform: Scale any local automation across thousands of cloud browsers instantly\n💬 WhatsApp Bot: Run automations or fetch datasets directly from your phone\n⚙️ Slash Commands for the Web: Save and rerun workflows instantly\n🧩 Record Once, Repeat Forever: Record a task and retriever replicates it perfectly\n🧠 Multi-Agent Workflows: Run long browser sessions with Google Sheets as memory\n💸 Powered by Gemini Flash: Fast, efficient, and free via Google’s API\n🚀 Whether you’re a developer, marketer, or researcher — rtrvr.ai v2 is your personal web automation powerhouse.\nNo paywalls. No setup pain. Just pure agentic power.\n\n#️⃣ Hashtags:\n#rtrvrAI #AIWebAgent #WebAutomation #BrowserAI #GeminiFlash #AIAgent #NoCodeAI #AutomationTools #CloudAutomation #Productivity #AIupdate #TechInnovation #AgenticAI #AIAutomation #rtrvr\n\n🎯 Tags (comma-separated):\nrtrvr ai, rtrvr.ai, retriever ai, retriever automation, ai web agent, ai browser automation, browser use ai, agentic ai tools, google gemini flash, ai agents 2025, best ai agents, open source ai, no code ai, ai automation platform, web scraping ai, ai workflow automation, cloud automation tools, whatsapp ai bot, ai browser extension, ai productivity tools",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-13T04:59:11Z",
+      "position": 78,
+      "thumbnail_url": "https://i.ytimg.com/vi/ZB_U5QlyY0Y/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ZB_U5QlyY0Y"
+    },
+    {
+      "video_id": "1peS0SAfjkk",
+      "title": "Como fazer o seu app de IA parecer PROFISSIONAL (8 padrões de UX)",
+      "description": "Eu analisei 30 dos apps de IA que mais crescem no mundo e descobri 8 padrões de UX que TODOS eles têm em comum. Neste vídeo, vou te mostrar exatamente como implementar esses padrões no seu próprio app para criar uma experiência profissional e viciante para os usuários. Vamos falar de Generative UI, como ensinar usuários a fazer bons prompts, AI assisted onboarding, copy to clipboard, prompts de voz, experimente antes de se cadastrar, personalização proativa e coleta de feedback para treinar modelos. Se você está construindo apps com IA usando Lovable, Cursor ou qualquer outra ferramenta, esses padrões vão fazer seu app parecer um produto de verdade.\n\nTIMESTAMPS:\n00:00 Introdução\n00:16 Padrão 1: Generative UI\n04:42 Padrão 2: Apps Que Te Ensinam A Fazer Prompts\n07:36 Padrão 3: Onboarding Assistido Por AI\n10:07 Padrão 4: Copy To Clipboard Para LLMs\n11:29 Padrão 5: Prompts de Voz\n13:08 Padrão 6: Experimente Sem Criar Conta\n14:43 Padrão 7: Personalização Proativa\n18:42 Padrão 8: Coletar Feedbacks\n20:43 Conclusão\n\n\n 👻 SOBRE O EPIC:\nO Epic transforma suas ideias soltas em especificações claras, para que o Lovable acerte a implementação de primeira e construa aplicações rápidas e seguras (mesmo que você não saiba nada de programação). Teste gratuitamente agora mesmo! https://goepic.dev\n\nAPPS QUE EU MENCIONEI NO VÍDEO\nhttps://gamma.app/\nhttps://spiral.computer/\nhttps://chatgpt.com\nhttps://elevenlabs.io\nhttps://juicebox.ai/\n\n📧 MINHA NEWSLETTER DE VIBE CODING\nhttps://dfolloni.substack.com/\n\n📱 ME SIGA NAS REDES SOCIAIS:\nInstagram:   https://instagram.com/dfolloni  \nLinkedIn:   https://linkedin.com/in/dfolloni  \nTwitter/X: https://x.com/dfolloni\n\n🔔 Inscreva-se no canal e ative o sininho para não perder os meus próximos vídeos!\n\n🙏 Obrigado por assistir! Se este vídeo te ajudou, deixe seu LIKE 👍 e compartilhe com aquele amigo vibe coder que precisa assistir isso.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-13T05:05:49Z",
+      "position": 79,
+      "thumbnail_url": "https://i.ytimg.com/vi/1peS0SAfjkk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=1peS0SAfjkk"
+    },
+    {
+      "video_id": "GuyZspG3-Po",
+      "title": "GLM-4.6 Agent Mode Just Killed Every AI App Builder (it's FREE)",
+      "description": "GLM-4.6 Agent Mode Just Killed Every AI App Builder (it's FREE)\n\nCode A Program....\n\nIn this video 🎬, we explore Z.ai Chat, an insane new AI tool 🤖 powered by GLM 4.6 and GLM 4.5!\nThis platform lets you create AI-powered slides 🖼️, design social media banners, perform deep research 🔍, and even build full-stack applications 💻 just like Lovable or Bolt — all for free and open source 🚀!\n\nI’ll walk you through building an Excel-to-JSON converter website 📊 using Next.js 15, Tailwind CSS, ShadCN UI, Prisma, and Supabase — complete with authentication 🔐 and database integration 🗄️.\n\n✨ Watch till the end to see how the GLM agent sets everything up automatically ⚙️, builds the UI 🎯, connects Supabase 🧩, and integrates email auth 📧 — all in real time!\n\nMore Videos:\nChutes Free AI APIs – Works Perfect in Kilo Code & Roo Code\nhttps://youtu.be/1GtZkXqV-7U?si=C5nM949HICepGhhf\n\nStitch by Google - Free AI Tool to Design App UI (No Design Skills Needed)\nhttps://youtu.be/lVF_k12GO-Y?si=gq_tcwgNWOODkfBf\n\nBuild AI Apps with google ai studio fully free\nhttps://youtu.be/KwXnPUXuLbM?si=PgP_HOTxcZjnxyaB\n\n\n👇 Don’t forget to like, subscribe, and hit the bell icon\n\n#glm #ai #freeaitools",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-13T05:50:36Z",
+      "position": 80,
+      "thumbnail_url": "https://i.ytimg.com/vi/GuyZspG3-Po/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=GuyZspG3-Po"
+    },
+    {
+      "video_id": "HmfL9YWiXF4",
+      "title": "The Ultimate n8n WhatsApp AI Agent: Monetization, Multi-Modal, & Custom APIs",
+      "description": "Ready to build a real business on WhatsApp? This video goes beyond simple chatbots. I'll show you how to build an advanced n8n AI agent that includes monetization (free vs. premium tiers) , multi-modal support (processing images and audio) , and custom API integrations to query live business data. \n\nYou'll learn how to create a sophisticated workflow that checks user subscription levels , blocks premium features like voice and image analysis for free users , and unlocks them for paying customers. We'll also build tool-calling functions so your AI agent can query external APIs for business information and manage daily query limits that automatically reset.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔗 RESOURCES & LINKS\n\n➡️ GET THE COMPLETE n8n WORKFLOW TEMPLATE Skip the build and get this production-ready workflow: https://buy.stripe.com/5kQ7sKbFu1ML6iddH0cZa0z\n\n➡️ OR on Discord: Join discord.gg/erictech and find it in the #code-share channel.\n\n🔗 Mentioned in this Video:\nSet Up WhatsApp: https://youtu.be/MqnsLNGSbQc?si=3F8TTY2dewf5jiT6\nLong-Term Memory: https://youtu.be/TqRaCpQJbEA?si=_spziSynYCtS9oJw\n\n📅 Work With Me\n- New Projects - Free Strategy Call: https://calendar.app.google/sB9KrJP6e8j3EPmd9\n- Technical Consultation (Paid 1:1): https://calendar.app.google/BU9D589X3KNxnTeg6\n\n🤝 Let's Connect\nLinkedIn: https://www.linkedin.com/in/ericwtech/\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n⏰ Timestamps: \n00:00 Intro \n01:55 New User & Database Setup (Free Tier)\n04:14 Custom API Calls (Tool Use)\n06:48 Monetization: Blocking Features (Free vs. Premium Tier) \n07:39 Processing Audio Inputs\n09:51 Processing Image Inputs\n11:12 Query Limits & Resetting\n12:16 Recap\n13:03 GET WORKFLOW HERE!\n\n#n8n #WhatsApp #AIautomation",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-15T19:44:30Z",
+      "position": 81,
+      "thumbnail_url": "https://i.ytimg.com/vi/HmfL9YWiXF4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=HmfL9YWiXF4"
+    },
+    {
+      "video_id": "E8zpgNPx8jE",
+      "title": "Build a Complete End-to-End GenAI Project in 3 Hours",
+      "description": "This video walks you through a complete end-to-end GenAI project using OpenAI, Postgres for storage, Docker for local development, and Render for seamless deployment. By the end, you’ll have a portfolio-ready GenAI app with real scraping, processing, database handling, and a live production deployment you can build on.\n\n🔗 Access Private Repository\nhttps://go.datalumina.com/MszdmaM\n\n🎓 Check out the Datalumina Academy\nhttps://go.datalumina.com/og5vAqj\n\n🎙️ Get Gladio, the universal speech-to-text app\nhttps://go.datalumina.com/yz9WIQa\n\n⏱️ Timestamps\n00:00 Introduction to AI News Aggregator\n05:05 How to Follow Along\n06:39 Setting Up the Project\n07:13 Brainstorming Features\n13:08 Building the YouTube Service\n30:02 Creating the OpenAI Scraper\n39:04 Creating the Anthropic Scraper\n43:13 Creating the Pipeline\n49:16 Setting Up the Database\n58:30 Testing Database Connections\n1:16:28 Processing Articles in Markdown\n1:23:37 Implementing the Digest Feature\n1:30:34 Daily Digest Development\n1:32:00 Creating the Aggregator Agent\n1:33:59 Ranking Articles by User Profile\n1:39:16 Implementing the Email Agent\n1:40:36 Sending Emails with Python\n1:52:17 Deployment Strategy Planning\n2:01:27 Setting Up Render for Deployment\n2:07:57 Handling Deployment Errors\n2:16:28 Final Refactor and Check\n2:32:52 Optimizing Code Structure\n2:54:41 Conclusion and Next Steps\n\n👋🏻 About Me\nHi! I'm Dave, AI Engineer and founder of Datalumina®. On this channel, I share practical tutorials that teach developers how to build production-ready AI systems that actually work in the real world. Beyond these tutorials, I also help people start successful freelancing careers. Check out the links above to learn more!",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-15T20:16:05Z",
+      "position": 82,
+      "thumbnail_url": "https://i.ytimg.com/vi/E8zpgNPx8jE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=E8zpgNPx8jE"
+    },
+    {
+      "video_id": "_WJr8HvrYHY",
+      "title": "Google NotebookLM: Deep Research Is LIVE (Huge Update!)",
+      "description": "Google just dropped the biggest NotebookLM update so far — and Deep Research is finally LIVE.\n\nIn this video, I break down everything that just launched inside NotebookLM, including Google’s new Deep Research agent, support for way more file types, flashcards, quizzes, chat upgrades, and a full workflow that finally turns NotebookLM into a true research workstation.\n\nWhether you're a student, a researcher, a creator, or you're just trying to learn faster, this update changes everything.\n\n🔔 Subscribe for AI breakdowns, leaks, and analysis — all in plain English.\n\n🔗 My Links:\n📩 Sponsor a Video or Feature Your Product: intheuniverseofaiz@gmail.com\n🧠 Follow me on Twitter: https://x.com/UniverseofAIz\n🌐 Website: https://www.worldzofai.com\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n\n📌 What I cover in this video:\n00:00 – Intro\n00:50 – Deep Research finally launches\n2:38 – New file type support (Docs, Sheets, images, Drive links, PDFs)\n3:56 – Flashcards & quiz generator demo\n9:11 – Outro\n\n📌 Try the demo prompt yourself:\n“Create flashcards and a quiz that teach me the fundamentals of Transformer models — attention, embeddings, encoder/decoder, and tokenization.”\n\n📌 Follow me for daily AI updates:\nX (Twitter): @UniverseofAIz\n\n#notebooklm  #googleai  #geminiai  #deepresearch     #aiagents  #researchtools  #aiupdates  #UniverseOfAI #machinelearning  #ainews \n\nNotebookLM, Google NotebookLM, Deep Research Mode, Data Tables, Google AI, Artefact system, NotebookLM update 2025, AI productivity, research automation, AI tools, Universe of AI, AI for students, AI for researchers, AI for business strategy, ChatGPT alternative, Google AI tools 2025, Perplexity vs NotebookLM, AI note-taking, Google Labs",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-15T20:20:24Z",
+      "position": 83,
+      "thumbnail_url": "https://i.ytimg.com/vi/_WJr8HvrYHY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=_WJr8HvrYHY"
+    },
+    {
+      "video_id": "pddeyCqevnw",
+      "title": "How To Fine-Tune An LLM To Sound Just Like You (Step-By-Step)",
+      "description": "Let Notion Agent do your work for you at: https://ntn.so/MattWolfe\n\n\nReady to make your AI model sound just like you? In this video, I walk you through the complete process, from collecting your own tweets and scripts, to cleaning your data, and fine-tuning a language model with simple, accessible tools. No tech wizardry required!\n\nWatch as I share real results from training an LLM on my own content, plus actionable tips for creators who want their AI output to match their authentic voice. Whether it’s for copywriting, social media, or video scripts, you’ll see how easy it is to give your AI some personality.\n\nWant more tutorials on AI, automation, and creator tech? Don't forget to like, comment, and subscribe for fresh content every week!\n\n00:00 Intro\n00:48 Fine-Tuning Explained\n02:56 Demo: My Tuned Model\n08:46 Step-by-Step Walkthrough\n10:42 Step 1: Export X Data\n12:25 Step 2: Prep Tweets with ChatGPT\n15:09 Step 3: Upload Files to Nebius\n19:57 Step 5: Download Model Weights\n21:11 Step 6: Test in Playground\n26:04 Outro\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n🎙️ The Next Wave Podcast: https://youtube.com/@TheNextWavePod\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-15T20:30:33Z",
+      "position": 84,
+      "thumbnail_url": "https://i.ytimg.com/vi/pddeyCqevnw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=pddeyCqevnw"
+    },
+    {
+      "video_id": "UO_poMLoiDw",
+      "title": "Your Free AI Workstation : Run Powerful LLMs in VS Code Using Google Colab GPU (No Setup Needed!)",
+      "description": "In this video, I will show you how to turn Visual Studio Code (VS Code) into a free, cloud-powered AI workstation. No expensive GPU, no complicated setup & no local installations required! Using the Google Colab extension for VS Code, you will learn how to connect directly to Colab's free GPU and TPU runtimes and instantly start running powerful AI models and large language models (LLMs) such as Gemma & more, all inside your favorite code editor. Whether you are a machine learning beginner, AI researcher or developer, this setup gives you a seamless way to write, train & test AI models without needing a high-end computer. With this method, you can run Python notebooks, fine-tune models & experiment with generative AI all powered by Google's cloud GPUs, right from within VS Code.\n\n🔍 What You will Learn :\n▶ How to install and use the Google Colab extension in VS Code\n▶ How to connect to a free GPU runtime in seconds\n▶ Running powerful open-source LLMs directly in VS Code\n▶ Tips for managing Colab sessions efficiently\n▶ How to save your work and code automatically\n\n🧠 Perfect For:\n▶ Developers who want free GPU access\n▶ AI/ML learners and researchers\n▶ Anyone who wants to experiment with LLMs without local setup hassles\n\n▶ Sponsor me on GitHub : https://github.com/sponsors/bhattbhavesh91/\n▶ Join this channel to get access to perks: https://bit.ly/BhaveshBhattJoin\n▶ Join the Telegram channel for regular updates: https://t.me/bhattbhavesh91\n▶ If you like my work, you can buy me a coffee : https://bit.ly/BuyBhaveshCoffee\n\n*I use affiliate links on the products that I recommend. These give me a small portion of the sales price at no cost to you. I appreciate the proceeds and they help me to improve my channel!\n\n▶ Best Book for Python : https://amzn.to/3qYThqu\n▶ Best Book for PyTorch & Machine Learning : https://amzn.to/3PyUkdy\n▶ Best Book for Statistics : https://amzn.to/3vzvHEn\n▶ Best Book for BERT: https://amzn.to/3lpX0fz\n▶ Best Book for Machine Learning : https://amzn.to/2P6aZuT\n▶ Best Book for Deep Learning : https://amzn.to/30UMTGl\n▶ Best Intro Book for MLOps : https://amzn.to/3AoPZmM\n\nEquipments I use for recording the videos:\n▶ 1st Laptop I use : https://amzn.to/3AqI8Fp\n▶ 2nd Laptop I use : https://amzn.to/3KAiYsB\n▶ Microphone : https://amzn.to/3qUPxtz\n▶ Camera : https://amzn.to/3rKQsM2\n▶ Mobile Phone : https://amzn.to/3nRHP1f\n▶ Ring Light : https://amzn.to/33LedM5\n▶ RGB Light : https://amzn.to/3KzLgmS\n▶ Bag I use : https://amzn.to/3AsM3RZ\n\nIf you do have any questions with what we covered in this video then feel free to ask in the comment section below & I'll do my best to answer those.\n\nIf you enjoy these tutorials & would like to support them then the easiest way is to simply like the video & give it a thumbs up & also it's a huge help to share these videos with anyone who you think would find them useful.\n\nPlease consider clicking the SUBSCRIBE button to be notified for future videos & thank you all for watching.\n\nYou can find me on:\n▶ Blog - https://bhattbhavesh91.github.io\n▶ Twitter - https://twitter.com/_bhaveshbhatt\n▶ GitHub - https://github.com/bhattbhavesh91\n▶ Medium - https://medium.com/@bhattbhavesh91\n▶ About.me - https://about.me/bhattbhavesh91\n▶ Linktree - https://linktr.ee/bhattbhavesh91\n▶ DEV Community - https://dev.to/bhattbhavesh91\n▶ Telegram - https://t.me/bhattbhavesh91\n\n#vscode #colab #vscodeextensions",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-16T03:39:59Z",
+      "position": 85,
+      "thumbnail_url": "https://i.ytimg.com/vi/UO_poMLoiDw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=UO_poMLoiDw"
+    },
+    {
+      "video_id": "KbeUrYyuZbI",
+      "title": "This NotebookLM + Gemini Is the Most Powerful AI Workflow Yet!",
+      "description": "In this video, I walk through one of the strongest AI workflows available right now by combining NotebookLM with Gemini. Each tool brings a different strength, and when you use them together, you can move from research to fully-built outputs in minutes.\n\nYou’ll see how NotebookLM helps you pull in reliable sources, extract clear insights, and organise information, and how Gemini  turns those insights into interactive visualisations, learning materials, and more.\n\nIf you’re looking to speed up your research and build higher quality outputs with less effort, this walkthrough will help you get started.\n\nhttps://notebooklm.google.com/ \nhttps://gemini.google.com/\n\n#NotebookLM, #gemini , #Google AI, #AI Workflow, #AI for Research, #Deep Research, #AI Productivity, #Study Tools, #Research Tools, #AI Tutorials, #Gemini Canvas, #Google AI Studio, #AI for Students, #AI for Work",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-16T04:28:37Z",
+      "position": 86,
+      "thumbnail_url": "https://i.ytimg.com/vi/KbeUrYyuZbI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=KbeUrYyuZbI"
+    },
+    {
+      "video_id": "m6Q9x678myU",
+      "title": "Agentic RAG: PENSE e CRIE como um PRO",
+      "description": "––– Recursos & Educação –––\nJunte-se aos Criadores\nComunidade  https://www.rhawk.pro/comunidade (reabertura em 17 de novembro de 2025)\n–––Consultoria –––\nPrecisa de ajuda para criar a solução?\nA melhor consultoria em IA do Brasil: https://simplework.ai\n\n––– Descrição –––\nQuer construir soluções de IA Generativa, mas está confuso com as melhores práticas de RAG (Retrieval-Augmented Generation)? \n\nNeste guia completo, desvendamos por que gigantes como Cursor e LangChain adotam estratégias opostas para busca semântica e explicamos a evolução para o poderoso \"Agentic RAG\". \n\nIdeal para desenvolvedores, empreendedores e iniciantes, este vídeo ensina você a ir além do básico, mostrando como criar agentes de IA que utilizam múltiplas ferramentas e personalizam parâmetros em tempo real para obter respostas precisas. \n\nCom um framework prático e testável, você aprenderá a pensar e construir como um profissional, evitando as armadilhas comuns e começando a desenvolver suas próprias aplicações com LangChain de forma robusta e otimizada.\n\n––– Playlist –––\nPlaylist IA:   https://www.youtube.com/playlist?list=PLk6saMUFiINn0Y0CnynRthzCCC6e-juJY\nPlaylist Negócios: https://www.youtube.com/playlist?list=PLk6saMUFiINl-TQpZjq6isCdhw8eZ7c9P\n\n––– Capítulos –––\n0:00 Introdução\n1:29 Agentic RAG\n4:26 A solução do Cursor ( Busca semântica)\n6:37 A solução do Langchain (Evitando chuncking)\n8:31 Entendendo no detalhe - Código da Agentic RAG\n13:31 Fazendo dinheiro com IA\n\n––– Social –––\nInstagram:   / rhawk.pro\nLinkedin: https://www.linkedin.com/in/ronnald-hawk/\n#inteligenciaartificial  #iagenerativa #negocios #rag",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-16T04:43:59Z",
+      "position": 87,
+      "thumbnail_url": "https://i.ytimg.com/vi/m6Q9x678myU/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=m6Q9x678myU"
+    },
+    {
+      "video_id": "IQYdNp1YbRs",
+      "title": "Novo Gemini File Search vai MUDAR TUDO para Agentes IA RAG no n8n!",
+      "description": "Google acaba de lançar seu novo framework de RAG para o Gemini, chamado Files Search. Agora você pode fazer buscas semânticas a largas bases de documentos para os seus Agentes de IA dentro do n8n via API em minutos, não horas! Nesse vídeo eu vou te mostrar todas as novidades do Gemini Files Search, como ele funciona dentro do Google AI Studio e como usá-lo via API dentro do n8n com direito a template grátis! Espero que curtam!!\n\nEntre na AI Makers e consiga seu 1º cliente + todos meus templates ⤵️\nhttps://aimakers.lovable.app/\n\nMe contrate para automatizar seu negócio com Agentes de IA ⤵️\nhttps://tally.so/r/J9KM1X\n\nVPS da Hostinger usando o cupom WELLPIRES para obter + desconto (por tempo limitado): 🔗 https://www.hostg.xyz/SHHIz",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-17T19:37:14Z",
+      "position": 88,
+      "thumbnail_url": "https://i.ytimg.com/vi/IQYdNp1YbRs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=IQYdNp1YbRs"
+    },
+    {
+      "video_id": "pPEils7tHxc",
+      "title": "Google's Gemini CodeWiki: This is ACTUALLY REALLY COOL & IT'S FREE!",
+      "description": "In this video, I’ll be telling you about Google’s new Code Wiki, how it auto-generates living documentation for your repositories, and how the upcoming Gemini CLI extension could bring all of this into your private codebases.\n\n--\nKey Takeaways:\n\n🧠 Google Code Wiki creates a continuously updated, structured wiki for your repos, tied directly to the actual code.\n📚 Documentation is automatically regenerated after each change, fixing the problem of stale READMEs and outdated architecture notes.\n💬 A built-in Gemini-powered chat uses the wiki as its brain, so answers are context-aware and specific to your repository.\n📊 Code Wiki auto-generates architecture, class, and sequence diagrams that always reflect the current state of the code.\n🔐 A Gemini CLI extension is coming so you can run Code Wiki locally on internal and private repos, keeping everything secure.\n⚠️ Right now the web experience is focused on public repos, with open questions around pricing, large monorepos, and complex codegen.\n🎥 For some projects, it can even generate a full explainer video via NotebookLM based on your code and documentation.\n🚀 Overall, it’s a promising step toward “living documentation” that helps teams ship faster instead of getting stuck deciphering legacy code.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-17T20:53:46Z",
+      "position": 89,
+      "thumbnail_url": "https://i.ytimg.com/vi/pPEils7tHxc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=pPEils7tHxc"
+    },
+    {
+      "video_id": "UrhYLmGb7xY",
+      "title": "STOP Paying Actors! Make Viral UGC Videos with This FREE AI (Poolday AI Tutorial)",
+      "description": "STOP Paying Actors! Make Viral UGC Videos with This FREE AI (Poolday AI Tutorial) #ai #longvideo #poolday \n\n➡️ Get Started with Poolday AI (FREE) :  https://poolday.ai/?utm_source=youtube&utm_medium=influencer&utm_campaign=influencer&utm_content=ManuAGI_video&utm_format=video\n\"Poolday AI Tutorial 2025: If you need viral UGC videos but are tired of paying models and waiting for editors, this is the solution. Poolday AI is the all-in-one platform that lets you create high-converting social media content using realistic AI Actors in minutes. In this full tutorial, I show you the step-by-step process, starting with the FREE tier, on how to select your AI actor, generate a script, and use the powerful Prompt-Based Editing feature to get a professionally cut video. This is the future of faceless content creation and a massive way to save time and money on your next campaign. Get started for free with the link below!\"\n\n💬 **Have questions?** Drop a comment below, and I’ll help you out!\n👍 **Like, share & subscribe** for more tutorials on AI tools and video editing!\n\n🔗 **More Resources**:\n- Try Multi Lip Sync FREE : https://www.dzine.ai/src/ManuAGI01 \n- Try Dzine AI FREE : https://www.dzine.ai/src/BnkUwm2a\n- Get FREE AI Project Updates: https://manuagi.beehiiv.com/subscribe\n- Build Your AI Startup: https://shipfa.st/?via=autogpt\n- Try NordVPN: https://nordvpn.sjv.io/autogpt\n\n🏷️Tags:\nSTOP Paying Actors! Make Viral UGC Videos with This FREE AI,Poolday AI Tutorial,Poolday AI,AI UGC,Free AI Tools,Viral Video Generator,AI Actors,Faceless YouTube,Stop Paying Actors,Poolday UGC,How to use Poolday AI,AI Video Editor,Content Creation,Social Media Marketing,Video Editing AI,AI Tools 2025,long ai videos,long video,ai video,ai ugc,ai tools,ai ads,manuagi,agi\n\n🏷️Hashtags:\n#PooldayAI #AIActors #ViralUGC #AITools #ContentCreation #FacelessYouTube #FreeAITools #AIVideoEditor #VideoMarketing",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-17T23:22:18Z",
+      "position": 90,
+      "thumbnail_url": "https://i.ytimg.com/vi/UrhYLmGb7xY/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=UrhYLmGb7xY"
+    },
+    {
+      "video_id": "SOnHWp_Muao",
+      "title": "Task Master AI: The Advanced Workflow (Deep Dive)",
+      "description": "My first video on Task Master AI only scratched the surface. To manage a real, long-term project, I needed a more advanced system. In this deep dive, I share the full, advanced workflow I now use for my own projects.\n\nWe go far beyond the basics and cover the *strategies* you need to manage an entire AI-driven development lifecycle. Learn how to use Task Master as an \"architect\"—delegating implementation to Claude Code, managing project organization with tags mapped to git branches, and using real-time research (the right way).\n\nThis is not just a to-do list. This is a complete, AI-native development system.\n\nChapters:\n00:00:00 Introduction: Beyond the Basics\n00:00:41 The Core Principle: Talk, Don't Memorize\n00:01:49 Long-term Management & Adding New Features\n00:02:33 Managing Growing Task Lists with Tags\n00:05:05 Mastering the Research Capability\n00:07:06 P.S. A Warning on Research & Project Context\n00:07:36 My Daily Workflow (as an Architect)\n00:08:50 Context Management & MCP Performance\n00:10:23 Course Correction (When Reality Hits)\n00:12:02 Conclusion & What's Next\n\n---\n\nMentioned in this video:\n► The first Task Master AI video: https://youtu.be/ZFcAwdMyiw4\n► Task Master AI GitHub: https://github.com/eyaltoledano/claude-task-master\n\nI'm creating these videos even without electricity, and I'd really appreciate it if you like and subscribe. And most importantly, don't forget to delight your cat with a nice white, high-quality Apple bag.\n\n#TaskMasterAI #ClaudeCode #AI #MCP #AIDev #TheGrayCat",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-18T06:18:30Z",
+      "position": 91,
+      "thumbnail_url": "https://i.ytimg.com/vi/SOnHWp_Muao/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=SOnHWp_Muao"
+    },
+    {
+      "video_id": "sTlVTwkQPV4",
+      "title": "Free GPU using VS Code demo",
+      "description": "Google Colab has now been integrated with VS Code. How to access free GPU from Google Colab using VS Code #ai #chatgpt #coding #programming #generativeai #llm #computerscience #computer #engineering #gpu",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-18T06:19:16Z",
+      "position": 92,
+      "thumbnail_url": "https://i.ytimg.com/vi/sTlVTwkQPV4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=sTlVTwkQPV4"
+    },
+    {
+      "video_id": "Pb6XHGi542A",
+      "title": "Vibe coding with Gemini 3 in AI Studio",
+      "description": "Gemini 3 is our most intelligent model yet that helps you bring any idea to life. It excels at coding and masters both agentic workflows and complex zero-shot tasks. In this video, you’ll learn how to build and vibe code apps with Gemini 3 Pro in Google AI Studio. You’ll build three different apps: a landing page, an interactive dashboard, and a video game.\n\nResources: \nStart building with Gemini 3 → https://goo.gle/47Qa5cc \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Patrick Lober \nProducts Mentioned: Gemini, Google AI, Google AI Studio",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-18T21:25:25Z",
+      "position": 93,
+      "thumbnail_url": "https://i.ytimg.com/vi/Pb6XHGi542A/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Pb6XHGi542A"
+    },
+    {
+      "video_id": "0S9G9mGLB1U",
+      "title": "Traycer YOLO MODE: Plan, Sit & LET YOUR AGENT CODE! The REAL AGENTIC CODING!",
+      "description": "Visit Traycer: https://traycer.ai/\n\nIn this video, I'll be showing you Traycer's massive new update called \"YOLO Mode\" which completely changes how you interact with AI coding tools. I will guide you through setting up fully autonomous loops using Custom CLI Agents and Claude Code, allowing you to step away while the AI plans, codes, verifies, and fixes bugs all on its own.\n\n--\nKey Takeaways:\n\n🚀 Traycer’s new YOLO Mode creates a fully autonomous loop for planning, coding, verifying, and fixing without manual input.  \n🛑 The update solves the \"babysitting\" problem, eliminating the need to click \"Execute\" or \"Verify\" after every single step.  \n⚙️ Custom CLI Agents allow you to wrap tools like Claude Code with specific flags like `--dangerously-skip-permissions` for true automation.  \n📂 You can set agents to \"Workspace Scope\" to share configurations via GitHub, solving \"works on my machine\" issues for teams.  \n✅ Granular Verification Handoff settings let you define strict exit criteria based on Critical, Major, or Minor issues.  \n🏗️ The workflow shifts your role from an \"operator\" clicking buttons to an \"architect\" defining phases and quality standards.  \n💡 Essential pro-tips included: Prevent your computer from sleeping during loops and monitor your Artifact Slot usage.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-23T03:52:52Z",
+      "position": 94,
+      "thumbnail_url": "https://i.ytimg.com/vi/0S9G9mGLB1U/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=0S9G9mGLB1U"
+    },
+    {
+      "video_id": "zxfOQ8rSeA4",
+      "title": "Gemini 3.0 Pro Is Unreal: Modern Websites, HTML Canvas & 3D Graphics From One Prompt!",
+      "description": "Gemini 3.0 Pro Is Unreal: Modern Websites, HTML Canvas & 3D Graphics From One Prompt!\n\nCode A Program....\n\nGemini 3 Pro just changed the game. 🚀\nIn this video, I push Gemini 3 Canvas to its limits — full landing pages 🌐, interactive tools 🧩, 3D effects 🌀, React apps ⚛️, Three.js scenes 🎮, and even HTML Canvas animations ⚡… all from simple prompts.\n\n🔗 Official Gemini Links:\nGemini Website: https://gemini.google.com\nGemini 3 Announcement: https://blog.google/products/gemini/gemini-3/\n\nI tested everything:\n⚡ Cyberpunk voltage landing page with glitch effects\n🧩 Interactive SaaS tool (“RegexGod”)\n🌀 3D Canvas-based “Volt” webpage\n⚛️ Fully coded React.js SaaS landing page\n🔴 Perfectly rendered 3D Pokémon ball in Three.js\n\nPrompts I Used:\n\n1. VOLTAGE Web\nThe aesthetic should be 'Cyberpunk High-Voltage.' Think neon yellows and blacks, glitch effects, and raw energy. It should feel aggressive but premium.\n----------------------------------------\n2. Regex Web:\nThe \"Interactive SaaS\" Test\nTarget: Testing Logic, DOM manipulation, and Micro-interactions.Why it’s hard: It requires the AI to build a \"mini-app\" inside the landing page, not just static text.\nAct as a Senior Frontend Engineer. Build a landing page for a developer tool called 'RegexGod: AI for Regular Expressions.\nThe Hero Section (The Hook):\nInstead of a static image, the hero section must be a functional playground.\nInput field A: 'Enter text here.'\nInput field B: 'Enter Regex pattern.'\nResult: Real-time highlighting of the text that matches the pattern.\nNote: You must write the JS logic to make this actually work in the browser.\nThe Design System:\nUse a 'Dark Mode IDE' aesthetic. Monospace fonts, syntax highlighting colors (Dracula theme), and a minimalist UI.\nDeep Think (Reasoning):\nBefore coding, explain how you will handle the real-time validation efficiently to avoid crashing the browser on long strings.\n-------------------------------------------------\n3. Canvas central cylinder\nCreate a single-file HTML solution.\nBackground: Use the HTML5 Canvas API to create a background of crackling lightning bolts that randomly strike the screen.\nScroll Interaction: As I scroll down, the product can (a central cylinder) should rotate 360 degrees (use CSS 3D transforms) and 'explode' into its ingredients.\nTypography: Use massive, stretched kinetic typography that moves horizontally as the user scrolls vertically.\nEvery project was generated in one shot using Gemini 3 Canvas — no rewriting, no extra prompting. This model is already outperforming GPT-5.1 and Claude 4.5 in key reasoning, coding, and multimodal tasks, and the results speak for themselves.\n--------------------------------------------------\n4. SaaS \ncreate a AI SaaS landing page for budget tracker\n--------------------------------------------------\n5. 3D Pokeman ball\ncreate a 3D Pokeman ball using three js\n---------------------------------------------------\n\nIf you’re a developer, designer, or AI builder, this is the clearest look at what Gemini 3 can actually do in real workflows: website generation, UI design, animations, 3D visuals, and production-level code.\n\n🎯 What you’ll learn:\nHow Gemini 3 Canvas builds complete HTML/CSS/JS websites\nHow to test landing-page prompts effectively\nHow to generate full SaaS UIs & tools with one prompt\nHow Canvas handles animations, parallax, and 3D effects\nHow Gemini 3 compares to GPT-5.1 and Claude 4.5 in practice\n\n🔥 If you want more deep-dives, breakdowns, and real developer tests, make sure to subscribe. More Gemini 3 content is coming.\n\n\n#ai  #gemini3 #freeaitools #freeai #googlegemini",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-23T04:25:55Z",
+      "position": 95,
+      "thumbnail_url": "https://i.ytimg.com/vi/zxfOQ8rSeA4/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=zxfOQ8rSeA4"
+    },
+    {
+      "video_id": "eLDq5TfIHys",
+      "title": "Claude Just Introduced a New Way To Fix Your UI",
+      "description": "In this video, Claude finally shows how to fix basic AI-designed UIs using powerful Claude Skills inside Claude Code. I also test Claude AI in real projects, using Claude Code VSCode setups to see how creative it can actually get.\n\n🔗 Resources Mentioned\n\nImproving Front-End Design Through Skills\nhttps://www.claude.com/blog/improving-frontend-design-through-skills\n\nClaude Skills Explained\nhttps://www.claude.com/blog/skills-explained\n\nWeb Artifacts Builder Skill (GitHub)\nhttps://github.com/anthropics/skills/blob/main/web-artifacts-builder/SKILL.md\n\nIn this video, we take a deep dive into how Claude approaches front-end design and why so many AI-generated UIs still look basic. Using Claude Skills, Claude Code, and the new design-focused features from Claude AI, I break down how you can push your AI to create genuinely aesthetic layouts instead of the usual safe, generic outputs.\n\nWe explore real examples, test Skills inside actual projects, and compare how these instructions reshape everything—from typography to themes, gradients, and component structure. If you're into AI coding, vibe coding, or building full projects with an AI partner, this video shows how far you can push design quality with the right system prompts.\n\nYou'll also see how Claude behaves inside Claude Code VSCode, what works, what breaks, and how the MCP ecosystem ties into all of this. I also compare Claude vs ChatGPT and explain how tools like Claude Code MCP and Claude MCP help load specialized expertise exactly when the model needs it.\n\nWhether you’re experimenting with AI tools, exploring new artificial intelligence workflows, or just want to learn how to use Claude for front-end design, this breakdown shows how the new Claude 4 models actually perform when put to the test.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-11-24T04:50:56Z",
+      "position": 96,
+      "thumbnail_url": "https://i.ytimg.com/vi/eLDq5TfIHys/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=eLDq5TfIHys"
+    }
+  ],
+  "export_date": "2025-11-27T06:18:14.102712",
+  "total_videos_exported": 97
+}

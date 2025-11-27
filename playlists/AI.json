@@ -1,0 +1,566 @@
+{
+  "playlist_info": {
+    "id": "PLr7GXSx8GpB7RsaxF3UxGHevucl-aHiVy",
+    "title": "AI",
+    "description": "",
+    "channel_id": "UCGTz4KW3DAxEATihHdhglSQ",
+    "channel_title": "Persival Balleste",
+    "published_at": "2020-04-17T00:57:43.981702Z",
+    "video_count": 55,
+    "playlist_url": "https://www.youtube.com/playlist?list=PLr7GXSx8GpB7RsaxF3UxGHevucl-aHiVy"
+  },
+  "videos": [
+    {
+      "video_id": "LekI91ISf_8",
+      "title": "How To Connect WhatsApp to N8N (Step-by-Step Tutorial)",
+      "description": "🚀 Start building with n8n (use my link to support my channel ❤️): https://n8n.partnerlinks.io/f7f19w3vrhin\n💬 My AI voice-to-text software (Wispr Flow): https://wisprflow.ai/r?LEON114\n☕ Buy me a coffee: https://www.buymeacoffee.com/leonvanzyl\n💵 Donate using PayPal: https://www.paypal.com/ncp/payment/EKRQ8QSGV6CWW\n📝 Download the Workflow: https://github.com/leonvanzyl/n8n-workflows/tree/main/2025/whatsapp-agent\n\nLearn how to build a sophisticated WhatsApp AI agent using N8N workflow automation in this step-by-step tutorial. Transform your WhatsApp experience with an intelligent assistant capable of processing text, images, and voice messages while responding with both text and audio replies. This comprehensive guide walks you through the entire process from setting up the Meta Developer platform to creating a fully functional AI-powered WhatsApp bot. The tutorial covers everything you need: configuring the WhatsApp Business Cloud API, building dynamic N8N workflows, implementing OpenAI for voice transcription and image analysis, and creating conditional paths for different message types.\n\nKey features demonstrated include:\n- Processing and responding to text messages\n- Transcribing voice messages and generating audio responses\n- Analyzing images and answering questions about them\n- Maintaining conversation memory and context\n- Integrating web search for real-time information\n- Accessing emails and to-do lists\n\nPerfect for automation enthusiasts, business owners wanting to enhance customer service, or developers looking to build practical AI applications. Download the workflow template for free and start building your own WhatsApp AI agent today!\n\n🕒 TIMESTAMPS:\n00:00 - Intro\n00:39 - Demo\n02:26 - Meta Whatsapp App setup\n04:32 - n8n Whatsapp Trigger\n06:05 - Adding AI Agent\n07:51 - Response to Whatsapp\n09:26 - Handling different input types\n13:47 - Audio Input\n17:11 - Respond with Audio\n21:08 - Image Input\n25:45 - Tools\n26:28 - Note on Meta Verification",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-04-17T01:15:28Z",
+      "position": 0,
+      "thumbnail_url": "https://i.ytimg.com/vi/LekI91ISf_8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=LekI91ISf_8"
+    },
+    {
+      "video_id": "V3LMuojeX24",
+      "title": "Gemini 2.0 AGENTS: Powerful AI Agents BY Gemini Can DO ANYTHING For FREE!",
+      "description": "Google's Gemini 2.0 models are built for agentic AI, and today, we're showcasing how you can use them inside VectorShift to automate anything—for FREE! 🎉\n\nIn this video, we’ll walk through building a lead classification workflow where an AI agent autonomously gathers contact info from law firm websites across multiple cities. Instead of spending hours on manual research, you’ll see how Gemini 2.0 + VectorShift can handle it all in minutes!\n\n[🔗 My Links]:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n☕ To help and Support me, Buy a Coffee or Donate to Support the Channel: https://ko-fi.com/worldofai - It would mean a lot if you did! Thank you so much, guys! Love yall\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n📅 Book a 1-On-1 Consulting Call With Me: https://calendly.com/worldzofai/ai-consulting-call-1\n📖 Want to Hire Me For AI Projects? Fill Out This Form: https://www.worldzofai.com/\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👩‍💻  My Recommended AI Engineer course is Scrimba: https://v2.scrimba.com/the-ai-engineer-path-c02v?via=worldofai\"\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nGithub Copilot Agent Mode: FREE Cursor Alternative! NEW Autonomous AI Coding Agent! (o3 Mini FREE): https://youtu.be/n3VxTaozyPg?si=YAEOY1PqEXOghaM-\nCline v3.3 UPDATE: Fully FREE Autonomous AI Coding Agent! (FREE API, New Providers): https://youtu.be/rwkVniALBEs?si=ZH2xoqr8jJfA1Pai\nScrape Any Website for FREE & NO CODE Using DeepSeek & Crawl4AI! (Opensource): https://youtu.be/uSTTAJh9xAQ?si=_OzgHP0v2N4_jiOy\n\n[Link's Used]:\nWebsite: https://vectorshift.ai/\nDocs: https://docs.vectorshift.ai/vectorshift\nGemini Blog Post: https://deepmind.google/technologies/gemini/\n\n🔥 Why Gemini 2.0 for AI Agents?\n✅ Multimodal support (Text, Image Gen, Code Execution, & More)\n✅ 1M token context window (Handles large data & documents)\n✅ Fast & cost-efficient (Free to use!)\n✅ Seamless automation with VectorShift\n\nWhether you're building AI-powered workflows, automating tasks, or exploring agentic AI, this is the best time to get started! VectorShift makes it easy with a drag-and-drop interface—no coding needed!\n\n💬 Comment below: What would YOU automate with Gemini 2.0?\n\n🔖 Tags:\nGemini 2.0, AI automation, agentic AI, VectorShift, AI workflows, AI agents, multimodal AI, Google Gemini, lead generation automation, AI for business, LLM automation, AI lead research, AI tools 2024, AI productivity\n\n#Hashtags:\n#aitools  #gemini2flash  #automation  #aiagents  #googlegemini  #llm  #aitools  #leadgeneration  #productivity",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-03-18T04:15:24Z",
+      "position": 1,
+      "thumbnail_url": "https://i.ytimg.com/vi/V3LMuojeX24/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=V3LMuojeX24"
+    },
+    {
+      "video_id": "1oj0Usyy_ds",
+      "title": "I tried 100 AI Music Tools… These are the ONLY ones worth using",
+      "description": "I’ve tested over 100 AI Music Tools, and let me tell you—most of them are completely useless… but a few? Insanely good. So good in fact they’ve completely transformed the way I produce music.\n\nToday I’m breaking down the AI music tools I actually use as a professional music producer that make making music easier, faster, and way more fun.\n\n------------------------------------\n🔗 Links:\nFree Downloads:⤵\n 🎁 https://musicbymattie.com/free-downloads/\n\nMattie's MIDI: ⤵\n🎹 https://musicbymattie.com/shop/matties-midi-starter-edition\n\nPlugins Covered: ⤵\nBackbone\nSamplette.io\nPlay Phrase\nXO\nWeights.gg\nAudimee\nSVC Vocal Conversion\nLALAL.AI\nUltimate Vocal Remover\n Chord Chord\n Landr - Composer\nMattie’s MIDI: Starter Edition\nSonible plugins\nOzone — Izotope Mastering\nClear Noise Remover\nChatGPT \nMidjourney - \nUdio\nSuno\n-----------------------------\n📖 Chapters:\n0:00 - Intro\n0:32 - AI Sample Tools\n3:07 - AI Vocal Changers\n5:34 - AI Stem Separators\n7:56 - AI MIDI Generators\n9:56 - AI Plugins\n11:49 - Other Helpful AI Tools\n13:05 - Full Song Generators",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-02-26T01:35:06Z",
+      "position": 2,
+      "thumbnail_url": "https://i.ytimg.com/vi/1oj0Usyy_ds/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=1oj0Usyy_ds"
+    },
+    {
+      "video_id": "lgotWx7GmNI",
+      "title": "This AI deepfake tool is WAY too real. Full body animation",
+      "description": "OmniHuman-1 AI deepfake. Animate any image with any audio or video. #ai #aitools #aivideo #agi \n\nThanks to our sponsor, AI Portrait. Make professional headshots in seconds! https://aiportrait.me/\n\nhttps://omnihuman-lab.github.io/\n\n0:00 OmniHuman intro and demos\n3:25 Cartoons, anime, 3D\n6:33 Tricky poses and examples\n9:30 Singing examples\n10:54 Separate body and hand movements\n12:24 Comparison with existing AI tools\n\nNewsletter: https://aisearch.substack.com/\nFind AI tools & jobs: https://ai-search.io/\nSupport: https://ko-fi.com/aisearch\n\nHere's my equipment, in case you're wondering:\nDell Precision 5690: https://www.dell.com/en-us/dt/ai-technologies/index.htm?utm_source=AISearchTools&utm_medium=youtube&utm_campaign=precisionai#tab0=0 \nGPU: Nvidia RTX 5000 Ada https://nvda.ws/3zfqGqS\nMouse/Keyboard: ALOGIC Echelon https://bit.ly/alogic-echelon\nMic: Shure SM7B https://amzn.to/3DErjt1\nAudio interface: Scarlett Solo https://amzn.to/3qELMeu",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-02-06T03:51:34Z",
+      "position": 3,
+      "thumbnail_url": "https://i.ytimg.com/vi/lgotWx7GmNI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=lgotWx7GmNI"
+    },
+    {
+      "video_id": "KaHAn9-FZb8",
+      "title": "How I made an AI MUSIC ALBUM & Posted on SPOTIFY!",
+      "description": "AI writing tool for 1-click SEO-optimized articles, blog posts & affiliate content. \nhttps://seowriting.ai/?fp_ref=ai_andy Available in 48 languages, auto-posted to WordPress with AI Images. Use the coupon code: AIANDY for a 25% discount!\n\nThanks to SeoWriting for sponsoring this video. Our sponsors help us grow the channel and keep making better videos for you. Thanks for your support! \n- - - \n0:00 // Intro\n0:35 // Choosing the AI software\n2:37  // Sponsor - SeoWriting\n4:17 // Creating the Music\n6:32 // Creating the AI art\n8:59 // Publish\n12:05 // Future of the Music\n- - -\n\nLISTEN to the AI Album on Spotify: \nhttps://open.spotify.com/artist/2CXo7G2AdTK01B5qZtH6uM?si=idkovBtORty1Y5F2P51ZVg\n\n\nLINKS\n↓\n\nClick Here to Start AI Automation:\nhttps://skool.com/aimate/about\n\nMy #1 Favorite AI Tools Ranked:\nhttps://andyhafell.ck.page/tools\n\nFind Your #1 ChatGPT Prompt To Save You 7 Hours Per Week:\nhttps://andyhafell.ck.page/prompts\n\nFollow me on Twitter: https://twitter.com/itsaiandy\n\nFollow on Tiktok: https://www.tiktok.com/@andyhafell\n\nFollow on Instagram: https://www.instagram.com/itsaiandy\n\nFollow Andy Hafell on Facebook: https://www.facebook.com/Andyhafell\n\nEmail for Business Inquiries: biz@aiandy.ai",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-02-05T02:14:09Z",
+      "position": 4,
+      "thumbnail_url": "https://i.ytimg.com/vi/KaHAn9-FZb8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=KaHAn9-FZb8"
+    },
+    {
+      "video_id": "XmuaOVcMQCg",
+      "title": "How to clone a Website or Sections to WordPress in 10 minutes 🚀",
+      "description": "Have you ever thought about this?  how to clone a website or section without creating it? 🚀 In this video, I’ll show you how to copy and implement a complete section or design from any website to your WordPress site using Figma and Elementor. Learn the step-by-step process from designing in Figma to implementing with Elementor on your WordPress site. No technical skills? No problem! This tutorial is perfect for beginners!\n\n🎯 What You'll Learn in This Video:\n• How to use Figma for website design\n• The process of cloning any website section\n• Using Elementor for fast website creation\n• Creating stunning website layouts without coding\n• Smart tips to boost website development efficiency\n\n🔗 Helpful Links:\n🎯 Figma to Elementor Plugin: https://uichemy.com/pricing/?ref=723\n\n💥 Limited Time Hostinger Offer 80% off: \n↦ https://hardiksodavadiya.com/hostinger\n\n❓ Facing Any Issues? No worries! Book a call with me, and I'll help you out:\n↦ https://hardiksodavadiya.com/call\n\n🌟 Why Watch This Tutorial?\nIf you’re tired of creating designs from scratch or looking to save time while maintaining quality, this video is a must-watch! Learn professional techniques for replicating website sections and turn your ideas into a functional WordPress site in minutes.\n\n🔑 Video Summary:\nFrom Figma to WordPress, we’ll walk you through everything — from capturing the design inspiration to flawlessly integrating it into a live website. All this, using only Hello Elementor theme, Elementor plugin, and hosting by Hostinger.\n\n💡 Keywords Covered in This Video:\n◉ Website cloning for WordPress\n◉ Figma to WordPress integration\n◉ Elementor tips and tricks\n◉ WordPress website design without coding\n◉ Save time with WordPress templates\n◉ Hostinger WordPress hosting guide\n◉ Parallax and interactive web design\n◉ Using Hello Elementor theme for free\n\n🌐 Why Do You Need a Website in 2025?\nA modern website isn’t just a choice; it’s a necessity for every business. Whether for blogging, eCommerce, or showcasing services, a website helps you reach a global audience and establishes credibility. Learn to make yours unique and stunning with this tutorial!\n\n🔥 Benefits of Using WordPress for Cloning Websites:\nWordPress allows flexibility, scalability, and tons of customization. You can create any layout with Elementor, making website design easier and faster.\n\n💡 Who Should Watch This Video?\n● Beginners looking to build websites\n● Entrepreneurs wanting affordable solutions\n● Bloggers needing fast designs\n● Developers seeking smart design techniques\n\n👨‍💻 Who is Hardik Sodavadiya?\nHardik is a seasoned WordPress expert with over five years of experience in building custom websites, WooCommerce stores, and plugins. His tutorials simplify web development for beginners and professionals alike.\n\n🎯 Need Help? Let’s Connect!\nHaving trouble? Book a call today! 👉 https://hardiksodavadiya.com/call\n\n💥 Get 80% Off on Hosting 👉 https://hardiksodavadiya.com/hostinger\nIf you're interested in professional web development services, contact me today. Let’s create your dream website together!\n\n💥 Don’t forget to hit like, share, and subscribe for more tutorials!\n\nTags:\nhow to clone a website,\nfigma to elementor,\nhow to download codecanyon theme free,\nconvert figma to wordpress elementor,\nbest website cloning technique,\nhow to clone a website in wordpress,\nhow to clone any website,\nhow to clone any website in wordpress,\ndownload premium wordpress themes for free,\nhow to clone any website to wordpress,\nclone website with wordpress,\nClone website with WordPress,\nFigma to WordPress tutorial,\nElementor design tutorial,\nHow to copy a website section,\nWordPress website without coding,\nHello Elementor theme guide,\nHostinger hosting setup,\nFast web development WordPress,\nBest website cloning technique,\nUse Elementor for WordPress,\nSave time with website design,\nBeginner’s WordPress tutorial,\nAdvanced Elementor tips,\nWeb design trends 2025,\nHow to design modern websites,\nWordPress tools for developers,\nDrag and drop WordPress design,\nCreate stunning web pages,\nFigma tips for WordPress,\nSmart website design hacks,\nCopy website to WordPress,\nFree web development tutorial,\nWeb design tools and tips,\nElementor website tricks,\nWordPress beginners guide,\nAffordable web design solutions,\nCreative website layouts,\nUsing Elementor for free,\nFast and responsive design,\nWordPress no-code solutions\n\nHashtags:\n#CloneWebsite, #FigmaToWordPress, #WordPressTutorial, #ElementorGuide, #HelloElementor, #WebDesignTips, #WordPressBeginners, #NoCodeWebsite, #WebDevelopment, #HostingerHosting, #WordPressExpert, #WebsiteDesign, #ParallaxEffect, #DragAndDrop, #ResponsiveDesign, #DIYWebsites, #SEOForBeginners, #EasyWebDesign, #WebsiteCloning, #WPDevelopment, #BestWordPressTheme, #TechTutorial, #WebsiteFor2025, #CreativeWebDesign, #LearnWordPress, #WebDesignTricks, #ModernWebDesign, #CustomWebsites, #MakeMoneyOnline #Hardiksodavadiya",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-02-01T03:39:05Z",
+      "position": 5,
+      "thumbnail_url": "https://i.ytimg.com/vi/XmuaOVcMQCg/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=XmuaOVcMQCg"
+    },
+    {
+      "video_id": "FmF1FxCE7Y8",
+      "title": "Crie Qualquer Coisa com Essa IA!! (Windsurf Wave 2)",
+      "description": "Participe da nossa comunidade no WhatsApp: \nhttps://chat.whatsapp.com/G33RRy2N5Id2lurKKQsNbV\n\nO futuro da programação com IA está mais próximo do que nunca! A Wave 2 do Codeium chegou para construir as bases de um 2025 revolucionário. Neste vídeo, você vai conhecer as ferramentas que vão transformar a forma como você codifica: desde a busca inteligente na web integrada ao Cascade, até as Memórias Automatizadas que personalizam a IA para você.\n\nLinks: \nWindsurf Wave 2: https://codeium.com/\nNetlify: https://app.netlify.com/\n\nEngenharia de Prompt - A Arte de Fazer a Pergunta Certa 👇\nhttps://bit.ly/lp-eng-prompt\n\n#inteligenciaartificial #ias #windsurf #cursor #chatgpt #deepseek",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-31T00:05:48Z",
+      "position": 6,
+      "thumbnail_url": "https://i.ytimg.com/vi/FmF1FxCE7Y8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=FmF1FxCE7Y8"
+    },
+    {
+      "video_id": "blCXng9yYBw",
+      "title": "Video Understanding with Qwen2.5-VL-7B-Instruct - Run Locally",
+      "description": "This video shows how to locally install Qwen2.5-VL-7B-Instruct for video understanding.\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🚀 This video is sponsored by EigentBOT that lets you deploy a personalized knowledge bot across platforms like Discord, Slack, etc. https://bot.eigent.ai\n\n#qwenvl #qwenvl7b \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRELATED VIDEOS:\n\n▶ Resource https://huggingface.co/Qwen/Qwen2.5-VL-7B-Instruct\n\nAll rights reserved © Fahd Mirza",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-30T23:19:16Z",
+      "position": 7,
+      "thumbnail_url": "https://i.ytimg.com/vi/blCXng9yYBw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=blCXng9yYBw"
+    },
+    {
+      "video_id": "zSCxbqgqeJ8",
+      "title": "Docling: Efficient document processing for AI workflows",
+      "description": "Wanting to use your personal or organizational data in AI workflows, but it's stuck in PDFs and other document formats? Docling is here to help. It’s an open-source tool from IBM Research that converts files like PDFs and DocX into easy-to-use Markdown and JSON while keeping everything structured. In this video, join developer advocate Cedric Clyburn to see how it works, We'll walk through a demo using LlamaIndex for a question-answering app, and share some interesting details and benchmarks. Let’s dig in and see how Docling can make working with your data so much easier for RAG, Fine-Tuning models, and more.\n\nResources:\nhttps://github.com/DS4SD/docling\nhttps://www.redhat.com/en/blog/docling-missing-document-processing-companion-generative-ai",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-30T03:39:14Z",
+      "position": 8,
+      "thumbnail_url": "https://i.ytimg.com/vi/zSCxbqgqeJ8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=zSCxbqgqeJ8"
+    },
+    {
+      "video_id": "_FYnwYdLtIc",
+      "title": "Qwen 2.5 MAX Takes Down DeepSeek V3 in AI Model Showdown!",
+      "description": "🔥 Discover Qwen 2.5 Max: The Latest Free AI Model Challenging Industry Giants!\nIn this video, we dive deep into Qwen's groundbreaking AI models and their impressive capabilities. Learn how these open-source models are competing head-to-head with leading closed-source solutions.\n\nMassed compute: https://bit.ly/mervin-praison\nCoupon: MervinPraison (50% Discount on Selected GPU)\n\n🚀 Key Highlights:\n\nQwen 2.5 Max outperforming DeepSeek v3 and GPT-4 in Arena benchmarks\n20+ trillion token training on a large-scale mixture of expert model\nAdvanced vision capabilities with Qwen 2.5 VL\nGroundbreaking 1-million token context length models\n\n💡 Models Covered:\n\nQwen 2.5 Max (72B parameters)\nQwen 2.5 VL (Vision Language Model)\nQwen 2.5 7B & 3B variants\nQwen 2.5 7B/14B Instruct with 1M token context\n\n🛠️ Technical Features:\n\nAdvanced visual agent capabilities\nLong video compression support\nPrecise object localization\nStructured data handling for finance/commerce\nSuperior needle-in-haystack performance\n\nTimestamp:\n0:00 - Introduction to Qwen 2.5 Max Model\n0:28 - Model Architecture & Training Details\n0:45 - Introduction to Qwen 2.5 VL (Vision Language Model)\n1:00 - Computer Control & Video Understanding\n1:26 - Structured Data & Performance Comparisons\n1:52 - Different Model Versions & Parameters\n2:13 - Million Token Context Models\n2:42 - Technical Performance & Memory Tests\n3:28 - Deployment Guidelines\n3:44 - Conclusion\n\n🔧 Run Locally:\nDownload and run these models using:\n\nLM Studio\nJan AI\nLocal GPU setup (Ampere/Hopper architecture supported)\n\n📚 Related Content:\nWant to explore more AI models? Check out our DeepSeek R1 video:\n\n#AI #MachineLearning #Qwen #ArtificialIntelligence #OpenSource #DeepLearning #LLM #AITechnology",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-29T01:38:30Z",
+      "position": 9,
+      "thumbnail_url": "https://i.ytimg.com/vi/_FYnwYdLtIc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=_FYnwYdLtIc"
+    },
+    {
+      "video_id": "f0RbwrBcFmc",
+      "title": "Understanding and Effectively Using AI Reasoning Models",
+      "description": "With the imminent release of OpenAI's -o3 reasoning model and Deepseek's impressive R1 release, it's clear that reasoning models are improving rapidly. But, many aren't sure where they can be best applied or how to use them effectively. Here is a short primer, reviewing the scaling paradigm (RL on Chat-Of-Thought), practical prompting tricks, a set of emerging use-cases for reasoning models, and poractical usage of OpenAI's -o1.\n\nVideo notes:\nhttps://mirror-feeling-d80.notion.site/Reasoning-Models-177808527b17809293ffd82abb3c05aa?pvs=4",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-23T03:59:16Z",
+      "position": 10,
+      "thumbnail_url": "https://i.ytimg.com/vi/f0RbwrBcFmc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=f0RbwrBcFmc"
+    },
+    {
+      "video_id": "94rADzDBQPM",
+      "title": "[QA] Reasoning Language Models: A Blueprint",
+      "description": "This paper proposes a modular blueprint for Reasoning Language Models (RLMs) to enhance accessibility and scalability, facilitating rapid prototyping and integration within the broader AI ecosystem.\n\nhttps://arxiv.org/abs//2501.11223\n\nYouTube: https://www.youtube.com/@ArxivPapers\n\nTikTok: https://www.tiktok.com/@arxiv_papers\n\nApple Podcasts: https://podcasts.apple.com/us/podcast/arxiv-papers/id1692476016\n\nSpotify: https://podcasters.spotify.com/pod/show/arxiv-papers",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-23T03:57:04Z",
+      "position": 11,
+      "thumbnail_url": "https://i.ytimg.com/vi/94rADzDBQPM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=94rADzDBQPM"
+    },
+    {
+      "video_id": "rzMEieMXYFA",
+      "title": "How to Run DeepSeek R1 on Your Computer (100% FREE)",
+      "description": "Learn how to run DeepSeek-R1, a powerful open-source reasoning AI, locally on your machine using Ollama. This step-by-step guide shows you how to harness R1's unique ability to solve complex problems through methodical reasoning, all while running completely free on your own hardware. Watch as we demonstrate R1's capabilities by solving an intricate logic puzzle and see how it differs from traditional AI models.\n\n🙏 Support My Channel:\nBuy me a coffee ☕ : https://www.buymeacoffee.com/leonvanzyl\nPayPal Donation: https://www.paypal.com/ncp/payment/EKRQ8QSGV6CWW\n\n🕒 TIMESTAMPS:\n00:00 - Intro\n00:34 - Why reasoning models?\n02:54 - Ollama Setup\n03:27 - Download and Run DeepSeek-R1",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-23T03:21:24Z",
+      "position": 12,
+      "thumbnail_url": "https://i.ytimg.com/vi/rzMEieMXYFA/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=rzMEieMXYFA"
+    },
+    {
+      "video_id": "IiRP3AoaY0A",
+      "title": "Run Multi-agent Workflows in MINUTES using Langflow Templates",
+      "description": "Explore how to build complex multi-agent workflows with Langflow templates. \n\nIn this video, you’ll learn about sequential and hierarchical agents and how to leverage Langflow templates to create these advanced setups in minutes.  We'll also show several different example mulit-agent flows that you can leverage for travel, newsletters, and other use cases!\n\n🌟 What You’ll Learn:\n\n1️⃣ Sequential Agents:\n • Agents that work in a chain, each performing a unique task before passing the results to the next agent.\n • Example: Research → Finance Analysis → Editor Agent (e.g., “Should I invest in Tesla stock?”).\n • Tools used: Tavili AI, Finance APIs, Calculator Tool.\n\n2️⃣ Hierarchical Agents:\n • Orchestrator agents that manage a group of sub-agents.\n • Example: Newsletter Agent gathers news via API and generates emails using Composio.\n\n3️⃣ Agent Templates in Langflow:\n • Research Agent: Start with a research-based query and gather insights.\n • Travel Planning Agent: Collaborate to generate a detailed itinerary.\n • Newsletter Agent: Automate research and email creation for your audience.\n\n💻 Key Features:\n • Leverage Tool Mode to equip agents with powerful tools.\n • Use Langflow templates to quickly customize your workflows.\n • Build with OpenAI, Tavili AI, Finance tools, and more.\n\n📥 Resources:\n • Langflow Website: langflow.org\n • Langflow Cloud: langflow.datastax.com\n • oin our Discord Server:https://discord.gg/EqksyE2EX9 \n\n💡 Pro Tip: Run your agents locally or deploy them via Langflow’s API for scalable production workflows.\n\nLet us know if you’ve tried building sequential or hierarchical agents. Share your thoughts in the comments! 🚀",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-23T03:13:53Z",
+      "position": 13,
+      "thumbnail_url": "https://i.ytimg.com/vi/IiRP3AoaY0A/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=IiRP3AoaY0A"
+    },
+    {
+      "video_id": "PPutzww1RaM",
+      "title": "Automate Your Browser with AI Using StageHand AI Agent",
+      "description": "🚀 Automate Your Browser with AI Using StageHand AI Agent\n\nDiscover the power of StageHand AI, the revolutionary open-source AI agent designed for seamless browser automation and web scraping! 🌐 This hands-on demo takes you through its incredible features and how it can simplify web navigation, task automation, and API workflows.\n\n\n🔍 What You’ll Learn in This Video:\n • Live demo of StageHand AI automating tasks like extracting IMDb movie data and GitHub repository descriptions.\n • Overview of StageHand’s powerful features, including the Act, Go To, and Extract APIs for efficient automation.\n • Step-by-step guide to installing and setting up this fully free and open-source AI agent.\n • How to use tools like Cursor to enhance AI coding automation with StageHand AI.\n\n🔧 Why Choose StageHand AI?\n • Revolutionizes web scraping and browser task automation.\n • Powered by Playwright, offering durable and self-healing code.\n • Fully compatible with OpenAI, Claude, and Gemini, making it a versatile tool for developers and productivity enthusiasts.\n • A great alternative to Fabric AI or Deepseek AI for multi-agent workflows.\n\n🎥 Watch now to see how StageHand AI can transform your automation workflows with its cutting-edge capabilities!\n\n📌 Resources:\n • Official GitHub Repository: https://github.com/browserbase/stagehand\n\n📢 Don’t forget to like, subscribe, and hit the 🔔 for more tutorials on AI tools and automation! 😊\n\n💡 Tags: stagehand AI, browser automation, web scraping, open-source AI, free AI agent, Node.js, OpenAI, Claude, Gemini, API automation, productivity tools, multi-agent framework, Fabric AI alternative, Deepseek AI agent, AI coding automation.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-21T23:57:55Z",
+      "position": 14,
+      "thumbnail_url": "https://i.ytimg.com/vi/PPutzww1RaM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=PPutzww1RaM"
+    },
+    {
+      "video_id": "WkLdLJJzV1k",
+      "title": "Scrape Anything with DeepSeek V3 + Scraping Tool Integration (CHEAP & EASY)",
+      "description": "🔥 Scrape with Firecrawl: https://firecrawl.link/leo\n\nIn this video, I dive into the world of web scraping using DeepSeek and show you how incredibly affordable it can be. We'll start by setting up DeepSeek, integrating it with the open-source crawler Crawl for AI, and then move on to scraping a website to get structured data in no time. Along the way, I break down the costs, compare token usage with different language models, and explain why DeepSeek is a game-changer for startups that rely on consistent, reliable, and cheap data scraping.\n\nYou'll see step-by-step instructions on configuring the DeepSeek API, creating your key, and using the crawler to extract data like a pro. I also highlight some of the cool features of Crawl for AI, like excluding external links, handling iframes, and configuring prompts to get super-precise results. At the end, we scrape the leaderboard from Chatbot Arena to demonstrate the power of this setup, resulting in structured JSON data that's perfect for databases or frontend applications.\n\nDisclaimer:\n\nWhile I mention in the intro that this \"feels illegal,\" it's important to clarify that scraping is not inherently illegal. However, you must always review and adhere to the policies of the websites you scrape. Be responsible with the data you collect, and ensure you’re not violating terms of service or ethical guidelines. Use tools like these wisely and respectfully.\n\nFor more context, the leaderboard used in this demonstration is from the open-source project Chatbot Arena (https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard), and the scraping of (https://web.lmarena.ai/leaderboard) was done purely for demonstrational purposes.\n\n🔥 Scrape with Firecrawl : https://firecrawl.link/leo\n\ntimestamps:\n\n00:00 - Introduction to Deep Seek for Scraping\n00:09 - Why Use Deep Seek for Scraping?\n00:27 - Cost and Efficiency of AI-Based Web Scraping\n01:05 - Understanding Tokens and Pricing Models\n01:55 - Monthly Token Usage Breakdown\n02:40 - Setting Up Deep Seek API Access\n03:45 - Configuring Crawl for AI with Deep Seek\n04:50 - Key Features of Crawl for AI\n05:45 - Running the Code and Scraping Chatbot Arena\n06:30 - Extracting and Structuring Data from the Website\n07:18 - Token Usage and Cost Analysis",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-17T22:14:35Z",
+      "position": 15,
+      "thumbnail_url": "https://i.ytimg.com/vi/WkLdLJJzV1k/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=WkLdLJJzV1k"
+    },
+    {
+      "video_id": "9efAUFWo1Rs",
+      "title": "ChatGPT Tasks: Here’s How to Use Them Right",
+      "description": "OpenAI's Tasks feature in ChatGPT makes automation simple and effective. Learn how to schedule tasks, create reports, and receive real-time updates to stay on top of your day.\n\nLINKS:\nFind list of your tasks: https://chatgpt.com/tasks\nhttps://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt\nSam's Blogpost: https://blog.samaltman.com/reflections\n\n\n\n💻 RAG Beyond Basics Course:\nhttps://prompt-s-site.thinkific.com/courses/rag\n\nLet's Connect: \n🦾 Discord: https://discord.com/invite/t4eYQRUcXB\n☕ Buy me a Coffee: https://ko-fi.com/promptengineering\n|🔴 Patreon: https://www.patreon.com/PromptEngineering\n💼Consulting: https://calendly.com/engineerprompt/consulting-call\n📧 Business Contact: engineerprompt@gmail.com\nBecome Member: http://tinyurl.com/y5h28s6h\n\n💻 Pre-configured localGPT VM: https://bit.ly/localGPT (use Code: PromptEngineering for 50% off).  \n\nSignup for Newsletter, localgpt:\nhttps://tally.so/r/3y9bb0\n\n\n\n\nAll Interesting Videos:\nEverything LangChain: https://www.youtube.com/playlist?list=PLVEEucA9MYhOu89CX8H3MBZqayTbcCTMr\n\nEverything LLM: https://youtube.com/playlist?list=PLVEEucA9MYhNF5-zeb4Iw2Nl1OKTH-Txw\n\nEverything Midjourney: https://youtube.com/playlist?list=PLVEEucA9MYhMdrdHZtFeEebl20LPkaSmw\n\nAI Image Generation: https://youtube.com/playlist?list=PLVEEucA9MYhPVgYazU5hx6emMXtargd4z",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-15T07:04:48Z",
+      "position": 16,
+      "thumbnail_url": "https://i.ytimg.com/vi/9efAUFWo1Rs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=9efAUFWo1Rs"
+    },
+    {
+      "video_id": "JWfNLF_g_V0",
+      "title": "Turn ANY Website into LLM Knowledge in SECONDS",
+      "description": "One of the biggest challenges we face with LLMs is their knowledge is too general and limited for anything new. That’s why RAG is such a huge topic when it comes to AI right now - it’s a method for providing an LLM with external knowledge you curate so it can become an expert at something it wasn’t before - a specific AI framework, your ecommerce store, you name it. The problem is, that “curate” step can be very difficult and slow.\n\nThat is where Crawl4AI comes in! Crawl4AI is an open source web crawling framework specifically designed for scraping websites and formatting the output in the BEST possible way for an LLM to understand. The best part is it solves a LOT of problems we typically have with systems that crawl websites - usually they are slow, resource intensive, and complicated. But Crawl4AI is VERY fast, intuitive, easy to set up, and extremely memory efficient.\n\nIn this video, I show you how to use Crawl4AI to super easily crawl websites for LLMs in just seconds, and at the end I even show you a RAG AI agent I’ve built to be a “Pydantic AI” framework expert using Crawl4AI to build the knowledgebase. And you could really take this and use it for any website you want. Next video I'll do a deep dive into this agent!\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nRegister now for the oTTomator AI Agent Hackathon with a $6,000 prize pool!\n\nhttps://studio.ottomator.ai/hackathon/register\n\nAll code for this Crawl4AI RAG Agent can be found here:\n\nhttps://github.com/coleam00/ottomator-agents/tree/main/crawl4AI-agent\n\nCrawl4AI GitHub:\n\nhttps://github.com/unclecode/crawl4ai\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n00:00 - The Beauty of Crawl4AI\n02:16 - Why Crawl4AI?\n05:25 - Basic Crawl4AI Example - Single Page Crawl\n06:56 - Crawling Multiple Pages\n08:58 - Ethics of Web Scraping\n10:01 - Crawling Multiple Pages Continued\n12:24 - FAST Parallel Page Crawling\n15:19 - Crawl4AI RAG AI Agent\n17:48 - Outro\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nJoin me as I push the limits of what is possible with AI. I'll be uploading videos at least two times a week - Sundays and Wednesdays at 7:00 PM CDT! Sundays and Wednesdays are for everything AI, focusing on providing insane and practical educational value. I will also post sometimes on Fridays at 7:00 PM CDT - specifically for platform showcases - sometimes sponsored, always creative in approach!",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-13T05:51:44Z",
+      "position": 17,
+      "thumbnail_url": "https://i.ytimg.com/vi/JWfNLF_g_V0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=JWfNLF_g_V0"
+    },
+    {
+      "video_id": "kfedW9gEWgo",
+      "title": "Ferramenta INCRÍVEL AGENTE para atender ligações usando IA - ULTRAVOX",
+      "description": "Neste vídeo eu demonstro o uso dessa ferramenta incrível - o Ultravox que é um modelo para conversação em voz usando inteligência artificial.\n\nLink pro github.\nhttps://github.com/mumunha/youtube-ultravox\n\nUltravox:\nhttps://www.ultravox.ai/\n\n#ultravox #inteligenciaartificial  #agentes",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-13T01:33:50Z",
+      "position": 18,
+      "thumbnail_url": "https://i.ytimg.com/vi/kfedW9gEWgo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kfedW9gEWgo"
+    },
+    {
+      "video_id": "W2QuK9TwYXs",
+      "title": "19 Tips to Better AI Fine Tuning",
+      "description": "🔥 Want to make your LLMs smarter? Discover the truth about fine-tuning - it's not what most people think! Learn when to use it, when to avoid it, and how to prepare for success with popular tools like Axolotl, Unsloth, and MLX.\n\n🎯 In this video, you'll learn:\n• What fine-tuning actually does (hint: it's not about new knowledge)\n• The key differences between full fine-tuning, LoRA, and QLoRA\n• How to prepare high-quality training data\n• Which base model to choose for your project\n• Common pitfalls to avoid\n\n⏱️ Timestamps:\n00:00 - Intro\n00:29 - The first tip\n00:44 - The second tip...what it does\n01:17 - But wait\n02:49 - The next one\n03:02 - The approaches\n04:33 - The first example\n05:04 - The parameters\n06:40 - Another tip\n07:12 - Second great use case\n07:39 - This tip is a mistake to avoid\n07:55 - Another mistake to avoid\n08:12 - RAG is often better\n09:09 - Patterns\n09:31 - The most crucial piece\n10:13 - Another tip\n10:31 - Good Data\n11:01 - High quality data\n11:34 - What your training data must have\n12:29 - Foundations\n12:55 - Model size\n13:47 - Something often overlooked\n14:56 - But what do i DO\n\n\n💡 Want to implement fine-tuning yourself? Subscribe and hit the notification bell to catch our upcoming tutorials on Axolotl, unsloth, and MLX!\n\nDrop a comment below: Which fine-tuning tool should we cover first? 👇\n\n#MachineLearning #LLM #ArtificialIntelligence\n\nMy Links 🔗\n👉🏻 Subscribe (free): https://www.youtube.com/technovangelist  \n👉🏻 Join and Support: https://www.youtube.com/channel/UCHaF9kM2wn8C3CLRwLkC2GQ/join\n👉🏻 Newsletter: https://technovangelist.substack.com/subscribe\n👉🏻 Twitter: https://www.twitter.com/technovangelist \n👉🏻 Discord: https://discord.gg/uS4gJMCRH2  \n👉🏻 Patreon: https://patreon.com/technovangelist  \n👉🏻 Instagram: https://www.instagram.com/technovangelist/  \n👉🏻 Threads: https://www.threads.net/@technovangelist?xmt=AQGzoMzVWwEq8qrkEGV8xEpbZ1FIcTl8Dhx9VpF1bkSBQp4\n👉🏻 LinkedIn: https://www.linkedin.com/in/technovangelist/\n👉🏻 All Source Code: https://github.com/technovangelist/videoprojects\n\nWant to sponsor this channel? Let me know what your plans are here: https://www.technovangelist.com/sponsor",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-12T01:23:35Z",
+      "position": 19,
+      "thumbnail_url": "https://i.ytimg.com/vi/W2QuK9TwYXs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=W2QuK9TwYXs"
+    },
+    {
+      "video_id": "H85F0vib85Y",
+      "title": "Microsoft's PHI-4 14B in 5 Minutes",
+      "description": "Exploring PHI-4: Microsoft's New 14 Billion Parameter Open Source Language Model\n\nLearn The Fundamentals Of Becoming An AI Engineer On Scrimba;\nhttps://v2.scrimba.com/the-ai-engineer-path-c02v?via=developersdigest\n\nIn this video, I'll dive into PHI-4, an impressive new open source 14 billion parameter language model released by Microsoft. Available on HuggingFace, this MIT licensed model rivals Llama 70B and Qwen 2.5 70B on the MMLU benchmark. I'll walk you through the model card, some key points from the technical report, and show you how to set up and run PHI-4 on your machine or IDE. Highlights include details on its architecture, training data, and performance, as well as practical tips for using it locally. Don't miss the comparison with models like GPT-4o in coding benchmarks and other diverse applications. Stay tuned for more insights and let me know your thoughts in the comments!\n\nTechnical Report: https://arxiv.org/pdf/2412.08905\nHF: https://huggingface.co/microsoft/phi-4\nOllama: https://ollama.com/\nContinue: https://www.continue.dev/\n\n00:00 Introduction to PHI-4: A New Open Source Language Model\n00:36 Model Overview and Technical Specifications\n02:04 Setting Up and Running PHI-4 Locally\n03:21 Using PHI-4 with VS Code and Continue\n04:23 Performance and Technical Report Insights\n05:33 Conclusion and Future Prospects",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-11T21:33:27Z",
+      "position": 20,
+      "thumbnail_url": "https://i.ytimg.com/vi/H85F0vib85Y/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=H85F0vib85Y"
+    },
+    {
+      "video_id": "5fECWzNi7l8",
+      "title": "Deepseek v3 Computer Use: FULLY FREE AI Agent With UI CAN DO ANYTHING!",
+      "description": "👩‍💻  My Recommended AI Engineer course is Scrimba – Save an Extra 30% on Your Pro Plans with My Link! (EXPIRES FEB 1, 2025): https://scrimba.com/learn/aiengineer?via=worldofaiSpecial\n\nIn this video, we dive deep into Deepseek V3 Computer Use, a completely free AI agent that is revolutionizing the way we interact with technology. With its intuitive Web UI and cutting-edge features, Deepseek V3 can do anything—from automating tasks to interacting with websites and integrating with various Large Language Models. Whether you're looking to streamline workflows, access your favorite sites with AI, or make use of advanced AI models like Gemini, OpenAI, and more, Deepseek V3 delivers it all.\n\n[🔗 My Links]:\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n☕ To help and Support me, Buy a Coffee or Donate to Support the Channel: https://ko-fi.com/worldofai - It would mean a lot if you did! Thank you so much, guys! Love yall\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n📅 Book a 1-On-1 Consulting Call With Me: https://calendly.com/worldzofai/ai-consulting-call-1\n📖 Want to Hire Me For AI Projects? Fill Out This Form: https://td730kenue7.typeform.com/to/WndMD5l7\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n👩‍💻  My Recommended AI Engineer course is Scrimba: https://v2.scrimba.com/the-ai-engineer-path-c02v?via=worldofai\"\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nBrowser Use: FREE AI Agent CAN CONTROL BROWSERS & DO ANYTHING! (Beats Anthropic!): https://youtu.be/dGjztcS2zG0\nNEW CLINE: Develop a Full-stack App For FREE Without Writing ANY Code! (OPENSOURCE): https://youtu.be/M4uo9kHnTrc\nDeepSeek v3 Coder: Develop a Full-stack App For FREE Without Writing ANY Code!: https://youtu.be/tiPWO_V9fmg\n\n[Link's Used]:\nWebsite: https://browser-use.com/\nDocs: https://docs.browser-use.com/\nFree Hyperbolic API: https://app.hyperbolic.xyz/models/deepseek-v3/api\nGithub Repo: https://github.com/browser-use/web-ui\nPython Download: https://www.python.org/downloads/\nGit Download: https://git-scm.com/downloads\nUV: https://docs.astral.sh/uv/\nVS Code Download: https://code.visualstudio.com/download\n\nThis version comes with a user-friendly interface, persistent browser sessions, custom browser support, and even high-definition screen recording—all built to make your digital experience smoother and more efficient. Best of all? It's fully free and open-source!\n\nJoin us as we explore the capabilities of this insane AI agent, and see firsthand how it can boost your productivity, simplify complex tasks, and bring your digital interactions to a new level.\n\nFeatures:\nFully free AI agent with a powerful Web UI\nSupports multiple Large Language Models (LLMs) including Gemini, OpenAI, Azure OpenAI, Anthropic, DeepSeek, Ollama, and more\nCustom browser support for seamless interaction and eliminating the need for re-login\nPersistent browser sessions to track and maintain AI interactions\nHigh-definition screen recording for capturing your AI-assisted tasks\nEasy interaction with AI agents and websites\nTags/Keywords:\nDeepseek V3, AI agent, fully free AI, browser-use, AI automation, web UI, Gemini, OpenAI, Anthropic, Azure OpenAI, LLM integration, AI models, AI automation tools, custom browser support, persistent sessions, AI for productivity, AI for websites, free AI tools, open-source AI, AI screen recording, DeepSeek, AI in tech\n\nHashtags:\n#DeepseekV3 #AIAgent #OpenSourceAI #WebUI #Automation #LLMs #FreeAI #AIIntegration #BrowserAutomation #TechInnovation #AIForProductivity #AIinTech #Gemini #OpenAI #Anthropic #AzureOpenAI #CustomBrowser #PersistentSessions #ScreenRecording",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-11T05:22:09Z",
+      "position": 21,
+      "thumbnail_url": "https://i.ytimg.com/vi/5fECWzNi7l8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=5fECWzNi7l8"
+    },
+    {
+      "video_id": "IVRr3zvXC0Q",
+      "title": "How to OPTIMIZE your prompts for better Reasoning!",
+      "description": "In this video, we look at Microsoft's Prompt Breeder framework and how you can use it to optimize prompts for better chain of thought reasoning traces. \n\nColab: https://drp.li/58ni6\n\nFor more tutorials on using LLMs and building agents, check out my Patreon\nPatreon: https://www.patreon.com/SamWitteveen\nTwitter: https://twitter.com/Sam_Witteveen\n\n🕵️ Interested in building LLM Agents? Fill out the form below\nBuilding LLM Agents Form: https://drp.li/dIMes\n\n👨‍💻Github:\nhttps://github.com/samwit/llm-tutorials\n\n⏱️Time Stamps:\n00:00 Intro\n01:17 Microsoft PromptWizard Blog\n04:25 PromptWizard Framework\n05:53 PromptWizard: Refinement of prompt instruction\n07:15 PromptWizard: Joint optimization of instructions and examples\n08:10 PromptWizard Github\n08:20 PromptWizard Paper\n09:34 Colab Demo",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-11T00:11:18Z",
+      "position": 22,
+      "thumbnail_url": "https://i.ytimg.com/vi/IVRr3zvXC0Q/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=IVRr3zvXC0Q"
+    },
+    {
+      "video_id": "6E2-HQMSs5k",
+      "title": "I Installed Local AI on My Mac, and It's Amazing",
+      "description": "https://linktr.ee/CogiArt\n\nEver wondered if you could run powerful AI tools locally on your Mac with Apple Silicon (M1, M2, M3, M4)? In this video, I’ll guide you step-by-step through setting up Ollama, Homebrew, Conda, Open WebUI, and Stable Diffusion—all directly on your Mac!\n\nWhether you're a developer, creator, or just AI-curious, you'll see how local AI setups can revolutionize your workflow and creativity.\n\nWhat You’ll Learn:\n\n- Install and configure Ollama for running AI models locally\n- Set up Homebrew and Conda for package management\n- Run Open WebUI for easy AI interaction\n- Install Stable Diffusion for image generation\n- Seamlessly integrate Open WebUI with Stable Diffusion\n\nUseful Resources:\n\n- GitHub Repository: https://github.com/mateo-cogeanu/local-ai-mac-setup\n- Step-by-Step Markdown Guide: Available on my GitHub\n- Have questions? Drop them in the comments below, and I’ll help out!\n- Like this video, subscribe to my channel, and turn on notifications for more AI content!\n\nTimestamps:\n00:00 - Introduction\n00:28 - Setting up Ollama\n02:38 - Installing Homebrew\n05:00 - Configuring Conda\n7:34 - Running Open WebUI\n11:30 - Installing Stable Diffusion\n17:15 - Linking Everything Together\n\nLet’s unlock the full potential of local AI on your Mac! \n\nLicense:\nLocal Elevator by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1300012\nArtist: http://incompetech.com/",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-08T02:57:57Z",
+      "position": 23,
+      "thumbnail_url": "https://i.ytimg.com/vi/6E2-HQMSs5k/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=6E2-HQMSs5k"
+    },
+    {
+      "video_id": "nXrx-_9Yucc",
+      "title": "Prompt Canvas: \"Cursor for Prompt Engineering\"",
+      "description": "What it means to “build” applications is changing. When building AI applications, you are not just writing code - you’re also writing prompts. Tooling has evolved over the years to make software engineering more accessible - like code editors, code collaboration tools, pen testing, and more. We believe that tooling will emerge that makes prompt engineering just as accessible.\nTo that end, we are excited to announce Prompt Canvas, a novel UX for developing prompts. On top of a better editing experience, it also facilitates the sharing of prompting best practices - a game changer in a new discipline like prompt engineering.\n\nBlog: blog.langchain.dev/introducing-prompt-canvas/\nTry it out on LangSmith: https://smith.langchain.com/",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-07T03:12:21Z",
+      "position": 24,
+      "thumbnail_url": "https://i.ytimg.com/vi/nXrx-_9Yucc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=nXrx-_9Yucc"
+    },
+    {
+      "video_id": "NA9tJU3kL-c",
+      "title": "GraphRag vs Normal RAG - Summarise a Whole Book in python!",
+      "description": "Microsofts GraphRAG is a powerful algorithm. It isnt perfect, but it can add value if you need your RAG queries to have visibility of your entire text datatbase.\n\nIf you're looking to learn about GraphRAG✉️ and want to see how it can be used for massive text summarisation, then youre in the right place!\n👉 https://github.com/whitew1994WW/GraphRAG\n\n🎥 Channel: @ww_dot\n\n============================\nChapters\n============================\n00:00 - Intro\n00:37 - What is GraphRAG?\n02:32 - Graph Creation\n03:18 - Local Search\n03:47 - Global Search\n04:08 - Neo4j Visualisation\n06:28 - Code Walkthrough\n10:05 - Streamlit Demo\n12:30 - Outro\n\n\n===========================\nStay Connected with Me! \n============================\n\n🔗 LinkedIn: www.linkedin.com/in/william-white-data-scientist\n👨‍💻 GitHub: https://github.com/whitew1994WW\n\n===========================\nAbout\n===========================\n\nIn this videa I explain what microsofts GraphRAG algorithm is and use python to injest a book ('A christmas carol') into Neo4j. I also showcase code showing how to use it in python and give a demo comparing normal RAG to GraphRAG, using a streamlit GUI to see the outputs side by side.\n\n📌 Tags:\n#AI #LangGraph #AgenticAI #OpenAI #GPT4 #Python #EmailAssistant #APIs #AIResearch #RenderDeployment #GraphRAG #AIVisualization",
+      "channel_title": "Persival Balleste",
+      "published_at": "2025-01-05T02:35:13Z",
+      "position": 25,
+      "thumbnail_url": "https://i.ytimg.com/vi/NA9tJU3kL-c/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=NA9tJU3kL-c"
+    },
+    {
+      "video_id": "xsCedrNP9w8",
+      "title": "Chat with Multiple/Large SQL and Vector Databases using LLM agents (Combine RAG and SQL-Agents)",
+      "description": "In this tutorial, we’ll build an LLM-powered agentic graph using LangChain and LangGraph to combine RAG (Retrieval-Augmented Generation) with SQL agents. The result is an automated chatbot capable of interacting with both vector and SQL databases.\n\nI’ll also explain three strategies for designing SQL agents that can handle large SQL databases efficiently.\n\nKey features of our system:\n\n1. Manages unstructured data with RAG and structured data with SQL agents.\n2. Integrates web search when needed.\n3. Automatically selects the best tool for each task.\n4. Scalable to handle large databases.\n5. Easily connects to multiple databases.\n\n🚀 GitHub Repository:\nAdvanced Q&A and RAG series: https://github.com/Farzad-R/Advanced-QA-and-RAG-Series/tree/main\n\n00:00:00 Intro\n00:03:41 Project overview\n00:06:51 Project demo\n00:10:22 Langsmith demo\n00:13:01 RAG vs SQL-agents scenarios\n00:19:47 Project schema\n00:21:51 Model (LLM) selection\n00:22:52 Key concepts\n00:25:40 GitHub and project walk-through\n00:29:27 Custom agent and function (tool) calling\n00:37:10 Tavily search tool\n00:39:09 Prepare vector DBs for the RAG tools\n00:47:43 RAG tool design\n00:52:45 SQL-Agent for small databases\n00:56:19 SQL-Agent for Large databases\n01:09:45 Graph design using LangChain and LangGraph\n01:20:10 Chatbot code explanation (configs, memory, backend)\n01:27:50 Testing the chatbot with 5 tools\n1:32:55 Add/Remove tools to the chatbot\n\nFrameworks: #langchain #langgraph #langsmith #openai\n#chatbot #rag #llm #agent #python #gpt",
+      "channel_title": "Persival Balleste",
+      "published_at": "2024-12-21T03:36:18Z",
+      "position": 26,
+      "thumbnail_url": "https://i.ytimg.com/vi/xsCedrNP9w8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=xsCedrNP9w8"
+    },
+    {
+      "video_id": "nXuTJrzkn9Q",
+      "title": "What Happens When You Combine RAG with Text2SQL?",
+      "description": "🤔 Looking to improve your Text2SQL performance?\n\n\nIn this episode, join Angelina and Mehdi,  for a discussion about a real world industry use case of RAG with Text2SQL systems. \n\nWho's Angelina: VP of AI and data, Co-founder of Transform AI Studio, two-time fast.ai fellows under Jeremy Howard, published author.  https://www.linkedin.com/in/MeetAngelina/\n\nWho's Mehdi: Professor of Computer Science, Co-founder and Chief AI Engineer at Transform AI Studio, NSF fellow, published author.  https://www.linkedin.com/in/mehdiallahyari/\n\nWhat You'll Learn:\n🔎 Explain what QueryGPT is and why Uber developed it\n🚀 Highlight the challenges Uber faced with data queries\n🛠 Walk through of the evolution of QueryGPT's architecture (20 iterations!)\n🎯Walk away with key learnings and implications for other companies (build vs. buy)\n\n✏️ In This Episode:\n00:00 Intro\n03:08 Why QueryGPT?\n03:58 Initial design and architecture\n06:48 Key challenges\n07:36 Latest architecture\n08:26 AI Agents used in the system\n13:23 Continuous evaluation\n14:25 Key learnings from QueryGPT\n15:35 Fine-tuning\n\n🦄 Any specific contents you wish to learn from us? Sign up here: https://noteforms.com/forms/twosetai-youtube-content-sqezrz\n\n🧰 Our video editing tool is this one!: https://get.descript.com/nf5cum9nj1m8\n\n🖼️ Blogpost for today: https://www.uber.com/en-IN/blog/query-gpt/?uclick_id=6cfc9a34-aa3e-4140-9e8e-34e867b80b2b\n\n📬 Don't miss out on the latest updates - Subscribe to our newsletter:  https://mlnotes.substack.com/\n\n📚 If you'd like to learn more about RAG systems, check out our book on the RAG system: https://angelinamagr.gumroad.com/\n\n🕴️ Our consulting firm: We help companies that don't want to miss the boat of the current wave of AI advancement by integrating these solutions into their business operations and products. https://www.transformaistudio.com/\n\nStay tuned for more content! 🎥 Thanks you for watching! 🙌",
+      "channel_title": "Persival Balleste",
+      "published_at": "2024-12-20T04:30:26Z",
+      "position": 27,
+      "thumbnail_url": "https://i.ytimg.com/vi/nXuTJrzkn9Q/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=nXuTJrzkn9Q"
+    },
+    {
+      "video_id": "FA7oLqzz8gQ",
+      "title": "Advanced RAG: Combining RAG with Text-to-SQL",
+      "description": "A lot of practical/enterprise agent use cases involve both unstructured and structured data. This video guide shows you how to create a custom agent that can query either your LlamaCloud index for RAG-based retrieval or a separate SQL query engine as a tool. In this example, we'll use PDFs of Wikipedia pages of US cities and a SQL database of their populations and states as documents.\n\nNotebook: https://github.com/run-llama/llamacloud-demo/blob/main/examples/advanced_rag/llamacloud_sql_router.ipynb\nLlamaCloud: https://cloud.llamaindex.ai/\nFor enterprise usage, come talk to us: https://www.llamaindex.ai/contact",
+      "channel_title": "Persival Balleste",
+      "published_at": "2024-12-19T06:24:48Z",
+      "position": 28,
+      "thumbnail_url": "https://i.ytimg.com/vi/FA7oLqzz8gQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=FA7oLqzz8gQ"
+    },
+    {
+      "video_id": "Mm2HZHxoj3Q",
+      "title": "Building an Gen AI SQL Assistant from Scratch with Vanna LLM: Training and Querying Your Database",
+      "description": "Welcome to an exciting session where we dive deep into building your very own SQL AI assistant from scratch using Vanna LLM. Join us as we explore the process of training and querying your database with ease and efficiency.\n\n_*In this session, we'll cover the following key points:*_\n\n🛠️  *Introduction to Vanna LLM:*\nUnderstand the power of Vanna , a Python-based AISQL copilot designed to automate the generation of complex SQL queries within seconds.\nLearn how Vanna excels in SQL writing compared to other tools by tailoring a dedicated model to your dataset.\n\n🛠️  *Understanding Vanna LLM Workflow:*\nExplore the two-step process of training a RAG model on your data and querying it to generate SQL statements.\nDiscover how Vanna uses vector storage to store embeddings related to database information and generate queries.\n\n🛠️  *Training and Querying with Vanna LLM:*\nLearn how to train Vanna LLM models with DDL statements and documentation to optimize query generation.\nExplore examples of querying the database using prompts and examining the SQL queries and data frames generated.\n\n🛠️  *Hands-On Demonstration:*\nFollow along as we demonstrate connecting Vanna to SQLite and SQL Server Management Studio. Explore techniques for reading tables, loading schemas, and training the Vanna model with sample queries.\n\n🛠️  *Generating Queries and Visualizations:*\nDiscover how Vanna can generate SQL queries for specific questions and visualize query results using Plotly charts. Learn how to save SQL scripts and Plotly code for future use and analysis.\n\n🛠️  *Advanced Querying Techniques:*\nExplore advanced querying techniques such as performing summary statistics and retrieving data based on specific criteria.\nLearn how to read datasets into Pandas data frames for further analysis and manipulation.\n\n🛠️  *Best Practices and Conclusion:*\nGain insights into best practices for training Vanna LLM models based on your database and table structures. \n\n🛠️  *Demystifying SQL:*  A Step-by-Step Guide to Crafting an AI SQL Assistant with Vanna LLM.\n\nEmpower Your Database Skills: Dive into Vanna  LLM for SQL Assistance\nUnleash the Potential of Your Database: Creating an AI SQL Assistant from Scratch with Vanna  LLM\n\nGet ready to unlock the full potential of SQL automation with Vanna LLM. Join us on this journey to master AI-driven SQL assistance and streamline your database querying process. Don't miss out—start building your AI SQL assistant today!\n\n*Explore the Power of Vanna LLM:*\n1. Building an AI SQL Assistant with Vanna LLM\n2. Unlocking SQL Magic with Vanna LLM\n3. Mastering SQL Queries with Vanna LLM\n4. Simplify SQL Complexity with Vanna LLM\n\n*Unlocking the Potential:*\n➡️ Training an AI SQL Assistant with Vanna LLM\n➡️ Boost Your SQL Skills with Vanna LLM\n➡️ Transforming Data Interaction with Vanna LLM\n➡️ Demystifying SQL with Vanna LLM\n\n*Empower Your Database Skills:*\n➡️ Empower Your Database Skills with Vanna LLM\n➡️ Unleashing Database Potential with Vanna  LLM\n\n*Embark on Your SQL Journey:*\n➡️ Building an AI SQL Assistant from Scratch with Vanna LLM: Training and Querying Your Database\n➡️ Unlocking SQL Magic: Developing an AI SQL Assistant with Vanna LLM\n➡️ Master SQL Queries Effortlessly: Creating an AI SQL Assistant Using Vanna  LLM\n➡️ Simplify SQL Complexity: Harnessing the Power of Vanna LLM for SQL Assistance\n\n*From Data to Insights:*\n➡️ From Data to Queries: How to Train an AI SQL Assistant with Vanna LLM\n➡️ Boost Your SQL Skills: Exploring Vanna LLM for Automated Query Writing\n➡️ Transforming Data Interaction: Building a Custom SQL Assistant with Vanna LLM\n\n\nDon't forget to like, share, and subscribe for more insightful tutorials on data analysis and Python programming!\n\n-------------------------------------------------------------------------------------------------------\n\n👉 *Python NumPy Playlist:* https://www.youtube.com/playlist?list=PLWuFHho1zKhUGq1be3zUT3Ek5myJrKiIP\n\n👉 *Python Excel Automation:* https://www.youtube.com/playlist?list=PLWuFHho1zKhUypUoktw1bzYlBLbBGajNm\n\n👉 *Python Teaser:* https://youtu.be/_Df5uvqkI5k\n\n👉 *Python Pandas Tutorial:* https://www.youtube.com/watch?v=2NwUfnKhsuU&list=PLWuFHho1zKhUJpe9WfSyvrrQrzqDErbmv\n\n👉 *Python Playlist:* https://www.youtube.com/playlist?list=PLWuFHho1zKhWb-f-SJAMUCK--f8PJlG46 \n\n👉 *Python Data Structure Playlist:* https://www.youtube.com/playlist?list=PLWuFHho1zKhVMGPh4dfGhObiABPuzam5E\n\n👉 *Python OOPs Playlist:* https://www.youtube.com/playlist?list=PLWuFHho1zKhVUW-Pgy0ggu6n5yKFOk_P-\n\n👉 *Python Project for Data Analysis- Exploratory Data Analysis | Data Analyst Project :* https://youtu.be/wHeh-V9igdo\n\n👉 *Telegram Link:* https://t.me/+32-TodtiOvo2Njk9\n\n👉 *LinkedIn:* https://www.linkedin.com/in/abhisheak-saraswat/",
+      "channel_title": "Persival Balleste",
+      "published_at": "2024-12-19T06:22:10Z",
+      "position": 29,
+      "thumbnail_url": "https://i.ytimg.com/vi/Mm2HZHxoj3Q/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Mm2HZHxoj3Q"
+    },
+    {
+      "video_id": "sBhK-2K9bUc",
+      "title": "Build a Streamlit Chatbot FAST 🤯",
+      "description": "👉 Explore All My Excel Solutions: https://pythonandvba.com/solutions\n\n𝗗𝗘𝗦𝗖𝗥𝗜𝗣𝗧𝗜𝗢𝗡\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nIn this video, I demonstrate how to use the new chat feature in Streamlit to build a ChatGPT clone. Beginning with a simple chat application, we explore Streamlit's \"chat_message\" and \"chat_input\" features, adjust user roles, and customize avatars.\nI also explain how to use the session state feature to retain conversation history, similar to a regular browsing session. Later in the video, we enhance our application by integrating the OpenAI library and Streamlit's secrets manager to securely manage API keys.\nAll code used in this video is sourced from the Streamlit documentation which can be found here: https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps\n\n⭐ 𝗧𝗜𝗠𝗘𝗦𝗧𝗔𝗠𝗣𝗦: \n0:00 – Intro\n0:30 – Simple Example\n1:39 – Echo Bot\n4:10 – ChatGPT Clone\n7:44 – Outro\n\n\n𝗧𝗢𝗢𝗟𝗦 𝗔𝗡𝗗 𝗥𝗘𝗦𝗢𝗨𝗥𝗖𝗘𝗦\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n🆓【𝗙𝗥𝗘𝗘】Excel Add-in (𝗠𝘆𝗧𝗼𝗼𝗹𝗕𝗲𝗹𝘁): https://pythonandvba.com/mytoolbelt\n📊 Dashboard Excel Add-In (𝗚𝗿𝗮𝗳𝗹𝘆): https://pythonandvba.com/grafly\n🎨 Cartoon Charts Excel Add-In (𝗖𝘂𝘁𝗲𝗣𝗹𝗼𝘁𝘀): https://pythonandvba.com/cuteplots\n🤪 Fun Emoji Excel Add-In (𝗘𝗺𝗼𝗷𝗶𝗳𝘆): https://pythonandvba.com/emojify\n📑 Excel Templates: https://pythonandvba.com/go/excel-templates\n🎓 My Courses: https://pythonandvba.com/go/courses\n📚 Books, Tools, and More: https://pythonandvba.com/resources\n\n\n𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n🔗 LinkedIn: https://www.linkedin.com/in/sven-bosau/\n📸 Instagram: https://instagram.com/codingisfun_official\n💻 GitHub: https://github.com/Sven-Bo\n💬 Discord: https://pythonandvba.com/discord\n📬 Contact: https://pythonandvba.com/contact\n\n\n☕ 𝗕𝘂𝘆 𝗺𝗲 𝗮 𝗰𝗼𝗳𝗳𝗲𝗲?\nIf you want to support this channel, you can buy me a coffee here:\n▶ https://pythonandvba.com/coffee-donation",
+      "channel_title": "Persival Balleste",
+      "published_at": "2024-10-06T01:42:25Z",
+      "position": 30,
+      "thumbnail_url": "https://i.ytimg.com/vi/sBhK-2K9bUc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=sBhK-2K9bUc"
+    },
+    {
+      "video_id": "kBbv2_9vcC0",
+      "title": "Tesla Goes Full AI, LLaMA Beats GPT4, OpenAI Biz, AI Drone Racing, Apple Silicon for AI (AI News E7)",
+      "description": "This week’s AI news has stories about Tesla, Apple, Meta AI (Code LLaMA), OpenAI, Disney, Elon Musk, Gen2 and so much more. Enjoy!\n\nEnjoy :) \n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai/\n\nMy Links 🔗\n👉🏻 Subscribe: https://www.youtube.com/@matthew_berman\n👉🏻 Twitter:  https://twitter.com/matthewberman\n👉🏻 Discord: https://discord.gg/xxysSXBxFW\n👉🏻 Patreon: https://patreon.com/MatthewBerman\n\nMedia/Sponsorship Inquiries 📈\nhttps://bit.ly/44TC45V\n\nChapters:\n0:00 - Intro\n0:26 - Tesla AI\n1:09 - Tesla FSD\n2:14 - OpenAI Revenue\n2:44 - ChatGPT Usage Declining\n3:50 - ChatGPT Enterprise\n5:00 - Code LLaMA Beats GPT4\n6:07 - AI Drone Racing\n7:06 - a16z AI Grants\n8:01 - Google AI Launches\n9:38 - Tech Elites Buy Land\n10:50 - Ideogram\n11:35 - Runway Gen2 New Feature\n11:52 - Apple Silicon Is Great for AI\n12:50 - AI Video of the Week\n14:04 - AI And Copyright\n\nLinks:\nMusk Tweet About GPUs - https://twitter.com/elonmusk/status/1695376562055774664?s=46\nTesla Tweet About AI Cluster - https://twitter.com/tim_zaman/status/1695488119729238147?s=46\nTesla AI Cluster - https://www.tomshardware.com/news/teslas-dollar300-million-ai-cluster-is-going-live-today\nFSD v12 - https://www.theverge.com/2023/8/28/23848882/elon-musk-tesla-fsd-v12-demo-red-light-zuckerberg-house\nSelf-Driving Demo Video - https://twitter.com/elonmusk/status/1695247110030119054\nOpenAI Revenue - https://www.theinformation.com/articles/openai-passes-1-billion-revenue-pace-as-big-companies-boost-ai-spending\nOpenAI Revenue - https://www.reuters.com/technology/openai-track-generate-more-than-1-bln-revenue-over-12-months-information-2023-08-29/\nChatGPT Usage Decline - https://sparktoro.com/blog/we-analyzed-millions-of-chatgpt-user-sessions-visits-are-down-29-since-may-programming-assistance-is-30-of-use/\nChatGPT Enterprise - [https://www.cnbc.com/2023/08/28/openai-chatgpt-enterprise-launches.html](https://www.cnbc.com/2023/08/28/openai-chatgpt-enterprise-launches.html?__source=iosappshare%7Ccom.apple.UIKit.activity.Message)\nChatGPT Enterprise Announcement - https://openai.com/blog/introducing-chatgpt-enterprise\nCode LLaMA Beats GPT4 - https://www.phind.com/blog/code-llama-beats-gpt4\nCode LLaMA by WizardLM - https://twitter.com/WizardLM_AI/status/1695396881218859374\nAI Drone Race - https://www.news.uzh.ch/en/articles/media/2023/Drone-race.html\na16z Announcement - https://a16z.com/2023/08/30/supporting-the-open-source-ai-community/\nDuet AI - https://workspace.google.com/blog/product-announcements/duet-ai-in-workspace-now-available\nSynthID - https://www.deepmind.com/blog/identifying-ai-generated-images-with-synthid\nNew City - https://www.marinij.com/2023/08/25/the-silicon-valley-elite-who-want-to-build-a-city-from-scratch\nIdeogram - [https://ideogram.ai](https://ideogram.ai/login)\nIdeogram - https://dataconomy.com/2023/08/28/what-is-ideogram-ai-and-how-to-use-it/\nM2 Mac Karpathy - https://twitter.com/karpathy/status/1691571869051445433?s=20\nM2 Code LLaMA - https://x.com/ggerganov/status/1697262700165013689?s=46\nGPT4 on Phones - https://x.com/emostaque/status/1695541377633820916?s=46\nGen2 Release - https://x.com/runwayml/status/1696868501397426187?s=46 (Gen2 release)\nVideo of the Week - https://twitter.com/JeffSynthesized/status/1696962849548153248\nVideo of the Week HD - https://www.youtube.com/watch?si=on33v8fSlQD0VFnR&v=oyiALFG_0iU&feature=youtu.be\nAI Copyright - https://www.theverge.com/2023/8/29/23851126/us-copyright-office-ai-public-comments",
+      "channel_title": "Persival Balleste",
+      "published_at": "2023-09-03T05:29:51Z",
+      "position": 31,
+      "thumbnail_url": "https://i.ytimg.com/vi/kBbv2_9vcC0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kBbv2_9vcC0"
+    },
+    {
+      "video_id": "AK5EwG62hx8",
+      "title": "Unveiling the 10 Stages of AI: What You Need to Know NOW!",
+      "description": "Unveiling the 10 Stages of AI: What You Need to Know NOW! \n\nEmbark on an enlightening journey through the 10 Stages of AI, including some of the hypothetical stages such as transcendent AI, Cosmic AI and the most fearful, God-like AI, a comprehensive exploration into the realm of artificial intelligence. This video serves as your ultimate guide if you've ever been curious about the stages of AI or fascinated by how artificial intelligence shapes our technological world.\nAI has become a revolutionary force in our daily lives and various industries worldwide. To fully comprehend this complex field, it's crucial to grasp the 10 stages of AI including some of the hypothetical stages, which span from basic algorithms to advanced machine learning and beyond. With clear explanations and real-world examples, this video delves deep into each stage, making the concepts accessible to all, regardless of their background.\nThroughout the video, we demystify the fascinating progression of AI, starting with simple rule-based systems and progressing through machine learning, deep learning, the cutting-edge concept of self-aware AI to hypothetical stages. Our exploration extends beyond just technical aspects; we also delve into science-fiction stages of AI development, making this content valuable for any curious mind.\n\nDrawing on our extensive knowledge, we shed light on the intricate complexities of the 10 stages of artificial intelligence. By the end of the video, you'll have gained a comprehensive understanding of AI's stages, their applications, potential, and the future trajectory of this transformative technology.\n\nChapters \n 0:00 -Introduction \n0:33 -1) Rule or Knowledge-based System\n1:33 -2) Context-Based & Retention System\n3:08 -3) Narrow Domain or Expert AI System \n4:44 -4) Reasoning AI System\n6:29 -5) Self-Aware Systems\n8:10 -6) Artificial General Intelligence (AGI)\n9:30 -7) Artificial Super Intelligence (ASI)\n10:41 -8) Transcendent AI\n12:00 -9) Cosmic AI\n13:07 -10) God-Like AI\n14:49 -Conclusion\n\n\n#artifical intelligence \n#ai \n#airevolution\n#ai stages \n# ai types\n#  ai phases\n\n\n#####################################\nWelcome to AI TechXplorer, your premier destination for cutting-edge insights into AI trends and technology. As a channel dedicated to the forefront of artificial intelligence, we delve deep into the world of AI, latest AI trends and technology, providing research-driven insights into development of AI tools, platforms, AI news and updates in artificial general intelligence (AGI) and robotics. \nOur commitment to delivering quality content begins with our rigorous research approach. Understanding that AI can be an intimidating field for newcomers, we make it our mission to provide clear and accessible explanations. Whether you are a seasoned AI enthusiast or someone who has just discovered the world of AI, our videos break down complex concepts, developments, and breakthroughs into digestible and relatable explanations. We believe that knowledge should be inclusive and approachable, and we are dedicated to making AI understandable for all.\nWe keep a keen eye on the latest advancements in AI, ensuring that you stay informed about the cutting-edge developments and their practical applications. By highlighting the significance of these advancements within our society, we strive to bridge the gap between AI and its real-world implications, ultimately fostering a greater appreciation for the transformative potential of AI.\n🔔 Join us at AI AI TechXplorer as we embark on a journey through the realms of artificial intelligence. Together, we will uncover the latest AI trends, explore groundbreaking technologies, and unravel the mysteries of artificial general intelligence. Subscribe to our channel today and be part of the ever-evolving world of AI. 🔔",
+      "channel_title": "Persival Balleste",
+      "published_at": "2023-07-30T10:02:20Z",
+      "position": 32,
+      "thumbnail_url": "https://i.ytimg.com/vi/AK5EwG62hx8/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=AK5EwG62hx8"
+    },
+    {
+      "video_id": "dIgJpF1p3so",
+      "title": "Train a video classification model with AutoML #AI",
+      "description": "Welcome to Tutorial Time where we show you what you can learn from our interactive tutorials. In this tutorial you’ll learn how to train a video classification model using AutoML\n\nDo the interactive tutorial → https://goo.gle/3NkqwmC  \nTo learn more about AutoML → https://goo.gle/3IYVUnZ \n\nSubscribe to GCT → https://goo.gle/GoogleCloudTech\n\n#GoogleCloud #TutorialTime #AutoML #AI #ArtificialIntelligence",
+      "channel_title": "Persival Balleste",
+      "published_at": "2023-06-09T19:16:28Z",
+      "position": 33,
+      "thumbnail_url": "https://i.ytimg.com/vi/dIgJpF1p3so/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=dIgJpF1p3so"
+    },
+    {
+      "video_id": "Lo7aGFnMdjo",
+      "title": "Recommendation Systems Dev Summit",
+      "description": "Learn from the top experts in the industry about Recommendation Systems\n\nResources:\nRecommendation Systems Developer Summit 2023 homepage → https://goo.gle/445dKOQ \nRecommendation systems landing page → https://goo.gle/3qXZl8m \nTensorFlow Recommenders → https://goo.gle/3itIV3A \n\nPaLM API → https://goo.gle/46teH4W \nAugmenting recommendation systems with LLMs (blog) → https://goo.gle/3ptwSHm \nDo LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction (paper) → https://goo.gle/3ppgCqD \n\nTensorFlow Agents→ https://goo.gle/3XAZv1W\nRecommendations with TF Agents blog post → https://goo.gle/46ohoF8 \nTF Agents Bandits end-to-end examples → https://goo.gle/430Nl3u \nTensorFlow Ranking → https://goo.gle/430Nl3u \nGoogle Rax → https://goo.gle/3PF6tRD \nScaling deep retrieval with TensorFlow Recommenders and Vertex AI Matching Engine (blog) → https://goo.gle/431cOtt \nRecommender Systems with Generative Retrieval (paper) → https://goo.gle/3PBNfwc \nTPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings (paper) → https://goo.gle/3NtFHZI\nMachine Learning for Snapchat Ad Ranking → https://goo.gle/46o2Fdl \nJAX TPU embedding → https://goo.gle/3r2USkW \nDynamic embedding RFC → https://goo.gle/3JXWraD",
+      "channel_title": "Persival Balleste",
+      "published_at": "2023-06-09T19:11:18Z",
+      "position": 34,
+      "thumbnail_url": "https://i.ytimg.com/vi/Lo7aGFnMdjo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Lo7aGFnMdjo"
+    },
+    {
+      "video_id": "2CUKU2iAzAs",
+      "title": "Google's MusicLM: Text Generated Music & It's Absurdly Good",
+      "description": "Google's MusicLM that uses AudioLM may have just changed the whole text to music AI landscape. Without using any diffusion, MusicLM creates extremely high (24 kHz) audio quality with consistent result that had my jaw dropped. Probably the first working and direct text to music that is accurate and fully synthesized. 2023 has started amazingly. Now I am only 1 day late to this cuz I spent the last 10 hours making this video please like and sub ♡\n\nRiffusion: Riff + Diffusion\n[Project Page] https://www.riffusion.com/about\n[Code] https://github.com/riffusion/riffusion-app\n[Model Checkpoint] https://huggingface.co/riffusion/riffusion-model-v1\n\nMubert-Text-to-Music\n[Website] https://mubert.com/\n[GitHub] https://github.com/MubertAI/Mubert-Text-to-Music\n\nMusicLM: Generating Music From Text\n[Paper] https://arxiv.org/abs/2301.11325\n[Project Page] https://google-research.github.io/seanet/musiclm/examples/\n\nMusicCaps: 5.5k high-quality music captions written by musicians\n[Dataset] https://www.kaggle.com/datasets/googleai/musiccaps\n\nThis video is supported by the kind Patrons & YouTube Members: \n🙏Andrew Lescelius, Chris LeDoux, Shawn77134, Panther Modern, Jake Disco, Demilson Quintao, Tony Jimenez, Shuhong Chen, Hongbo Men, happi nyuu nyaa, Carol Lo, Mose Sakashita, Miguel, Bandera, Gennaro Schiano, gunwoo, Ravid Freedman, Mert Seftali, Mrityunjay, Richárd Nagyfi, Timo Steiner, Henrik G Sundt, projectAnthony\n\n[Discord] https://discord.gg/NhJZGtH\n[Twitter] https://twitter.com/bycloudai\n[Patreon] https://www.patreon.com/bycloud\n[PayPal] https://paypal.me/bycloudai\n[Profile & Banner Art] https://twitter.com/pygm7",
+      "channel_title": "Persival Balleste",
+      "published_at": "2023-02-08T00:52:07Z",
+      "position": 35,
+      "thumbnail_url": "https://i.ytimg.com/vi/2CUKU2iAzAs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=2CUKU2iAzAs"
+    },
+    {
+      "video_id": "fXOsFF95ifk",
+      "title": "Neural Network Overview (C1W3L01)",
+      "description": "Take the Deep Learning Specialization: http://bit.ly/3aeHnku\nCheck out all our courses: https://www.deeplearning.ai\nSubscribe to The Batch, our weekly newsletter: https://www.deeplearning.ai/thebatch\n\nFollow us: \nTwitter: https://twitter.com/deeplearningai_\nFacebook: https://www.facebook.com/deeplearningHQ/\nLinkedin: https://www.linkedin.com/company/deeplearningai",
+      "channel_title": "Persival Balleste",
+      "published_at": "2022-11-18T23:33:02Z",
+      "position": 36,
+      "thumbnail_url": "https://i.ytimg.com/vi/fXOsFF95ifk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=fXOsFF95ifk"
+    },
+    {
+      "video_id": "NLXis7FlnMM",
+      "title": "Databricks MLOps - Preparing to use MLflow on Azure",
+      "description": "Databricks MLOps - Preparing to use MLflow on Azure\nIn this little video series I'll get to the bottom of how you can control the Azure Databricks platform with your DevOps toolbox.\n\nIn this part we first set up an Azure Databricks workspace, connect it to our Azure DevOps environment, sync our notebooks with the source code management and create a cluster through a DevOps pipeline.\n\nThis DevOps for Machine Learning pipeline sets the basis for the later use of Azure Databricks MLflow, and the deployment with the Azure Machine Learning Service.\n\nPlease take a look at the latest version of the MLOps with Databricks code:\nhttps://github.com/SaschaDittmann/MLOps-Databricks\n\n🔔 Subscribe for more free data analytics videos: https://www.youtube.com/saschadittmann?sub_confirmation=1\nAnd don't forget to click the bell so you don't miss anything.\n\n💪 Share this video with a YouTuber friend: https://youtu.be/NLXis7FlnMM\n\n📢 If you enjoyed this video help others enjoy it by adding captions in your native language - \nhttps://www.youtube.com/timedtext_video?v=NLXis7FlnMM\n\nWatch my most recent upload: http://bit.ly/2OihAlj\nhttps://www.youtube.com/playlist?list=UUbX8EdsCb-jFDfr05hzMjjw&playnext=1&index=1\n\n🚀 Tools and services used in this video:\nAzure Databricks\nhttps://azure.microsoft.com/en-us/services/databricks/\n\nAzure DevOps Services\nhttps://azure.microsoft.com/en-us/services/devops/\n\n✅ Recommended playlists:\nDevOps for Machine Learning (MLOps) on Azure\nhttps://www.youtube.com/playlist?list=PLZk8J6FocZbYeCQ0c8vM_po_Sbg5R9dZe\n\n✅ For business inquiries contact me at CloudBlog@gmx.de\n\n✅ Let's connect:\nWatch me Live on Twitch: https://www.twitch.tv/saschadittmann​\n\nJoin our Discord: https://discord.gg/xt2PtAVK6t\n\nTwitter: https://twitter.com/SaschaDittmann\nFacebook: https://www.facebook.com/DataDrivenDev\nInstagram: https://www.instagram.com/saschadittmann/\nLinkedIn: https://www.linkedin.com/in/saschadittmann\nGitHub: https://github.com/SaschaDittmann\n\nDISCLAIMER: This video and description contains affiliate links, which means that if you click on one of the product links, I’ll receive a small commission. This helps support my channel and allows me to continue making awesome videos like this. Thank you for the support!\n\n#Databricks #MLOps #DevOps",
+      "channel_title": "Persival Balleste",
+      "published_at": "2022-10-28T03:48:26Z",
+      "position": 37,
+      "thumbnail_url": "https://i.ytimg.com/vi/NLXis7FlnMM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=NLXis7FlnMM"
+    },
+    {
+      "video_id": "LJ2k-lssHG0",
+      "title": "Quantos GB de memória cabem no CÉREBRO HUMANO? #Shorts",
+      "description": "Qual é a capacidade de armazenamento do nosso cérebro? Se fôssemos usar ele como um HD, quantas horas de filmes caberiam? A resposta é difícil de calcular com exatidão porque não sabemos exatamente como as memórias são armazenadas, mas nós temos uma ideia.\n\nSeja membro do nosso canal para ajudar a manter os vídeos no ar! http://youtube.com/cienciatododia/join\n\nDiscuta esse vídeo no nosso Discord! http://discord.gg/cienciatododia\n\nMinhas redes sociais:\nhttp://instagram.com/pedroloos\nhttp://twitter.com/pedroloos\n\nNosso podcast: http://anchor.fm/sinapse\n\nE-mail: contato@cienciatododia.com.br",
+      "channel_title": "Persival Balleste",
+      "published_at": "2022-10-24T02:50:36Z",
+      "position": 38,
+      "thumbnail_url": "https://i.ytimg.com/vi/LJ2k-lssHG0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=LJ2k-lssHG0"
+    },
+    {
+      "video_id": "Jrh-QLrVCvM",
+      "title": "Introduction to MLOps and Vertex Pipelines",
+      "description": "Introduction to Vertex AI Pipelines → https://goo.gle/3ndjG55\n\nWant to make sure your data science project makes it into production? In this episode of AI Simplified, we’ll learn how to operationalize your workflow with Vertex Pipelines, while ensuring each step is scalable and reproducible. Watch to learn how MLOps can unify ML system development!\n\nChapters:\n0:00 - Intro & Why MLOps?\n1:30 - What is MLOps?\n1:40 - High-level MLOps framework\n5:13 - What are Vertex Pipelines?\n6:15 - Why use Vertex Pipelines if you already use Kubeflow?\n7:40 - Summary\n\nWatch more episodes of Getting Started with Vertex AI → https://goo.gle/AISimplified\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n​\n#AISimplified\n\nproduct: Cloud - General; fullname: Priyanka Vergadia; re_ty: Publish;",
+      "channel_title": "Persival Balleste",
+      "published_at": "2022-09-26T01:36:35Z",
+      "position": 39,
+      "thumbnail_url": "https://i.ytimg.com/vi/Jrh-QLrVCvM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Jrh-QLrVCvM"
+    },
+    {
+      "video_id": "VlYDWOfiFuc",
+      "title": "CIÊNCIA DE DADOS: O QUE EU FARIA, SE TIVESSE QUE COMEÇAR DATA SCIENCE HOJE.",
+      "description": "🤖Aprenda todas as ferramentas da área de dados em um único lugar https://bit.ly/3YCCm0K \n\nNesse vídeo, eu mostro exatamente o PLANEJAMENTO O QUE EU FARIA, SE TIVESSE QUE COMEÇAR minha carreira de CIENTISTA DE DADOS HOJE.\n\n00:00 Introdução\n01:57 Linha do Tempo\n06:24 Como Aprender Manipulação de Dados?\n14:31 Como Aprender Machine Learning?\n18:58 Tarefas de um Cientista de Dados\n26:50 Como Estudar SQL?\n28:26 Como Começar em Ciência de Dados?",
+      "channel_title": "Persival Balleste",
+      "published_at": "2021-05-10T04:23:15Z",
+      "position": 40,
+      "thumbnail_url": "https://i.ytimg.com/vi/VlYDWOfiFuc/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=VlYDWOfiFuc"
+    },
+    {
+      "video_id": "_365KpviZ9o",
+      "title": "O que REALMENTE Faz um Cientista de Dados?",
+      "description": "🎯 Venha Estudar Data Science, IA e Marketing Science comigo: https://www.arkia.co/\n\nO que REALMENTE faz um Cientista de Dados\n0:00 O que faz um Cientista de Dados\n0:51 Onde o Jerry trabalhou como Cientista de dados\n0:10 Qual é o verdadeiro trabalho da grande maioria de um Cientista de Dados\n1:37 O trabalho de um Cientista de Dados é...\n2:11 Quais são as linguagens e ferramentas específicas\n3:13 Trabalho de um Analista de dados\n3:40 Objetivo Principal do Trabalho\n3:57 Exemplos de Problemas solucionados por dados\n5:05 Área de Ciencia de Dados\n5:45 Inteligência Artificial \n6:00 O que acontece na maioria das grandes empresas\n6:30 O que é mais importante saber \n\n📮 Instagram: https://www.instagram.com/jerrystrazzeri\n📮 Linkedin: https://www.linkedin.com/in/jerrystrazzeri\n📮 Tiktok: https://www.tiktok.com/@jerrystrazzeri\n\n#cientistadedados \n#datascience\n#datascientist\n#analistadedados\n#bigdata\n\nMúsica: THis is It by Joakim Karud [From The Archive]",
+      "channel_title": "Persival Balleste",
+      "published_at": "2021-05-10T03:18:01Z",
+      "position": 41,
+      "thumbnail_url": "https://i.ytimg.com/vi/_365KpviZ9o/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=_365KpviZ9o"
+    },
+    {
+      "video_id": "R26QhFQYzcw",
+      "title": "20 AUTOMAÇÕES para se INSPIRAR | CASA INTELIGENTE com  ALEXA, SONOFF e muitos sensores!",
+      "description": "Nesse vídeo mostro 20 ideias de automações de Casa Inteligente com a Alexa para você se inspirar e também automatizar a sua.\n\nAcesse o artigo completo no nosso site para conferir o tutorial de configuração de todas essas automações que mostrei no vídeo.\n► Artigo completo: https://felps.co/tuto\n\n🔥 DESCONTO EM TODOS OS DISPOSITIVOS ECHO\nECHO DOT 3: https://amzn.to/3v9Capm\nECHO DOT 4: https://amzn.to/3bxIQ8M\nECHO 4: https://amzn.to/3kZxZrv\nEcho SHOW 5: https://amzn.to/3v8Fwc1\nEcho Show 8: https://amzn.to/2O9mBxq\nECHO STUDIO: https://amzn.to/3bx8FWJ\nFIRE TV STICK LITE: https://amzn.to/3l7UVoA\n\n► Página de PROMOÇÕES de Casa Inteligente:\n\n🔥  https://felps.co/promo\n\n► As Músicas dos vídeos são todas do EpidemicSound: https://www.epidemicsound.com/referral/con4n1/\n\n► Me acompanhe não só aqui:\nInstagram: https://www.instagram.com/felps/\nTwitter: https://goo.gl/wteYoG\nSite: https://felps.co",
+      "channel_title": "Persival Balleste",
+      "published_at": "2021-04-23T03:55:04Z",
+      "position": 42,
+      "thumbnail_url": "https://i.ytimg.com/vi/R26QhFQYzcw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=R26QhFQYzcw"
+    },
+    {
+      "video_id": "awkWoHGV6EM",
+      "title": "Gestão ágil x em cascata: qual é a melhor para gerenciar seu projeto? | monday.com",
+      "description": "Metodologia ágil x em cascata — qual é a melhor metodologia de gerenciamento de projetos? Essa é uma questão complexa que não tem uma resposta única. Ela pode depender do seu estilo de gerenciamento — e do que você precisa em uma abordagem de gestão.\n\nPara contratar  o monday.com para sua equipe, acesse: https://cutt.ly/PljxWll\nPara falar com a gente sobre dúvidas, sugestões e informações sobre o monday.com, acesse: https://cutt.ly/iljxcyj",
+      "channel_title": "Persival Balleste",
+      "published_at": "2021-04-23T03:28:57Z",
+      "position": 43,
+      "thumbnail_url": "https://i.ytimg.com/vi/awkWoHGV6EM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=awkWoHGV6EM"
+    },
+    {
+      "video_id": "U32yv9e9HOI",
+      "title": "Redash: Open Source SQL Analytics on Data Lakes",
+      "description": "Learn more about how to easily run SQL analytics on data lakes with Redash, an open source SQL analytics tool. Get started easily with simple SQL queries, quickly turn them into dashboards, and develop them into powerful workflows with Alerts and APIs. Connect Redash to Databricks for complete, reliable, and up-to-date analytics with Managed Delta Lake. Data teams can leverage all their data together for all their use cases, including BI and ML. We'll walk you through Redash in action, as well as share analytics from marketing dashboards running market forecasts, planning and impact.\n\nDatabricks provides a unified data analytics platform, powered by Apache Spark™, that accelerates innovation by unifying data science, engineering and business. \nRead more here: https://databricks.com/product/unifie... \n\nConnect with us: \nWebsite: https://databricks.com\nFacebook: https://www.facebook.com/databricksinc\nTwitter: https://twitter.com/databricks\nLinkedIn: https://www.linkedin.com/company/databricks\nInstagram: https://www.instagram.com/databricksinc/ Databricks is proud to announce that Gartner has named us a Leader in both the 2021 Magic Quadrant for Cloud Database Management Systems and the 2021 Magic Quadrant for Data Science and Machine Learning Platforms. Download the reports here. https://databricks.com/databricks-named-leader-by-gartner",
+      "channel_title": "Persival Balleste",
+      "published_at": "2021-04-06T02:00:50Z",
+      "position": 44,
+      "thumbnail_url": "https://i.ytimg.com/vi/U32yv9e9HOI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=U32yv9e9HOI"
+    },
+    {
+      "video_id": "Wte44wRZKDk",
+      "title": "Databricks Delta Lake Data Integration Demo (Auto Loader and COPY INTO)",
+      "description": "Visit https://databricks.com/discover/demos to view more demos, download notebooks, and sign up for the free Databricks Community Edition.\n\nWith Databricks Auto Loader, you can incrementally and efficiently ingest new batch and real-time streaming data files into your Delta Lake tables as soon as they arrive in your data lake — so that they always contain the most complete and up-to-date data available. Auto Loader is a simple, flexible tool that can be run continuously, or in “triggerOnce” mode to process data in batches. SQL users can use the simple “COPY INTO’' command to pull new data into their Delta Lake tables automatically, without the need to keep track of which files have already been processed.\n\nRead more here: https://databricks.com/discover/demos/delta-lake-data-integration-demo-auto-loader-and-copy-into\n\nVideo chapters:\n0:00 Getting data into Delta Lake with Auto Loader\n0:28 How to use Databricks Auto Loader\n1:09 Using Auto Loader in batch mode with triggerOnce\n1:37 Loading data with COPY INTO for SQL users\n\nConnect with us:\nWebsite: https://databricks.com​\nFacebook: https://www.facebook.com/databricksinc​\nTwitter: https://twitter.com/databricks​\nLinkedIn: https://www.linkedin.com/company/databricks/\nInstagram: https://www.instagram.com/databricksinc/​ Databricks is proud to announce that Gartner has named us a Leader in both the 2021 Magic Quadrant for Cloud Database Management Systems and the 2021 Magic Quadrant for Data Science and Machine Learning Platforms. Download the reports here. https://databricks.com/databricks-named-leader-by-gartner\n\n\nNote: Databricks Lakeflow unifies Data Engineering with Lakeflow Connect, Lakeflow Spark Declarative Pipelines (previously known as DLT), and Lakeflow Jobs (previously known as Workflows).",
+      "channel_title": "Persival Balleste",
+      "published_at": "2021-04-03T01:53:12Z",
+      "position": 45,
+      "thumbnail_url": "https://i.ytimg.com/vi/Wte44wRZKDk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Wte44wRZKDk"
+    },
+    {
+      "video_id": "pFYl0ATnUrk",
+      "title": "[PORTUGUESE] Webinar H2O AI Hybrid Cloud",
+      "description": "Assistam ao webinar em que o Luiz Santos, cientista de dados e engenheiro de soluções da H2O.ai, dá todos os detalhes da nossa recém lançada plataforma H2O AI Hybrid Cloud.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2021-02-14T00:27:41Z",
+      "position": 46,
+      "thumbnail_url": "https://i.ytimg.com/vi/pFYl0ATnUrk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=pFYl0ATnUrk"
+    },
+    {
+      "video_id": "tDRC63_TanI",
+      "title": "Could Intelligent Alien Life be AI?",
+      "description": "Artificial Intelligence or AI more specifically strong AI or artificial superintelligence could possibly be the answer or the solution to the Fermi paradox. The Fermi paradox, named after Italian-American physicist Enrico Fermi, is the apparent contradiction between the lack of evidence for extraterrestrial civilizations and various high estimates for their probability of existence.The conundrum for the existence of aliens and more categorically intelligent aliens could be a much simpler solution that we've previously thought. To more broadly answer the question of intelligent aliens, we first have to think about whether it's possible that we are a just a tiny spec in the vastness of space, the only place in the universe where intelligent life found its way to manifest Or maybe there is an abundance of intelligent life out there and we just haven't found it yet.The search for extraterrestrial life is arguably one of the most all-encompassing scientific quest endeavours of our time.How would we know if we had found alien life? It would be interesting to find something that looks like intelligent alien life, but is not actually alive. It could be a space probe. Or a satellite. We often imagine extraterrestrial life as having a face, because we can't figure out what it would look like. But if we were to find intelligent alien life, we might not immediately know what it is. Our guesses till recently were random mixtures of biological forms. An advanced civilization however could also be able to engineer machines or digital living forms with the exact same properties as biological forms.A growing number of scientists believe that the aliens we are looking for are in fact AI. It is quite possible that some civilizations could have transcended biology all together to become artificial superintelligence.\n\n#Aliens #AI #ScienceTime\n\nSUBSCRIBE to our channel \"Science Time\": https://www.youtube.com/sciencetime24\nSUPPORT us on Patreon: https://www.patreon.com/sciencetime\nBUY Science Time Merch: https://teespring.com/science-time-merch\n\nSources:\nhttps://www.youtube.com/watch?v=OJ4X-09OJsI&ab_channel=ANUTV\nhttps://www.youtube.com/watch?v=CAD25s53wmE&t=1250s&ab_channel=StPetersburgCollege\nhttps://www.youtube.com/watch?v=hkxEbIxoNQI&t=79s&ab_channel=BoingBoingVideo\nhttps://iopscience.iop.org/article/10.3847/1538-4357/ab8225",
+      "channel_title": "Persival Balleste",
+      "published_at": "2021-01-31T04:37:38Z",
+      "position": 47,
+      "thumbnail_url": "https://i.ytimg.com/vi/tDRC63_TanI/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=tDRC63_TanI"
+    },
+    {
+      "video_id": "iIHhl6HLgp0",
+      "title": "Elon Musk: Superintelligent AI is an Existential Risk to Humanity",
+      "description": "Elon Musk thinks the advent of digital superintelligence is by far a more dangerous threat to humanity than nuclear weapons. He thinks the field of AI research must have government regulation. The dangers of advanced artificial intelligence have been popularized in the late 2010s by Stephen Hawking, Bill Gates & Elon Musk. But Musk alone is probably the most famous public person to express concern about artificial superintelligence. \n\nExistential risk from advanced AI is the hypothesis that substantial progress in artificial general intelligence could someday result in human extinction or some other unrecoverable global catastrophe.\n\nOne of many concerns in regards to AI is that controlling a superintelligent machine, or instilling it with human-compatible values, may prove to be a much harder problem than previously thought.\n\nMany researchers believe that a superintelligence would naturally resist attempts to shut it off or change its goals.\n\nAn existential risk is any risk that has the potential to eliminate all of humanity or, at the very least, endanger or even destroy modern civilization. Such risks come in forms of natural disasters like Super volcanoes, or asteroid impacts, but an existential risk can also be self induced or man-made, like weapons of mass destruction. Which most experts agree are by far, the most dangerous threat to humanity.  But Elon Musk thinks otherwise. He thinks superintelligent AI is a far more greater threat to humanity than nukes.\n\nSome AI and AGI researchers may be reluctant to discuss risks, worrying that policymakers do not have sophisticated knowledge of the field and are prone to be convinced by \"alarmist\" messages, or worrying that such messages will lead to cuts in AI funding. \n\nOne can't help themselves but wonder, if funding in AI research is truly more important than the possibility of strong AI wiping out humanity. \n\nHopefully, we will have the choice to collectively decide whats our best move and not leave the matter in the hands of a small group of people to unilaterally make that decision for us.\n\n#AI #elonmusk #superintelligence\n\nSUBSCRIBE to our channel \"Science Time\": https://www.youtube.com/sciencetime24\nSUPPORT us on Patreon: https://www.patreon.com/sciencetime\nBUY Science Time Merch: https://teespring.com/science-time-merch\n\nSources:\nhttps://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence\nElon Musk talks at: National Governors Association\n https://www.youtube.com/watch?v=2C-A797y8dA\nElon Musk talks at: SXSW https://www.youtube.com/watch?v=kzlUyrccbos&t=0s\nNick Bostrom TedTalk: https://www.youtube.com/watch?v=MnT1xgZgkpk&t=0s",
+      "channel_title": "Persival Balleste",
+      "published_at": "2020-12-14T04:36:00Z",
+      "position": 48,
+      "thumbnail_url": "https://i.ytimg.com/vi/iIHhl6HLgp0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=iIHhl6HLgp0"
+    },
+    {
+      "video_id": "Lhu8bdmkMCM",
+      "title": "A história da Inteligência Artificial - TecMundo",
+      "description": "A série de história da tecnologia vai misturar passado, presente e futuro nesse novo capítulo. Com o oferecimento da Udacity, a gente vai contar a história da Inteligência Artificial, ou IA, desde as primeiras pesquisas, passando pelas revoluções e chegando nas possibilidades pro futuro.\n#historiadatecnologia #inteligenciaartificial  #udacitybrasil\n\n#[Tipo: História da Tecnologia]\n\n\nCRÉDITOS\nTexto: Nilton Kleina\nNarração: Nilton Kleina\nImagens: Rodrigo Doze Vana\nEdição de vídeo: Rodrigo Doze Vana\nMotion Graphics: Gustavo Silva\nArte da thumb: Silmara Slobodzian\n\n\nA melhor programação está no TecMundo\n- História da Tecnologia\n- Análises e Reviews\n- The Hardware Show\n- Melhores Apps para android e ios\n- Hoje no TecMundo",
+      "channel_title": "Persival Balleste",
+      "published_at": "2020-12-11T04:10:02Z",
+      "position": 49,
+      "thumbnail_url": "https://i.ytimg.com/vi/Lhu8bdmkMCM/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Lhu8bdmkMCM"
+    },
+    {
+      "video_id": "JRDR7XtQT5U",
+      "title": "Elon Musk: Can Superintelligent AI Help us Reach Type 1 Civilization?",
+      "description": "Elon Musk has expressed worry about the advent of a digital superintelligent AI numerous times now. He has put solid solutions to the AI control problem. One of which is the merging scenario with AI. But first Elon Musk, is focused on making sure humanity makes the transition to renewable energy, which is the first right step towards becoming a type 1 civilization. \n\nMusk suggested that if we can't achieve a self-sustaining civilization on Earth, our fate will likely be extinction. \n\nElon however has a plan. He founded Tesla Energy, a company that produces battery packs for homes, businesses, and utilities, and Tesla Motors, which produces electric cars. \nAccording to Elon the world would require battery production of 20 to 25 Terawatt-hours over the course of 15 to 20 years. The solution, Musk explained, is advancements in battery technology. Tesla's new cell design is expected to reduce the cost per kilowatt-hour by half. \n\nElon Musk's most important Company is Neuralink. His goal with Neuralink is to build ultra-high bandwidth brain-computer interfaces for human mind and eventually giving humans the option to achieve a symbiosis with artificial intelligence. This will enable humanity to avoid the extinction of the human race due to increasingly powerful AI advancements.\nUnpredictable consequences of AI is probably the biggest concern of the top AI researchers.\n\nBeing a Type 1 civilization means we would have complete control over all the energy on Earth . We would need to be able to  model, understand, replicate, and control all the energy on Earth. It might take a few hundreds of years, but that is a small amount of time on the timescale of the universe.\n\n#ElonMusk #AI #ASI\n\nSources:\nhttps://www.youtube.com/watch?v=HiOLan8J0cE&feature=emb_title\nhttps://www.youtube.com/watch?v=smK9dgdTl40&t=0s\nhttps://www.youtube.com/watch?v=xKCuDxpccYM",
+      "channel_title": "Persival Balleste",
+      "published_at": "2020-11-18T23:38:39Z",
+      "position": 50,
+      "thumbnail_url": "https://i.ytimg.com/vi/JRDR7XtQT5U/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=JRDR7XtQT5U"
+    },
+    {
+      "video_id": "fEukSrpDPH0",
+      "title": "Redes neurais e Perceptron - Aula 9",
+      "description": "Curso de IA generativa atualizado e com Certificado em https://di.school/ e siga nas redes: https://www.instagram.com/diogocortiz/ e  Twitter: https://www.twitter.com/diogocortiz\n\nEsta é a 9a aula do Curso de Inteligência Artificial para todos. Adaptei o curso de IA que dou para os alunos de mestrado e doutorado do TIDD/PUC-SP para que seja acessível para todos, independente da área de conhecimento. \n\nChegamos na parte mais instigante do curso: Redes Neurais. Neste vídeo mostro um pouco da história das redes neurais e já explico como modelar o Perceptron, um dos primeiros projetos de neurônios artificiais que abriram o caminho para que agora, décadas depois, possamos ter modelos extremamente complexos de redes neurais. Vamos juntos! \n\nCompartilhe, dê seu like e se inscreva no canal. Preciso da sua ajuda!\nTambém siga nas redes sociais: \nInstagram: https://www.instagram.com/diogocortiz/\nTwitter: https://www.twitter.com/diogocortiz\nLinkedin: https://www.linkedin.com/in/diogocsilva\nBlog: https://www.diogocortiz.com.br",
+      "channel_title": "Persival Balleste",
+      "published_at": "2020-07-09T03:51:01Z",
+      "position": 51,
+      "thumbnail_url": "https://i.ytimg.com/vi/fEukSrpDPH0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=fEukSrpDPH0"
+    },
+    {
+      "video_id": "BXDP8ttWbPo",
+      "title": "Qual Profissão de Dados, Eu DEVO SEGUIR?",
+      "description": "Nesse vídeo, eu mostrar o que cada um dos 4 profissionais de Dados precisam saber, em termos de Competências e Habilidades, para ter um carreira de sucesso. Assim você pode escolher, a profissão que você sentir afinidade!\n\nData Analyst   - https://youtu.be/tmx7bg3HTr0\nData Engineer - https://youtu.be/nQu6s8FPhfA\nData Scientist - https://youtu.be/WHoK46KLrcM\nML Engineer    - https://youtu.be/xCcrMhwzhpI\n\nArtigo sobre \"Como Adquirir Competências em Data Science\": https://bit.ly/2Z7ctXs\n\n=================================================\n\nTeste de Perfil - Descubra se você deve seguir a carreira como Analista ou Cientista de Dados: https://comunidade-ds.bcns.ai/quiz-08-07-20\n\n=================================================\nFique por dentro de conteúdos diárias e dicas de estudos\nInstagram: @meigarom\nLinkedIn: https://www.linkedin.com/in/meigarom/​",
+      "channel_title": "Persival Balleste",
+      "published_at": "2020-07-09T03:50:40Z",
+      "position": 52,
+      "thumbnail_url": "https://i.ytimg.com/vi/BXDP8ttWbPo/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=BXDP8ttWbPo"
+    },
+    {
+      "video_id": "MGW_Qcqr9eQ",
+      "title": "Turing Test: Can Machines Think?",
+      "description": "Discussion of the 1950 paper by Alan Turing that proposed what is now called the Turing Test. This is one of the most impactful papers in the history of AI and the first paper in the AI paper club on our Discord. Join here: https://discord.gg/8RwBPRs\n\nSlides for this video: https://bit.ly/2VIAp2R\nReferences sheet: https://bit.ly/turing-test-paper\nLex + AI Podcast Discord: https://discord.gg/8RwBPRs\n\nOUTLINE:\n0:00 - Introduction\n1:02 - Paper opening lines\n3:11 - Paper overview\n7:39 - Loebner Prize\n11:36 - Eugene Goostman\n13:43 - Google's Meena\n17:17 - Objections to the Turing Test\n17:29 - Objection 1: Religious\n18:07 - Objection 2: \"Heads in the Sand\"\n19:18 - Objection 3: Godel Incompleteness Theorem\n19:51 - Objection 4: Consciousness\n20:54 - Objection 5: Machines will never do X\n21:47 - Objection 6: Ada Lovelace\n23:22 - Objection 7: Brain in analog\n23:49 - Objection 8: Determinism\n24:55 - Objection 9: Mind-reading\n26:34 - Chinese Room thought experiment\n27:21 - Coffee break\n31:42 - Turing Test extensions and alternatives \n36:54 - Winograd Schema Challenge\n38:55 - Alexa Prize\n41:17 - Hutter Prize\n43:18 - Francois Chollet's Abstraction and Reasoning Challenge (ARC)\n49:32 - Takeaways\n56:51 - Discord community\n57:56 - AI Paper Reading Club\n\nCONNECT:\n- Subscribe to this YouTube channel\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman",
+      "channel_title": "Persival Balleste",
+      "published_at": "2020-04-28T03:11:10Z",
+      "position": 53,
+      "thumbnail_url": "https://i.ytimg.com/vi/MGW_Qcqr9eQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=MGW_Qcqr9eQ"
+    },
+    {
+      "video_id": "A9YB4yKTONk",
+      "title": "AI School #2 | Recomendação na Prática - Gabriel Moreira",
+      "description": "Palestrante\r\nGabriel Moreira\r\nTwitter: @gspmoreira\r\nLinked-in: https://www.linkedin.com/in/gabrielspmoreira/\r\n\r\nGabriel é Google Developer Expert em Machine Learning e formou-se recentemente como Doutor pelo ITA. Sua pesquisa de doutorado focou em arquiteturas de Deep Learning para Sistemas de Recomendação de Notícias. Atua como Lead Data Scientist na CI&T desde 2014.\r\n\r\nTalk\r\nTítulo: Sistemas de Recomendação em Python na Prática\r\n\r\nDescrição:\r\nNesta live, será apresentada uma breve introdução sobre Sistema de Recomendação e demonstrado na prática uma implementação em Python de alguns algoritmos de Filtragem Colaborativa, Filtragem Baseado em Conteúdo e abordagens híbridas de recomendação, bem como a avaliação e comparação destes algoritmos. No final, vai rolar um \"Ask me anything\" sobre Sistemas de Recomendação.",
+      "channel_title": "Persival Balleste",
+      "published_at": "2020-04-17T00:57:43Z",
+      "position": 54,
+      "thumbnail_url": "https://i.ytimg.com/vi/A9YB4yKTONk/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/watch?v=A9YB4yKTONk"
+    }
+  ],
+  "export_date": "2025-11-27T06:18:22.152567",
+  "total_videos_exported": 55
+}
