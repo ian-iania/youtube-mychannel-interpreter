@@ -72,7 +72,7 @@ st.markdown("""
 
 
 # Funções auxiliares
-@st.cache_data
+@st.cache_data(ttl=300)  # Cache por 5 minutos - permite recarregar playlists atualizadas
 def load_playlists(playlists_dir='playlists_oauth'):
     """Carrega todas as playlists do diretório OAuth (públicas + privadas)"""
     playlists_dir = Path(playlists_dir)
@@ -207,6 +207,7 @@ def format_duration(duration_iso):
 def download_audio_from_youtube(video_id):
     """
     Baixa apenas o áudio de um vídeo do YouTube
+    Comprime para MP3 se necessário para ficar abaixo de 25MB
     
     Args:
         video_id: ID do vídeo do YouTube
@@ -218,47 +219,63 @@ def download_audio_from_youtube(video_id):
         video_url = f"https://www.youtube.com/watch?v={video_id}"
         audio_file = f"temp_audio_{video_id}"
         
-        # Configurações para baixar apenas áudio
+        # Configurações para baixar e converter para MP3 (menor tamanho)
         ydl_opts = {
             'format': 'bestaudio/best',
-            'outtmpl': audio_file,  # Sem extensão - yt-dlp não adiciona automaticamente
+            'outtmpl': audio_file,
             'quiet': True,
             'no_warnings': True,
+            'postprocessors': [{
+                'key': 'FFmpegExtractAudio',
+                'preferredcodec': 'mp3',
+                'preferredquality': '64',  # 64kbps - boa qualidade para voz, arquivo menor
+            }],
         }
         
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             info = ydl.extract_info(video_url, download=True)
             
-            # Obter extensão do arquivo baixado
-            ext = info.get('ext', 'webm')
+            # Com FFmpeg, o arquivo será convertido para MP3
+            # Procurar arquivo .mp3 primeiro (resultado da conversão)
+            mp3_file = f"{audio_file}.mp3"
+            if os.path.exists(mp3_file):
+                # Verificar tamanho
+                size_mb = os.path.getsize(mp3_file) / 1024 / 1024
+                if size_mb > 25:
+                    return None, f"Arquivo muito grande ({size_mb:.1f}MB) mesmo após compressão. Limite: 25MB"
+                return mp3_file, None
             
-            # yt-dlp pode baixar sem extensão, então verificar e renomear se necessário
-            if os.path.exists(audio_file):
-                # Arquivo sem extensão - renomear para incluir extensão
-                final_file = f"{audio_file}.{ext}"
-                os.rename(audio_file, final_file)
-                return final_file, None
-            
-            # Se já tem extensão
-            final_file = f"{audio_file}.{ext}"
-            if os.path.exists(final_file):
-                return final_file, None
-            
-            # Tentar outras extensões comuns
-            for possible_ext in ['webm', 'm4a', 'mp3', 'opus', 'ogg']:
+            # Se não encontrou MP3, procurar outros formatos
+            for possible_ext in ['webm', 'm4a', 'opus', 'ogg']:
                 possible_file = f"{audio_file}.{possible_ext}"
                 if os.path.exists(possible_file):
+                    # Verificar tamanho
+                    size_mb = os.path.getsize(possible_file) / 1024 / 1024
+                    if size_mb > 25:
+                        return None, f"Arquivo muito grande ({size_mb:.1f}MB). Limite: 25MB"
                     return possible_file, None
+            
+            # Arquivo sem extensão
+            if os.path.exists(audio_file):
+                ext = info.get('ext', 'webm')
+                final_file = f"{audio_file}.{ext}"
+                os.rename(audio_file, final_file)
+                
+                # Verificar tamanho
+                size_mb = os.path.getsize(final_file) / 1024 / 1024
+                if size_mb > 25:
+                    os.remove(final_file)
+                    return None, f"Arquivo muito grande ({size_mb:.1f}MB). Limite: 25MB"
+                return final_file, None
             
             # Listar arquivos para debug
             matching_files = [f for f in os.listdir('.') if f.startswith(f'temp_audio_{video_id}')]
             if matching_files:
-                # Se encontrou arquivo, renomear para incluir extensão
                 found_file = matching_files[0]
-                if not '.' in found_file:  # Sem extensão
-                    renamed_file = f"{found_file}.{ext}"
-                    os.rename(found_file, renamed_file)
-                    return renamed_file, None
+                size_mb = os.path.getsize(found_file) / 1024 / 1024
+                if size_mb > 25:
+                    os.remove(found_file)
+                    return None, f"Arquivo muito grande ({size_mb:.1f}MB). Limite: 25MB"
                 return found_file, None
             
             return None, "Arquivo de áudio não encontrado após download"
