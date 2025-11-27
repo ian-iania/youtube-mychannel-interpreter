@@ -6,13 +6,19 @@ Suporta múltiplas API keys e OAuth2 como fallback
 
 import os
 import sys
+import pickle
 from pathlib import Path
 from dotenv import load_dotenv
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
+from google_auth_oauthlib.flow import InstalledAppFlow
+from google.auth.transport.requests import Request
 
 # Carregar variáveis de ambiente
 load_dotenv()
+
+# Escopos OAuth necessários
+SCOPES = ['https://www.googleapis.com/auth/youtube.readonly']
 
 
 class APIKeyManager:
@@ -88,6 +94,71 @@ class APIKeyManager:
         
         return keys
     
+    def _get_oauth_credentials(self, client_id, client_secret, token_file):
+        """
+        Obtém credenciais OAuth2
+        
+        Args:
+            client_id: ID do cliente OAuth
+            client_secret: Secret do cliente OAuth
+            token_file: Arquivo para salvar token
+            
+        Returns:
+            Credenciais OAuth2 ou None se falhar
+        """
+        creds = None
+        
+        # Verificar se já existe token salvo
+        if os.path.exists(token_file):
+            try:
+                with open(token_file, 'rb') as token:
+                    creds = pickle.load(token)
+            except Exception as e:
+                print(f"   ⚠️  Erro ao carregar token: {e}")
+        
+        # Se não há credenciais válidas, fazer login
+        if not creds or not creds.valid:
+            if creds and creds.expired and creds.refresh_token:
+                try:
+                    print("   🔄 Renovando token expirado...")
+                    creds.refresh(Request())
+                except Exception as e:
+                    print(f"   ⚠️  Erro ao renovar token: {e}")
+                    creds = None
+            
+            if not creds:
+                try:
+                    print("   🔐 Iniciando autenticação OAuth 2.0...")
+                    
+                    # Criar configuração do cliente OAuth
+                    client_config = {
+                        "installed": {
+                            "client_id": client_id,
+                            "client_secret": client_secret,
+                            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+                            "token_uri": "https://oauth2.googleapis.com/token",
+                            "redirect_uris": ["http://localhost"]
+                        }
+                    }
+                    
+                    flow = InstalledAppFlow.from_client_config(
+                        client_config,
+                        SCOPES
+                    )
+                    creds = flow.run_local_server(port=0)
+                    
+                    # Salvar credenciais
+                    with open(token_file, 'wb') as token:
+                        pickle.dump(creds, token)
+                    
+                    print(f"   ✅ Autenticação concluída! Token salvo em {token_file}")
+                
+                except Exception as e:
+                    print(f"   ❌ Erro na autenticação OAuth: {e}")
+                    return None
+        
+        return creds
+    
     def _initialize_youtube(self):
         """Inicializa o cliente do YouTube com a key atual"""
         if self.current_key_index >= len(self.api_keys):
@@ -104,12 +175,27 @@ class APIKeyManager:
                 return True
             
             elif current['type'] == 'oauth2':
-                # Usar OAuth2 (requer autenticação)
-                print(f"⚠️  {current['name']} requer autenticação OAuth2")
-                print("   Não implementado ainda neste script")
-                # Pular para próxima key
-                self.current_key_index += 1
-                return self._initialize_youtube()
+                # Usar OAuth2
+                print(f"🔐 Tentando {current['name']} (OAuth2)...")
+                
+                # Nome do arquivo de token baseado no nome da key
+                token_file = f"token_{current['name'].lower()}.pickle"
+                
+                creds = self._get_oauth_credentials(
+                    current['client_id'],
+                    current['client_secret'],
+                    token_file
+                )
+                
+                if creds:
+                    self.youtube = build('youtube', 'v3', credentials=creds)
+                    print(f"✅ Usando {current['name']} (OAuth2)")
+                    return True
+                else:
+                    print(f"❌ Falha ao autenticar {current['name']}")
+                    # Pular para próxima key
+                    self.current_key_index += 1
+                    return self._initialize_youtube()
         
         except Exception as e:
             print(f"❌ Erro ao inicializar {current['name']}: {e}")
