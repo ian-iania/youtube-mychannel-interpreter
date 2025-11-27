@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285730.0466611,
+  "cache_type": "channel_info",
+  "key": "UCPR4QNCFWnyuYs2Vjr3lydw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "bnQx5IVmjWFQZtOPxU2l_GV2QxA",
+    "id": "UCPR4QNCFWnyuYs2Vjr3lydw",
+    "snippet": {
+      "title": "AI Engineer Brasil",
+      "description": "Capítulo Brasileiro da Comunidade de AI Engineer.\n\nVenha participar da discussão com a gente! https://discord.gg/WZhJ4Nwc\n",
+      "customUrl": "@aiengineerbrasil",
+      "publishedAt": "2025-06-04T06:36:23.609777Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AQZcSOEi5zyRfsa8YIWf-7B9Nb5t8EOkJuqfs-QvBe4NqdLfWz7TYlBcaBij8Q4L-CZfNH44=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AQZcSOEi5zyRfsa8YIWf-7B9Nb5t8EOkJuqfs-QvBe4NqdLfWz7TYlBcaBij8Q4L-CZfNH44=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AQZcSOEi5zyRfsa8YIWf-7B9Nb5t8EOkJuqfs-QvBe4NqdLfWz7TYlBcaBij8Q4L-CZfNH44=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "pt",
+      "localized": {
+        "title": "AI Engineer Brasil",
+        "description": "Capítulo Brasileiro da Comunidade de AI Engineer.\n\nVenha participar da discussão com a gente! https://discord.gg/WZhJ4Nwc\n"
+      }
+    },
+    "statistics": {
+      "viewCount": "10762",
+      "subscriberCount": "674",
+      "hiddenSubscriberCount": false,
+      "videoCount": "10"
+    }
+  }
+}

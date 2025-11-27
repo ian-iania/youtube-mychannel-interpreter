@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285739.585919,
+  "cache_type": "channel_info",
+  "key": "UCH3cq9mit-0UkTu1mTki20Q",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "EH3XTFDe0_lyPUqsOBazl3ibvS4",
+    "id": "UCH3cq9mit-0UkTu1mTki20Q",
+    "snippet": {
+      "title": "Databricks Brazil",
+      "description": "Databricks é uma empresa de Dados e AI. Milhares de empresas em todo o mundo - incluindo Comcast, Condé Nast, Nationwide e H&M - confiam na Databricks como plataforma aberta e unificada para engenharia de dados, aprendizado de máquina e análise de dados. A Databricks está sediada em São Francisco, com escritórios em todo o mundo. Fundada pelos criadores originais do Apache Spark™, Delta Lake e MLflow, a Databricks tem a missão de ajudar os times de dados a resolverem os problemas mais difíceis do mundo.",
+      "customUrl": "@databricks-brazil",
+      "publishedAt": "2022-09-12T21:09:45.849815Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/5rD16mOxpmOy07CJYM3ri4GfyasVdxI2AKGIWW8E03bJGSw3qbTPm-pKKJWK_WTYWf-yBrNbQMs=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/5rD16mOxpmOy07CJYM3ri4GfyasVdxI2AKGIWW8E03bJGSw3qbTPm-pKKJWK_WTYWf-yBrNbQMs=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/5rD16mOxpmOy07CJYM3ri4GfyasVdxI2AKGIWW8E03bJGSw3qbTPm-pKKJWK_WTYWf-yBrNbQMs=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Databricks Brazil",
+        "description": "Databricks é uma empresa de Dados e AI. Milhares de empresas em todo o mundo - incluindo Comcast, Condé Nast, Nationwide e H&M - confiam na Databricks como plataforma aberta e unificada para engenharia de dados, aprendizado de máquina e análise de dados. A Databricks está sediada em São Francisco, com escritórios em todo o mundo. Fundada pelos criadores originais do Apache Spark™, Delta Lake e MLflow, a Databricks tem a missão de ajudar os times de dados a resolverem os problemas mais difíceis do mundo."
+      }
+    },
+    "statistics": {
+      "viewCount": "56907",
+      "subscriberCount": "2890",
+      "hiddenSubscriberCount": false,
+      "videoCount": "130"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.956088,
+  "cache_type": "video_details",
+  "key": "fh9LgKXBGnQ",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "erjoDvOWhvnO34Tl78_NCo2VWV0",
+    "id": "fh9LgKXBGnQ",
+    "snippet": {
+      "publishedAt": "2025-11-24T20:16:36Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "Enterprise Deep Research: The Next Killer App for Enterprise AI — Ofer Mendelevitch, Vectara",
+      "description": "Conversational AI has already proven itself as the first high-ROI enterprise AI application. But the real frontier lies beyond chat with high-value, document-centric workflows that still consume countless human hours. Enterprise Deep Research brings the power of web-scale research workflows into the private domain of your company’s data. By applying autonomous, multi-step reasoning to internal knowledge bases, enterprises can unlock transformative use cases: from drafting investment memos in financial services to automating RFP responses and due diligence. In this talk, we’ll learn what Enterprise Deep Research is, how it works, and see some example use-cases.\n\nOfer Mendelevitch leads developer relations at Vectara. He has extensive hands-on experience in machine learning, data science and big data systems across multiple industries, and has focused on developing products using large language models since 2019. Prior to Vectara he built and led data science teams at Syntegra, Helix, Lendup, Hortonworks and Yahoo! Ofer holds a B.Sc. in computer science from Technion and M.Sc. in EE from Tel Aviv university, and is the author of \"Practical data science with Hadoop\" (Addison Wesley), and of the upcoming \"Hands-on RAG for production\" (O'Reilly)\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/ofermend/\n- X (Twitter): https://x.com/ofermend\n- GitHub: https://github.com/ofermend\n- Company: Vectara (https://vectara.com)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fh9LgKXBGnQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fh9LgKXBGnQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fh9LgKXBGnQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fh9LgKXBGnQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fh9LgKXBGnQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Enterprise Deep Research: The Next Killer App for Enterprise AI — Ofer Mendelevitch, Vectara",
+        "description": "Conversational AI has already proven itself as the first high-ROI enterprise AI application. But the real frontier lies beyond chat with high-value, document-centric workflows that still consume countless human hours. Enterprise Deep Research brings the power of web-scale research workflows into the private domain of your company’s data. By applying autonomous, multi-step reasoning to internal knowledge bases, enterprises can unlock transformative use cases: from drafting investment memos in financial services to automating RFP responses and due diligence. In this talk, we’ll learn what Enterprise Deep Research is, how it works, and see some example use-cases.\n\nOfer Mendelevitch leads developer relations at Vectara. He has extensive hands-on experience in machine learning, data science and big data systems across multiple industries, and has focused on developing products using large language models since 2019. Prior to Vectara he built and led data science teams at Syntegra, Helix, Lendup, Hortonworks and Yahoo! Ofer holds a B.Sc. in computer science from Technion and M.Sc. in EE from Tel Aviv university, and is the author of \"Practical data science with Hadoop\" (Addison Wesley), and of the upcoming \"Hands-on RAG for production\" (O'Reilly)\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/ofermend/\n- X (Twitter): https://x.com/ofermend\n- GitHub: https://github.com/ofermend\n- Company: Vectara (https://vectara.com)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT5M19S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "382",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

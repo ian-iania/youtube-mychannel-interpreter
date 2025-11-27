@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285736.486563,
+  "cache_type": "channel_info",
+  "key": "UC_bXJnsgwOqEPA_-6N6faKw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "LW0mSMooZrxGC1lnPZ4nYXNhxe0",
+    "id": "UC_bXJnsgwOqEPA_-6N6faKw",
+    "snippet": {
+      "title": "Canaltech",
+      "description": "Focado no mundo da tecnologia, o Canaltech é um dos principais portais de notícias no Brasil, com conteúdo em texto, áudio e vídeo, incluindo análises de produtos, temas corporativos e um jornal diário. O noticiário tem publicações integrais em parceria com os portais MSN e Yahoo e marca presença em todas as redes sociais.\n\nSendo referência no segmento, o Canaltech é visitado por mais de dez milhões de leitores todos os meses. Com mais de 300 milhões de exibições em seu canal no YouTube, foi ganhador do Prêmio Influenciadores Digitais.",
+      "customUrl": "@canaltech",
+      "publishedAt": "2012-06-18T19:17:17Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/LoKQuEeRQuLLhfqQ-cl-axuwQa51dFNnULEyl4gtgqjMAddlmGit1NTg1TMlrReeRHmORX7z=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Canaltech",
+        "description": "Focado no mundo da tecnologia, o Canaltech é um dos principais portais de notícias no Brasil, com conteúdo em texto, áudio e vídeo, incluindo análises de produtos, temas corporativos e um jornal diário. O noticiário tem publicações integrais em parceria com os portais MSN e Yahoo e marca presença em todas as redes sociais.\n\nSendo referência no segmento, o Canaltech é visitado por mais de dez milhões de leitores todos os meses. Com mais de 300 milhões de exibições em seu canal no YouTube, foi ganhador do Prêmio Influenciadores Digitais."
+      },
+      "country": "BR"
+    },
+    "statistics": {
+      "viewCount": "834134280",
+      "subscriberCount": "3670000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "8458"
+    }
+  }
+}

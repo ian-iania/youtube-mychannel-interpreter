@@ -1,0 +1,73 @@
+{
+  "cached_at": 1764285731.974797,
+  "cache_type": "video_details",
+  "key": "x9bIWL-nwFw",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "O5G4IVzLVXyB74zUC3ee53sjdyU",
+    "id": "x9bIWL-nwFw",
+    "snippet": {
+      "publishedAt": "2025-11-27T09:15:10Z",
+      "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+      "title": "Readdy AI: This AI Builder can BUILD WEBSITES & APPS that CAN SPEAK TO CUSTOMERS!",
+      "description": "Visit Readdy AI: https://bit.ly/Readdy_izak\n\nIn this video, I build a live SmartPaws landing page with Readdy AI and show how its built-in agent answers real questions, captures leads, books consultations by voice, and sends confirmation emails—so you can see the full pipeline from site generation to scheduled calls.\n\n--\nKey Takeaways:\n\n🚀 Generate a complete, responsive website from a single prompt in minutes.  \n🤖 The on-site agent connects to your page content, follows a global prompt + FAQs, and stays on brand.  \n📝 Lead capture happens inside chat; transcripts and contact details auto-save to the Leads view.  \n🗣️ Voice booking checks working hours, offers time slots, and confirms appointments seamlessly.  \n📱 Mobile preview ensures clean, tappable layouts without manual fixes.  \n🗂️ Built-in mini CRM with tagging helps manage follow-ups; deeper HubSpot/Salesforce sync may need exports or integrations.  \n🎨 Quick design tweaks (fonts, logo grid, CTAs, animations) stay consistent across the theme.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x9bIWL-nwFw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x9bIWL-nwFw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x9bIWL-nwFw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/x9bIWL-nwFw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/x9bIWL-nwFw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AICodeKing",
+      "tags": [
+        "readdy ai",
+        "ai website builder",
+        "website generator",
+        "agentic websites"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Readdy AI: This AI Builder can BUILD WEBSITES & APPS that CAN SPEAK TO CUSTOMERS!",
+        "description": "Visit Readdy AI: https://bit.ly/Readdy_izak\n\nIn this video, I build a live SmartPaws landing page with Readdy AI and show how its built-in agent answers real questions, captures leads, books consultations by voice, and sends confirmation emails—so you can see the full pipeline from site generation to scheduled calls.\n\n--\nKey Takeaways:\n\n🚀 Generate a complete, responsive website from a single prompt in minutes.  \n🤖 The on-site agent connects to your page content, follows a global prompt + FAQs, and stays on brand.  \n📝 Lead capture happens inside chat; transcripts and contact details auto-save to the Leads view.  \n🗣️ Voice booking checks working hours, offers time slots, and confirms appointments seamlessly.  \n📱 Mobile preview ensures clean, tappable layouts without manual fixes.  \n🗂️ Built-in mini CRM with tagging helps manage follow-ups; deeper HubSpot/Salesforce sync may need exports or integrations.  \n🎨 Quick design tweaks (fonts, logo grid, CTAs, animations) stay consistent across the theme."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT7M47S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1509",
+      "likeCount": "54",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

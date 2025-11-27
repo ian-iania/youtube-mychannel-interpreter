@@ -1,0 +1,109 @@
+{
+  "cached_at": 1764285742.053442,
+  "cache_type": "channel_videos",
+  "key": "UCOXRjenlq9PmlTqd_JhAbMQ_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HiEuaj_uFz5ayIbRiCObe_v5A4U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yLtgwE0_S-Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T16:45:15Z",
+        "channelId": "UCOXRjenlq9PmlTqd_JhAbMQ",
+        "title": "Google Nano Banana Pro Tutorial: Master 5 Hidden Features (Gemini 3)",
+        "description": "Google just dropped Nano Banana Pro, and it's absolutely INSANE. Powered by Gemini 3, this update is packed with next-level ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yLtgwE0_S-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yLtgwE0_S-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yLtgwE0_S-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eric Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T16:45:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ax08wGJIBfQFk0qrg4x2iYOgHa0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F2lK9saTS_U"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T13:00:27Z",
+        "channelId": "UCOXRjenlq9PmlTqd_JhAbMQ",
+        "title": "Stop Paying for n8n Cloud! The Easiest Self-Hosting Guide (2025)",
+        "description": "AWS is powerful, but let's be honest: it's a pain to set up. And n8n Cloud? It gets expensive fast. Today, I'm showing you how to get ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F2lK9saTS_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F2lK9saTS_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F2lK9saTS_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eric Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T13:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p7-ocwtdP2iu4nroZCJuhf6-lBw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0EHs9Mi2V7s"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T09:03:50Z",
+        "channelId": "UCOXRjenlq9PmlTqd_JhAbMQ",
+        "title": "Google Antigravity vs. Cursor: 3 Features That Changed My Workflow",
+        "description": "Google Antigravity just released, and it might change how we code forever. In this video, I walk you through exactly how to set up ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0EHs9Mi2V7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0EHs9Mi2V7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0EHs9Mi2V7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eric Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T09:03:50Z"
+      }
+    }
+  ]
+}

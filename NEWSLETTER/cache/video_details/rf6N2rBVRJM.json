@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285738.930259,
+  "cache_type": "video_details",
+  "key": "rf6N2rBVRJM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "4ajlXrc3Tpo-iLnd8Hxw4dPjXpU",
+    "id": "rf6N2rBVRJM",
+    "snippet": {
+      "publishedAt": "2025-11-25T10:19:50Z",
+      "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+      "title": "Supertonic : Fastest TTS, no GPU",
+      "description": "How to use Fastest Supertonic TTS for free ? #ai #chatgpt #coding #programming #generativeai #llm #computerscience #computer #engineering #modelcontextprotocol",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rf6N2rBVRJM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rf6N2rBVRJM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rf6N2rBVRJM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rf6N2rBVRJM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rf6N2rBVRJM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Data Science in your pocket",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-IN",
+      "localized": {
+        "title": "Supertonic : Fastest TTS, no GPU",
+        "description": "How to use Fastest Supertonic TTS for free ? #ai #chatgpt #coding #programming #generativeai #llm #computerscience #computer #engineering #modelcontextprotocol"
+      },
+      "defaultAudioLanguage": "en-IN"
+    },
+    "contentDetails": {
+      "duration": "PT6M21S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "795",
+      "likeCount": "35",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

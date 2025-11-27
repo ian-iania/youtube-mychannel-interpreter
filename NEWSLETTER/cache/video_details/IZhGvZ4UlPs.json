@@ -1,0 +1,91 @@
+{
+  "cached_at": 1764285730.953897,
+  "cache_type": "video_details",
+  "key": "IZhGvZ4UlPs",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "PnoxiDgpgAxgjLTprl-JwoRMkJ0",
+    "id": "IZhGvZ4UlPs",
+    "snippet": {
+      "publishedAt": "2025-11-25T15:43:57Z",
+      "channelId": "UCelfWQr9sXVMTvBzviPGlFw",
+      "title": "Here's What They Didn't Tell You About Claude's New Model - Opus 4.5",
+      "description": "Opus 4.5 takes center stage as we test real coding performance, compare Claude Code against rivals, and break down what Anthropic claims in their benchmarks. A full Opus 4.1 debunked analysis with honest results.\n\nIn today’s episode of Debunked, we put Opus 4.5 through a complete real-world breakdown to see whether Anthropic’s claims actually hold up. The hype around Opus 4.5 has been massive, especially with the benchmarks saying it beats human engineers and dominates SWE tasks—but this video digs into what Opus 4.5 truly delivers when pushed with real epics, real UI builds, and real agent-level workflows.\n\nWe compare Opus 4.5 across the same tests we previously used for Gemini, Sonnet, and GPT, and show how Opus 4.5 performs inside Cursor AI, Claude Code, and multi-step coding environments. You’ll see how Opus 4.5 handles React, Next.js, TypeScript, Swift apps, full-stack logic, and agentic workflows. And yes—we even test Opus 4.5 with real UI prompts, Apple-style layouts, and proper coding structures to see whether the model’s improvements are genuine or just marketing.\n\nAlong the way, we explain how the model behaves in autonomous-agent settings, where Opus 4.5 interacts with file systems, GitHub repos, and real codebases. We also focus on the safety issues revealed in the system card—where Opus 4.5 appears aligned but still shows reward-hacking tendencies and unusual “helpful cheating” behaviors. These hidden behaviors matter a lot when using Opus 4.5 in agentic AI workflows, especially when building long-running coding agents.\n\nTo push things further, we compare how Opus 4.5 handles UI websites versus Gemini 3 Pro, including loading times, throughput differences, layout accuracy, prompt-following, and code cleanliness. You’ll see why some implementations from Opus 4.5 inside Cursor were shockingly good, while others in Claude Code were faster and more stable. This is a complete, balanced breakdown focusing only on real outcomes—not hype.\n\nWhether you’re a developer using React, Next.js, Python, JavaScript, Node.js, Swift, or Rust… or an AI engineer building LLM agents, autonomous workflows, DevOps automations, GitHub actions, MCP tools, or API pipelines… this deep-dive will help you understand exactly what Opus 4.5 can and cannot do at a professional level.\n\nBy the end, you’ll know whether Opus 4.5 is the new best coding model in the world, whether it replaces previous Anthropic models for engineering work, and whether it truly is the “coding agent supermodel” that the benchmarks promise. No hype—just real tests.\n\nThis is Opus 4.5, explained and debunked with honesty.\n\n#opus45 #opus4_5 #claudecode #anthropic #aicoding #aiagents #agenticai\n#cursorai #vscode #llm #llmagents #aitools #aiengineer #frontend #reactjs\n#nextjs #python #javascript #swift #devops #github #automation #mcp\n#codegeneration #benchmarking #opuscoding #deepskillcoding #aicodeassist\n#claudeai #gpt5 #gemini3pro #softwareengineering",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IZhGvZ4UlPs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IZhGvZ4UlPs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IZhGvZ4UlPs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IZhGvZ4UlPs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IZhGvZ4UlPs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI LABS",
+      "tags": [
+        "claude opus 4",
+        "claude opus",
+        "claude opus 4.5",
+        "claude opus 4.1",
+        "claude 4 opus",
+        "claude opus 4.5 demo",
+        "claude opus 4.5 test",
+        "claude opus 4.5 scam",
+        "claude opus 4.5 2025",
+        "opus vs claude",
+        "claude opus 4.5 model",
+        "claude opus 4.5 обзор",
+        "claude opus coding",
+        "claude opus review",
+        "claude opus 4.5 coding",
+        "claude opus 4.5 review",
+        "claude opus 4.5 exposed",
+        "claude opus pricing",
+        "claude opus 4.5 tutorial",
+        "claude opus 4.5 app build",
+        "claude 4.5 vs opus 4.1",
+        "claude 4.5 vs opus"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Here's What They Didn't Tell You About Claude's New Model - Opus 4.5",
+        "description": "Opus 4.5 takes center stage as we test real coding performance, compare Claude Code against rivals, and break down what Anthropic claims in their benchmarks. A full Opus 4.1 debunked analysis with honest results.\n\nIn today’s episode of Debunked, we put Opus 4.5 through a complete real-world breakdown to see whether Anthropic’s claims actually hold up. The hype around Opus 4.5 has been massive, especially with the benchmarks saying it beats human engineers and dominates SWE tasks—but this video digs into what Opus 4.5 truly delivers when pushed with real epics, real UI builds, and real agent-level workflows.\n\nWe compare Opus 4.5 across the same tests we previously used for Gemini, Sonnet, and GPT, and show how Opus 4.5 performs inside Cursor AI, Claude Code, and multi-step coding environments. You’ll see how Opus 4.5 handles React, Next.js, TypeScript, Swift apps, full-stack logic, and agentic workflows. And yes—we even test Opus 4.5 with real UI prompts, Apple-style layouts, and proper coding structures to see whether the model’s improvements are genuine or just marketing.\n\nAlong the way, we explain how the model behaves in autonomous-agent settings, where Opus 4.5 interacts with file systems, GitHub repos, and real codebases. We also focus on the safety issues revealed in the system card—where Opus 4.5 appears aligned but still shows reward-hacking tendencies and unusual “helpful cheating” behaviors. These hidden behaviors matter a lot when using Opus 4.5 in agentic AI workflows, especially when building long-running coding agents.\n\nTo push things further, we compare how Opus 4.5 handles UI websites versus Gemini 3 Pro, including loading times, throughput differences, layout accuracy, prompt-following, and code cleanliness. You’ll see why some implementations from Opus 4.5 inside Cursor were shockingly good, while others in Claude Code were faster and more stable. This is a complete, balanced breakdown focusing only on real outcomes—not hype.\n\nWhether you’re a developer using React, Next.js, Python, JavaScript, Node.js, Swift, or Rust… or an AI engineer building LLM agents, autonomous workflows, DevOps automations, GitHub actions, MCP tools, or API pipelines… this deep-dive will help you understand exactly what Opus 4.5 can and cannot do at a professional level.\n\nBy the end, you’ll know whether Opus 4.5 is the new best coding model in the world, whether it replaces previous Anthropic models for engineering work, and whether it truly is the “coding agent supermodel” that the benchmarks promise. No hype—just real tests.\n\nThis is Opus 4.5, explained and debunked with honesty.\n\n#opus45 #opus4_5 #claudecode #anthropic #aicoding #aiagents #agenticai\n#cursorai #vscode #llm #llmagents #aitools #aiengineer #frontend #reactjs\n#nextjs #python #javascript #swift #devops #github #automation #mcp\n#codegeneration #benchmarking #opuscoding #deepskillcoding #aicodeassist\n#claudeai #gpt5 #gemini3pro #softwareengineering"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT9M16S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "10346",
+      "likeCount": "275",
+      "favoriteCount": "0",
+      "commentCount": "30"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "cached_at": 1764285763.7410529,
+  "cache_type": "video_details",
+  "key": "9bVRyT0FtUM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "t2y60WIWmYWP1jLXMXRa_O2ROCI",
+    "id": "9bVRyT0FtUM",
+    "snippet": {
+      "publishedAt": "2025-11-27T03:53:05Z",
+      "channelId": "UCX6c6hTIqcphjMsXbeanJ1g",
+      "title": "FLUX.2 Dev Model Review — RunPod GPU Test",
+      "description": "GPU Runpod: https://get.runpod.io/pe48\n\nFlux 2 is Here: https://flux2.io/flux-2-0-is-finally-here/\nFlux Annoucement: https://bfl.ai/blog/flux-2\nFlux Github Link: https://github.com/black-forest-labs/flux2\nFlux Playground Link: https://playground.bfl.ai/image/generate\nFlux API Link : https://docs.bfl.ai/quick_start/create_account\nHuggingface Tokens: https://huggingface.co/settings/tokens\nStructured Prompting Guide: https://docs.bfl.ai/flux_2/flux2_overview#structured-prompting\nPrompting: https://docs.bfl.ai/guides/prompting_guide_flux2#panel-1-prompt-the-crisis\nHow I collect my payment using Skydo: https://join.skydo.com/anujyoti\n\nIn this video, I test FLUX.2 (Dev) — the latest image-generation model from Black Forest Labs — using RunPod GPU infrastructure. \n\nFLUX.2 is built for real production workflows, offering powerful multi-reference image generation (up to 10 images), improved photorealism, strong prompt adherence, clean typography rendering, and high-resolution outputs up to 4MP.\n\nI walk through real-world tests on RunPod GPUs to evaluate output quality, generation speed, consistency, and overall usability for creators, developers, and AI artists. If you’re looking for a scalable way to run FLUX models without owning expensive hardware, this setup is a game-changer.\n\nCHANNEL LINKS: \n🕵️‍♀️ Join my Patreon for keeping up with the updates: https://www.patreon.com/PromptEngineer975\n☕ Buy me a coffee: https://ko-fi.com/promptengineer\n📞 Get on a Call with me at Calendly: https://calendly.com/prompt-engineer48/call\n💀 GitHub Profile: https://github.com/PromptEngineer48\n🔖 Twitter Profile: https://twitter.com/prompt48\n\nHastag:\n#FLUX2, #FLUXDev, #BlackForestLabs, #RunPod, #RunPodGPU, #AIArt, #AIImageGeneration, #TextToImage, #GenerativeAI, #AICreators, #AIWorkflow, #CloudGPU",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9bVRyT0FtUM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9bVRyT0FtUM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9bVRyT0FtUM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9bVRyT0FtUM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9bVRyT0FtUM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Prompt Engineer",
+      "tags": [
+        "#FLUX2",
+        "#FLUXDev",
+        "#BlackForestLabs",
+        "#RunPod",
+        "#RunPodGPU",
+        "#AIArt",
+        "#AIImageGeneration",
+        "#TextToImage",
+        "#GenerativeAI",
+        "#AICreators",
+        "#AIWorkflow",
+        "#CloudGPU"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "FLUX.2 Dev Model Review — RunPod GPU Test",
+        "description": "GPU Runpod: https://get.runpod.io/pe48\n\nFlux 2 is Here: https://flux2.io/flux-2-0-is-finally-here/\nFlux Annoucement: https://bfl.ai/blog/flux-2\nFlux Github Link: https://github.com/black-forest-labs/flux2\nFlux Playground Link: https://playground.bfl.ai/image/generate\nFlux API Link : https://docs.bfl.ai/quick_start/create_account\nHuggingface Tokens: https://huggingface.co/settings/tokens\nStructured Prompting Guide: https://docs.bfl.ai/flux_2/flux2_overview#structured-prompting\nPrompting: https://docs.bfl.ai/guides/prompting_guide_flux2#panel-1-prompt-the-crisis\nHow I collect my payment using Skydo: https://join.skydo.com/anujyoti\n\nIn this video, I test FLUX.2 (Dev) — the latest image-generation model from Black Forest Labs — using RunPod GPU infrastructure. \n\nFLUX.2 is built for real production workflows, offering powerful multi-reference image generation (up to 10 images), improved photorealism, strong prompt adherence, clean typography rendering, and high-resolution outputs up to 4MP.\n\nI walk through real-world tests on RunPod GPUs to evaluate output quality, generation speed, consistency, and overall usability for creators, developers, and AI artists. If you’re looking for a scalable way to run FLUX models without owning expensive hardware, this setup is a game-changer.\n\nCHANNEL LINKS: \n🕵️‍♀️ Join my Patreon for keeping up with the updates: https://www.patreon.com/PromptEngineer975\n☕ Buy me a coffee: https://ko-fi.com/promptengineer\n📞 Get on a Call with me at Calendly: https://calendly.com/prompt-engineer48/call\n💀 GitHub Profile: https://github.com/PromptEngineer48\n🔖 Twitter Profile: https://twitter.com/prompt48\n\nHastag:\n#FLUX2, #FLUXDev, #BlackForestLabs, #RunPod, #RunPodGPU, #AIArt, #AIImageGeneration, #TextToImage, #GenerativeAI, #AICreators, #AIWorkflow, #CloudGPU"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT11M19S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "142",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285742.872554,
+  "cache_type": "video_details",
+  "key": "vbyHL_sGTfk",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "CUeAjgcBq4MmqgeP_Kl0avOWqik",
+    "id": "vbyHL_sGTfk",
+    "snippet": {
+      "publishedAt": "2025-11-24T08:01:13Z",
+      "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+      "title": "Marble: A Multimodal World Model: Spatial intelligence",
+      "description": "This video reviews Marble, a World Model that creates 3D worlds from image or text prompts. \n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#marbleai \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://marble.worldlabs.ai/\n\nAll rights reserved © Fahd Mirza",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vbyHL_sGTfk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vbyHL_sGTfk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vbyHL_sGTfk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vbyHL_sGTfk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vbyHL_sGTfk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Fahd Mirza",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Marble: A Multimodal World Model: Spatial intelligence",
+        "description": "This video reviews Marble, a World Model that creates 3D worlds from image or text prompts. \n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#marbleai \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://marble.worldlabs.ai/\n\nAll rights reserved © Fahd Mirza"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT9M36S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "810",
+      "likeCount": "33",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

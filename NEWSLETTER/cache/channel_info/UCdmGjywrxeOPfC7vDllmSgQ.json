@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285770.4419441,
+  "cache_type": "channel_info",
+  "key": "UCdmGjywrxeOPfC7vDllmSgQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "8xUrmZpbK_3RFZMx58UV9n7O0pM",
+    "id": "UCdmGjywrxeOPfC7vDllmSgQ",
+    "snippet": {
+      "title": "TecMundo",
+      "description": "O maior site sobre tecnologia do Brasil mantém você atualizado de forma descomplicada!\n\n🏆 Vencedores do juri técnico e top 3 pelo voto popular no Prêmio iBest 2020\n🥇 Vencedores do prêmio Influency.me 2020\n",
+      "customUrl": "@tecmundo",
+      "publishedAt": "2006-10-20T16:43:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GY55GvqMDcpzjncQSpvURR6_KbEJLhgCxXuy1ag5WluwNGSjRu3f8kH6XvqVq0hE4BhnExwz16o=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "TecMundo",
+        "description": "O maior site sobre tecnologia do Brasil mantém você atualizado de forma descomplicada!\n\n🏆 Vencedores do juri técnico e top 3 pelo voto popular no Prêmio iBest 2020\n🥇 Vencedores do prêmio Influency.me 2020\n"
+      },
+      "country": "BR"
+    },
+    "statistics": {
+      "viewCount": "875187457",
+      "subscriberCount": "4170000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "10302"
+    }
+  }
+}

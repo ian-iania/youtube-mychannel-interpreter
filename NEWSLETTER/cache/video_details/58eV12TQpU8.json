@@ -1,0 +1,89 @@
+{
+  "cached_at": 1764285766.099371,
+  "cache_type": "video_details",
+  "key": "58eV12TQpU8",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "M7o-MlkDE2cmwPgZdtmfuD1MjkI",
+    "id": "58eV12TQpU8",
+    "snippet": {
+      "publishedAt": "2025-11-22T18:53:56Z",
+      "channelId": "UC0FBv8ckxw1hrZxbUm3G7hA",
+      "title": "The MOST Powerful AI Tool I’ve Ever Used Just Got Even BETTER 👀 (Custom AI Workflows)",
+      "description": "Use DeepAgent to Build Custom AI Workflows To Automate Any Task: https://deepagent.abacus.ai/rqm\n\nThis video shows you how to build APIs with AI using DeepAgent by Abacus AI. This new AI tool lets you build custom AI workflows that use custom APIs to help you automate anything. DeepAgent just got a massive upgrade that lets you build APIs that make it easier to automate any task that you want. The tool builds the API, connects it to other services and even creates the documentation for you with a simple prompt.\n\nJoin AI Automation School (Learn To Automate Your Work & Make $ With AI) 👉 https://www.skool.com/ai-automation-school/about",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/58eV12TQpU8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/58eV12TQpU8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/58eV12TQpU8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/58eV12TQpU8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/58eV12TQpU8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Rob The AI Guy",
+      "tags": [
+        "How to build apis",
+        "How to build apis with ai",
+        "How to build apis in 2026",
+        "how to build ai automations",
+        "ai automation tutorial",
+        "automating work with AI",
+        "automating tasks with AI",
+        "how to automate anything with Ai",
+        "how to build custom apis",
+        "how to build custom apis with AI",
+        "deep agent",
+        "deep agent tutorial",
+        "deep agent use cases",
+        "how to use deep agent",
+        "n8n alternative",
+        "make alternative",
+        "make automations",
+        "n8n automations",
+        "ai workflows",
+        "building ai workflows"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "The MOST Powerful AI Tool I’ve Ever Used Just Got Even BETTER 👀 (Custom AI Workflows)",
+        "description": "Use DeepAgent to Build Custom AI Workflows To Automate Any Task: https://deepagent.abacus.ai/rqm\n\nThis video shows you how to build APIs with AI using DeepAgent by Abacus AI. This new AI tool lets you build custom AI workflows that use custom APIs to help you automate anything. DeepAgent just got a massive upgrade that lets you build APIs that make it easier to automate any task that you want. The tool builds the API, connects it to other services and even creates the documentation for you with a simple prompt.\n\nJoin AI Automation School (Learn To Automate Your Work & Make $ With AI) 👉 https://www.skool.com/ai-automation-school/about"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT12M47S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "3463",
+      "likeCount": "139",
+      "favoriteCount": "0",
+      "commentCount": "14"
+    }
+  }
+}

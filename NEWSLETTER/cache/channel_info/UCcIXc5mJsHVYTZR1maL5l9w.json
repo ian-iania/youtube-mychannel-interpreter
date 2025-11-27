@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285741.0750048,
+  "cache_type": "channel_info",
+  "key": "UCcIXc5mJsHVYTZR1maL5l9w",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "qVJ3Dp8F0soNPOcfFt2Ug4AQbUA",
+    "id": "UCcIXc5mJsHVYTZR1maL5l9w",
+    "snippet": {
+      "title": "DeepLearningAI",
+      "description": "Welcome to the official DeepLearning.AI YouTube channel! Here you can find the videos from our Coursera programs on machine learning as well as recorded events.\n\nDeepLearning.AI was founded in 2017 by machine learning and education pioneer Andrew Ng to fill a need for world-class AI education.\n\nDeepLearning.AI has created high-quality AI programs on Coursera that have gained an extensive global following. By providing a platform for education and fostering a tight-knit community, DeepLearning.AI has become the pathway for anyone looking to build an AI career.\n",
+      "customUrl": "@deeplearningai",
+      "publishedAt": "2017-08-22T22:27:58Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nS1r8vYA9YVt1AQB355iMbBJNMg0OJn0I4J53_4T9xAes=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nS1r8vYA9YVt1AQB355iMbBJNMg0OJn0I4J53_4T9xAes=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nS1r8vYA9YVt1AQB355iMbBJNMg0OJn0I4J53_4T9xAes=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "DeepLearningAI",
+        "description": "Welcome to the official DeepLearning.AI YouTube channel! Here you can find the videos from our Coursera programs on machine learning as well as recorded events.\n\nDeepLearning.AI was founded in 2017 by machine learning and education pioneer Andrew Ng to fill a need for world-class AI education.\n\nDeepLearning.AI has created high-quality AI programs on Coursera that have gained an extensive global following. By providing a platform for education and fostering a tight-knit community, DeepLearning.AI has become the pathway for anyone looking to build an AI career.\n"
+      }
+    },
+    "statistics": {
+      "viewCount": "24178207",
+      "subscriberCount": "462000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "525"
+    }
+  }
+}

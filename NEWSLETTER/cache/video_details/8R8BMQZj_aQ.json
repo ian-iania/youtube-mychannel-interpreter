@@ -1,0 +1,80 @@
+{
+  "cached_at": 1764285746.497816,
+  "cache_type": "video_details",
+  "key": "8R8BMQZj_aQ",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "puaOX2zliMVQZgc265ZCL_aNrjc",
+    "id": "8R8BMQZj_aQ",
+    "snippet": {
+      "publishedAt": "2025-11-25T20:00:07Z",
+      "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "title": "Fine-tuning open LLMs on GKE: The implementation gap",
+      "description": "While Large Language Models (LLMs) offer incredible general capabilities, they often lack the specific domain expertise required for enterprise use cases. In this video, Senior Developer Advocates Ayo Adedeji and Mofi Rahman break down the \"implementation gap\"—the challenge of moving from prototype to production. \n\nWatch along and learn how to build a production ready multimodal fine-tuning pipeline. The duo discusses the three main barriers to entry: infrastructure complexity, data preparation hurdles, and training workflow management. Learn how to leverage Google Kubernetes Engine (GKE) Autopilot and open source frameworks like Axolotl to fine-tune models like Gemma, Llama, and Mistral on any own data.\n\nChapters:\n0:00 - The challenge with general foundation models\n0:48 - Why fine-tuning matters (The Specialist vs. Generalist)\n1:48 - The future is Multimodal\n2:20 - The \"Implementation Gap\"\n2:40 - Challenge 1: Infrastructure Complexity\n3:08 - Challenge 2: Data Preparation\n3:40 - Challenge 3: Workflow Management\n4:10 - The Solution: Google Cloud Enterprise Infrastructure\n5:10 - The Framework: Axolotl and Open Source\n\nResources:  \nCheck out the blog post → https://goo.gle/building-a-production-multimodal-tuning-pipeline\nGitHub repo → https://goo.gle/building-a-production-multimodal-tuning-pipeline-code\n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\nSpeakers: Ayo Adedeji, Mofi Rahman\nProducts Mentioned: Google Kubernetes Engine, Gemma, GKE",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8R8BMQZj_aQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8R8BMQZj_aQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8R8BMQZj_aQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8R8BMQZj_aQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8R8BMQZj_aQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Cloud Tech",
+      "tags": [
+        "LLM",
+        "Fine-tuning",
+        "GKE",
+        "Kubernetes",
+        "Google Cloud",
+        "Multimodal",
+        "Generative AI",
+        "Gemma",
+        "MLOps",
+        "GPU",
+        "TPU"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Fine-tuning open LLMs on GKE: The implementation gap",
+        "description": "While Large Language Models (LLMs) offer incredible general capabilities, they often lack the specific domain expertise required for enterprise use cases. In this video, Senior Developer Advocates Ayo Adedeji and Mofi Rahman break down the \"implementation gap\"—the challenge of moving from prototype to production. \n\nWatch along and learn how to build a production ready multimodal fine-tuning pipeline. The duo discusses the three main barriers to entry: infrastructure complexity, data preparation hurdles, and training workflow management. Learn how to leverage Google Kubernetes Engine (GKE) Autopilot and open source frameworks like Axolotl to fine-tune models like Gemma, Llama, and Mistral on any own data.\n\nChapters:\n0:00 - The challenge with general foundation models\n0:48 - Why fine-tuning matters (The Specialist vs. Generalist)\n1:48 - The future is Multimodal\n2:20 - The \"Implementation Gap\"\n2:40 - Challenge 1: Infrastructure Complexity\n3:08 - Challenge 2: Data Preparation\n3:40 - Challenge 3: Workflow Management\n4:10 - The Solution: Google Cloud Enterprise Infrastructure\n5:10 - The Framework: Axolotl and Open Source\n\nResources:  \nCheck out the blog post → https://goo.gle/building-a-production-multimodal-tuning-pipeline\nGitHub repo → https://goo.gle/building-a-production-multimodal-tuning-pipeline-code\n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\nSpeakers: Ayo Adedeji, Mofi Rahman\nProducts Mentioned: Google Kubernetes Engine, Gemma, GKE"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT5M59S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1580",
+      "likeCount": "69",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "cached_at": 1764285760.460487,
+  "cache_type": "video_details",
+  "key": "z0wsw8znndg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "vAUCThnxqai3gz5APnZbT_ISmEQ",
+    "id": "z0wsw8znndg",
+    "snippet": {
+      "publishedAt": "2025-11-22T02:47:19Z",
+      "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+      "title": "Founderz Makes Online Learning Human With Microsoft Foundry",
+      "description": "Founderz is making online learning more human with diverse learning circles, AI-powered assistants, and a mission to ensure everyone thrives in the digital age.\n\nLearn more: https://msft.it/AIFoundry\n\n#MicrosoftAzure #MicrosoftFoundry",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z0wsw8znndg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z0wsw8znndg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z0wsw8znndg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/z0wsw8znndg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Microsoft Azure",
+      "tags": [
+        "Founderz",
+        "Microsoft Foundry",
+        "online learning",
+        "AI learning assistants",
+        "education technology",
+        "personalized learning",
+        "business school",
+        "learning circles",
+        "age diversity",
+        "Microsoft Spain",
+        "digital education",
+        "scalable learning",
+        "Gen Z",
+        "lifelong learning",
+        "human-centered education",
+        "learning partner",
+        "skills development",
+        "future of work",
+        "AI in education",
+        "Microsoft products",
+        "educational innovation"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Founderz Makes Online Learning Human With Microsoft Foundry",
+        "description": "Founderz is making online learning more human with diverse learning circles, AI-powered assistants, and a mission to ensure everyone thrives in the digital age.\n\nLearn more: https://msft.it/AIFoundry\n\n#MicrosoftAzure #MicrosoftFoundry"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M34S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "312",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

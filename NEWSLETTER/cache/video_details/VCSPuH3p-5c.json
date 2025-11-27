@@ -1,0 +1,91 @@
+{
+  "cached_at": 1764285752.051557,
+  "cache_type": "video_details",
+  "key": "VCSPuH3p-5c",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "t1FWznnkZpDMqaFMcG3SFktsMyY",
+    "id": "VCSPuH3p-5c",
+    "snippet": {
+      "publishedAt": "2025-11-25T23:19:25Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "A Queda do Banco do Brasil: Como o ROE Despencou de 21% para 8%",
+      "description": "O Banco do Brasil (BBAS3) viu seu lucro desabar e o ROE cair de 21% para 8% em um ano. \n\nA crise de confiança começou com alertas sutis sobre a inadimplência do agro, no fim de 2024, se agravou com a explosão das provisões no 2T25 e se consolidou no 3T25.\n\nEntenda como o calote no agronegócio e problemas em outras carteiras tiraram o BB do posto de banco premium e o levaram a revisar o futuro da rentabilidade.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VCSPuH3p-5c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VCSPuH3p-5c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VCSPuH3p-5c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VCSPuH3p-5c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VCSPuH3p-5c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "tags": [
+        "Investnews",
+        "investimentos",
+        "economia",
+        "finanças",
+        "investnewsbr",
+        "mercado financeiro",
+        "bolsa de valores",
+        "notícias",
+        "jornalismo econômico",
+        "negócios",
+        "Banco do Brasil",
+        "BBAS3",
+        "Banco do Brasil ações",
+        "BBAS3 hoje",
+        "lucro Banco do Brasil",
+        "ROE Banco do Brasil",
+        "inadimplência agro",
+        "provisão",
+        "crédito rural",
+        "análise ações",
+        "pulso de mercado",
+        "investimento"
+      ],
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "A Queda do Banco do Brasil: Como o ROE Despencou de 21% para 8%",
+        "description": "O Banco do Brasil (BBAS3) viu seu lucro desabar e o ROE cair de 21% para 8% em um ano. \n\nA crise de confiança começou com alertas sutis sobre a inadimplência do agro, no fim de 2024, se agravou com a explosão das provisões no 2T25 e se consolidou no 3T25.\n\nEntenda como o calote no agronegócio e problemas em outras carteiras tiraram o BB do posto de banco premium e o levaram a revisar o futuro da rentabilidade."
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT7M10S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "9046",
+      "likeCount": "683",
+      "favoriteCount": "0",
+      "commentCount": "41"
+    }
+  }
+}

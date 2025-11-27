@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285746.042366,
+  "cache_type": "video_details",
+  "key": "RmQO99zMhmk",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Q0dRFZO_hzBI3jLFJJ7srXKCMY0",
+    "id": "RmQO99zMhmk",
+    "snippet": {
+      "publishedAt": "2025-11-25T03:51:21Z",
+      "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+      "title": "gitlogue. It turns your Git history into a cinematic, animated replay right inside your terminal.",
+      "description": "gitlogue. It turns your Git history into a cinematic, animated replay right inside your terminal. Instead of scrolling through raw commits, gitlogue lets you watch your project evolve with realistic typing animations,  and file changes, almost like your codebase is telling its own story. \n#github #opensource",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RmQO99zMhmk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RmQO99zMhmk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RmQO99zMhmk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RmQO99zMhmk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RmQO99zMhmk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Github Awesome",
+      "tags": [
+        "GitHub",
+        "GitHub Repositories",
+        "Trending GitHub",
+        "Trending",
+        "GitHub Open Source Projects",
+        "GitHub Trending",
+        "gitHub trending"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "gitlogue. It turns your Git history into a cinematic, animated replay right inside your terminal.",
+        "description": "gitlogue. It turns your Git history into a cinematic, animated replay right inside your terminal. Instead of scrolling through raw commits, gitlogue lets you watch your project evolve with realistic typing animations,  and file changes, almost like your codebase is telling its own story. \n#github #opensource"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT27S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "7428",
+      "likeCount": "337",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "cached_at": 1764285752.0510259,
+  "cache_type": "video_details",
+  "key": "rl2iuuR5KBk",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "CuOGQfk6-1izP7Hf7A1E0KA9xS0",
+    "id": "rl2iuuR5KBk",
+    "snippet": {
+      "publishedAt": "2025-11-26T21:14:33Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "Entenda o que tem influenciado a queda das principais criptomoedas do mercado",
+      "description": "Entenda o que tem influenciado a queda das principais criptomoedas do mercado e quais são os cenários futuros.\n\n#cripto #bitcoin #btc",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rl2iuuR5KBk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rl2iuuR5KBk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rl2iuuR5KBk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rl2iuuR5KBk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rl2iuuR5KBk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "tags": [
+        "bitcoin",
+        "btc",
+        "cripto",
+        "criptomoedas",
+        "eth"
+      ],
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Entenda o que tem influenciado a queda das principais criptomoedas do mercado",
+        "description": "Entenda o que tem influenciado a queda das principais criptomoedas do mercado e quais são os cenários futuros.\n\n#cripto #bitcoin #btc"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT2M9S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2730",
+      "likeCount": "194",
+      "favoriteCount": "0",
+      "commentCount": "5"
+    }
+  }
+}

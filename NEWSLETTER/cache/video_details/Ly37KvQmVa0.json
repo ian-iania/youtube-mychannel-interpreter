@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285746.4966688,
+  "cache_type": "video_details",
+  "key": "Ly37KvQmVa0",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "dtljEubqVrhzqqp2iXQTND-mm1I",
+    "id": "Ly37KvQmVa0",
+    "snippet": {
+      "publishedAt": "2025-11-27T00:22:13Z",
+      "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "title": "From text to vision: An intro to AI image generation",
+      "description": "Explore the exciting world of AI image generation, transforming text into high-impact visuals with Google Cloud's Gemini Image (aka Nano Banana)  model. This video explains how to synthesize brand-new images from text prompts, leveraging Gemini's multimodal capabilities for creative prototyping, virtual staging, and ad creation. We cover best practices for prompt optimization and demonstrate both standalone image generation and combined text-and-image outputs for rich, instructive content.\n\n\nChapters:\n0:00 - Introduction to AI Image Generation\n0:30 - What is AI Image Generation?\n0:41 - The Gemini Image Model (Nano Banana)\n0:59 - Prompt Optimization for Image Generation\n1:10 - Generating Standalone Images (Character Storyboard)\n1:56 - Code for Image Output\n2:13 - Generating Text and Image Output (Tutorial)\n2:52 - Popular Use Cases for AI Image Generation\n3:05 - Conclusion\n\n\nResources:\nNano Banana documentation → https://goo.gle/3XRVzut \nGetting started code → https://goo.gle/3XhgxTp \nVertex AI Studio → https://goo.gle/48jp1hX \n\n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#GoogleCloud #AIImageGeneration #Gemini\n\nSpeakers: Asrar Khan, Katie Nguyen\nProducts Mentioned: Gemini, Nano Banana, Vertex AI",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ly37KvQmVa0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ly37KvQmVa0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ly37KvQmVa0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ly37KvQmVa0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ly37KvQmVa0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Cloud Tech",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "From text to vision: An intro to AI image generation",
+        "description": "Explore the exciting world of AI image generation, transforming text into high-impact visuals with Google Cloud's Gemini Image (aka Nano Banana)  model. This video explains how to synthesize brand-new images from text prompts, leveraging Gemini's multimodal capabilities for creative prototyping, virtual staging, and ad creation. We cover best practices for prompt optimization and demonstrate both standalone image generation and combined text-and-image outputs for rich, instructive content.\n\n\nChapters:\n0:00 - Introduction to AI Image Generation\n0:30 - What is AI Image Generation?\n0:41 - The Gemini Image Model (Nano Banana)\n0:59 - Prompt Optimization for Image Generation\n1:10 - Generating Standalone Images (Character Storyboard)\n1:56 - Code for Image Output\n2:13 - Generating Text and Image Output (Tutorial)\n2:52 - Popular Use Cases for AI Image Generation\n3:05 - Conclusion\n\n\nResources:\nNano Banana documentation → https://goo.gle/3XRVzut \nGetting started code → https://goo.gle/3XhgxTp \nVertex AI Studio → https://goo.gle/48jp1hX \n\n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#GoogleCloud #AIImageGeneration #Gemini\n\nSpeakers: Asrar Khan, Katie Nguyen\nProducts Mentioned: Gemini, Nano Banana, Vertex AI"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT3M31S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "302",
+      "likeCount": "19",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

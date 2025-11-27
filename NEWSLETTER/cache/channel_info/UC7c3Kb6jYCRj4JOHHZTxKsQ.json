@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285744.9393349,
+  "cache_type": "channel_info",
+  "key": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "-NGA_X_yXLluFzJtEd-GRxwtKKE",
+    "id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+    "snippet": {
+      "title": "GitHub",
+      "description": "GitHub is the AI-powered developer platform to build, scale, and deliver secure software. We make it easier for developers to be developers: to work together, to solve challenging problems, and to create the world’s most important technologies. We foster a collaborative community that can come together—as individuals and in teams—to create the future of software and make a difference in the world.\n\nThe GitHub platform is where developers can create, share, and ship the best code possible. Our community is made up of students, hobbyists, consultants, enterprise professionals, partners, and executives, building software in the way that works best for them.\n\nGitHub is much more than code. It is the home of open-source collaboration. It is where new developers get started and where experienced developers expand their knowledge. It is a community where developers come together to solve the unsolvable and test the limits of what software can do.\n",
+      "customUrl": "@github",
+      "publishedAt": "2010-07-28T18:50:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/PKRBxhCiGa8Y0vPmHa1E2cdjpLhUq2Pl-gESwP7kk2plGgxLdsbjyTd9VjcJwBMiY0HQ8bvx5Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/PKRBxhCiGa8Y0vPmHa1E2cdjpLhUq2Pl-gESwP7kk2plGgxLdsbjyTd9VjcJwBMiY0HQ8bvx5Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/PKRBxhCiGa8Y0vPmHa1E2cdjpLhUq2Pl-gESwP7kk2plGgxLdsbjyTd9VjcJwBMiY0HQ8bvx5Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "GitHub",
+        "description": "GitHub is the AI-powered developer platform to build, scale, and deliver secure software. We make it easier for developers to be developers: to work together, to solve challenging problems, and to create the world’s most important technologies. We foster a collaborative community that can come together—as individuals and in teams—to create the future of software and make a difference in the world.\n\nThe GitHub platform is where developers can create, share, and ship the best code possible. Our community is made up of students, hobbyists, consultants, enterprise professionals, partners, and executives, building software in the way that works best for them.\n\nGitHub is much more than code. It is the home of open-source collaboration. It is where new developers get started and where experienced developers expand their knowledge. It is a community where developers come together to solve the unsolvable and test the limits of what software can do.\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "30786338",
+      "subscriberCount": "560000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2555"
+    }
+  }
+}

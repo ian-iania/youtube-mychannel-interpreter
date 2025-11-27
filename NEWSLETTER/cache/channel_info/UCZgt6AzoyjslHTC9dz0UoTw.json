@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285736.112567,
+  "cache_type": "channel_info",
+  "key": "UCZgt6AzoyjslHTC9dz0UoTw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "nHZlbwL04GCwhe85rCHxeYJP7S4",
+    "id": "UCZgt6AzoyjslHTC9dz0UoTw",
+    "snippet": {
+      "title": "ByteByteGo",
+      "description": "Covering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview book series. This channel is managed by Alex Xu and Sahn Lam.\n\nTo master system design, get our 158-page System Design PDF for free by subscribing to our weekly newsletter (10-min read): https://bit.ly/3tfAlYD\n\nTake our system design online course: https://bit.ly/3mlDSk9\n",
+      "customUrl": "@bytebytego",
+      "publishedAt": "2022-06-08T16:34:19.815645Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ZDRUyBUwc2WXZzvNKP9VS9myI6Mg2puQLaWyp4hibRu-owlsasZ3DVNGSQJwzO1IU-tqoMiGgdc=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ZDRUyBUwc2WXZzvNKP9VS9myI6Mg2puQLaWyp4hibRu-owlsasZ3DVNGSQJwzO1IU-tqoMiGgdc=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ZDRUyBUwc2WXZzvNKP9VS9myI6Mg2puQLaWyp4hibRu-owlsasZ3DVNGSQJwzO1IU-tqoMiGgdc=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "ByteByteGo",
+        "description": "Covering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview book series. This channel is managed by Alex Xu and Sahn Lam.\n\nTo master system design, get our 158-page System Design PDF for free by subscribing to our weekly newsletter (10-min read): https://bit.ly/3tfAlYD\n\nTake our system design online course: https://bit.ly/3mlDSk9\n"
+      }
+    },
+    "statistics": {
+      "viewCount": "55109655",
+      "subscriberCount": "1300000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "159"
+    }
+  }
+}

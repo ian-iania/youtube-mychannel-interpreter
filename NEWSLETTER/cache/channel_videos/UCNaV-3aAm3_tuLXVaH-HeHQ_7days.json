@@ -1,0 +1,109 @@
+{
+  "cached_at": 1764285764.659185,
+  "cache_type": "channel_videos",
+  "key": "UCNaV-3aAm3_tuLXVaH-HeHQ_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uAPqP3IIkYuGH02l182aA_6r6fA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rAhCop4CB80"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T16:17:49Z",
+        "channelId": "UCNaV-3aAm3_tuLXVaH-HeHQ",
+        "title": "8-Types of RAGs and their Use Cases | Rakesh Gohel",
+        "description": "If you want to learn about how to utilize RAG to the fullest and how to build a capable Agentic RAG systems. Make sure to join, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rAhCop4CB80/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rAhCop4CB80/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rAhCop4CB80/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rakesh Gohel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T16:17:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IaOdshg3w0CimLIxAxfUqR7UhRY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qmOQ7YiTQ-4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T17:50:57Z",
+        "channelId": "UCNaV-3aAm3_tuLXVaH-HeHQ",
+        "title": "Fundamentals of AI Agents | Rakesh Gohel",
+        "description": "Want to build AI Agents that scale?? Join me for my new cohort next year: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qmOQ7YiTQ-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qmOQ7YiTQ-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qmOQ7YiTQ-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rakesh Gohel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T17:50:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l7CtnauRWZaOagvfMboSxp28Q_g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1h-LLaUBpv0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T12:49:14Z",
+        "channelId": "UCNaV-3aAm3_tuLXVaH-HeHQ",
+        "title": "7 Step RAG Workflow | Rakesh Gohel",
+        "description": "AI Agents to retrieve efficiently, your RAG must be flawless Here are the exact 7 steps that power the Foundation... If you want to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1h-LLaUBpv0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1h-LLaUBpv0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1h-LLaUBpv0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rakesh Gohel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T12:49:14Z"
+      }
+    }
+  ]
+}

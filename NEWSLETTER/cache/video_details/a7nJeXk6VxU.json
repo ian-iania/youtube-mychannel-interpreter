@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285747.442477,
+  "cache_type": "video_details",
+  "key": "a7nJeXk6VxU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "O7HdPRfg5KwtTdaV6iAhm5gVXrE",
+    "id": "a7nJeXk6VxU",
+    "snippet": {
+      "publishedAt": "2025-11-26T17:00:00Z",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "Vibe coding and context engineering with ADK",
+      "description": "Go from an empty folder to a fully deployed AI agent using only natural language. This video introduces \"vibe coding,\" a powerful technique to build applications from scratch using the Gemini CLI.\n\nFollow along with Sita and Amit as they demonstrate how to scaffold a new AI agent with the Agent Development Kit (ADK) in plain English. You'll then learn \"Context Engineering,\" the secret sauce for moving your agent from a prototype to production. See how to provide documentation, coding standards, and feature requirements to guide the AI in generating high-quality, maintainable code.\n\nFinally, watch as they deploy the entire agent to Google Cloud Run with a single command.\n\nStick around for the \"Eng Talk\" segment, where Amit and Sita answer top community questions:\n- Is RAG obsolete with million-token context windows?\n- How do you manage context overload?\n- What metrics should you use to track context retrieval?\n- What are the best tips for token optimization?\n\nChapters:\n0:00 - Introduction\n0:34 - Core Concepts\n3:39 - Setting up Gemini CLI in VS Code\n5:05 - Loading ADK Documentation for the Agent\n7:03 - Vibe coding an Expense Tracker from Scratch\n11:36 - Refactoring Code into Tools and Models\n16:10 - Debugging Python code with Gemini CLI\n25:15 - Why You Need Context Engineering\n26:36 - Creating Context Files: Gemini.md, PRD, & Summary\n32:02 - Building Advanced Features with Context Engineering\n35:52 - Preparing for Cloud Run Deployment (Docker & Server)\n37:44 - One-Command Deploy to Google Cloud Run\n39:30 - Recap\n40:48 - Community questions\n45:55 - Resources\n\nResources:\nLearn more about the Agent Development Kit → https://google.github.io/adk-docs/\nInstall the Gemini CLI → https://github.com/google-gemini/gemini-cli \nCode from this tutorial → https://github.com/amitkmaraj/expense-tracker-agent\nA2A Protocol official site → https://a2a-protocol.org/latest/\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts mentioned: Google ADK, Gemini CLI, Google AI",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a7nJeXk6VxU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a7nJeXk6VxU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a7nJeXk6VxU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/a7nJeXk6VxU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/a7nJeXk6VxU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google for Developers",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google Cloud Tech;",
+        "Purpose: Learn;",
+        "Video Type:DevByte;",
+        "ct: ;",
+        "gds:N/A;"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Vibe coding and context engineering with ADK",
+        "description": "Go from an empty folder to a fully deployed AI agent using only natural language. This video introduces \"vibe coding,\" a powerful technique to build applications from scratch using the Gemini CLI.\n\nFollow along with Sita and Amit as they demonstrate how to scaffold a new AI agent with the Agent Development Kit (ADK) in plain English. You'll then learn \"Context Engineering,\" the secret sauce for moving your agent from a prototype to production. See how to provide documentation, coding standards, and feature requirements to guide the AI in generating high-quality, maintainable code.\n\nFinally, watch as they deploy the entire agent to Google Cloud Run with a single command.\n\nStick around for the \"Eng Talk\" segment, where Amit and Sita answer top community questions:\n- Is RAG obsolete with million-token context windows?\n- How do you manage context overload?\n- What metrics should you use to track context retrieval?\n- What are the best tips for token optimization?\n\nChapters:\n0:00 - Introduction\n0:34 - Core Concepts\n3:39 - Setting up Gemini CLI in VS Code\n5:05 - Loading ADK Documentation for the Agent\n7:03 - Vibe coding an Expense Tracker from Scratch\n11:36 - Refactoring Code into Tools and Models\n16:10 - Debugging Python code with Gemini CLI\n25:15 - Why You Need Context Engineering\n26:36 - Creating Context Files: Gemini.md, PRD, & Summary\n32:02 - Building Advanced Features with Context Engineering\n35:52 - Preparing for Cloud Run Deployment (Docker & Server)\n37:44 - One-Command Deploy to Google Cloud Run\n39:30 - Recap\n40:48 - Community questions\n45:55 - Resources\n\nResources:\nLearn more about the Agent Development Kit → https://google.github.io/adk-docs/\nInstall the Gemini CLI → https://github.com/google-gemini/gemini-cli \nCode from this tutorial → https://github.com/amitkmaraj/expense-tracker-agent\nA2A Protocol official site → https://a2a-protocol.org/latest/\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts mentioned: Google ADK, Gemini CLI, Google AI"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT46M47S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4559",
+      "likeCount": "202",
+      "favoriteCount": "0",
+      "commentCount": "24"
+    }
+  }
+}

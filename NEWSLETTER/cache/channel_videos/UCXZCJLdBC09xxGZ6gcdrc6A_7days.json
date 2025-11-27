@@ -1,0 +1,41 @@
+{
+  "cached_at": 1764285762.916834,
+  "cache_type": "channel_videos",
+  "key": "UCXZCJLdBC09xxGZ6gcdrc6A_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-gJWcqcpJBYBN0NmEcTfSdC6hFk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0luMwmnvRuQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T01:43:32Z",
+        "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+        "title": "Scania accelerates operations across its global workforce with ChatGPT",
+        "description": "Scania builds the trucks, buses, and transport systems that keep the world moving. With AI in their engineering-led organisation, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0luMwmnvRuQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0luMwmnvRuQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0luMwmnvRuQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OpenAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T01:43:32Z"
+      }
+    }
+  ]
+}

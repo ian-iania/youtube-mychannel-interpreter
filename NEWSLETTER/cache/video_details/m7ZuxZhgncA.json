@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285746.0431108,
+  "cache_type": "video_details",
+  "key": "m7ZuxZhgncA",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "ydrYKLzWY_G-JXVnmU1O0-T5GEQ",
+    "id": "m7ZuxZhgncA",
+    "snippet": {
+      "publishedAt": "2025-11-23T12:03:55Z",
+      "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+      "title": "GitHub Trending Today #10: moss, LLM Council, mgrep, JiT, Gausian, PeekX, NanoBanana Studio, RoMa",
+      "description": "Paid channel subscription: https://www.youtube.com/channel/UC9Rrud-8CaHokDtK9FszvRg/join\n\nToday we’ve got 24 trending open source projects, fresh off the charts, covering AI, dev tools, and some just for fun.\n\nText version link: githubawesome.com/github-trending-today-10-moss-llm-council-mgrep-jit-gausian-peekx-nanobanana-studio-roma/\n\n00:00 - Introduction\n00:12 - moss https://github.com/hexagonal-sun/moss\n00:41 - LLM Council https://github.com/karpathy/llm-council\n01:10 - mgrep https://github.com/mixedbread-ai/mgrep\n01:36 - JiT https://github.com/LTH14/JiT\n02:05 - Gausian Native Editor https://github.com/gausian-AI/Gausian_native_editor\n02:34 - PeekX https://github.com/altic-dev/PeekX\n03:03 - dz6 https://github.com/mentebinaria/dz6\n03:32 - NanoBanana Studio https://github.com/amrrs/fal-nanobanana-studio\n03:57 - ExcaliDash https://github.com/ZimengXiong/ExcaliDash\n04:28 - RoMa v2 https://github.com/Parskatt/RoMaV2\n04:53 - DockTail https://github.com/marvinvr/docktail\n05:21 - Claude Agent Desktop https://github.com/pheuter/claude-agent-desktop\n05:46 - IoTHackBot https://github.com/BrownFineSecurity/iothackbot\n06:14 - iOS Clone SwiftUI https://github.com/PallavAg/iOS-Clone-SwiftUI\n06:40 - Dia2 https://github.com/nari-labs/dia2\n07:04 - Scroll https://github.com/asker-kurtelli/scroll\n07:34 - AdaptiveDimensions https://github.com/Aeastr/AdaptiveDimensions\n08:01 - Imagemage https://github.com/quinnypig/imagemage\n08:28 - Onlymaps https://github.com/manoss96/onlymaps\n08:55 - osgrep https://github.com/Ryandonofrio3/osgrep\n09:23 - Dembrandt https://github.com/thevangelist/dembrandt\n09:53 - Server Survival https://github.com/pshenok/server-survival\n10:18 - hptls https://github.com/seceq/hptls\n10:40 - Walrus https://github.com/PolymathicAI/walrus\n\nThank you so much for watching. Please like the video and subscribe to our channel. \n\n#github #ai #opensource",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m7ZuxZhgncA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m7ZuxZhgncA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m7ZuxZhgncA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/m7ZuxZhgncA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/m7ZuxZhgncA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Github Awesome",
+      "tags": [
+        "GitHub",
+        "GitHub Repositories",
+        "Trending GitHub",
+        "Trending",
+        "GitHub Open Source Projects",
+        "GitHub Trending",
+        "gitHub trending"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "GitHub Trending Today #10: moss, LLM Council, mgrep, JiT, Gausian, PeekX, NanoBanana Studio, RoMa",
+        "description": "Paid channel subscription: https://www.youtube.com/channel/UC9Rrud-8CaHokDtK9FszvRg/join\n\nToday we’ve got 24 trending open source projects, fresh off the charts, covering AI, dev tools, and some just for fun.\n\nText version link: githubawesome.com/github-trending-today-10-moss-llm-council-mgrep-jit-gausian-peekx-nanobanana-studio-roma/\n\n00:00 - Introduction\n00:12 - moss https://github.com/hexagonal-sun/moss\n00:41 - LLM Council https://github.com/karpathy/llm-council\n01:10 - mgrep https://github.com/mixedbread-ai/mgrep\n01:36 - JiT https://github.com/LTH14/JiT\n02:05 - Gausian Native Editor https://github.com/gausian-AI/Gausian_native_editor\n02:34 - PeekX https://github.com/altic-dev/PeekX\n03:03 - dz6 https://github.com/mentebinaria/dz6\n03:32 - NanoBanana Studio https://github.com/amrrs/fal-nanobanana-studio\n03:57 - ExcaliDash https://github.com/ZimengXiong/ExcaliDash\n04:28 - RoMa v2 https://github.com/Parskatt/RoMaV2\n04:53 - DockTail https://github.com/marvinvr/docktail\n05:21 - Claude Agent Desktop https://github.com/pheuter/claude-agent-desktop\n05:46 - IoTHackBot https://github.com/BrownFineSecurity/iothackbot\n06:14 - iOS Clone SwiftUI https://github.com/PallavAg/iOS-Clone-SwiftUI\n06:40 - Dia2 https://github.com/nari-labs/dia2\n07:04 - Scroll https://github.com/asker-kurtelli/scroll\n07:34 - AdaptiveDimensions https://github.com/Aeastr/AdaptiveDimensions\n08:01 - Imagemage https://github.com/quinnypig/imagemage\n08:28 - Onlymaps https://github.com/manoss96/onlymaps\n08:55 - osgrep https://github.com/Ryandonofrio3/osgrep\n09:23 - Dembrandt https://github.com/thevangelist/dembrandt\n09:53 - Server Survival https://github.com/pshenok/server-survival\n10:18 - hptls https://github.com/seceq/hptls\n10:40 - Walrus https://github.com/PolymathicAI/walrus\n\nThank you so much for watching. Please like the video and subscribe to our channel. \n\n#github #ai #opensource"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT11M9S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "5579",
+      "likeCount": "148",
+      "favoriteCount": "0",
+      "commentCount": "9"
+    }
+  }
+}

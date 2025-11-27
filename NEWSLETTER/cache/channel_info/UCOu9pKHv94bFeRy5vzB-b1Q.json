@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285774.740169,
+  "cache_type": "channel_info",
+  "key": "UCOu9pKHv94bFeRy5vzB-b1Q",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "ADbaQs_9sNtpyEujVMD1iO8a3NA",
+    "id": "UCOu9pKHv94bFeRy5vzB-b1Q",
+    "snippet": {
+      "title": "Well Pires ",
+      "description": "Sou um empreendedor de 23 anos de idade, fundador da Maven AI. \n\nNesse canal, eu compartilho meus aprendizados sobre AI & Automação impulsionando mais de 30 negócios em 1 ano, com o minha Agência de IA, a Maven AI Solutions e ajudando os mais de 1.900 engenheiros de automação que se passaram pela minha comunidade educacional.\n\nMinha missão é te ensinar a dominar Automações e Agentes de IA para tomar vantagem no mercado.\n\n\n\n\n",
+      "customUrl": "@wellpiresai",
+      "publishedAt": "2014-07-16T01:34:45Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/0aO_RK0fnJZ2aKdhrls3p4R65gTupArD9zOYrByvhsQRf1dLtmlKx9S1QxJnaBsMMg7SRdoLRA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/0aO_RK0fnJZ2aKdhrls3p4R65gTupArD9zOYrByvhsQRf1dLtmlKx9S1QxJnaBsMMg7SRdoLRA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/0aO_RK0fnJZ2aKdhrls3p4R65gTupArD9zOYrByvhsQRf1dLtmlKx9S1QxJnaBsMMg7SRdoLRA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Well Pires ",
+        "description": "Sou um empreendedor de 23 anos de idade, fundador da Maven AI. \n\nNesse canal, eu compartilho meus aprendizados sobre AI & Automação impulsionando mais de 30 negócios em 1 ano, com o minha Agência de IA, a Maven AI Solutions e ajudando os mais de 1.900 engenheiros de automação que se passaram pela minha comunidade educacional.\n\nMinha missão é te ensinar a dominar Automações e Agentes de IA para tomar vantagem no mercado.\n\n\n\n\n"
+      }
+    },
+    "statistics": {
+      "viewCount": "1200754",
+      "subscriberCount": "32700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "131"
+    }
+  }
+}

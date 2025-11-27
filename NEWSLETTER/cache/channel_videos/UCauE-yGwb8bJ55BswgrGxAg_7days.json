@@ -1,0 +1,1503 @@
+{
+  "cached_at": 1764285776.673782,
+  "cache_type": "channel_videos",
+  "key": "UCauE-yGwb8bJ55BswgrGxAg_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lnMnZRkXm1m4Vvkk8NK_biRKxOI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gCpI8xynY_4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T18:53:44Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Amazônia, Empreendedorismo Sustentável e o Desenvolvimento da Bioeconomia | Rubens Magno",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gCpI8xynY_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gCpI8xynY_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gCpI8xynY_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T18:53:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9umZah9i-zK8pKlnQWsJ7UtHuzo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pDsDMdj6Olk"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T16:21:55Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Tarcísio sobre megaoperação: fraude é do tamanho do gasto com saúde em SP",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pDsDMdj6Olk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pDsDMdj6Olk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pDsDMdj6Olk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T16:21:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XbWghMdq9eMldiyHdaxV7gkuoSs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JumULOnyZWw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T14:24:42Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Primeira escola de PPP de SP deve sair no início de 2026",
+        "description": "As Parcerias Público-Privadas (PPPs) de infraestrutura de escolas estão avançando para a implementação em diversas regiões ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JumULOnyZWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JumULOnyZWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JumULOnyZWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T14:24:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T8irI37El21fo7OK67MlySzyFl0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BY8EwNU69d4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T13:46:57Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Sustentabilidade, Território e COP30 | Túlio Brito",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BY8EwNU69d4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BY8EwNU69d4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BY8EwNU69d4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T13:46:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ryHQY-Wm9EEQMs8ZX9r90KlBP2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "63XWPaxn40o"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T13:42:08Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Amazônia e o Futuro da Pecuária Sustentável no Pará | Helder Barbalho",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/63XWPaxn40o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/63XWPaxn40o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/63XWPaxn40o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T13:42:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EXIyi3FUB3p3HZsE-KWeFGGtBfY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-ShV1SJRoRM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T13:00:00Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Amazônia, Empreendedorismo Sustentável e o Desenvolvimento da Bioeconomia | Rubens Magno",
+        "description": "Na série \"COP30 Exame\", conversamos com Rubens Magno, Superintendente do Sebrae no Pará, sobre como a bioeconomia ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-ShV1SJRoRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-ShV1SJRoRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-ShV1SJRoRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T13:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "asOGW-KcLQDE7caFpwzlmdShNac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4oWKSw57I2U"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T12:00:01Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Baleia de gorro: a história da obra na Faria Lima que virou meme de Natal",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4oWKSw57I2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4oWKSw57I2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4oWKSw57I2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T12:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lNbJ8tf_-MEW2q8dccInYYVGwFQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8P6ztXF9pSM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T20:51:38Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Dois soldados da Guarda Nacional dos EUA são baleados perto da Casa Branca",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8P6ztXF9pSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8P6ztXF9pSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8P6ztXF9pSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T20:51:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yG12iACrY0hF0A08MuWNFmGJols",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4Gj5hPejI4k"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T16:32:04Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "LULA SANCIONA ISENÇÃO DO IMPOSTO DE RENDA PARA SALÁRIOS DE ATÉ R$ 5 MIL",
+        "description": "O presidente Luiz Inácio Lula da Silva sancionou o projeto que isenta do Imposto de Renda todos os trabalhadores que ganham ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Gj5hPejI4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Gj5hPejI4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Gj5hPejI4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T16:32:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1VNtNDHVATP5wDYlO6NP1QoM7vE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1sGNhOj-hq0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T14:49:10Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Vídeo mostra momento em que conjunto de prédios começa a pegar fogo em Hong Kong",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1sGNhOj-hq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1sGNhOj-hq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1sGNhOj-hq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T14:49:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9MSl3TJawoAeR026CYrnILMxkYY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lUfNdMucsTI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T13:01:44Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Amazônia e o Futuro da Pecuária Sustentável no Pará | Helder Barbalho",
+        "description": "Na série COP30 Exame, conversamos com Helder Barbalho, governador do Pará, sobre o papel estratégico do estado na ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lUfNdMucsTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lUfNdMucsTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lUfNdMucsTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T13:01:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lnhMjB2BsvkgaNxa9f_OUnnI4JY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-DIvOeJzOZA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T20:16:05Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Moraes determina trânsito em julgado no processo de Bolsonaro. O que acontece agora?",
+        "description": "Nesta terça-feira, 25, Alexandre de Moraes, ministro do Supremo Tribunal Federal (SFT) declarou o trânsito em julgado da ação ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-DIvOeJzOZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-DIvOeJzOZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-DIvOeJzOZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T20:16:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K6cU_Qoawen-ITVIoqCVY28Otkw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-nXZiyG70y4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T18:33:09Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Lula vive tensão com Congresso após escolha de Messias e crise com Motta",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-nXZiyG70y4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-nXZiyG70y4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-nXZiyG70y4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T18:33:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WzC-FE0uhsooukaU4jxpOwQKe1g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GC6Cjn146LY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T18:17:30Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Organizações reagem ao acordo final da COP30: avanços históricos, mas insuficientes",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GC6Cjn146LY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GC6Cjn146LY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GC6Cjn146LY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T18:17:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1f2UCXzMcsAej6skyU-FVlD6MT8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "51Zcs0CVU4E"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T15:30:01Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Rodrigo Santoro fala sobre seu personagem em “O Filho de Mil Homens”",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/51Zcs0CVU4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/51Zcs0CVU4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/51Zcs0CVU4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T15:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IxaoqtqHbvUOgLVrAm0UJooU-QY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mrlzm2U9pAE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T13:32:46Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Tempestades deixam mortos, feridos e destruição no Sul e Sudeste",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mrlzm2U9pAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mrlzm2U9pAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mrlzm2U9pAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T13:32:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B7JNq9iPOG_Kid2Va8TimlYBYmw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p7DuuVA-OMI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T13:01:51Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Sustentabilidade, Território e COP30 | Túlio Brito",
+        "description": "Na série \"COP30 Exame\", conversamos com Túlio Brito, Diretor de Sustentabilidade da Agropalma, sobre as estratégias ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p7DuuVA-OMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p7DuuVA-OMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p7DuuVA-OMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T13:01:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pemt869Wga11516WgppjsitFt2M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UuRgwEu4kSE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:06:58Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Vulcão na Etiópia entra em erupção pela 1ª vez em quase 12 mil anos",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UuRgwEu4kSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UuRgwEu4kSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UuRgwEu4kSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:06:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bxm8p1qZQULpHhgwlWPWCJ9QCOk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YFKynEvd_A0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T19:00:01Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Agricultura Regenerativa, Descarbonização e COP30 | Taisa da Costa",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YFKynEvd_A0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YFKynEvd_A0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YFKynEvd_A0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T19:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T1YkOieL7dVTbH_Zf-2-Ynqlbvs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qcULXnFItF8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T18:39:34Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "STF mantém prisão preventiva de Bolsonaro em decisão unânime",
+        "description": "A Primeira Turma do Supremo Tribunal Federal (STF) decidiu de forma unânime manter a prisão preventiva do ex-presidente Jair ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qcULXnFItF8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qcULXnFItF8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qcULXnFItF8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T18:39:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nvruik_kIDpsNFtn9SCJWk36iaY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I-BT6_JiETs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T17:10:27Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Leilão da Ferrogrão acontecerá no 1º semestre de 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I-BT6_JiETs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I-BT6_JiETs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I-BT6_JiETs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T17:10:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vl9d1UE2jvaYIFm--Abrhl0XDW8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9p4UMI8teh0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T13:00:07Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Agricultura Regenerativa, Descarbonização e COP30 | Taisa da Costa",
+        "description": "Na série \"COP30 Exame\", conversamos com Taisa da Costa, Gerente de Sustentabilidade da Danone, sobre como a agricultura ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9p4UMI8teh0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9p4UMI8teh0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9p4UMI8teh0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T13:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OQuLq7s5plDlyceidfI-D7AdTlE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k27hvhXf8os"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T11:01:26Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "ANTT tem déficit de 800 servidores com restrições orçamentárias",
+        "description": "A ANTT viveu um ano intenso com a realização de dez leilões em um contexto de restrições orçamentárias. Segundo o ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k27hvhXf8os/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k27hvhXf8os/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k27hvhXf8os/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T11:01:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A7Ksvr5J5jeUV8e3SG8GcoFCNP4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "86cW9OqvaQU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T11:00:21Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "ANTT tem déficit de 800 servidores com restrições orçamentárias",
+        "description": "A ANTT viveu um ano intenso com a realização de dez leilões em um contexto de restrições orçamentárias. Segundo o ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/86cW9OqvaQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/86cW9OqvaQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/86cW9OqvaQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T11:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NZ3INOgdrJYPiOmlv3gmLFQyLDg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aHbySrccOvw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T10:30:00Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Para o CEO da PepsiCo, a empresa aposta no “E” para crescer #EP27 De frente com CEO",
+        "description": "Gostou do vídeo? Então não se esqueça de deixar o seu like e se inscrever no canal! Siga as nossas redes sociais: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aHbySrccOvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aHbySrccOvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aHbySrccOvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T10:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1pG2FO_NuKTq7Oq92M1WX-Nrkd0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-SKvi1M8jeE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T11:00:00Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Leilão da Fernão Dias terá quatro concorrentes, diz presidente da ANTT",
+        "description": "O governo federal e a ANTT realizarão no próximo dia 11 de dezembro o leilão da Fernão Dias. Segundo Guilherme Theo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-SKvi1M8jeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-SKvi1M8jeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-SKvi1M8jeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T11:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jm30WyKUInoBTTs7Jy8bliclL40",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-okq4HdJ7OA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T10:00:01Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Leilão da Fernão Dias terá quatro concorrentes, diz presidente da ANTT",
+        "description": "O governo federal e a ANTT realizarão no próximo dia 11 de dezembro o leilão da Fernão Dias. Segundo Guilherme Theo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-okq4HdJ7OA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-okq4HdJ7OA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-okq4HdJ7OA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T10:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T-phKJSHKqe1G5OZl3j1p0ThlsE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gaIdHZtHAts"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T21:00:43Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Repactuações recolocam players em novos leilões, diz presidente da ANTT",
+        "description": "O país avançou em 2025 na realização de repactuações de contratos considerados estressados e com investimentos travados.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gaIdHZtHAts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gaIdHZtHAts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gaIdHZtHAts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T21:00:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7-UaRnvvCv-bk1cJ97TCR5JMNiE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "loSkVxc5ark"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T19:00:02Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Tecnologia, Sustentabilidade e COP30: O Papel da Inovação na Transição Verde | Fábio Neves",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/loSkVxc5ark/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/loSkVxc5ark/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/loSkVxc5ark/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T19:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nqJita70xZU_nE4ZJYYHQJShjpE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4sMhRsa30f8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T17:24:49Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Trump recebe Mamdani e diz que socialista será um &#39;grande prefeito&#39; de NY",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4sMhRsa30f8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4sMhRsa30f8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4sMhRsa30f8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T17:24:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p_r1MsntGLaRtr3Jyo0tgXQRK-U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-3wVALk9OSU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T13:00:00Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Tecnologia, Sustentabilidade e COP30: O Papel da Inovação na Transição Verde | Fábio Neves",
+        "description": "Avançando na série \"COP30 Exame\", acompanhamos a visão de Fábio Neves, Vice-Presidente de Vendas, Marketing de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-3wVALk9OSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-3wVALk9OSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-3wVALk9OSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T13:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "slbhHkqIsClxfLgNWmeRcPZ-g4A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tz3KXz3y8_s"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T11:00:53Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "O que a ANTT fez para driblar falta de orçamento e realizar 10 leilões em 2025",
+        "description": "O Brasil viveu em 2025 o ano dos leilões, com pelo menos um certame a cada quatro dias. Um dos principais modais colocado a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tz3KXz3y8_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tz3KXz3y8_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tz3KXz3y8_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T11:00:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kjQsXFStlphtwzRmBS2OihKtzqk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-iBoSwWd_RY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T11:00:00Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "O que a ANTT fez para driblar falta de orçamento e realizar 10 leilões em 2025",
+        "description": "O Brasil viveu em 2025 o ano dos leilões, com pelo menos um certame a cada quatro dias. Um dos principais modais colocado a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-iBoSwWd_RY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-iBoSwWd_RY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-iBoSwWd_RY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T11:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vc0E_yJEcFf9AiISN8h3hs2_CFc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "knGmTSLZzRA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T23:01:06Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Brasil terá R$ 480 bi de investimentos em rodovias e ferrovias em 10 anos",
+        "description": "O Brasil tem R$ 480 bilhões de investimentos contratados em rodovias e ferrovias para os próximos 10 anos. Mesmo com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/knGmTSLZzRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/knGmTSLZzRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/knGmTSLZzRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T23:01:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XOqOEAbi1C-DnkHANzW17B_-rtg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K97gag6Ns_E"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T23:00:25Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Brasil terá R$ 480 bi de investimentos em rodovias e ferrovias em 10 anos",
+        "description": "O Brasil tem R$ 480 bilhões de investimentos contratados em rodovias e ferrovias para os próximos 10 anos. Mesmo com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K97gag6Ns_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K97gag6Ns_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K97gag6Ns_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T23:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hge5BWa_siHdoIymVAQ_9A0y42A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LcKMhctCZFY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T22:34:34Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Após incêndio na COP30, Vanuatu e ONU assinam acordo em padaria de bairro de Belém",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LcKMhctCZFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LcKMhctCZFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LcKMhctCZFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T22:34:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_0iAEbSNz0M817ND7dEyajSyOVs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sB-ivpwZ1dE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T20:24:53Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Leilão da Ferrogrão acontecerá no 1º semestre de 2026",
+        "description": "O bilionário projeto do governo federal para expandir a malha ferroviária e impulsionar o escoamento de grãos do Centro-Oeste ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sB-ivpwZ1dE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sB-ivpwZ1dE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sB-ivpwZ1dE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T20:24:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eqzq3d5OEaHZ3GNQlD9837b6XjM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uFmyGy0g__k"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T19:59:52Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Leilão da Ferrogrão acontecerá no 1º semestre de 2026",
+        "description": "O bilionário projeto do governo federal para expandir a malha ferroviária e impulsionar o escoamento de grãos do Centro-Oeste ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uFmyGy0g__k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uFmyGy0g__k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uFmyGy0g__k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T19:59:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FNgtv5CIe5TCnoj8eD5hxBtzsII",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U--WyOAuu5s"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T19:06:10Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Turismo Sustentável, Sociobiodiversidade e o Futuro da Ilha do Combu | Mário Carvalho",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U--WyOAuu5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U--WyOAuu5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U--WyOAuu5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T19:06:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CjBEMiwdrNv9OCt4DcYu8wdfEW8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hbdvlV9ze40"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T19:00:53Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "&quot;O saneamento salva vidas”, diz Adriana Albanese, da Aegea Saneamento",
+        "description": "Presente em 126 municípios do Pará, a Aegea leva à COP30 cases de saneamento que conectam saúde, inclusão e resiliência ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hbdvlV9ze40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hbdvlV9ze40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hbdvlV9ze40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T19:00:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CmNSvQ7IF5UonrYA6Aoegqq5rMI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OWbKJNTuxXs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T16:58:57Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Presidência da COP30 divulga rascunhos e negociações precisam correr na reta final",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OWbKJNTuxXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OWbKJNTuxXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OWbKJNTuxXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T16:58:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z2JckiFczgH4XMoWV1bNLFBTq-U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UgStKtun3-w"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T14:01:00Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Turismo Sustentável, Sociobiodiversidade e o Futuro da Ilha do Combu | Mário Carvalho",
+        "description": "Neste episódio da série \"COP30 Exame\", recebemos Mário Carvalho, CEO da Vida Caboca e da Filha do Combu, para falar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UgStKtun3-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UgStKtun3-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UgStKtun3-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T14:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "js2ACovfsk8_fiDCcBjN0mFDlrA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bI3_mSBOPss"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T22:14:32Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Vídeo captura início de incêndio na COP30",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bI3_mSBOPss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bI3_mSBOPss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bI3_mSBOPss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T22:14:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-u8SXzqaItRGM7Q5NHmKrFdDDVU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wMmfojkhRbs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T21:23:04Z",
+        "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+        "title": "Um incêndio atingiu o espaço da Blue Zone na COP30 nesta quinta-feira, 20",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wMmfojkhRbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wMmfojkhRbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wMmfojkhRbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "exame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T21:23:04Z"
+      }
+    }
+  ]
+}

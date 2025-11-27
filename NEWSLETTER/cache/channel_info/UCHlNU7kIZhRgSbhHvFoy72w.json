@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285749.17438,
+  "cache_type": "channel_info",
+  "key": "UCHlNU7kIZhRgSbhHvFoy72w",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "-8HsVDhoEGmWd_Rf_Bzw7p5Wheg",
+    "id": "UCHlNU7kIZhRgSbhHvFoy72w",
+    "snippet": {
+      "title": "HuggingFace",
+      "description": "HuggingFace is the platform where the AI community collaborates on models, datasets, research papers and applications. Let's go open science and open-source!",
+      "customUrl": "@huggingface",
+      "publishedAt": "2020-03-20T20:53:26.73687Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mNrquVCKsXMFEQe0YqYV7cTkQ6TsEIVq-kWruQJoOH7g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mNrquVCKsXMFEQe0YqYV7cTkQ6TsEIVq-kWruQJoOH7g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mNrquVCKsXMFEQe0YqYV7cTkQ6TsEIVq-kWruQJoOH7g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "HuggingFace",
+        "description": "HuggingFace is the platform where the AI community collaborates on models, datasets, research papers and applications. Let's go open science and open-source!"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "4224677",
+      "subscriberCount": "102000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "313"
+    }
+  }
+}

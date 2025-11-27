@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285767.328084,
+  "cache_type": "channel_info",
+  "key": "UC55ODQSvARtgSyc8ThfiepQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "JYxlM-jvBOhYSSwDOcQYEJtuB8g",
+    "id": "UC55ODQSvARtgSyc8ThfiepQ",
+    "snippet": {
+      "title": "Sam Witteveen",
+      "description": "HI my name is Sam Witteveen, I have worked with Deep Learning for 11 years and with Transformers and LLM for 5+ years.  I was appointed a Google Developer Expert for Machine Learning in 2017 and I currently work on LLMs and and since earlier in 2023 on Autonomous Agents. ",
+      "customUrl": "@samwitteveenai",
+      "publishedAt": "2022-06-02T10:42:54.120282Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/e_RPj4GPULtytcX-hBDLfczyrnig7FRdICa8BjtvaR1GRUs4BlaXBghqrUipqgjkyOdSpu1IJA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/e_RPj4GPULtytcX-hBDLfczyrnig7FRdICa8BjtvaR1GRUs4BlaXBghqrUipqgjkyOdSpu1IJA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/e_RPj4GPULtytcX-hBDLfczyrnig7FRdICa8BjtvaR1GRUs4BlaXBghqrUipqgjkyOdSpu1IJA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Sam Witteveen",
+        "description": "HI my name is Sam Witteveen, I have worked with Deep Learning for 11 years and with Transformers and LLM for 5+ years.  I was appointed a Google Developer Expert for Machine Learning in 2017 and I currently work on LLMs and and since earlier in 2023 on Autonomous Agents. "
+      }
+    },
+    "statistics": {
+      "viewCount": "8780322",
+      "subscriberCount": "111000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "292"
+    }
+  }
+}

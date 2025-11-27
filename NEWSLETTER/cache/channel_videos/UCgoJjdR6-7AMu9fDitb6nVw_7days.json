@@ -1,0 +1,177 @@
+{
+  "cached_at": 1764285765.11593,
+  "cache_type": "channel_videos",
+  "key": "UCgoJjdR6-7AMu9fDitb6nVw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U7t_MRLc1Fc6vJL_ePsqrY9KxiE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "94F3-_5m4bo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T01:41:27Z",
+        "channelId": "UCgoJjdR6-7AMu9fDitb6nVw",
+        "title": "Fast Mode is free right now?? Go. GO. 🏃💨",
+        "description": "Don't miss out on our Black Friday deal: ✓ Publish & share your first website for free ✓ Get a free .com domain when you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/94F3-_5m4bo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/94F3-_5m4bo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/94F3-_5m4bo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Replit",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T01:41:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1Uj_tOcyjV4Pr3S0USIbuY8shjA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ef_T3ZytUOM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T08:00:26Z",
+        "channelId": "UCgoJjdR6-7AMu9fDitb6nVw",
+        "title": "How to get the best results with AI",
+        "description": "How to get the best results with AI #design #aiagents #ai.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ef_T3ZytUOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ef_T3ZytUOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ef_T3ZytUOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Replit",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T08:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GpAC_EEaaWMaEd6Sdr-WYe87_yk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mfbj5zUJ2Zw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T08:00:23Z",
+        "channelId": "UCgoJjdR6-7AMu9fDitb6nVw",
+        "title": "Designing for AI with Zade Kaylani",
+        "description": "https://landle.world?utm_source=Matt&utm_medium=youtube&utm_campaign=replit-builders ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mfbj5zUJ2Zw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mfbj5zUJ2Zw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mfbj5zUJ2Zw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Replit",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T08:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_CTZlNmiXpPkBhFlWzxvbJVwo3A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nh6gvHZKGvg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T01:49:24Z",
+        "channelId": "UCgoJjdR6-7AMu9fDitb6nVw",
+        "title": "Replit Fast Mode is free for a limited time only",
+        "description": "Replit is free for the first time ever! We're introducing Fast Mode, a 5x faster way to build with AI. Complete tasks in under 30 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nh6gvHZKGvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nh6gvHZKGvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nh6gvHZKGvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Replit",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T01:49:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yRHdjwq2kNhi7-Z4cHNb8MgC3d8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oM5Zmxxc1aI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T21:47:52Z",
+        "channelId": "UCgoJjdR6-7AMu9fDitb6nVw",
+        "title": "Build Your First App with AI (Live Workshop)",
+        "description": "We're hosting a live workshop to teach you the most important skill for your career right now: building with AI. What We're ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oM5Zmxxc1aI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oM5Zmxxc1aI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oM5Zmxxc1aI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Replit",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T21:47:52Z"
+      }
+    }
+  ]
+}

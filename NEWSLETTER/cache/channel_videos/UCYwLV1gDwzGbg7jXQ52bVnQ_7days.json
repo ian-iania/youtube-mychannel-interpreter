@@ -1,0 +1,109 @@
+{
+  "cached_at": 1764285774.152138,
+  "cache_type": "channel_videos",
+  "key": "UCYwLV1gDwzGbg7jXQ52bVnQ_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sLCCeAkW-MTZL95XErXdzo3OW8k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OwLhD0hVKJc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T00:00:25Z",
+        "channelId": "UCYwLV1gDwzGbg7jXQ52bVnQ",
+        "title": "Claude Opus 4.5 VS Gemini 3.0!",
+        "description": "Claude Opus 4.5 and Gemini 3 Pro just dropped within days of each other, so I put them head-to-head in a quick side-by-side test.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OwLhD0hVKJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OwLhD0hVKJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OwLhD0hVKJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Universe of AI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T00:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5yr6beY3ppd2EXTQAd9IfZPrw-Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iTuE6s4G50Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T03:09:18Z",
+        "channelId": "UCYwLV1gDwzGbg7jXQ52bVnQ",
+        "title": "OpenAI’s NEW Codex Max Model Can Now Code for 24 Hours Straight!",
+        "description": "OpenAI just released GPT-5.1 Codex Max, their new frontier coding model built for long-running agent tasks, massive refactors, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iTuE6s4G50Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iTuE6s4G50Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iTuE6s4G50Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Universe of AI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T03:09:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AEDp8FZ7jbHaXX4tp4uXT8s9SuE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vXFNhMBT-2I"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T01:03:46Z",
+        "channelId": "UCYwLV1gDwzGbg7jXQ52bVnQ",
+        "title": "Google Nano Banana Pro: The BEST Image Model!",
+        "description": "Google just released Nano Banana Pro, the upgraded image model built on Gemini 3 Pro Image, and the results are actually ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vXFNhMBT-2I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vXFNhMBT-2I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vXFNhMBT-2I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Universe of AI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T01:03:46Z"
+      }
+    }
+  ]
+}

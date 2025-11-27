@@ -1,0 +1,109 @@
+{
+  "cached_at": 1764285749.484524,
+  "cache_type": "channel_videos",
+  "key": "UCHlNU7kIZhRgSbhHvFoy72w_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eDro115NMAr4adpCNer5FzVvKE4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oxwsizy1Spw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T05:15:04Z",
+        "channelId": "UCHlNU7kIZhRgSbhHvFoy72w",
+        "title": "Inference Providers: Best Way to Build with Open Source Models",
+        "description": "Join Hugging Face Today https://bit.ly/3LQZ9T0 Learn how to call open-source AI models through one consistent Hugging ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oxwsizy1Spw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oxwsizy1Spw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oxwsizy1Spw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HuggingFace",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T05:15:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6xoINxKLzZx-ac4V8-J0Ck6XmRU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ohYBeIQmFa4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T05:42:51Z",
+        "channelId": "UCHlNU7kIZhRgSbhHvFoy72w",
+        "title": "Gradio 6 Launch 🏎️🏁",
+        "description": "Gradio 6 is finally here! And it's lighter, faster, and more customizable than ever! Our core team will walk you through the latest ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ohYBeIQmFa4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ohYBeIQmFa4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ohYBeIQmFa4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HuggingFace",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T05:42:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vp-7koKRFJsdM_FXHgwySPYIw90",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aNCLqvTCxeg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T08:42:38Z",
+        "channelId": "UCHlNU7kIZhRgSbhHvFoy72w",
+        "title": "The Power of Open Source: Building Giants in the Open",
+        "description": "Explore how open-source AI powers production today: candid lessons from European founders (n8n, Black Forest Labs), ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aNCLqvTCxeg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aNCLqvTCxeg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aNCLqvTCxeg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HuggingFace",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T08:42:38Z"
+      }
+    }
+  ]
+}

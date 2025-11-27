@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285744.8387918,
+  "cache_type": "video_details",
+  "key": "N05p4H6MfDo",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "uF0QPraxDLy9442Z7ahmd4MKXrw",
+    "id": "N05p4H6MfDo",
+    "snippet": {
+      "publishedAt": "2025-11-21T06:59:45Z",
+      "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+      "title": "Genspark: 雑務を自動化しよう",
+      "description": "現在のAIの課題：新しいツールを学び、料金を支払い、ツール間を行き来し、コピー&ペーストを繰り返し、それでも自分で作業をしなければなりません。\n\nGenspark なら、数回のプロンプトで直接ビジネス成果物が得られます：取締役会向けプレゼンテーション、財務モデル、Webアプリケーション。あなたが指示すれば、Genspark が実行します。\n\n日常業務を自動操縦に。https://www.genspark.ai/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/N05p4H6MfDo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/N05p4H6MfDo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/N05p4H6MfDo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/N05p4H6MfDo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/N05p4H6MfDo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Genspark",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ja",
+      "localized": {
+        "title": "Genspark: 雑務を自動化しよう",
+        "description": "現在のAIの課題：新しいツールを学び、料金を支払い、ツール間を行き来し、コピー&ペーストを繰り返し、それでも自分で作業をしなければなりません。\n\nGenspark なら、数回のプロンプトで直接ビジネス成果物が得られます：取締役会向けプレゼンテーション、財務モデル、Webアプリケーション。あなたが指示すれば、Genspark が実行します。\n\n日常業務を自動操縦に。https://www.genspark.ai/"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT53S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1693",
+      "likeCount": "29",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "cached_at": 1764285760.461208,
+  "cache_type": "video_details",
+  "key": "iEAk3UqzVJg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "V3ChgElIyDWOz_h7bcTN4qGg7g8",
+    "id": "iEAk3UqzVJg",
+    "snippet": {
+      "publishedAt": "2025-11-21T22:22:54Z",
+      "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+      "title": "Premier League drives deep fan connection with Azure Cosmos DB",
+      "description": "The Premier League unified massive, diverse datasets and enabled real-time, personalized fan experiences using Microsoft Azure AI, cloud, and analytics.\n\nLearn more: https://msft.it/6052tp5W0\n\n#MicrosoftAzure #PremierLeague #MSIgnite25",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iEAk3UqzVJg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iEAk3UqzVJg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iEAk3UqzVJg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iEAk3UqzVJg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Microsoft Azure",
+      "tags": [
+        "AI Innovation",
+        "Azure AI",
+        "Cloud Platform",
+        "Data Analytics",
+        "Digital Transformation",
+        "Fan Engagement",
+        "Football Stories",
+        "Personalized Experiences",
+        "Premier League",
+        "Sports Technology"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Premier League drives deep fan connection with Azure Cosmos DB",
+        "description": "The Premier League unified massive, diverse datasets and enabled real-time, personalized fan experiences using Microsoft Azure AI, cloud, and analytics.\n\nLearn more: https://msft.it/6052tp5W0\n\n#MicrosoftAzure #PremierLeague #MSIgnite25"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M48S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "354",
+      "likeCount": "14",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

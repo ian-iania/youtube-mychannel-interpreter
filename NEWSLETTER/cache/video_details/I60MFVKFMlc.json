@@ -1,0 +1,77 @@
+{
+  "cached_at": 1764285731.975776,
+  "cache_type": "video_details",
+  "key": "I60MFVKFMlc",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "jeViZ8mMKQ4AXN2DJ1_2M7Sua28",
+    "id": "I60MFVKFMlc",
+    "snippet": {
+      "publishedAt": "2025-11-25T11:36:28Z",
+      "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+      "title": "Claude Opus 4.5 (Fully Tested): Anthropic REALLY COOKED with this model! #1 on my Agentic Tests!",
+      "description": "Visit Augment Code: https://www.augmentcode.com/\n\nIn this video, I'll be telling you about the new Claude Opus 4.5 from Anthropic, which is their latest flagship model focused on coding, agents, and real computer use, with significant price reductions and impressive benchmark results.\n\n--\nKey Takeaways:\n\n🚀 Claude Opus 4.5 is Anthropic's new flagship model competing with Gemini 3 Pro.  \n💰 Massive price drop: now $5 input/$25 output (down from $15/$75 per million tokens).  \n📊 Outstanding coding benchmarks: 89.4% on Aider Polyglot, 80.9% on SWE-bench Verified.  \n🔒 Improved safety metrics with lowest prompt-injection susceptibility among competitors.  \n🎯 Scores #1 on agentic leaderboard with 77.1% success rate using KiloCode.  \n💸 Performance comes at a cost: $48 vs Gemini 3's $8 for similar tasks.  \n🎨 Strong in backend/debugging but still weak in frontend design (purple UIs persist).  \n🔧 Best used with tools like KiloCode rather than Claude Code for maximum capabilities.  \n✨ Recommendation: Use Opus for functional drafts and backend, Gemini for frontend polish.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I60MFVKFMlc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I60MFVKFMlc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I60MFVKFMlc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/I60MFVKFMlc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/I60MFVKFMlc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AICodeKing",
+      "tags": [
+        "claude opus 4.5",
+        "opus 4.5 tested",
+        "claude opus tested",
+        "new claude opus ai tested",
+        "new claude opus",
+        "claude opus 4.5 tested",
+        "new ai coder",
+        "gemini 3 pro alternative"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Claude Opus 4.5 (Fully Tested): Anthropic REALLY COOKED with this model! #1 on my Agentic Tests!",
+        "description": "Visit Augment Code: https://www.augmentcode.com/\n\nIn this video, I'll be telling you about the new Claude Opus 4.5 from Anthropic, which is their latest flagship model focused on coding, agents, and real computer use, with significant price reductions and impressive benchmark results.\n\n--\nKey Takeaways:\n\n🚀 Claude Opus 4.5 is Anthropic's new flagship model competing with Gemini 3 Pro.  \n💰 Massive price drop: now $5 input/$25 output (down from $15/$75 per million tokens).  \n📊 Outstanding coding benchmarks: 89.4% on Aider Polyglot, 80.9% on SWE-bench Verified.  \n🔒 Improved safety metrics with lowest prompt-injection susceptibility among competitors.  \n🎯 Scores #1 on agentic leaderboard with 77.1% success rate using KiloCode.  \n💸 Performance comes at a cost: $48 vs Gemini 3's $8 for similar tasks.  \n🎨 Strong in backend/debugging but still weak in frontend design (purple UIs persist).  \n🔧 Best used with tools like KiloCode rather than Claude Code for maximum capabilities.  \n✨ Recommendation: Use Opus for functional drafts and backend, Gemini for frontend polish."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT11M14S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "14767",
+      "likeCount": "484",
+      "favoriteCount": "0",
+      "commentCount": "70"
+    }
+  }
+}

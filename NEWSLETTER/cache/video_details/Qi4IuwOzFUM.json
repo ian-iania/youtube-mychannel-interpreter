@@ -1,0 +1,105 @@
+{
+  "cached_at": 1764285752.051696,
+  "cache_type": "video_details",
+  "key": "Qi4IuwOzFUM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "l45B67dhCDleB1RsE8HZLfjNW54",
+    "id": "Qi4IuwOzFUM",
+    "snippet": {
+      "publishedAt": "2025-11-25T15:00:48Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "O futuro do dinheiro: Roberto Campos Neto fala sobre stablecoins, dólar e o Drex",
+      "description": "Neste episódio do videocast Perspectivas, Roberto Campos Neto, ex-presidente do Banco Central e hoje vice-chairman, economista chefe e chefe global de políticas públicas do Nubank, fala com a diretora do InvestNews, Raquel Balarin, sobre o futuro do dinheiro, os impactos na macroeconomia global e os desafios regulatórios.\n\nEste conteúdo não representa a opinião ou visão editorial do InvestNews.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Qi4IuwOzFUM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Qi4IuwOzFUM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Qi4IuwOzFUM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Qi4IuwOzFUM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Qi4IuwOzFUM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "tags": [
+        "Investnews",
+        "investimentos",
+        "economia",
+        "finanças",
+        "investnewsbr",
+        "mercado financeiro",
+        "bolsa de valores",
+        "notícias",
+        "jornalismo econômico",
+        "negócios",
+        "Drex",
+        "Real Digital",
+        "Roberto Campos Neto",
+        "Stablecoins",
+        "Criptomoedas",
+        "Nubank",
+        "Banco Central",
+        "BC",
+        "Moeda Digital",
+        "Sistema Financeiro",
+        "Política Monetária",
+        "Tokenização",
+        "Open Finance",
+        "Inteligência Artificial",
+        "Kenneth Rogov",
+        "FMI",
+        "Gus",
+        "Legislação",
+        "Mercado de Crédito",
+        "Depósito Tokenizado",
+        "Volatilidade",
+        "Bitcoin",
+        "Economia Global",
+        "Investimento",
+        "Perspectivas",
+        "InvestNews"
+      ],
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "O futuro do dinheiro: Roberto Campos Neto fala sobre stablecoins, dólar e o Drex",
+        "description": "Neste episódio do videocast Perspectivas, Roberto Campos Neto, ex-presidente do Banco Central e hoje vice-chairman, economista chefe e chefe global de políticas públicas do Nubank, fala com a diretora do InvestNews, Raquel Balarin, sobre o futuro do dinheiro, os impactos na macroeconomia global e os desafios regulatórios.\n\nEste conteúdo não representa a opinião ou visão editorial do InvestNews."
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT26M2S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "91461",
+      "likeCount": "539",
+      "favoriteCount": "0",
+      "commentCount": "26"
+    }
+  }
+}

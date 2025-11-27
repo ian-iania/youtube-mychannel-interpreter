@@ -1,0 +1,102 @@
+{
+  "cached_at": 1764285734.2711942,
+  "cache_type": "video_details",
+  "key": "X4NjNCSiqjs",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "IbSkYOmfvtJoGfxOsijkbT07xG8",
+    "id": "X4NjNCSiqjs",
+    "snippet": {
+      "publishedAt": "2025-11-21T19:30:02Z",
+      "channelId": "UCSv4qL8vmoSH7GaPjuqRiCQ",
+      "title": "I Built This AI UGC Ad Agent From a $2.5M Playbook",
+      "description": "Learn how to create your own powerful vertical agents like this:\nhttps://youtu.be/azsAC5ZtZNE\n\n🚀 Deploy this ad agency from our marketplace: https://agencii.ai/marketplace/GEauD3kFGVy5NjaTy3w5/\n\n💻 Checkout GitHub repo: https://github.com/agency-ai-solutions/ad-factory-agent\n\n💼 If you're a business owner, we can add $15,000 per month in profit or you pay nothing. Turn your business into a product company with AI: https://agents.vrsen.ai/\n\n👨‍💻 If you're a developer / agency and want to build your own AI solutions, join our FREE Skool community. You'll find support on every step of the way: https://www.skool.com/agency-ai\n\nTimestamps:\n00:00 - Launch in 60 Seconds\n02:31 - Full Workflow\n08:38 - Final Ad Preview\n10:35 - Limitations + Costs\n12:11 - How We Built This Agent\n14:11 - Future Plans & Conclusion\n\nAbout: In this video, I'll show you how to create 100% AI-generated UGC ads using an autonomous AI agent system. We're talking about everything from market research to scripting to final video generation - all done by AI agents working together. What makes this different from other UGC tools is that it's trained on a real e-comm agency process that already made over $2.5 million with Sora ads. Unlike simple automations that just spit out a video, this agent lets you iterate and refine results based on your feedback, just like working with a real video editor. I'll walk you through the complete setup in about 60 seconds, show you how it works with a live demo, and break down how we trained this multi-agent system so you can customize or fork it for your own niche. If you're looking to resell AI solutions to clients or build your own vertical agents, make sure to watch until the end.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/X4NjNCSiqjs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/X4NjNCSiqjs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/X4NjNCSiqjs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/X4NjNCSiqjs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/X4NjNCSiqjs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Arseny Shatokhin",
+      "tags": [
+        "AI agents",
+        "UGC ads",
+        "video generation",
+        "Sora AI",
+        "marketing automation",
+        "video editing",
+        "AI tools",
+        "brand strategy",
+        "OpenAI API",
+        "Gemini 3",
+        "ad creation",
+        "video automation",
+        "AI business",
+        "agency workflow",
+        "vertical agents",
+        "AI marketing",
+        "social media ads",
+        "ugc ads with ai",
+        "ai content creation",
+        "ai automation",
+        "ai ugc ads",
+        "ai",
+        "ai agent",
+        "digital marketing",
+        "automation",
+        "ai video generator",
+        "openai",
+        "Nano Banana",
+        "Nano Banana 2",
+        "sora 2",
+        "ai ads",
+        "make money with ai",
+        "Nano Banana pro"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "I Built This AI UGC Ad Agent From a $2.5M Playbook",
+        "description": "Learn how to create your own powerful vertical agents like this:\nhttps://youtu.be/azsAC5ZtZNE\n\n🚀 Deploy this ad agency from our marketplace: https://agencii.ai/marketplace/GEauD3kFGVy5NjaTy3w5/\n\n💻 Checkout GitHub repo: https://github.com/agency-ai-solutions/ad-factory-agent\n\n💼 If you're a business owner, we can add $15,000 per month in profit or you pay nothing. Turn your business into a product company with AI: https://agents.vrsen.ai/\n\n👨‍💻 If you're a developer / agency and want to build your own AI solutions, join our FREE Skool community. You'll find support on every step of the way: https://www.skool.com/agency-ai\n\nTimestamps:\n00:00 - Launch in 60 Seconds\n02:31 - Full Workflow\n08:38 - Final Ad Preview\n10:35 - Limitations + Costs\n12:11 - How We Built This Agent\n14:11 - Future Plans & Conclusion\n\nAbout: In this video, I'll show you how to create 100% AI-generated UGC ads using an autonomous AI agent system. We're talking about everything from market research to scripting to final video generation - all done by AI agents working together. What makes this different from other UGC tools is that it's trained on a real e-comm agency process that already made over $2.5 million with Sora ads. Unlike simple automations that just spit out a video, this agent lets you iterate and refine results based on your feedback, just like working with a real video editor. I'll walk you through the complete setup in about 60 seconds, show you how it works with a live demo, and break down how we trained this multi-agent system so you can customize or fork it for your own niche. If you're looking to resell AI solutions to clients or build your own vertical agents, make sure to watch until the end."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT14M46S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1699",
+      "likeCount": "89",
+      "favoriteCount": "0",
+      "commentCount": "19"
+    }
+  }
+}

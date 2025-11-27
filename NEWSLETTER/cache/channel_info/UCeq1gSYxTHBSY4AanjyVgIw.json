@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285750.136555,
+  "cache_type": "channel_info",
+  "key": "UCeq1gSYxTHBSY4AanjyVgIw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "2Pi7dPc2TM5nulOCxwkuIK98JGA",
+    "id": "UCeq1gSYxTHBSY4AanjyVgIw",
+    "snippet": {
+      "title": "Iania",
+      "description": "",
+      "customUrl": "@iania-brasil",
+      "publishedAt": "2023-07-15T03:19:48.285022Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/qo0wXe30C8gzbIOYBA6_UwSgHzKqdD5csZzxr8pWil9QNtJimKAu9IHBU1Fk0th82et2V61WMg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/qo0wXe30C8gzbIOYBA6_UwSgHzKqdD5csZzxr8pWil9QNtJimKAu9IHBU1Fk0th82et2V61WMg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/qo0wXe30C8gzbIOYBA6_UwSgHzKqdD5csZzxr8pWil9QNtJimKAu9IHBU1Fk0th82et2V61WMg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Iania",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "20",
+      "subscriberCount": "2",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1"
+    }
+  }
+}

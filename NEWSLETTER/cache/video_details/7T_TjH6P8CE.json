@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285750.049449,
+  "cache_type": "video_details",
+  "key": "7T_TjH6P8CE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "ETBrhnMwotQwKQ2A7M9LDJ3_nrg",
+    "id": "7T_TjH6P8CE",
+    "snippet": {
+      "publishedAt": "2025-11-21T11:00:25Z",
+      "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "title": "Google’s Gemini 3: AI agents, reasoning and search mode",
+      "description": "Explore the podcast → https://ibm.biz/BdbhEh\n\nLearn more about IBM’s CUGA agent framework →  https://ibm.biz/BdbhE9\n\nDoes Gemini 3 live up to the hype? This week on Mixture of Experts, we analyze the release of Google’s Gemini 3 model. Next, OpenAI released a new benchmark about the impact of AI on the economy, GDPval. We debate AI automation and the job market. Then, we always talk AI agents, today we discuss some great innovations coming out of IBM Research and more. Finally, Anthropic disrupted an AI-led cyberattack, what does this mean for AI agents and malicious actions? Join host Tim Hwang and our AI experts Marina Danilevsky, Merve Unuvar and Gabe Goodhart on this week’s Mixture of Experts to learn more. \n\n00:00 – Introduction \n01:09 – Microsoft’s AI infrastructure deal, IBM and UFC AI platform and ChatGPT for Teachers \n02:00 – Gemini 3 \n12:50 – AI agent innovation \n24:00 – OpenAI GPDval \n37:17 – Anthropic cyberattack \n\nSubscribe for AI updates → https://ibm.biz/BdbhEJ\n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity. \n\n#aiagents #anthropic #gemini3",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7T_TjH6P8CE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7T_TjH6P8CE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7T_TjH6P8CE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7T_TjH6P8CE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7T_TjH6P8CE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "IBM Technology",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "Google’s Gemini 3: AI agents, reasoning and search mode",
+        "description": "Explore the podcast → https://ibm.biz/BdbhEh\n\nLearn more about IBM’s CUGA agent framework →  https://ibm.biz/BdbhE9\n\nDoes Gemini 3 live up to the hype? This week on Mixture of Experts, we analyze the release of Google’s Gemini 3 model. Next, OpenAI released a new benchmark about the impact of AI on the economy, GDPval. We debate AI automation and the job market. Then, we always talk AI agents, today we discuss some great innovations coming out of IBM Research and more. Finally, Anthropic disrupted an AI-led cyberattack, what does this mean for AI agents and malicious actions? Join host Tim Hwang and our AI experts Marina Danilevsky, Merve Unuvar and Gabe Goodhart on this week’s Mixture of Experts to learn more. \n\n00:00 – Introduction \n01:09 – Microsoft’s AI infrastructure deal, IBM and UFC AI platform and ChatGPT for Teachers \n02:00 – Gemini 3 \n12:50 – AI agent innovation \n24:00 – OpenAI GPDval \n37:17 – Anthropic cyberattack \n\nSubscribe for AI updates → https://ibm.biz/BdbhEJ\n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity. \n\n#aiagents #anthropic #gemini3"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT46M43S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "24937",
+      "likeCount": "231",
+      "favoriteCount": "0",
+      "commentCount": "29"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "cached_at": 1764285760.461334,
+  "cache_type": "video_details",
+  "key": "klRaDzcu9IE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "mwPUnL3T_kvE6h-SUpaI_7MXe5M",
+    "id": "klRaDzcu9IE",
+    "snippet": {
+      "publishedAt": "2025-11-21T19:41:47Z",
+      "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+      "title": "Premier League personalizes fan experiences with Microsoft Foundry",
+      "description": "The Premier League is forging deep connections with its growing global fanbase, using Azure AI to unify data and personalize experiences.\n\nLearn more: https://msft.it/6055tp38h\n\n#Microsoft #AzureAI #MicrosoftFoundry",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/klRaDzcu9IE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/klRaDzcu9IE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/klRaDzcu9IE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/klRaDzcu9IE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Microsoft Azure",
+      "tags": [
+        "Azure AI",
+        "Cosmos DB",
+        "Microsoft Foundry",
+        "Premier League",
+        "data analytics",
+        "digital transformation",
+        "fan engagement",
+        "global audience",
+        "personalized experiences",
+        "sports technology"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Premier League personalizes fan experiences with Microsoft Foundry",
+        "description": "The Premier League is forging deep connections with its growing global fanbase, using Azure AI to unify data and personalize experiences.\n\nLearn more: https://msft.it/6055tp38h\n\n#Microsoft #AzureAI #MicrosoftFoundry"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M49S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "340",
+      "likeCount": "15",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

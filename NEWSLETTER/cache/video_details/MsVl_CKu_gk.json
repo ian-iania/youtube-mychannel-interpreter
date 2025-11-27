@@ -1,0 +1,81 @@
+{
+  "cached_at": 1764285767.251392,
+  "cache_type": "video_details",
+  "key": "MsVl_CKu_gk",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "CLkVY9rV6hqDFhj22y5r0cX_FR4",
+    "id": "MsVl_CKu_gk",
+    "snippet": {
+      "publishedAt": "2025-11-21T23:27:35Z",
+      "channelId": "UCUBqu_z5uP0AZhYtuyFZB3g",
+      "title": "Using Workflows | Runway Academy",
+      "description": "Learn how to start building your own custom tools inside of Runway using Workflows.\n\n—\n\nrunwayml.com\nacademy.runwayml.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MsVl_CKu_gk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MsVl_CKu_gk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MsVl_CKu_gk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MsVl_CKu_gk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MsVl_CKu_gk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Runway",
+      "tags": [
+        "AI",
+        "Runway",
+        "ML",
+        "content creation",
+        "gen-1",
+        "gen-2",
+        "generative ai",
+        "generative video",
+        "generate video",
+        "video editing",
+        "vfx",
+        "ai video editing"
+      ],
+      "categoryId": "1",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Using Workflows | Runway Academy",
+        "description": "Learn how to start building your own custom tools inside of Runway using Workflows.\n\n—\n\nrunwayml.com\nacademy.runwayml.com"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT2M36S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "6679",
+      "likeCount": "180",
+      "favoriteCount": "0",
+      "commentCount": "7"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285749.582156,
+  "cache_type": "video_details",
+  "key": "aNCLqvTCxeg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "hyNBWz8_Xlmpf9Eu1YQhgZbsbqE",
+    "id": "aNCLqvTCxeg",
+    "snippet": {
+      "publishedAt": "2025-11-21T08:42:38Z",
+      "channelId": "UCHlNU7kIZhRgSbhHvFoy72w",
+      "title": "The Power of Open Source: Building Giants in the Open",
+      "description": "Explore how open-source AI powers production today: candid lessons from European founders (n8n, Black Forest Labs), a pragmatic tour of the open infra stack (Snowflake, OpenAI, NVIDIA, Supabase/Postgres), and investor playbooks for OSS licensing and sustainable monetization—plus 2026 bets on agentic apps, fine-tuning, unified data platforms, world models, and robotics demos.\n\n⸻\n\n## ⏰ Timestamps\n0:00 – Welcome & Event Setup\nOpening remarks, why Hugging Face hosted this side event at Slush, and overview of the agenda (3 panels + demos).\n\n⸻\n\nPanel 1 – Open-Source AI Founders (n8n & Black Forest Labs)\n3:10 – Founder intros & origin stories\nBackgrounds of Jan (n8n) and Robin (BFL), their transition from creative/academic work to founding open-source AI companies.\n6:20 – Building global OSS companies from Europe\nYC experiences, German GmbH setups, and lessons learned growing OSS brands globally.\n10:40 – Licensing, business models & the OSS tension\nFair-code decisions, monetization transparency, and handling license shifts with community trust.\n15:00 – Product philosophy & internal dogfooding\nHow both teams use community contributions internally and balance openness with product direction.\n17:36 – What’s next for AI tools & assistants\nFuture vision on agents, automation systems, and world-model-inspired workflows.\n18:53 – Panel 1 wrap-up\n\n⸻\n\nPanel 2 – Open Infra & Developer Ecosystem (Snowflake, OpenAI, NVIDIA, Supabase)\n19:23 – Intro: The rising developer stack for AI apps\nWhy 2025–2026 are the “agentic application” years and how infra is adapting.\n21:51 – Snowflake: Open formats & lakehouse future\nIceberg, Polaris metadata catalog, ingestion tooling, and how Snowflake integrates HF models through Cortex/containers.\n25:29 – OpenAI: OSS models & developer tools\nGPT-OSS + GPT-5 coexistence, Safeguard policies, and OpenAI’s focus on startups building on top of ChatGPT.\n28:52 – NVIDIA: Full-stack open tooling & robotics\nNemotron recipes, Cosmos world models, Groot for robotics, and NVIDIA’s view of open synthetic-data pipelines.\n31:59 – Supabase: Postgres as the AI backbone\nHow developers use Postgres for agents, AI app generation patterns, and Supabase’s MCP integrations.\n41:17 – Market shift: From POCs to production AI apps\nEvaluations, agentic workloads, enterprise dataset integration, and distribution via ChatGPT/Apps.\n45:05 – 2026 predictions for data + AI infra\nUnifying analytical & transactional workloads, Postgres everywhere, and more open-source model ecosystems.\n45:30 – Panel 2 wrap-up\n\n⸻\n\nPanel 3 – OSS Investors (General Catalyst & Accel)\n45:54 – Venture perspective on open-source AI\nIntroductions, backgrounds, and why VCs see OSS infra as a long-term bet.\n49:01 – What “open source” really means in 2025\nOSI definitions vs pragmatic definitions, and avoiding “bait-and-switch” licensing.\n51:04 – Hybrid models & regulated markets\nWhat should remain OSS, what should be proprietary, and why enterprise features often aren’t open.\n54:42 – Measuring traction in OSS startups\nReal usage vs. vanity metrics, contributors, connectors, and examples (Kafka, Nix, Temporal, etc.).\n57:17 – The optimistic future of OSS AI\nWhy OSS keeps proprietary labs honest, ensures accessibility, and accelerates innovation.\n58:25 – Final thoughts\n\n⸻\n\nClosing & Demos\n1:00:53 – Community thanks & event close\nShout-out to attendees, instructions for demo area, robotics corner, and networking.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aNCLqvTCxeg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aNCLqvTCxeg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aNCLqvTCxeg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aNCLqvTCxeg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aNCLqvTCxeg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "HuggingFace",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "The Power of Open Source: Building Giants in the Open",
+        "description": "Explore how open-source AI powers production today: candid lessons from European founders (n8n, Black Forest Labs), a pragmatic tour of the open infra stack (Snowflake, OpenAI, NVIDIA, Supabase/Postgres), and investor playbooks for OSS licensing and sustainable monetization—plus 2026 bets on agentic apps, fine-tuning, unified data platforms, world models, and robotics demos.\n\n⸻\n\n## ⏰ Timestamps\n0:00 – Welcome & Event Setup\nOpening remarks, why Hugging Face hosted this side event at Slush, and overview of the agenda (3 panels + demos).\n\n⸻\n\nPanel 1 – Open-Source AI Founders (n8n & Black Forest Labs)\n3:10 – Founder intros & origin stories\nBackgrounds of Jan (n8n) and Robin (BFL), their transition from creative/academic work to founding open-source AI companies.\n6:20 – Building global OSS companies from Europe\nYC experiences, German GmbH setups, and lessons learned growing OSS brands globally.\n10:40 – Licensing, business models & the OSS tension\nFair-code decisions, monetization transparency, and handling license shifts with community trust.\n15:00 – Product philosophy & internal dogfooding\nHow both teams use community contributions internally and balance openness with product direction.\n17:36 – What’s next for AI tools & assistants\nFuture vision on agents, automation systems, and world-model-inspired workflows.\n18:53 – Panel 1 wrap-up\n\n⸻\n\nPanel 2 – Open Infra & Developer Ecosystem (Snowflake, OpenAI, NVIDIA, Supabase)\n19:23 – Intro: The rising developer stack for AI apps\nWhy 2025–2026 are the “agentic application” years and how infra is adapting.\n21:51 – Snowflake: Open formats & lakehouse future\nIceberg, Polaris metadata catalog, ingestion tooling, and how Snowflake integrates HF models through Cortex/containers.\n25:29 – OpenAI: OSS models & developer tools\nGPT-OSS + GPT-5 coexistence, Safeguard policies, and OpenAI’s focus on startups building on top of ChatGPT.\n28:52 – NVIDIA: Full-stack open tooling & robotics\nNemotron recipes, Cosmos world models, Groot for robotics, and NVIDIA’s view of open synthetic-data pipelines.\n31:59 – Supabase: Postgres as the AI backbone\nHow developers use Postgres for agents, AI app generation patterns, and Supabase’s MCP integrations.\n41:17 – Market shift: From POCs to production AI apps\nEvaluations, agentic workloads, enterprise dataset integration, and distribution via ChatGPT/Apps.\n45:05 – 2026 predictions for data + AI infra\nUnifying analytical & transactional workloads, Postgres everywhere, and more open-source model ecosystems.\n45:30 – Panel 2 wrap-up\n\n⸻\n\nPanel 3 – OSS Investors (General Catalyst & Accel)\n45:54 – Venture perspective on open-source AI\nIntroductions, backgrounds, and why VCs see OSS infra as a long-term bet.\n49:01 – What “open source” really means in 2025\nOSI definitions vs pragmatic definitions, and avoiding “bait-and-switch” licensing.\n51:04 – Hybrid models & regulated markets\nWhat should remain OSS, what should be proprietary, and why enterprise features often aren’t open.\n54:42 – Measuring traction in OSS startups\nReal usage vs. vanity metrics, contributors, connectors, and examples (Kafka, Nix, Temporal, etc.).\n57:17 – The optimistic future of OSS AI\nWhy OSS keeps proprietary labs honest, ensures accessibility, and accelerates innovation.\n58:25 – Final thoughts\n\n⸻\n\nClosing & Demos\n1:00:53 – Community thanks & event close\nShout-out to attendees, instructions for demo area, robotics corner, and networking."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1H1M42S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "938",
+      "likeCount": "37",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

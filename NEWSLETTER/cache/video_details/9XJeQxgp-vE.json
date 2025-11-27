@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285757.8342469,
+  "cache_type": "video_details",
+  "key": "9XJeQxgp-vE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "u8mUZy_9O-U89U-wdlgGyhpgHUM",
+    "id": "9XJeQxgp-vE",
+    "snippet": {
+      "publishedAt": "2025-11-26T11:16:25Z",
+      "channelId": "UCHaF9kM2wn8C3CLRwLkC2GQ",
+      "title": "Matt and Ryan have a chat on November 25, 2025",
+      "description": "My Links 🔗\n👉🏻 Subscribe (free): https://www.youtube.com/technovangelist  \n👉🏻 Join and Support: https://www.youtube.com/channel/UCHaF9kM2wn8C3CLRwLkC2GQ/join\n👉🏻 Newsletter: https://technovangelist.substack.com/subscribe\n👉🏻 Twitter: https://www.twitter.com/technovangelist \n👉🏻 Discord: https://discord.gg/uS4gJMCRH2  \n👉🏻 Patreon: https://patreon.com/technovangelist  \n👉🏻 Instagram: https://www.instagram.com/technovangelist/  \n👉🏻 Threads: https://www.threads.net/@technovangelist?xmt=AQGzoMzVWwEq8qrkEGV8xEpbZ1FIcTl8Dhx9VpF1bkSBQp4\n👉🏻 LinkedIn: https://www.linkedin.com/in/technovangelist/\n👉🏻 All Source Code: https://github.com/technovangelist/videoprojects\n\nWant to sponsor this channel? Let me know what your plans are here: https://www.technovangelist.com/sponsor",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9XJeQxgp-vE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9XJeQxgp-vE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9XJeQxgp-vE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9XJeQxgp-vE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9XJeQxgp-vE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Matt Williams",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Matt and Ryan have a chat on November 25, 2025",
+        "description": "My Links 🔗\n👉🏻 Subscribe (free): https://www.youtube.com/technovangelist  \n👉🏻 Join and Support: https://www.youtube.com/channel/UCHaF9kM2wn8C3CLRwLkC2GQ/join\n👉🏻 Newsletter: https://technovangelist.substack.com/subscribe\n👉🏻 Twitter: https://www.twitter.com/technovangelist \n👉🏻 Discord: https://discord.gg/uS4gJMCRH2  \n👉🏻 Patreon: https://patreon.com/technovangelist  \n👉🏻 Instagram: https://www.instagram.com/technovangelist/  \n👉🏻 Threads: https://www.threads.net/@technovangelist?xmt=AQGzoMzVWwEq8qrkEGV8xEpbZ1FIcTl8Dhx9VpF1bkSBQp4\n👉🏻 LinkedIn: https://www.linkedin.com/in/technovangelist/\n👉🏻 All Source Code: https://github.com/technovangelist/videoprojects\n\nWant to sponsor this channel? Let me know what your plans are here: https://www.technovangelist.com/sponsor"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1H8M51S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "208",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

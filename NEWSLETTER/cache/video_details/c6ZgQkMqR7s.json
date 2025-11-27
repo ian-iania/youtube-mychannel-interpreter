@@ -1,0 +1,62 @@
+{
+  "cached_at": 1764285738.930003,
+  "cache_type": "video_details",
+  "key": "c6ZgQkMqR7s",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "fZnnGqXmm_toOBQvbTe7FdQ29wI",
+    "id": "c6ZgQkMqR7s",
+    "snippet": {
+      "publishedAt": "2025-11-25T11:42:14Z",
+      "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+      "title": "Hunyuan OCR : Best OCR, beats PaddleOCR, DeepSeek OCR",
+      "description": "hunyuan OCR is an open-sourced OCR model for free #ai #chatgpt #coding #programming #generativeai #llm #computerscience #computer #engineering #modelcontextprotocol",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c6ZgQkMqR7s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c6ZgQkMqR7s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c6ZgQkMqR7s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c6ZgQkMqR7s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Data Science in your pocket",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-IN",
+      "localized": {
+        "title": "Hunyuan OCR : Best OCR, beats PaddleOCR, DeepSeek OCR",
+        "description": "hunyuan OCR is an open-sourced OCR model for free #ai #chatgpt #coding #programming #generativeai #llm #computerscience #computer #engineering #modelcontextprotocol"
+      },
+      "defaultAudioLanguage": "en-IN"
+    },
+    "contentDetails": {
+      "duration": "PT5M37S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "289",
+      "likeCount": "14",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

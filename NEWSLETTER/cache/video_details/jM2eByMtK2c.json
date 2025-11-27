@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285738.931354,
+  "cache_type": "video_details",
+  "key": "jM2eByMtK2c",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "mV_SzP3x6jhiiJL1Tm2ota_Ck5k",
+    "id": "jM2eByMtK2c",
+    "snippet": {
+      "publishedAt": "2025-11-24T03:31:54Z",
+      "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+      "title": "SciSpace : AI Assistant for Research, New updates",
+      "description": "Sci space Research Agent : Best Research AI Agent\n\nurl : https://www.scispace.com/?via=datascienceinpocket\n\nDSBFD30 : Offers a 30% discount on SciSpace [Premium or Advanced] monthly & annual plans for limited period\n\n#ai #research #machinelearning #datascience",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jM2eByMtK2c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jM2eByMtK2c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jM2eByMtK2c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jM2eByMtK2c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jM2eByMtK2c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Data Science in your pocket",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-IN",
+      "localized": {
+        "title": "SciSpace : AI Assistant for Research, New updates",
+        "description": "Sci space Research Agent : Best Research AI Agent\n\nurl : https://www.scispace.com/?via=datascienceinpocket\n\nDSBFD30 : Offers a 30% discount on SciSpace [Premium or Advanced] monthly & annual plans for limited period\n\n#ai #research #machinelearning #datascience"
+      },
+      "defaultAudioLanguage": "en-IN"
+    },
+    "contentDetails": {
+      "duration": "PT5M26S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "133",
+      "likeCount": "13",
+      "favoriteCount": "0",
+      "commentCount": "5"
+    }
+  }
+}

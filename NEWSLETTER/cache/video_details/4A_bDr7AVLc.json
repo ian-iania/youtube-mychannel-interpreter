@@ -1,0 +1,69 @@
+{
+  "cached_at": 1764285739.4877949,
+  "cache_type": "video_details",
+  "key": "4A_bDr7AVLc",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "F5FO8syGQT958B7qYOzdXMn8cFQ",
+    "id": "4A_bDr7AVLc",
+    "snippet": {
+      "publishedAt": "2025-11-21T17:26:47Z",
+      "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+      "title": "Integration between Databricks and Microsoft | Govern, secure and integrate your data",
+      "description": "Databricks CEO, Ali Ghodsi, and EVP of Cloud and AI at Microsoft, Scott Guthrie, on the Databricks x Microsoft partnership and how it enables customers to leverage their data.  \n\nHow the Databricks Microsoft partnership helps organizations drive business outcomes with AI.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4A_bDr7AVLc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4A_bDr7AVLc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4A_bDr7AVLc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4A_bDr7AVLc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4A_bDr7AVLc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Databricks",
+      "tags": [
+        "Databricks"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Integration between Databricks and Microsoft | Govern, secure and integrate your data",
+        "description": "Databricks CEO, Ali Ghodsi, and EVP of Cloud and AI at Microsoft, Scott Guthrie, on the Databricks x Microsoft partnership and how it enables customers to leverage their data.  \n\nHow the Databricks Microsoft partnership helps organizations drive business outcomes with AI."
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M41S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "310",
+      "likeCount": "7",
+      "favoriteCount": "0"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285743.3904068,
+  "cache_type": "channel_info",
+  "key": "UCsBjURrPoezykLs9EqgamOA",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "psVc3hSKTMVdX8jsZc1df9Y1L5I",
+    "id": "UCsBjURrPoezykLs9EqgamOA",
+    "snippet": {
+      "title": "Fireship",
+      "description": "High-intensity ⚡ code tutorials and tech news to help you ship your app faster. New videos every week covering the topics every programmer should know. \n\nThe original home of #100SecondsOfCode #TheCodeReport and #CodeThisNotThat. Created by Jeff Delaney. \n\nBuilding an app? Get project support, advanced full courses, and more at https://fireship.io",
+      "customUrl": "@fireship",
+      "publishedAt": "2017-04-07T18:17:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mKzklyPPhghBJQH5H3HpZ108YcE618DBRLAvRUD1AjKNw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Fireship",
+        "description": "High-intensity ⚡ code tutorials and tech news to help you ship your app faster. New videos every week covering the topics every programmer should know. \n\nThe original home of #100SecondsOfCode #TheCodeReport and #CodeThisNotThat. Created by Jeff Delaney. \n\nBuilding an app? Get project support, advanced full courses, and more at https://fireship.io"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "653148048",
+      "subscriberCount": "4050000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "776"
+    }
+  }
+}

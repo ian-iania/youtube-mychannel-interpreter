@@ -1,0 +1,517 @@
+{
+  "cached_at": 1764285754.8382158,
+  "cache_type": "channel_videos",
+  "key": "UCYQS3jkfB79Diyr9sQJAj5Q_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "abJVoPTCduOy4UDLN3w1kpeM6cM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CIfm9eHS_9Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T19:38:00Z",
+        "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+        "title": "Vintage Thanksgiving Ad Extraction with ADE 📰",
+        "description": "16 lbs of Turkey for $9.12? We analyzed the vintage ad. 🗞️🕰️ This Thanksgiving, we pushed a chaotic, grainy 1950s ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CIfm9eHS_9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CIfm9eHS_9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CIfm9eHS_9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LandingAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T19:38:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zk3ponhjmWX1hjlvna5cg2dRzQQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TmScvM23-OE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T17:24:13Z",
+        "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+        "title": "Will It Extract | Episode 2 - 2025 Thanksgiving Turkey",
+        "description": "In Episode 2, Ava, our Growth Engineer, takes a complex document and applies Agentic Document Extraction (ADE) to see if it ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TmScvM23-OE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TmScvM23-OE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TmScvM23-OE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LandingAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T17:24:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4lVOXcxTgmIRXVoPONRwZOTooTg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dNf5E3NQNTc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T14:01:13Z",
+        "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+        "title": "Checkmarks, Circles, Handwriting — ADE Detects It All ✍️ ✅ #ade #documentextraction #handwritten",
+        "description": "Full Webinar here: https://youtu.be/Zl2B1zOpIYk?si=Z0-usoExcuULZAYs.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dNf5E3NQNTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dNf5E3NQNTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dNf5E3NQNTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LandingAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T14:01:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h8w77xgz4HJWPnolvK2jcbxW69A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h5asl7q7CXc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T01:13:26Z",
+        "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+        "title": "AI Financial Hackathon reel 1",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h5asl7q7CXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h5asl7q7CXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h5asl7q7CXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LandingAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T01:13:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QNyQMaDhXnGrU91hTucYyInsiM4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lGMdsCNLN9o"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T01:13:16Z",
+        "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+        "title": "AI Financial Hackathon reel 2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lGMdsCNLN9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lGMdsCNLN9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lGMdsCNLN9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LandingAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T01:13:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "grTgpqFr2ercofMyzw5gdydlaFQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o6GsemU4NbE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T01:12:14Z",
+        "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+        "title": "AI Financial Hackathon reel 6",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o6GsemU4NbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o6GsemU4NbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o6GsemU4NbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LandingAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T01:12:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TZOHqkmrVaShidaJFq17JO1Psy4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bb47xQbr040"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T01:11:56Z",
+        "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+        "title": "Tony Li - Vp of Sales and Partnership LandingAI",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bb47xQbr040/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bb47xQbr040/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bb47xQbr040/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LandingAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T01:11:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tJHu6bASif4AYKvMy32MvBDzSuY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ySEOaakUBHw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T01:10:00Z",
+        "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+        "title": "LoanLens - The Team that ultimately won the championship",
+        "description": "A glimpse of the demo from the team LoanLens.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ySEOaakUBHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ySEOaakUBHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ySEOaakUBHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LandingAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T01:10:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JyNu51soliTVD3Gutchc9cjAREk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CuVA_GF0ZWc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T01:11:10Z",
+        "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+        "title": "Andrew Ng Keynote - Financial AI Hackathon Championship",
+        "description": "A glimpse of Andrew Ng's Keynote - Financial AI Hackathon Championship Nov 15, 2025.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CuVA_GF0ZWc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CuVA_GF0ZWc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CuVA_GF0ZWc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LandingAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T01:11:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YPd6hAOb_cc7kft-Z60MgTseuGw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YTasnlXXBkI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T01:08:35Z",
+        "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+        "title": "Who is the Champion? | Judges doing Deliberation",
+        "description": "A glimpse of judges discussing who the champion shall be! Financial AI Hackathon Championship A championship for builders to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YTasnlXXBkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YTasnlXXBkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YTasnlXXBkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LandingAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T01:08:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WdMqxkdmWHFloIB19lhrTis9sSM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WvXde08MHVk"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T13:45:04Z",
+        "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+        "title": "Field Extraction Explained in 30 Seconds ⚡📄 #ade #fieldextraction",
+        "description": "Full Webinar here: https://youtu.be/Zl2B1zOpIYk?si=Z0-usoExcuULZAYs.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WvXde08MHVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WvXde08MHVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WvXde08MHVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LandingAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T13:45:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "On-BdSIMueXxu4NbSJ9Wez4bJxo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RByMV4vQLrI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T15:58:51Z",
+        "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+        "title": "Turn messy documents into RAG-ready data 🚀📄 #ade #documentextraction",
+        "description": "Full Webinar here: https://youtu.be/Zl2B1zOpIYk?si=Z0-usoExcuULZAYs.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RByMV4vQLrI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RByMV4vQLrI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RByMV4vQLrI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LandingAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T15:58:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TaH8jU1h6mKcdidi_8HeC71agNI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5WTxmkld9Lg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T15:47:32Z",
+        "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+        "title": "Financial AI Hackathon Championship 2025 | LandingAI x AWS Recap 🏆",
+        "description": "What an incredible Saturday at the Financial AI Hackathon Championship in New York. ⚡️ Hosted in collaboration with Amazon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5WTxmkld9Lg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5WTxmkld9Lg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5WTxmkld9Lg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LandingAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T15:47:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5j7ZYeH77wu0ijtuQhonXbSObdw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "alUEZxzRsvE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T23:21:58Z",
+        "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+        "title": "Office Hours: Agentic Document Extraction (Nov 20, 2025)",
+        "description": "The ADE Office Hours program is an open Q&A session designed to scale technical support for developers and users of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/alUEZxzRsvE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/alUEZxzRsvE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/alUEZxzRsvE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LandingAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T23:21:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ph3m1-wRmT0p8Ht_4lOZ6bLzHYY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tAbghR0SWRI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T13:45:13Z",
+        "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+        "title": "Field Extraction in Snowflake Using ADE 📊 📄 #ade #fieldextraction #snowflake",
+        "description": "Full Demo here: https://youtu.be/XAfKlfIBMHQ?si=Kd2OkRZUTpmwnmwf.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tAbghR0SWRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tAbghR0SWRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tAbghR0SWRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LandingAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T13:45:13Z"
+      }
+    }
+  ]
+}

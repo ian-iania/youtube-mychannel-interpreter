@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285751.530609,
+  "cache_type": "video_details",
+  "key": "xzXfaKl_BDI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "4EthbTTXx2Kr9VwAUIPIsrmpdCI",
+    "id": "xzXfaKl_BDI",
+    "snippet": {
+      "publishedAt": "2025-11-25T10:01:36Z",
+      "channelId": "UCQy7CQvtuGSKp-2VGtmTAuQ",
+      "title": "NOVO Claude Opus 4.5 Surpreende e Briga da Melhor iA do Mundo Continua Contra ChatGPT 5.1 e Gemini 3",
+      "description": "Aprenda Inteligência Artificial! \n\n▸ Aprenda Agentes iA: https://www.youtube.com/playlist?list=PLYAGaVIlnsYYwZrQdUFFSb2dCpNWByG55\n▸ Seja MEMBRO: https://www.youtube.com/@inteligenciamilgrau/join\n▸ https://www.inteligenciamilgrau.com\n▸ Instagram: https://www.instagram.com/inteligenciamilgrau/ @inteligenciamilgrau\n▸ Facebook: https://www.facebook.com/inteligenciamilgrau\n▸ GitHub: https://github.com/inteligenciamilgrau\n\nMaximiza iA - Agentes Inteligentes para Empresas\nhttps://forms.gle/nokGjeYF8QhxVZ1s6\n\nLinks:\nhttps://www.anthropic.com/news/claude-opus-4-5\nhttps://www.anthropic.com/engineering/advanced-tool-use\nhttps://arcprize.org/leaderboard\n\n00:00 Intro\n01:01 NOVO Claude 4.5 Opus é Excelente e Surpreendeu Geral\n02:48 Claude Opus 4.5 Superou Humanos em Testes\n04:19 Desempenho Excelente no ARC AGI 2\n06:26 Claude Está Mais Seguro\n07:17 Claude Opus 4.5 é Mais Eficiente\n09:26 Integrações, Claude Code e Outras melhorias\n10:30 Teste do Matrix\n11:40 Teste da Pagoda\n12:10 Teste do Rio de Janeiro\n13:13 Teste do Pelicano de Bicicleta\n14:19 Teste do Carrinho\n17:05 Postagens da Comunidade\n20:04 A Bolha da iA Vai Estourar?",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xzXfaKl_BDI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xzXfaKl_BDI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xzXfaKl_BDI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xzXfaKl_BDI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xzXfaKl_BDI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Inteligência Mil Grau",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt",
+      "localized": {
+        "title": "NOVO Claude Opus 4.5 Surpreende e Briga da Melhor iA do Mundo Continua Contra ChatGPT 5.1 e Gemini 3",
+        "description": "Aprenda Inteligência Artificial! \n\n▸ Aprenda Agentes iA: https://www.youtube.com/playlist?list=PLYAGaVIlnsYYwZrQdUFFSb2dCpNWByG55\n▸ Seja MEMBRO: https://www.youtube.com/@inteligenciamilgrau/join\n▸ https://www.inteligenciamilgrau.com\n▸ Instagram: https://www.instagram.com/inteligenciamilgrau/ @inteligenciamilgrau\n▸ Facebook: https://www.facebook.com/inteligenciamilgrau\n▸ GitHub: https://github.com/inteligenciamilgrau\n\nMaximiza iA - Agentes Inteligentes para Empresas\nhttps://forms.gle/nokGjeYF8QhxVZ1s6\n\nLinks:\nhttps://www.anthropic.com/news/claude-opus-4-5\nhttps://www.anthropic.com/engineering/advanced-tool-use\nhttps://arcprize.org/leaderboard\n\n00:00 Intro\n01:01 NOVO Claude 4.5 Opus é Excelente e Surpreendeu Geral\n02:48 Claude Opus 4.5 Superou Humanos em Testes\n04:19 Desempenho Excelente no ARC AGI 2\n06:26 Claude Está Mais Seguro\n07:17 Claude Opus 4.5 é Mais Eficiente\n09:26 Integrações, Claude Code e Outras melhorias\n10:30 Teste do Matrix\n11:40 Teste da Pagoda\n12:10 Teste do Rio de Janeiro\n13:13 Teste do Pelicano de Bicicleta\n14:19 Teste do Carrinho\n17:05 Postagens da Comunidade\n20:04 A Bolha da iA Vai Estourar?"
+      },
+      "defaultAudioLanguage": "pt"
+    },
+    "contentDetails": {
+      "duration": "PT21M55S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "15365",
+      "likeCount": "856",
+      "favoriteCount": "0",
+      "commentCount": "85"
+    }
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "cached_at": 1764285776.127153,
+  "cache_type": "channel_videos",
+  "key": "UC2WmuBuFq6gL08QYG-JjXKw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aoi0_78UD8sR0y1xT4dq3EftQXI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8Svr2A_Pt7o"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T22:28:23Z",
+        "channelId": "UC2WmuBuFq6gL08QYG-JjXKw",
+        "title": "Gemini 3.0 Flash: Google&#39;s Greatest Model Ever? Most Powerful, Cheapest, &amp; Fastest Model Ever (Leak)",
+        "description": "Gemini 3.0 Flash may be Google's greatest model EVER — and the leaks are wild. We're talking next-level speed, insane ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Svr2A_Pt7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Svr2A_Pt7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Svr2A_Pt7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WorldofAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T22:28:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nj1gbmpH6DPoIymgRyhT9FCq6bY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eVqMkaYjEps"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T04:54:49Z",
+        "channelId": "UC2WmuBuFq6gL08QYG-JjXKw",
+        "title": "Gemini CLI Update: GEMINI 3.0 Integration + NEW Mulit AI Coding Agent + NEW Level of Interactivity!",
+        "description": "In this video, we explore the all-new Gemini 3.0 integration with Gemini CLI, introducing a multi AI coding agent, and a whole new ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eVqMkaYjEps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eVqMkaYjEps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eVqMkaYjEps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WorldofAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T04:54:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ux-EcEJ57D45af3m1PFNMV2PK0A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QK6HBp_dJu0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T04:32:20Z",
+        "channelId": "UC2WmuBuFq6gL08QYG-JjXKw",
+        "title": "Claude Opus 4.5: BEST Coding Model EVER! INSANE Agentic Capabilties! (Fully Tested)",
+        "description": "Webflow makes it effortless to build a beautiful, responsive site. So why wait? Click on the link below and get started for free: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QK6HBp_dJu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QK6HBp_dJu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QK6HBp_dJu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WorldofAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T04:32:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JZhyEY5NqKFNY7LSfHOWx5F-7JE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tlZNo3g0urY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T19:21:11Z",
+        "channelId": "UC2WmuBuFq6gL08QYG-JjXKw",
+        "title": "Greptile: Self-Healing AI Coding Agent With INCREDIBLE Code Context! Powerful Coding Agent!",
+        "description": "If you've ever wished your repo could explain itself, catch subtle bugs, and even heal your codebase automatically, Greptile is the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tlZNo3g0urY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tlZNo3g0urY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tlZNo3g0urY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WorldofAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T19:21:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dtp_XFN7oZQVp8ndsofVrucBAB0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ButAp5rF69E"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T17:30:02Z",
+        "channelId": "UC2WmuBuFq6gL08QYG-JjXKw",
+        "title": "NEW MCP Toolkit Is PERFECT! Ultimate MCP Setup For AI Coding Assistants Will 10x Your Productivity!",
+        "description": "Try the Docker MCP Catalog here for FREE: The brand-new Docker MCP Toolkit just changed the entire MCP game. One-click ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ButAp5rF69E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ButAp5rF69E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ButAp5rF69E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WorldofAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T17:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iX1ldiIyfzEpP_81ho6dAF1XYpQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0dMXxlpcaLs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T17:30:01Z",
+        "channelId": "UC2WmuBuFq6gL08QYG-JjXKw",
+        "title": "Gemini 3.0 Designer Is INSANE! Build Beautiful Websites and Apps In Minutes FOR FREE!",
+        "description": "Try Agentic Postgres free on Tiger today. Link in the description. No credit card required: https://tsdb.co/worldofai Gemini 3.0 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0dMXxlpcaLs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0dMXxlpcaLs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0dMXxlpcaLs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WorldofAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T17:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "91nc8CRx1xmn_yP7WE3VcaUAkxw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mJxCdZB4RRY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T17:30:28Z",
+        "channelId": "UC2WmuBuFq6gL08QYG-JjXKw",
+        "title": "Zoer: Full-Stack App Builder With Gemini 3.0 Pro – Build &amp; Publish Apps in Minutes!",
+        "description": "Try Zoer today: https://zoer.ai/?utm_source=YouTube&utm_medium=video-EN&utm_campaign=intheworldofai the all-in-one ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mJxCdZB4RRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mJxCdZB4RRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mJxCdZB4RRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WorldofAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T17:30:28Z"
+      }
+    }
+  ]
+}

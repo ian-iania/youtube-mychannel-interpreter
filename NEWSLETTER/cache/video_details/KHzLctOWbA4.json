@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285744.839524,
+  "cache_type": "video_details",
+  "key": "KHzLctOWbA4",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "nT1BjaSAfXi4l-WvWF7w9meLomo",
+    "id": "KHzLctOWbA4",
+    "snippet": {
+      "publishedAt": "2025-11-21T06:59:34Z",
+      "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+      "title": "🚀 Genspark AI Inbox｜Your inbox, on autopilot",
+      "description": "21 days to plan a launch event. Impossible?\n\nOur events manager Mariana just did it - *with Genspark AI Inbox. 🚀*\n\nVendor contracts buried in email attachments? Genspark found them, compared them side-by-side, and drafted negotiation emails. Task updates scattered across threads? Scheduled agent tracked everything automatically, and summarized in the daily dashboard.\n\nOne prompt. Job done. Your inbox, on autopilot. ✨\n\nTry it: https://www.genspark.ai/ai_inbox",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KHzLctOWbA4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KHzLctOWbA4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KHzLctOWbA4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KHzLctOWbA4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KHzLctOWbA4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Genspark",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "🚀 Genspark AI Inbox｜Your inbox, on autopilot",
+        "description": "21 days to plan a launch event. Impossible?\n\nOur events manager Mariana just did it - *with Genspark AI Inbox. 🚀*\n\nVendor contracts buried in email attachments? Genspark found them, compared them side-by-side, and drafted negotiation emails. Task updates scattered across threads? Scheduled agent tracked everything automatically, and summarized in the daily dashboard.\n\nOne prompt. Job done. Your inbox, on autopilot. ✨\n\nTry it: https://www.genspark.ai/ai_inbox"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M50S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2751",
+      "likeCount": "61",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285761.9128199,
+  "cache_type": "video_details",
+  "key": "FCsnGueeuKM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "-DOjIbVPNND1aMIDD1uMBrpvnVM",
+    "id": "FCsnGueeuKM",
+    "snippet": {
+      "publishedAt": "2025-11-24T21:42:57Z",
+      "channelId": "UCYx10jQ_0QeqkV7gWiUE5yw",
+      "title": "Dá pra usar a IA para ficar rico sem trabalhar?",
+      "description": "IA para ficar rico sem trabalhar? 👀\nSerá que essa história realmente é verdadeira?  Vem descobrir nesse vídeo!\n\nSe você quer aprender a construir automações e agentes avançados com IA e no-code, siga a NoCode Startup e veja na prática tudo o que a inteligência artificial já consegue fazer.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FCsnGueeuKM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FCsnGueeuKM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FCsnGueeuKM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FCsnGueeuKM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FCsnGueeuKM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "NoCode StartUp",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Dá pra usar a IA para ficar rico sem trabalhar?",
+        "description": "IA para ficar rico sem trabalhar? 👀\nSerá que essa história realmente é verdadeira?  Vem descobrir nesse vídeo!\n\nSe você quer aprender a construir automações e agentes avançados com IA e no-code, siga a NoCode Startup e veja na prática tudo o que a inteligência artificial já consegue fazer."
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT43S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "990",
+      "likeCount": "35",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

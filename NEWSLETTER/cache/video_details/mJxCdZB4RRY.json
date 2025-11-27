@@ -1,0 +1,102 @@
+{
+  "cached_at": 1764285776.233887,
+  "cache_type": "video_details",
+  "key": "mJxCdZB4RRY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "HRLRnVTcL-c5JnxF75M1u7HbbZw",
+    "id": "mJxCdZB4RRY",
+    "snippet": {
+      "publishedAt": "2025-11-21T17:30:28Z",
+      "channelId": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "title": "Zoer: Full-Stack App Builder With Gemini 3.0 Pro – Build & Publish Apps in Minutes!",
+      "description": "Try Zoer today: https://zoer.ai/?utm_source=YouTube&utm_medium=video-EN&utm_campaign=intheworldofai the all-in-one full-stack tool that combines Lovable, Supabase, Netlify and Nano Banana in one.\n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nOpen Agent Builder: Easily Create AI Agents That Can Automate Anything! Opensource n8n Alternative!: https://youtu.be/6sk-q79-zZE\nClaude Haiku 4.5: NEW Powerful Coding Model That's Cheap + Fast! Beats Sonnet 4 Easily!: https://youtu.be/qOB30aJZW9s\nOpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial): https://youtu.be/gHkdrO6IExM?si=lDxCrjGrwL6HAwnj\n\n📌 LINKS & RESOURCES\nWebsite: https://zoer.ai/\nDemo: https://www.youtube.com/watch?v=5mG24CC9i7c\n\nZoer just dropped its biggest update yet — and it’s honestly one of the most powerful AI full-stack engineering tools on the market right now.\nThis new Agentic AI upgrade transforms Zoer from a simple code generator into a full engineering team that handles everything for you: database, backend, auth, Stripe payments, deployments, and even AI image generation with Nanobanana.\n\nIn this video, I break down all the NEW features, show you how Zoer builds apps end-to-end, and walk through a full demo including:\n✅ Database-first architecture\n✅ Automatic authentication (Google + Email/Password)\n✅ Built-in user management\n✅ Integrated Stripe payments (test + live setup)\n✅ Nanobanana AI model for text-to-image & image-to-image\n✅ Fully wired backend + frontend\n✅ Automatic deployment in minutes\n\nWhether you're using Cursor, Lovable, Replit, or any other AI coding tool — Zoer is easily becoming one of the best alternatives for building real products insanely fast.\n\n🔥 What You’ll Learn\n• How Zoer works as an AI Full-Stack Engineer\n• How agentic generation builds backend + frontend automatically\n• How to set up login systems with no configuration\n• How to integrate payments in under 3 minutes\n• How Zoer replaces tools like Supabase, Netlify, and image APIs\n• Real-time preview and deployment workflow\n\n#AI #Zoer #Lovable #CursorAI #AIEngineer #FullStackAI #AgenticAI #Nanobanana #AIApps #Stripe #Supabase #AIDevelopment #AIBuilder #vibecoder  #AppBuilder #automation",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mJxCdZB4RRY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mJxCdZB4RRY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mJxCdZB4RRY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mJxCdZB4RRY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mJxCdZB4RRY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "WorldofAI",
+      "tags": [
+        "ai coding",
+        "no code app builder",
+        "ai coding assistant",
+        "zoer",
+        "zoer ai",
+        "Convex Chef",
+        "lovable ai",
+        "vibe coding",
+        "bolt.new",
+        "convex chef",
+        "convex",
+        "convex tutorial",
+        "AI App Builder",
+        "Open Source AI",
+        "Lovable Alternative",
+        "Full Stack AI",
+        "AI Full Stack Builder",
+        "dyad ai",
+        "lovable",
+        "lovable agent mode",
+        "cursor ai",
+        "no code",
+        "cursor ai app",
+        "lovable 2.0",
+        "agent mode",
+        "cursor",
+        "no code full stack builder",
+        "lovable.dev",
+        "build app with ai",
+        "no code saas",
+        "ai app builder 2025",
+        "full stack ai automation",
+        "ai"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Zoer: Full-Stack App Builder With Gemini 3.0 Pro – Build & Publish Apps in Minutes!",
+        "description": "Try Zoer today: https://zoer.ai/?utm_source=YouTube&utm_medium=video-EN&utm_campaign=intheworldofai the all-in-one full-stack tool that combines Lovable, Supabase, Netlify and Nano Banana in one.\n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nOpen Agent Builder: Easily Create AI Agents That Can Automate Anything! Opensource n8n Alternative!: https://youtu.be/6sk-q79-zZE\nClaude Haiku 4.5: NEW Powerful Coding Model That's Cheap + Fast! Beats Sonnet 4 Easily!: https://youtu.be/qOB30aJZW9s\nOpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial): https://youtu.be/gHkdrO6IExM?si=lDxCrjGrwL6HAwnj\n\n📌 LINKS & RESOURCES\nWebsite: https://zoer.ai/\nDemo: https://www.youtube.com/watch?v=5mG24CC9i7c\n\nZoer just dropped its biggest update yet — and it’s honestly one of the most powerful AI full-stack engineering tools on the market right now.\nThis new Agentic AI upgrade transforms Zoer from a simple code generator into a full engineering team that handles everything for you: database, backend, auth, Stripe payments, deployments, and even AI image generation with Nanobanana.\n\nIn this video, I break down all the NEW features, show you how Zoer builds apps end-to-end, and walk through a full demo including:\n✅ Database-first architecture\n✅ Automatic authentication (Google + Email/Password)\n✅ Built-in user management\n✅ Integrated Stripe payments (test + live setup)\n✅ Nanobanana AI model for text-to-image & image-to-image\n✅ Fully wired backend + frontend\n✅ Automatic deployment in minutes\n\nWhether you're using Cursor, Lovable, Replit, or any other AI coding tool — Zoer is easily becoming one of the best alternatives for building real products insanely fast.\n\n🔥 What You’ll Learn\n• How Zoer works as an AI Full-Stack Engineer\n• How agentic generation builds backend + frontend automatically\n• How to set up login systems with no configuration\n• How to integrate payments in under 3 minutes\n• How Zoer replaces tools like Supabase, Netlify, and image APIs\n• Real-time preview and deployment workflow\n\n#AI #Zoer #Lovable #CursorAI #AIEngineer #FullStackAI #AgenticAI #Nanobanana #AIApps #Stripe #Supabase #AIDevelopment #AIBuilder #vibecoder  #AppBuilder #automation"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT13M26S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4022",
+      "likeCount": "125",
+      "favoriteCount": "0",
+      "commentCount": "7"
+    }
+  }
+}

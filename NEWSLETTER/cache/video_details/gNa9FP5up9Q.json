@@ -1,0 +1,78 @@
+{
+  "cached_at": 1764285760.460774,
+  "cache_type": "video_details",
+  "key": "gNa9FP5up9Q",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "mWJP1XBmNMTCoPjME7jhUq79md8",
+    "id": "gNa9FP5up9Q",
+    "snippet": {
+      "publishedAt": "2025-11-22T02:45:40Z",
+      "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+      "title": "Growing at the Speed of AI: Sierra’s Journey With Microsoft Foundry",
+      "description": "Discover how Sierra uses Microsoft Foundry and Azure OpenAI to power AI agents that transform customer experiences, solve most service inquiries, and help top brands achieve high satisfaction and efficiency across industries.\n\nLearn more: https://msft.it/AIFoundry\n\n#MicrosoftAzure #MicrosoftFoundry",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gNa9FP5up9Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gNa9FP5up9Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gNa9FP5up9Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gNa9FP5up9Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Microsoft Azure",
+      "tags": [
+        "Sierra",
+        "Microsoft Foundry",
+        "Azure OpenAI",
+        "AI agents",
+        "customer experience",
+        "retail AI",
+        "healthcare AI",
+        "financial services AI",
+        "enterprise compliance",
+        "customer service automation",
+        "AI scalability",
+        "digital transformation",
+        "Microsoft",
+        "AI"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Growing at the Speed of AI: Sierra’s Journey With Microsoft Foundry",
+        "description": "Discover how Sierra uses Microsoft Foundry and Azure OpenAI to power AI agents that transform customer experiences, solve most service inquiries, and help top brands achieve high satisfaction and efficiency across industries.\n\nLearn more: https://msft.it/AIFoundry\n\n#MicrosoftAzure #MicrosoftFoundry"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M40S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "161",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

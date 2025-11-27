@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285733.81342,
+  "cache_type": "channel_info",
+  "key": "UCSv4qL8vmoSH7GaPjuqRiCQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "Lk4ThdbEANxHOu7XO_WT19Tt0P0",
+    "id": "UCSv4qL8vmoSH7GaPjuqRiCQ",
+    "snippet": {
+      "title": "Arseny Shatokhin",
+      "description": "Build an Agency with AI 🐝 \n\nI'm on a mission to enable the first fully autonomous $1B AI-driven business.\n\nUnlike all other AI YouTubers, I'm actually building real AI systems for real clients. Not just reviewing hypothetical examples from docs.\n\nOn this channel, we share our journey and our experience completely for free.\n",
+      "customUrl": "@vrsen",
+      "publishedAt": "2013-04-04T13:45:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/7eqRJKpiIrEkXPmasR7GSg59DfMb2yjXe2rTmG1JF0Jwe1JSDJ45CuFJn39ziTEWb19eocCj=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/7eqRJKpiIrEkXPmasR7GSg59DfMb2yjXe2rTmG1JF0Jwe1JSDJ45CuFJn39ziTEWb19eocCj=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/7eqRJKpiIrEkXPmasR7GSg59DfMb2yjXe2rTmG1JF0Jwe1JSDJ45CuFJn39ziTEWb19eocCj=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Arseny Shatokhin",
+        "description": "Build an Agency with AI 🐝 \n\nI'm on a mission to enable the first fully autonomous $1B AI-driven business.\n\nUnlike all other AI YouTubers, I'm actually building real AI systems for real clients. Not just reviewing hypothetical examples from docs.\n\nOn this channel, we share our journey and our experience completely for free.\n"
+      }
+    },
+    "statistics": {
+      "viewCount": "2136820",
+      "subscriberCount": "67600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "134"
+    }
+  }
+}

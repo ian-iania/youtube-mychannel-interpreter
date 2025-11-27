@@ -1,0 +1,93 @@
+{
+  "cached_at": 1764285752.051171,
+  "cache_type": "video_details",
+  "key": "m8Pv6alTPOc",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "a0WfekxdRys4XMCLAzSflzolOhc",
+    "id": "m8Pv6alTPOc",
+    "snippet": {
+      "publishedAt": "2025-11-26T20:25:58Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "Do rádio ao streaming, como a família Marinho reinventa o grupo Globo para se manter no topo",
+      "description": "Em meio à queda da audiência da TV aberta e assinantes e ao avanço do streaming , o Grupo Globo passa por uma reestruturação bilionária e de governança. \n\nO império dos Marinho tenta se adaptar ao digital, investindo em startups via Globo Ventures e preparando a migração para a TV 3.0, que pode revolucionar a publicidade. \n\nEntenda os desafios financeiros, a transição de poder entre gerações e as novas estratégias da empresa para continuar relevante no mercado.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m8Pv6alTPOc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m8Pv6alTPOc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m8Pv6alTPOc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/m8Pv6alTPOc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/m8Pv6alTPOc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "tags": [
+        "Investnews",
+        "investimentos",
+        "economia",
+        "finanças",
+        "investnewsbr",
+        "mercado financeiro",
+        "bolsa de valores",
+        "notícias",
+        "jornalismo econômico",
+        "negócios",
+        "Grupo Globo",
+        "família Marinho",
+        "Roberto Marinho",
+        "Globoplay",
+        "TV 3.0",
+        "DTV+",
+        "Mídia",
+        "Comunicação",
+        "Streaming",
+        "Crise",
+        "Reestruturação",
+        "Sucessão",
+        "Negócios de Família",
+        "InvestNewsBR"
+      ],
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Do rádio ao streaming, como a família Marinho reinventa o grupo Globo para se manter no topo",
+        "description": "Em meio à queda da audiência da TV aberta e assinantes e ao avanço do streaming , o Grupo Globo passa por uma reestruturação bilionária e de governança. \n\nO império dos Marinho tenta se adaptar ao digital, investindo em startups via Globo Ventures e preparando a migração para a TV 3.0, que pode revolucionar a publicidade. \n\nEntenda os desafios financeiros, a transição de poder entre gerações e as novas estratégias da empresa para continuar relevante no mercado."
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT12M23S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "9660",
+      "likeCount": "867",
+      "favoriteCount": "0",
+      "commentCount": "66"
+    }
+  }
+}

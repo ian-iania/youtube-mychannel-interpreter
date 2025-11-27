@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285746.0415192,
+  "cache_type": "video_details",
+  "key": "cmahdNdzsVI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "KSObMDoTf1KEw88T_r0TYmlaCns",
+    "id": "cmahdNdzsVI",
+    "snippet": {
+      "publishedAt": "2025-11-27T02:49:24Z",
+      "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+      "title": "s&box is now an open-source game engine, and it’s built on Valve’s Source 2 and modern .NET",
+      "description": "s&box is now an open-source game engine, and it’s built on Valve’s Source 2 and modern .NET.  You can create your own games in modern C# with a super clean editor, instant playtesting, and blazing-fast hotloading — no compiling, no restarts. It even has visual scripting with Action Graph, Shader Graph, and a massive cloud asset library you can drag straight into your scene. \n#github #opensource",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cmahdNdzsVI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cmahdNdzsVI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cmahdNdzsVI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cmahdNdzsVI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cmahdNdzsVI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Github Awesome",
+      "tags": [
+        "GitHub",
+        "GitHub Repositories",
+        "Trending GitHub",
+        "Trending",
+        "GitHub Open Source Projects",
+        "GitHub Trending",
+        "gitHub trending"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "s&box is now an open-source game engine, and it’s built on Valve’s Source 2 and modern .NET",
+        "description": "s&box is now an open-source game engine, and it’s built on Valve’s Source 2 and modern .NET.  You can create your own games in modern C# with a super clean editor, instant playtesting, and blazing-fast hotloading — no compiling, no restarts. It even has visual scripting with Action Graph, Shader Graph, and a massive cloud asset library you can drag straight into your scene. \n#github #opensource"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT23S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4858",
+      "likeCount": "191",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

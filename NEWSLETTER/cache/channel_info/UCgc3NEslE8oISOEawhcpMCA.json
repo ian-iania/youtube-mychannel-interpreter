@@ -1,0 +1,45 @@
+{
+  "cached_at": 1764285760.539741,
+  "cache_type": "channel_info",
+  "key": "UCgc3NEslE8oISOEawhcpMCA",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "5hVyKkEBhnCtrmo0__JdG8sLSOo",
+    "id": "UCgc3NEslE8oISOEawhcpMCA",
+    "snippet": {
+      "title": "Microsoft Power Platform",
+      "description": "Welcome to the Microsoft Power Platform YouTube channel.\n\nIf you'd like to keep up to date with everything from across the Microsoft Power Platform Community and beyond, feel free to subscribe to our channel for all the latest videos and tutorials.\n\nFor more tasty tips, why not come and join the convo in our Community here: https://aka.ms/PP_Community\n\nAnd we also have a super-active LinkedIn page here: https://www.linkedin.com/company/microsoft-power-platform-community/\n",
+      "customUrl": "@mspowerplatform",
+      "publishedAt": "2019-04-04T19:08:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kv35JQ5jAsWXidocHfFH6ZE6HIjLJFEZy3-R0npvJtdJ8=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kv35JQ5jAsWXidocHfFH6ZE6HIjLJFEZy3-R0npvJtdJ8=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kv35JQ5jAsWXidocHfFH6ZE6HIjLJFEZy3-R0npvJtdJ8=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Microsoft Power Platform",
+        "description": "Welcome to the Microsoft Power Platform YouTube channel.\n\nIf you'd like to keep up to date with everything from across the Microsoft Power Platform Community and beyond, feel free to subscribe to our channel for all the latest videos and tutorials.\n\nFor more tasty tips, why not come and join the convo in our Community here: https://aka.ms/PP_Community\n\nAnd we also have a super-active LinkedIn page here: https://www.linkedin.com/company/microsoft-power-platform-community/\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "7228062",
+      "subscriberCount": "76000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1171"
+    }
+  }
+}

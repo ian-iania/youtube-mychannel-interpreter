@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285753.9254951,
+  "cache_type": "channel_info",
+  "key": "UCXouiHXUN8mba_K-jn1gqVg",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "PCLbYB2xtd77g_SA10k8rBRSzUQ",
+    "id": "UCXouiHXUN8mba_K-jn1gqVg",
+    "snippet": {
+      "title": "Kiro",
+      "description": "Agentic AI development from prototype to production. - Kiro helps you do your best work by bringing structure to AI coding with spec-driven development.\n\n",
+      "customUrl": "@kirodotdev",
+      "publishedAt": "2025-05-07T19:59:40.291653Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Ms7umz9WA39yO3Z-Ye62xkGB6yZA-F4L-sPhGVoTG77U6ReKwqFFYMNuU1Gau_3O80JHUJnjog=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Ms7umz9WA39yO3Z-Ye62xkGB6yZA-F4L-sPhGVoTG77U6ReKwqFFYMNuU1Gau_3O80JHUJnjog=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Ms7umz9WA39yO3Z-Ye62xkGB6yZA-F4L-sPhGVoTG77U6ReKwqFFYMNuU1Gau_3O80JHUJnjog=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Kiro",
+        "description": "Agentic AI development from prototype to production. - Kiro helps you do your best work by bringing structure to AI coding with spec-driven development.\n\n"
+      }
+    },
+    "statistics": {
+      "viewCount": "116524",
+      "subscriberCount": "5600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "44"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285761.035754,
+  "cache_type": "channel_info",
+  "key": "UCvze3hU6OZBkB1vkhH2lH9Q",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "fEDQ4VL2jFlA8rB8x9igEW4AF1E",
+    "id": "UCvze3hU6OZBkB1vkhH2lH9Q",
+    "snippet": {
+      "title": "Neo4j",
+      "description": "Neo4j is the Graph Database & Analytics leader. This channel features videos by our Developer Relations, Engineering, and Product teams about best practices using Neo4j.\n",
+      "customUrl": "@neo4j",
+      "publishedAt": "2014-12-03T23:18:57Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/CTfuYS7u-xZPNJOyy5Nya_BXHYT-ke1_fYxgwKUSy9uF9fWNQ6WhhzLAOxtI09vWC-FQ0ou1=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/CTfuYS7u-xZPNJOyy5Nya_BXHYT-ke1_fYxgwKUSy9uF9fWNQ6WhhzLAOxtI09vWC-FQ0ou1=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/CTfuYS7u-xZPNJOyy5Nya_BXHYT-ke1_fYxgwKUSy9uF9fWNQ6WhhzLAOxtI09vWC-FQ0ou1=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Neo4j",
+        "description": "Neo4j is the Graph Database & Analytics leader. This channel features videos by our Developer Relations, Engineering, and Product teams about best practices using Neo4j.\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "34434659",
+      "subscriberCount": "58200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2459"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285747.5414898,
+  "cache_type": "channel_info",
+  "key": "UCPjNBjflYl0-HQtUvOx0Ibw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "xGy0h3dBlTnxnD_5cArA0C75HhM",
+    "id": "UCPjNBjflYl0-HQtUvOx0Ibw",
+    "snippet": {
+      "title": "Greg Isenberg",
+      "description": "Subscribe for startup ideas & tutorials on on how to use AI to build & grow your startup.\n\nHey, I’m Greg - CEO of Late Checkout and ex-advisor to Reddit, TikTok, and more.\n\nI post videos here from my podcast top 0.1% tech podcast called The Startup Ideas Podcast.\n\nYou can also listen to The Startup Ideas Podcast on Apple Podcasts and Spotify.\n\nI keep it practical and never gatekeep the sauce. I share what I'm learning in real-time.\n\nHappy building \n",
+      "customUrl": "@gregisenberg",
+      "publishedAt": "2021-10-27T22:55:13.050918Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/5wiiTxMamM0NnCmGOt0iJ6eoVRmFLNIGF-BEiTZ_AVqaS02YIxAsB-2XY6xwLCUWQfoENG1MHKo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/5wiiTxMamM0NnCmGOt0iJ6eoVRmFLNIGF-BEiTZ_AVqaS02YIxAsB-2XY6xwLCUWQfoENG1MHKo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/5wiiTxMamM0NnCmGOt0iJ6eoVRmFLNIGF-BEiTZ_AVqaS02YIxAsB-2XY6xwLCUWQfoENG1MHKo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Greg Isenberg",
+        "description": "Subscribe for startup ideas & tutorials on on how to use AI to build & grow your startup.\n\nHey, I’m Greg - CEO of Late Checkout and ex-advisor to Reddit, TikTok, and more.\n\nI post videos here from my podcast top 0.1% tech podcast called The Startup Ideas Podcast.\n\nYou can also listen to The Startup Ideas Podcast on Apple Podcasts and Spotify.\n\nI keep it practical and never gatekeep the sauce. I share what I'm learning in real-time.\n\nHappy building \n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "22953837",
+      "subscriberCount": "505000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "708"
+    }
+  }
+}

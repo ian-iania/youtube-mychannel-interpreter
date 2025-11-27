@@ -1,0 +1,69 @@
+{
+  "cached_at": 1764285739.4879448,
+  "cache_type": "video_details",
+  "key": "m8t-lGFf7Ks",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "0i7lVjRfMoV4CiwIO62C_Wp8CJQ",
+    "id": "m8t-lGFf7Ks",
+    "snippet": {
+      "publishedAt": "2025-11-21T17:13:47Z",
+      "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+      "title": "How Azure Databricks works with Microsoft | Databricks CEO Ali Ghodsi at Microsoft Ignite 2025",
+      "description": "How Databricks integrates with Microsoft products. How Azure Databricks works within a Microsoft ecosystem. Databricks Co-founder and CEO Ali Ghodsi shares during the Partner Keynote at Microsoft Ignite 2025.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m8t-lGFf7Ks/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m8t-lGFf7Ks/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m8t-lGFf7Ks/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/m8t-lGFf7Ks/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/m8t-lGFf7Ks/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Databricks",
+      "tags": [
+        "Databricks"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "How Azure Databricks works with Microsoft | Databricks CEO Ali Ghodsi at Microsoft Ignite 2025",
+        "description": "How Databricks integrates with Microsoft products. How Azure Databricks works within a Microsoft ecosystem. Databricks Co-founder and CEO Ali Ghodsi shares during the Partner Keynote at Microsoft Ignite 2025."
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M24S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "265",
+      "likeCount": "4",
+      "favoriteCount": "0"
+    }
+  }
+}

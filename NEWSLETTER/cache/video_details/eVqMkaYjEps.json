@@ -1,0 +1,97 @@
+{
+  "cached_at": 1764285776.2326798,
+  "cache_type": "video_details",
+  "key": "eVqMkaYjEps",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "BfsFCHHpI2rVWG7ObI28ck0HCeU",
+    "id": "eVqMkaYjEps",
+    "snippet": {
+      "publishedAt": "2025-11-27T04:54:49Z",
+      "channelId": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "title": "Gemini CLI Update: GEMINI 3.0 Integration + NEW Mulit AI Coding Agent + NEW Level of Interactivity!",
+      "description": "In this video, we explore the all-new Gemini 3.0 integration with Gemini CLI, introducing a multi AI coding agent, and a whole new level of interactivity in your terminal. See how you can:\n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nOpen Agent Builder: Easily Create AI Agents That Can Automate Anything! Opensource n8n Alternative!: https://youtu.be/6sk-q79-zZE\nClaude Haiku 4.5: NEW Powerful Coding Model That's Cheap + Fast! Beats Sonnet 4 Easily!: https://youtu.be/qOB30aJZW9s\nOpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial): https://youtu.be/gHkdrO6IExM?si=lDxCrjGrwL6HAwnj\n\n📌 LINKS & RESOURCES\nBlog Post: https://developers.googleblog.com/en/5-things-to-try-with-gemini-3-pro-in-gemini-cli/\nJules Blog: https://developers.googleblog.com/introducing-the-jules-extension-for-gemini-cli/\nExtension Store: https://geminicli.com/extensions/\nChangelog: https://geminicli.com/docs/changelogs/\n\nBuild complete apps directly from the terminal\nTurn visual sketches into working UI code\nGenerate complex shell commands with natural language\nDebug live cloud services like Cloud Run automatically\nCreate accurate, searchable documentation from your code\n\nWhether you're a developer, AI enthusiast, or just curious about next-gen coding workflows, Gemini CLI + Gemini 3.0 is a game-changer. Don’t miss this deep dive into the terminal of the future!\n\n✨ Try it yourself: Gemini CLI GitHub\n\nHashtags:\n#geminicli , #gemini3pro , #aicoding , #TerminalTools, #MultiAIAgent, #aiproductivity , #CodingWithAI, #DeveloperTools, #techupdates , #nocodeai , #AIInTerminal 🚀💻✨\n\nTags:\nGemini CLI, Gemini 3 Pro, AI coding, multi-agent AI, terminal coding, AI developer tools, interactive terminal, code automation, AI programming, coding productivity, AI workflow, AI extensions, Jules extension, AI code assistant",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eVqMkaYjEps/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eVqMkaYjEps/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eVqMkaYjEps/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eVqMkaYjEps/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eVqMkaYjEps/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "WorldofAI",
+      "tags": [
+        "gemini 3",
+        "google ai studio",
+        "gemini 3 pro",
+        "Gemini CLI",
+        "Gemini 3 Pro",
+        "AI coding",
+        "multi-agent AI",
+        "terminal coding",
+        "AI developer tools",
+        "interactive terminal",
+        "code automation",
+        "AI programming",
+        "coding productivity",
+        "AI workflow",
+        "AI extensions",
+        "AI code assistant",
+        "gemini cli",
+        "google gemini update",
+        "ai coding assistant",
+        "gemini cli new gemini 3 upgrade",
+        "gemini cli update",
+        "gemini cli 3.0",
+        "gemini 3.0 pro",
+        "gemini 3.0",
+        "gemini cli features",
+        "google ai",
+        "cursor alternative",
+        "claude code"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Gemini CLI Update: GEMINI 3.0 Integration + NEW Mulit AI Coding Agent + NEW Level of Interactivity!",
+        "description": "In this video, we explore the all-new Gemini 3.0 integration with Gemini CLI, introducing a multi AI coding agent, and a whole new level of interactivity in your terminal. See how you can:\n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nOpen Agent Builder: Easily Create AI Agents That Can Automate Anything! Opensource n8n Alternative!: https://youtu.be/6sk-q79-zZE\nClaude Haiku 4.5: NEW Powerful Coding Model That's Cheap + Fast! Beats Sonnet 4 Easily!: https://youtu.be/qOB30aJZW9s\nOpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial): https://youtu.be/gHkdrO6IExM?si=lDxCrjGrwL6HAwnj\n\n📌 LINKS & RESOURCES\nBlog Post: https://developers.googleblog.com/en/5-things-to-try-with-gemini-3-pro-in-gemini-cli/\nJules Blog: https://developers.googleblog.com/introducing-the-jules-extension-for-gemini-cli/\nExtension Store: https://geminicli.com/extensions/\nChangelog: https://geminicli.com/docs/changelogs/\n\nBuild complete apps directly from the terminal\nTurn visual sketches into working UI code\nGenerate complex shell commands with natural language\nDebug live cloud services like Cloud Run automatically\nCreate accurate, searchable documentation from your code\n\nWhether you're a developer, AI enthusiast, or just curious about next-gen coding workflows, Gemini CLI + Gemini 3.0 is a game-changer. Don’t miss this deep dive into the terminal of the future!\n\n✨ Try it yourself: Gemini CLI GitHub\n\nHashtags:\n#geminicli , #gemini3pro , #aicoding , #TerminalTools, #MultiAIAgent, #aiproductivity , #CodingWithAI, #DeveloperTools, #techupdates , #nocodeai , #AIInTerminal 🚀💻✨\n\nTags:\nGemini CLI, Gemini 3 Pro, AI coding, multi-agent AI, terminal coding, AI developer tools, interactive terminal, code automation, AI programming, coding productivity, AI workflow, AI extensions, Jules extension, AI code assistant"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT10M12S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "10431",
+      "likeCount": "348",
+      "favoriteCount": "0",
+      "commentCount": "35"
+    }
+  }
+}

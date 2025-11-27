@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285728.4277709,
+  "cache_type": "channel_info",
+  "key": "UCpV_X0VrL8-jg3t6wYGS-1g",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "fr6Xxvq15sReEshRBYmZFM2L01s",
+    "id": "UCpV_X0VrL8-jg3t6wYGS-1g",
+    "snippet": {
+      "title": "1littlecoder",
+      "description": "Practical - Business-Friendly - AI News & Tutorials!",
+      "customUrl": "@1littlecoder",
+      "publishedAt": "2020-01-16T12:47:56.653637Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/JU3LDK3tpwKlTIS4m0PtJo0fgjwnIopXK93uI11Usw_dRByztl8vjj3yDJA2AoqZEfId0-9p=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/JU3LDK3tpwKlTIS4m0PtJo0fgjwnIopXK93uI11Usw_dRByztl8vjj3yDJA2AoqZEfId0-9p=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/JU3LDK3tpwKlTIS4m0PtJo0fgjwnIopXK93uI11Usw_dRByztl8vjj3yDJA2AoqZEfId0-9p=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "1littlecoder",
+        "description": "Practical - Business-Friendly - AI News & Tutorials!"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "14146522",
+      "subscriberCount": "107000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1390"
+    }
+  }
+}

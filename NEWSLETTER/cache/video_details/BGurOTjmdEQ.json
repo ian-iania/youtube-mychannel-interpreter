@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285746.043723,
+  "cache_type": "video_details",
+  "key": "BGurOTjmdEQ",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "2wKbs5HnS8CIcBXTuGkwO5-8czA",
+    "id": "BGurOTjmdEQ",
+    "snippet": {
+      "publishedAt": "2025-11-22T04:24:05Z",
+      "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+      "title": "install-nothing: a tiny Rust-based terminal app that simulates installing  #github",
+      "description": "install-nothing is a tiny Rust-based terminal app that simulates installing… well… nothing. Run it, and you’ll get progress bars, fake logs, pretend package lists — the whole ‘installing things’ vibe — without actually changing anything on your system. \n\nIt’s playful, and licensed under the extremely permissive ‘do whatever you want with it’ license. If you love terminal toys, want a fun demo app, or just enjoy confusing your coworkers, install-nothing is a perfect little Rust project to star.\n\n#github #opensource",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BGurOTjmdEQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BGurOTjmdEQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BGurOTjmdEQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BGurOTjmdEQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BGurOTjmdEQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Github Awesome",
+      "tags": [
+        "GitHub",
+        "GitHub Repositories",
+        "Trending GitHub",
+        "Trending",
+        "GitHub Open Source Projects",
+        "GitHub Trending",
+        "gitHub trending"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "install-nothing: a tiny Rust-based terminal app that simulates installing  #github",
+        "description": "install-nothing is a tiny Rust-based terminal app that simulates installing… well… nothing. Run it, and you’ll get progress bars, fake logs, pretend package lists — the whole ‘installing things’ vibe — without actually changing anything on your system. \n\nIt’s playful, and licensed under the extremely permissive ‘do whatever you want with it’ license. If you love terminal toys, want a fun demo app, or just enjoy confusing your coworkers, install-nothing is a perfect little Rust project to star.\n\n#github #opensource"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT29S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "18350",
+      "likeCount": "339",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

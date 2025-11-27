@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285744.839935,
+  "cache_type": "video_details",
+  "key": "fO8YB530ykI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "FmUOGilouUDV8QgrIiM4m19V8FU",
+    "id": "fO8YB530ykI",
+    "snippet": {
+      "publishedAt": "2025-11-21T06:59:00Z",
+      "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+      "title": "All-in-one AI Workspace: 📊 몇 분 만에 데이터 분석에서 경영진 브리핑까지",
+      "description": "그럼 만약 이 모든 기능들을 하나의 워크스페이스에 넣으면 어떻게 될까요?\n\n실제 사례:\n\n*📊 몇 분 만에 데이터 분석에서 경영진 브리핑까지:* AI 시트가 판매 데이터 분석 → 허브가 인사이트 종합 → AI 슬라이드가 경영진을 대상으로한 피피티 제작 → Voice Your Slides기능이 나레이션이 포함된 비디오 브리핑으로 변환\n\n하나의 AI 워크스페이스 안에서 모든 작업이 완료됩니다. ✨\n\n지금 바로 체험해보세요: http://genspark.ai/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fO8YB530ykI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fO8YB530ykI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fO8YB530ykI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fO8YB530ykI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fO8YB530ykI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Genspark",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "All-in-one AI Workspace: 📊 몇 분 만에 데이터 분석에서 경영진 브리핑까지",
+        "description": "그럼 만약 이 모든 기능들을 하나의 워크스페이스에 넣으면 어떻게 될까요?\n\n실제 사례:\n\n*📊 몇 분 만에 데이터 분석에서 경영진 브리핑까지:* AI 시트가 판매 데이터 분석 → 허브가 인사이트 종합 → AI 슬라이드가 경영진을 대상으로한 피피티 제작 → Voice Your Slides기능이 나레이션이 포함된 비디오 브리핑으로 변환\n\n하나의 AI 워크스페이스 안에서 모든 작업이 완료됩니다. ✨\n\n지금 바로 체험해보세요: http://genspark.ai/"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M41S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "287",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

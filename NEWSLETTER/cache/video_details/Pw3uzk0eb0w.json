@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285742.870891,
+  "cache_type": "video_details",
+  "key": "Pw3uzk0eb0w",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "OyVpBXEp4_0b5SjEyYN8SNBjyOw",
+    "id": "Pw3uzk0eb0w",
+    "snippet": {
+      "publishedAt": "2025-11-26T20:42:19Z",
+      "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+      "title": "Ernie 5: A Natively Omni-Modal AI - A Gift from Baidu World 2025",
+      "description": "This video thoroughly tests Ernie 5 from Baidu, which is natively omni modal large model and mentions innovations from Baidu World 2025.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#ernie5 #baiduworld \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://ernie.baidu.com/\n\nAll rights reserved © Fahd Mirza",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Pw3uzk0eb0w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Pw3uzk0eb0w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Pw3uzk0eb0w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Pw3uzk0eb0w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Pw3uzk0eb0w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Fahd Mirza",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Ernie 5: A Natively Omni-Modal AI - A Gift from Baidu World 2025",
+        "description": "This video thoroughly tests Ernie 5 from Baidu, which is natively omni modal large model and mentions innovations from Baidu World 2025.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#ernie5 #baiduworld \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://ernie.baidu.com/\n\nAll rights reserved © Fahd Mirza"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT10M49S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1741",
+      "likeCount": "110",
+      "favoriteCount": "0",
+      "commentCount": "14"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285751.035875,
+  "cache_type": "video_details",
+  "key": "bfkurYqu5vo",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "6HcTlrKHCEqrQkWDxBxplMihJCM",
+    "id": "bfkurYqu5vo",
+    "snippet": {
+      "publishedAt": "2025-11-24T22:26:36Z",
+      "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+      "title": "NotebookLM vs JusIA: Qual busca avançada escolher?",
+      "description": "🔍 NotebookLM vs JusIA: Qual busca avançada escolher?\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nImagine dois caminhos para encontrar a jurisprudência perfeita para seu caso:\nJusIA segue por uma estrada já mapeada. Sua base de dados é curada constantemente — ou seja, especialistas trabalham para manter tudo atualizado e confiável. É como ter um bibliotecário jurídico que nunca dorme, sempre organizando e validando as informações.\n\nNotebookLM oferece uma busca com qualidade de detalhes muito boa, mas aqui está o ponto crítico: você precisa estar validando as fontes durante o processo. É mais flexível, mais poderoso em certos aspectos, mas exige seu olhar crítico.\n\nO que muda na prática?\n\nCom JusIA: você ganha velocidade e segurança. Ideal para buscas rápidas onde você precisa confiar que a informação já foi verificada.\n\nCom NotebookLM: você ganha profundidade e customização. Perfeito quando você quer explorar ângulos diferentes ou fazer pesquisas mais criativas — mas com responsabilidade de validar.\n\n3 dicas para aplicar isso hoje:\n\n✅ Use JusIA para buscas de rotina — quando você precisa de jurisprudência consolidada rápido\n\n✅ Use NotebookLM para pesquisas estratégicas — quando você quer explorar argumentos inovadores (mas sempre validando)\n\n✅ Combine as duas ferramentas — a melhor estratégia é usar ambas complementarmente, não como concorrentes\n\nE você? Já testou essas duas plataformas? Qual sua experiência? Deixa nos comentários! 👇 #shorts",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bfkurYqu5vo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bfkurYqu5vo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bfkurYqu5vo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bfkurYqu5vo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bfkurYqu5vo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Inteligencia Artificial para advogados",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "NotebookLM vs JusIA: Qual busca avançada escolher?",
+        "description": "🔍 NotebookLM vs JusIA: Qual busca avançada escolher?\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nImagine dois caminhos para encontrar a jurisprudência perfeita para seu caso:\nJusIA segue por uma estrada já mapeada. Sua base de dados é curada constantemente — ou seja, especialistas trabalham para manter tudo atualizado e confiável. É como ter um bibliotecário jurídico que nunca dorme, sempre organizando e validando as informações.\n\nNotebookLM oferece uma busca com qualidade de detalhes muito boa, mas aqui está o ponto crítico: você precisa estar validando as fontes durante o processo. É mais flexível, mais poderoso em certos aspectos, mas exige seu olhar crítico.\n\nO que muda na prática?\n\nCom JusIA: você ganha velocidade e segurança. Ideal para buscas rápidas onde você precisa confiar que a informação já foi verificada.\n\nCom NotebookLM: você ganha profundidade e customização. Perfeito quando você quer explorar ângulos diferentes ou fazer pesquisas mais criativas — mas com responsabilidade de validar.\n\n3 dicas para aplicar isso hoje:\n\n✅ Use JusIA para buscas de rotina — quando você precisa de jurisprudência consolidada rápido\n\n✅ Use NotebookLM para pesquisas estratégicas — quando você quer explorar argumentos inovadores (mas sempre validando)\n\n✅ Combine as duas ferramentas — a melhor estratégia é usar ambas complementarmente, não como concorrentes\n\nE você? Já testou essas duas plataformas? Qual sua experiência? Deixa nos comentários! 👇 #shorts"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT34S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "530",
+      "likeCount": "14",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

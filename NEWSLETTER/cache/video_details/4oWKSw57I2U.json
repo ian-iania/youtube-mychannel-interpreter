@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285776.88315,
+  "cache_type": "video_details",
+  "key": "4oWKSw57I2U",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "EkFrQV_fiCJ2KYkm3qWp15adc60",
+    "id": "4oWKSw57I2U",
+    "snippet": {
+      "publishedAt": "2025-11-27T12:00:01Z",
+      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+      "title": "Baleia de gorro: a história da obra na Faria Lima que virou meme de Natal",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4oWKSw57I2U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4oWKSw57I2U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4oWKSw57I2U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4oWKSw57I2U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4oWKSw57I2U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "exame",
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Baleia de gorro: a história da obra na Faria Lima que virou meme de Natal",
+        "description": ""
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT1M39S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "809",
+      "likeCount": "30",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.956995,
+  "cache_type": "video_details",
+  "key": "zMXKhhwiCIc",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "WYP8nB585wJAn_wgAZaewnvmbTI",
+    "id": "zMXKhhwiCIc",
+    "snippet": {
+      "publishedAt": "2025-11-24T20:16:38Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "Backlog.md: Terminal Kanban Board for Managing Tasks with AI Agents — Alex Gavrilescu, Funstage",
+      "description": "Never leave your terminal to create and manage tasks for your AI agents. Backlog.md stores all your tasks as Markdown files in your Git repo. By exposing the main workflows and commands as MCP tools, your AI agents will know how to take tasks from \"To Do\" to \"Done,\" and you will no longer run out of context window or miss important requirements in any of your features.\n\nAlex Gavrilescu leads backend & web engineering at Funstage GmbH in Vienna, keeping millions of free‑to‑play gamers happily tapping. He still ships code, tinkers with Raspberry Pi Kubernetes clusters for fun, and is passionate about weaving project‑management smarts with practical AI. Most recently he created Backlog.md, a micro‑tool that turns side‑project chaos into shippable tasks.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/alexandrugavrilescu\n- X (Twitter): https://x.com/H3xx3n\n- GitHub: https://github.com/MrLesk\n- Website: https://mrlesk.com/\n- Company: Funstage GmbH (https://funstage.com/)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zMXKhhwiCIc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zMXKhhwiCIc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zMXKhhwiCIc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zMXKhhwiCIc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zMXKhhwiCIc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Backlog.md: Terminal Kanban Board for Managing Tasks with AI Agents — Alex Gavrilescu, Funstage",
+        "description": "Never leave your terminal to create and manage tasks for your AI agents. Backlog.md stores all your tasks as Markdown files in your Git repo. By exposing the main workflows and commands as MCP tools, your AI agents will know how to take tasks from \"To Do\" to \"Done,\" and you will no longer run out of context window or miss important requirements in any of your features.\n\nAlex Gavrilescu leads backend & web engineering at Funstage GmbH in Vienna, keeping millions of free‑to‑play gamers happily tapping. He still ships code, tinkers with Raspberry Pi Kubernetes clusters for fun, and is passionate about weaving project‑management smarts with practical AI. Most recently he created Backlog.md, a micro‑tool that turns side‑project chaos into shippable tasks.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/alexandrugavrilescu\n- X (Twitter): https://x.com/H3xx3n\n- GitHub: https://github.com/MrLesk\n- Website: https://mrlesk.com/\n- Company: Funstage GmbH (https://funstage.com/)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT14M19S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1112",
+      "likeCount": "28",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285730.399669,
+  "cache_type": "channel_info",
+  "key": "UCelfWQr9sXVMTvBzviPGlFw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "ZF2ukd4664J3z8Rsu2wNWPqwgiE",
+    "id": "UCelfWQr9sXVMTvBzviPGlFw",
+    "snippet": {
+      "title": "AI LABS",
+      "description": "Welcome to AI Labs, your go-to source for the latest AI tools and models for coding. We explore how AI can save you time in building full-stack applications, making your development process faster and more efficient. Whether you're a beginner or an experienced developer, we help you discover the best AI tools and models tailored to your needs. Subscribe now and join us as we delve into the future of coding with AI!\n\n🌐  Visit our Website: https://ailabs393.com/\n📞  Book a Discovery Call: https://autometa.dev/booking\n",
+      "customUrl": "@ailabs-393",
+      "publishedAt": "2024-09-01T10:56:04.033068Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/FpY6zUC6_gjeae77J4Gpwz20CaTI4pW-r9Gu9-K-HrGSKlHYoYN0riQ6YXSOYejwMry8voolPw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/FpY6zUC6_gjeae77J4Gpwz20CaTI4pW-r9Gu9-K-HrGSKlHYoYN0riQ6YXSOYejwMry8voolPw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/FpY6zUC6_gjeae77J4Gpwz20CaTI4pW-r9Gu9-K-HrGSKlHYoYN0riQ6YXSOYejwMry8voolPw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "AI LABS",
+        "description": "Welcome to AI Labs, your go-to source for the latest AI tools and models for coding. We explore how AI can save you time in building full-stack applications, making your development process faster and more efficient. Whether you're a beginner or an experienced developer, we help you discover the best AI tools and models tailored to your needs. Subscribe now and join us as we delve into the future of coding with AI!\n\n🌐  Visit our Website: https://ailabs393.com/\n📞  Book a Discovery Call: https://autometa.dev/booking\n"
+      },
+      "country": "GB"
+    },
+    "statistics": {
+      "viewCount": "4893632",
+      "subscriberCount": "105000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "171"
+    }
+  }
+}

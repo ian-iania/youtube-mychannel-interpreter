@@ -1,0 +1,83 @@
+{
+  "cached_at": 1764285754.981845,
+  "cache_type": "video_details",
+  "key": "alUEZxzRsvE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "cOebDoFSLPsocNdMYeNftLrSY-o",
+    "id": "alUEZxzRsvE",
+    "snippet": {
+      "publishedAt": "2025-11-21T23:21:58Z",
+      "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+      "title": "Office Hours: Agentic Document Extraction (Nov 20, 2025)",
+      "description": "The ADE Office Hours program is an open Q&A session designed to scale technical support for developers and users of LandingAI’s Agentic Document Extraction (ADE) solution. \n\nOffice Hours sessions are:\n• Informal\n• Interactive\n• Focused on helping users troubleshoot real-world challenges, explore integration patterns\n• A way to get expert advice directly from the ADE team.\n\nThis program complements the structured webinars by focusing on engagement and community building—allowing participants to learn, share, and collaborate in an open environment.\n\n*Chapters*\n00:00: Intro\n03:23: New features\n07:15: Respond to questions submitted in advance \n36:07: DPT-2 mini\n38:48: Builder program\n40:22: Upcoming office hours\n41:08 Async parsing and Parse Jobs\n\n*Resources*\n- Playground: https://va.landing.ai/demo/doc-extraction\n- Docs: https://docs.landing.ai/ade/ade-overview\n- Helper Scripts: https://github.com/landing-ai/ade-helper-scripts\n- Blogs: https://landing.ai/resources\n- Discord: https://discord.com/invite/RVcW3j9RgR\n- Security & Compliance: https://landing.ai/security-at-landingai\n- Trust Center: https://trust.landing.ai/\n- Subscriptions & Pricing: https://landing.ai/pricing-agentic-apis",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/alUEZxzRsvE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/alUEZxzRsvE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/alUEZxzRsvE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/alUEZxzRsvE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "LandingAI",
+      "tags": [
+        "computer vision",
+        "cv",
+        "artificial intelligence",
+        "ai",
+        "agentic",
+        "agents",
+        "ai agents",
+        "agentic document extraction",
+        "ADE",
+        "document intelligence",
+        "document processing",
+        "LandingAI",
+        "Landing AI",
+        "parsing",
+        "parse",
+        "extraction",
+        "extract",
+        "RAG",
+        "Retrieval-Augmented Generation"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Office Hours: Agentic Document Extraction (Nov 20, 2025)",
+        "description": "The ADE Office Hours program is an open Q&A session designed to scale technical support for developers and users of LandingAI’s Agentic Document Extraction (ADE) solution. \n\nOffice Hours sessions are:\n• Informal\n• Interactive\n• Focused on helping users troubleshoot real-world challenges, explore integration patterns\n• A way to get expert advice directly from the ADE team.\n\nThis program complements the structured webinars by focusing on engagement and community building—allowing participants to learn, share, and collaborate in an open environment.\n\n*Chapters*\n00:00: Intro\n03:23: New features\n07:15: Respond to questions submitted in advance \n36:07: DPT-2 mini\n38:48: Builder program\n40:22: Upcoming office hours\n41:08 Async parsing and Parse Jobs\n\n*Resources*\n- Playground: https://va.landing.ai/demo/doc-extraction\n- Docs: https://docs.landing.ai/ade/ade-overview\n- Helper Scripts: https://github.com/landing-ai/ade-helper-scripts\n- Blogs: https://landing.ai/resources\n- Discord: https://discord.com/invite/RVcW3j9RgR\n- Security & Compliance: https://landing.ai/security-at-landingai\n- Trust Center: https://trust.landing.ai/\n- Subscriptions & Pricing: https://landing.ai/pricing-agentic-apis"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT45M31S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "76",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

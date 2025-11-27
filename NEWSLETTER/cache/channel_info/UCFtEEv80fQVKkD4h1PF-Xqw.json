@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285759.667994,
+  "cache_type": "channel_info",
+  "key": "UCFtEEv80fQVKkD4h1PF-Xqw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "Xm7MXGsawh2vKpSrVNPg5GPGuME",
+    "id": "UCFtEEv80fQVKkD4h1PF-Xqw",
+    "snippet": {
+      "title": "Microsoft",
+      "description": "Our mission is to empower every person and every organization on the planet to achieve more.\n\nSubscribe to Microsoft's official YouTube channel to explore technology’s role in making the world more sustainable, inclusive, and innovative for all.\n\n",
+      "customUrl": "@microsoft",
+      "publishedAt": "2006-02-13T05:21:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/qgSeLfJk2OKnQicVDvc_VSlSISmAmWVHYtmSTckcC_iUn7hVfpURctMAqoSz0u4xfER6rlKDBA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/qgSeLfJk2OKnQicVDvc_VSlSISmAmWVHYtmSTckcC_iUn7hVfpURctMAqoSz0u4xfER6rlKDBA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/qgSeLfJk2OKnQicVDvc_VSlSISmAmWVHYtmSTckcC_iUn7hVfpURctMAqoSz0u4xfER6rlKDBA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Microsoft",
+        "description": "Our mission is to empower every person and every organization on the planet to achieve more.\n\nSubscribe to Microsoft's official YouTube channel to explore technology’s role in making the world more sustainable, inclusive, and innovative for all.\n\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "238859232",
+      "subscriberCount": "2180000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1617"
+    }
+  }
+}

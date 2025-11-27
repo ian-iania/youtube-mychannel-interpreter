@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285741.487259,
+  "cache_type": "video_details",
+  "key": "SZz1qC-X1uA",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "BE3gvVzlytP9uwujar5pdLwywhU",
+    "id": "SZz1qC-X1uA",
+    "snippet": {
+      "publishedAt": "2025-11-21T17:49:22Z",
+      "channelId": "UCcIXc5mJsHVYTZR1maL5l9w",
+      "title": "Machine Learning Specialization by DeepLearning.AI",
+      "description": "Enroll in the Machine Learning Specialization 👉 https://bit.ly/4nFHHOF \n\nThis 3-course specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. It's a beginner-friendly program that will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications. \n\nTaught by Andrew Ng, an AI visionary who has led critical research at Stanford University and groundbreaking work at Google Brain, Baidu, and Landing.AI to advance the AI field.\n\nThe specialization provides a broad introduction to modern machine learning, including:\n\nSupervised learning (multiple linear regression, logistic regression, neural networks, and decision trees)\nUnsupervised learning (clustering, dimensionality reduction, recommender systems)\nBest practices for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)\n\nLearn more: https://bit.ly/4nFHHOF\n\nDeepLearning.AI is an education technology company that is empowering the global workforce to build an AI-powered future through world-class education, hands-on training, and a collaborative community.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SZz1qC-X1uA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SZz1qC-X1uA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SZz1qC-X1uA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SZz1qC-X1uA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SZz1qC-X1uA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DeepLearningAI",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Machine Learning Specialization by DeepLearning.AI",
+        "description": "Enroll in the Machine Learning Specialization 👉 https://bit.ly/4nFHHOF \n\nThis 3-course specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. It's a beginner-friendly program that will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications. \n\nTaught by Andrew Ng, an AI visionary who has led critical research at Stanford University and groundbreaking work at Google Brain, Baidu, and Landing.AI to advance the AI field.\n\nThe specialization provides a broad introduction to modern machine learning, including:\n\nSupervised learning (multiple linear regression, logistic regression, neural networks, and decision trees)\nUnsupervised learning (clustering, dimensionality reduction, recommender systems)\nBest practices for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)\n\nLearn more: https://bit.ly/4nFHHOF\n\nDeepLearning.AI is an education technology company that is empowering the global workforce to build an AI-powered future through world-class education, hands-on training, and a collaborative community."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT2M10S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "17201",
+      "likeCount": "822",
+      "favoriteCount": "0",
+      "commentCount": "31"
+    }
+  }
+}

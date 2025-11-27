@@ -1,0 +1,72 @@
+{
+  "cached_at": 1764285753.811651,
+  "cache_type": "video_details",
+  "key": "Bsqf8x3FQRU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "RXJOspv25H70vLdiAOwVz3kq1Og",
+    "id": "Bsqf8x3FQRU",
+    "snippet": {
+      "publishedAt": "2025-11-27T12:00:21Z",
+      "channelId": "UC3M_z-XMGTFMBbCjVLPKkUA",
+      "title": "Google Antigravity + n8n: Criei um Agente Financeiro com a NOVA IA do Google!",
+      "description": "Você já imaginou ter um assistente que organiza suas finanças, categoriza gastos e te dá relatórios, tudo 100% no automático? \n\n🤖💸 Neste vídeo, eu vou te mostrar como usar o NOVO Google Antigravity (a plataforma de agentes do Google) junto com o poder do n8n e do Gemini para criar um Agente Financeiro Autônomo.\n\nNós vamos explorar essa nova IDE do Google que promete revolucionar a programação e ver como ela se comporta criando automações reais. Se você quer dominar a nova era dos Agentes de IA, esse vídeo é obrigatório.\n\nO que você vai aprender:\n\n🚀 O que é o Google Antigravity e como ele funciona.\n⚡ Como integrar o modelo Gemini com n8n.\n\n⭐ APRENDA n8n E AUTOMAÇÃO NA PRÁTICA (ACESSO VITALÍCIO) ⭐\nQuer dominar o n8n, criar automações sem código (low-code) e aumentar sua produtividade?  \n👉 Acesse agora: https://jonathandacruz.com.br/automacao-n8n\n \n#n8n #automacao #gemini",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Bsqf8x3FQRU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Bsqf8x3FQRU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Bsqf8x3FQRU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Bsqf8x3FQRU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Bsqf8x3FQRU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jonathan da Cruz",
+      "tags": [
+        "n8n",
+        "agente de ia",
+        "automação de processos"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Google Antigravity + n8n: Criei um Agente Financeiro com a NOVA IA do Google!",
+        "description": "Você já imaginou ter um assistente que organiza suas finanças, categoriza gastos e te dá relatórios, tudo 100% no automático? \n\n🤖💸 Neste vídeo, eu vou te mostrar como usar o NOVO Google Antigravity (a plataforma de agentes do Google) junto com o poder do n8n e do Gemini para criar um Agente Financeiro Autônomo.\n\nNós vamos explorar essa nova IDE do Google que promete revolucionar a programação e ver como ela se comporta criando automações reais. Se você quer dominar a nova era dos Agentes de IA, esse vídeo é obrigatório.\n\nO que você vai aprender:\n\n🚀 O que é o Google Antigravity e como ele funciona.\n⚡ Como integrar o modelo Gemini com n8n.\n\n⭐ APRENDA n8n E AUTOMAÇÃO NA PRÁTICA (ACESSO VITALÍCIO) ⭐\nQuer dominar o n8n, criar automações sem código (low-code) e aumentar sua produtividade?  \n👉 Acesse agora: https://jonathandacruz.com.br/automacao-n8n\n \n#n8n #automacao #gemini"
+      },
+      "defaultAudioLanguage": "pt"
+    },
+    "contentDetails": {
+      "duration": "PT20M53S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "155",
+      "likeCount": "19",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "cached_at": 1764285743.766028,
+  "cache_type": "video_details",
+  "key": "bsL7ZnKIAhs",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "nse36VTptnvVAFBmSxWOW9iuzUQ",
+    "id": "bsL7ZnKIAhs",
+    "snippet": {
+      "publishedAt": "2025-11-21T19:26:50Z",
+      "channelId": "UCsBjURrPoezykLs9EqgamOA",
+      "title": "Did Google just kill OpenAI?",
+      "description": "Get 20% off Mobbin Pro to make your apps not ugly - https://mobbin.com/fireship\n\nGemini 3 may have just put Google in prime position to have the best-performing AI model by the end of the year. But how powerful is it really?\n\n#ai #coding #tech \n\n💬 Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n🔗 Resources\n- https://blog.google/products/gemini/gemini-3/\n\n🔥 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n🎨 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n🔖 Topics Covered\n- Gemini 3 release\n- Gemini 3 benchmarks\n- Google Antigravity",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bsL7ZnKIAhs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bsL7ZnKIAhs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bsL7ZnKIAhs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bsL7ZnKIAhs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bsL7ZnKIAhs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Fireship",
+      "tags": [
+        "webdev",
+        "app development",
+        "lesson",
+        "tutorial",
+        "gemini 3",
+        "gemini",
+        "google antigravity",
+        "google gemini",
+        "google gemini 3",
+        "google gemini release",
+        "google antigravity release",
+        "google gemini for developers",
+        "google news",
+        "gemini news",
+        "ai",
+        "ai models",
+        "gemini benchmarks",
+        "gemini pro",
+        "programming",
+        "coding",
+        "learn to code"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Did Google just kill OpenAI?",
+        "description": "Get 20% off Mobbin Pro to make your apps not ugly - https://mobbin.com/fireship\n\nGemini 3 may have just put Google in prime position to have the best-performing AI model by the end of the year. But how powerful is it really?\n\n#ai #coding #tech \n\n💬 Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n🔗 Resources\n- https://blog.google/products/gemini/gemini-3/\n\n🔥 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n🎨 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n🔖 Topics Covered\n- Gemini 3 release\n- Gemini 3 benchmarks\n- Google Antigravity"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT4M6S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "860749",
+      "likeCount": "29863",
+      "favoriteCount": "0",
+      "commentCount": "1213"
+    }
+  }
+}

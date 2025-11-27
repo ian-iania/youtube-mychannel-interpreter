@@ -1,0 +1,687 @@
+{
+  "cached_at": 1764285729.781398,
+  "cache_type": "channel_videos",
+  "key": "UCLKPca3kwwd-B59HNr-_lvA_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2YcWhJu7UT6RQ1_p1eoMf61KVRc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xAfp-znTRx8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T18:32:08Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "Music from AIE Code Summit - Instrumentals",
+        "description": "By popular demand, we are releasing our music from the livestream + venue stage -- the instrumental tracks. Comment below if ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xAfp-znTRx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xAfp-znTRx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xAfp-znTRx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T18:32:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lW9GW6FsKe8N2Zc4onQza6FGUx0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fh9LgKXBGnQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:16:36Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "Enterprise Deep Research: The Next Killer App for Enterprise AI — Ofer Mendelevitch, Vectara",
+        "description": "Conversational AI has already proven itself as the first high-ROI enterprise AI application. But the real frontier lies beyond chat ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fh9LgKXBGnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fh9LgKXBGnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fh9LgKXBGnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:16:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9OJw0VHbwdShN2rbvroZmDSEljk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LLuKshphGOE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:16:36Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "Context Engineering: Connecting the Dots with Graphs — Stephen Chin, Neo4j",
+        "description": "AI systems need more than intelligence; they need context. Without it, even the most advanced models can misinterpret ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LLuKshphGOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LLuKshphGOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LLuKshphGOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:16:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ay_Ikz8C6uwu72-touLKfUNsFnY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QRWdapxMdSY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:16:36Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "AI Copilots for Tech Architecture: The Highest-ROI Use Case You’re Not Building — Boris B., Catio",
+        "description": "AI copilots have already changed the game in software development. But the most strategic, highest-leverage use case is still ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QRWdapxMdSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QRWdapxMdSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QRWdapxMdSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:16:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-GUI5lyIHgPmArgxmdmP4883zeg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qqXdLf3wy1E"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:16:38Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "Agents are Robots Too: What Self-Driving Taught Me About Building Agents — Jesse Hu, Abundant",
+        "description": "In this talk, I break down the surprising parallels between robotics and agents: embodiment, statefulness, simulation, and more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qqXdLf3wy1E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qqXdLf3wy1E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qqXdLf3wy1E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:16:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pHIa0DOadDFitto7o2hOfBmwYGg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zMXKhhwiCIc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:16:38Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "Backlog.md: Terminal Kanban Board for Managing Tasks with AI Agents — Alex Gavrilescu, Funstage",
+        "description": "Never leave your terminal to create and manage tasks for your AI agents. Backlog.md stores all your tasks as Markdown files in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zMXKhhwiCIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zMXKhhwiCIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zMXKhhwiCIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:16:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qaR2spSaL9CWkBV3sOJnO-e4Wfo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kWOQS3XPZ10"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:16:36Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "Developing Taste in Coding Agents: Applied Meta Neuro-Symbolic RL — Ahmad Awais, CommandCode",
+        "description": "Your coding agent writes code like an LLM bot. CommandCode writes code like me. Every developer has a coding agent now.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kWOQS3XPZ10/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kWOQS3XPZ10/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kWOQS3XPZ10/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:16:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yy3fUgiRuWXAbkZ30AWkf7XEa_g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zfvEMNmVlNY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:16:38Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "The Unbearable Lightness of Agent Optimization — Alberto Romero, Jointly",
+        "description": "This talk introduces Meta-ACE, a learned meta-optimization framework that dynamically orchestrates multiple strategies (context ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zfvEMNmVlNY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zfvEMNmVlNY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zfvEMNmVlNY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:16:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RkSKGcaKBARqsHTJ1huLl_68hhw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "flf_IKnFYnE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:16:36Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "From Stateless Nightmares to Durable Agents — Samuel Colvin, Pydantic",
+        "description": "Building production AI agents reveals a harsh truth: stateless architectures that work for simple demos become impossibly painful ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/flf_IKnFYnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/flf_IKnFYnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/flf_IKnFYnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:16:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CTGWjR_Y-eSImQpaR11q5c5hGA8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JsKTQbT58BY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:16:36Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "The Cure for the Vibe Coding Hangover — Corey J. Gallon, Rexmore",
+        "description": "Download the slides, soundtrack and other resources from this talk at: https://vibecodinghangover.com Inspiration strikes! You fire ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JsKTQbT58BY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JsKTQbT58BY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JsKTQbT58BY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:16:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OcrYts2dFmnEaDo4PFs96S4iobE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5eJqXtevlXg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:16:36Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "Hacking Subagents Into Codex CLI — Brian John, Betterup",
+        "description": "Subagents are amazing tools for managing context, among other things. But Codex CLI doesn't have them. Let's change that!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5eJqXtevlXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5eJqXtevlXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5eJqXtevlXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:16:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7brQ1x48-zyRhMKLOiG7DXiW_T4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WqZq8L-v9pA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:16:36Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "What Data from 20m Pull Requests Reveal About AI Transformation — Nick Arcolano, Jellyfish",
+        "description": "Engineering teams are spending millions on AI coding tools, but most have no idea what's actually working. Without hard data ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WqZq8L-v9pA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WqZq8L-v9pA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WqZq8L-v9pA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:16:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9w1idSfvOxh5Jk9mul37Nqflfuw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qLqttdO33UM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:16:38Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "Vision: Zero Bugs — Johann Schleier-Smith, Temporal",
+        "description": "Software with zero bugs sounds absurd, or even impossible, in anything but simple situations, but it has been built. For example ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qLqttdO33UM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qLqttdO33UM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qLqttdO33UM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:16:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M6HUz1EbUR8xvWGKV8ApBlDsPUM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NTBX-wxUhHs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:16:36Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "Context Platform Engineering to Reduce Token Anxiety — Val Bercovici, WEKA",
+        "description": "Context Platform Engineering is the set of skills and tools to design, size, and configure systems optimized for Agent Swarm ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NTBX-wxUhHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NTBX-wxUhHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NTBX-wxUhHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:16:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-HfTTD41WYgQL9P4LhPiSWaEAwE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q5IVm_CxN2w"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:16:36Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "Infra that fixes itself, thanks to coding agents — Mahmoud Abdelwahab, Railway",
+        "description": "This talk shows how we built Railway Autofix, a plug-in template you can drop into any Railway project to monitor your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q5IVm_CxN2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q5IVm_CxN2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q5IVm_CxN2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:16:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "INIMwdMU0KDpfM6Y3dXhKkmVM8M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q2nHsJVy4FE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:16:38Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "Compilers in the Age of LLMs — Yusuf Olokoba, Muna",
+        "description": "Python is where ideas start—but it isn't where portable, low-latency software ends. In this talk, I'll show how we use LLMs inside a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q2nHsJVy4FE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q2nHsJVy4FE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q2nHsJVy4FE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:16:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yoXaGgU5lAOgBmMpKsH43Ae0d5s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o3gmwzo-Mik"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T19:44:51Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "AI changes *Nothing* — Dax Raad, OpenCode",
+        "description": "Everyone says AI changes everything. Dax Raad argues that when it comes to building a winning product, AI changes nothing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o3gmwzo-Mik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o3gmwzo-Mik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o3gmwzo-Mik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T19:44:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BefulBiyysSCIJM2rRXALbvtfZw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m6MF1OR_9kM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T15:00:06Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "Z.ai GLM 4.6: What We Learned From 100 Million Open Source Downloads — Yuxuan Zhang, Z.ai",
+        "description": "GLM 4.6 is the only open-source model currently tied for #1 on the LMSYS Chatbot Arena, standing shoulder-to-shoulder with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m6MF1OR_9kM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m6MF1OR_9kM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m6MF1OR_9kM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T15:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JUWwl-6PntCWbvIqOuOfQd5JnGc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xmbSQz-PNMM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T23:10:16Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "AIE CODE Day 2: ft Google Deepmind, Anthropic, Cursor, Netflix, Cline, OpenAI, Meta, and METR",
+        "description": "NOVEMBER 21 - all times in EST * 9:06 am – Opening Remarks Swyx | Organizer, AI Engineer * 9:11 am – Stop Building Agents ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xmbSQz-PNMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xmbSQz-PNMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xmbSQz-PNMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T23:10:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NKyzRo10gx0xf_OgCSfqTbN2JV8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cMSprbJ95jg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T22:36:06Z",
+        "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+        "title": "AIE CODE 2025: AI Leadership ft Anthropic, OpenAI, McKinsey, Bloomberg, Google Deepmind, and Tenex",
+        "description": "Alex Lieberman – Co-founder, @MorningBrew & @tenex_labs – Your Leadership Track MC! Kath Korevec – Engineering ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cMSprbJ95jg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cMSprbJ95jg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cMSprbJ95jg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T22:36:06Z"
+      }
+    }
+  ]
+}

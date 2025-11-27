@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285746.497376,
+  "cache_type": "video_details",
+  "key": "JKW8InX3mdQ",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "ePLwSAKMooo7a7Zgx8pamcB8t9c",
+    "id": "JKW8InX3mdQ",
+    "snippet": {
+      "publishedAt": "2025-11-27T00:00:31Z",
+      "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "title": "Building with Gemini 3, AI Studio, Antigravity, and Nano Banana | The Agent Factory Podcast",
+      "description": "Gemini 3 is here, and it is evolving the way developers build. In this episode of The Agent Factory, host Amit Maraj sits down with Paige Bailey from Google DeepMind to break down the latest rapid fire releases from Google, including the highly anticipated Gemini 3 Pro, Nano Banana Pro, and the new AI-native IDE, Antigravity.\n\nGemini 3 represents a massive leap forward, moving from multimodal understanding (Gemini 1) and reasoning (Gemini 2) to genuine agency and acting. It excels at coding, tool use, and long range planning—as evidenced by its strong performance on a variety of agentic benchmarks.\n\nListen along as Paige builds \"Nordic Shield\"—a multimodal insurance cataloging agent—live in Google AI Studio using the new build feature and Gemini Live. As a bonus, Amit demonstrates how to use the Antigravity IDE to redesign a website using nothing but screenshots and Gemini 3’s multimodal capabilities.\n\nChapters:\n00:00 - Intro & welcome Paige Bailey \n00:42 - Google's new AI releases \n02:49 - What is Gemini 3? (The evolution from 1.0) \n06:48 - The \"Vending Bench\": AI running a business \n11:21 - Demo: Building \"Nordic Shield\" in AI studio \n18:15 - Debugging & \"Auto-Fix\" in action \n21:40 - Using the annotate feature for UI design \n25:17 - Gemini Live & Google Search grounding \n28:34 - Nano Banana Pro: State of the art Image Gen \n30:27 - Demo: Website redesign with Antigravity IDE \n35:41 - The full Google AI stack\n\n🔗  Resources & links mentioned:\n➖ Google’s AI Studio → https://goo.gle/4ixTHR9\n➖ Deploy your Apps to Google Cloud Run →  https://goo.gle/4pdDyCX\n➖ Google’s Antigravity →  https://goo.gle/48m2pNM\n➖ AI Development Documentation  → https://goo.gle/3M0yjYB\n➖ Vending Bench 2  → https://goo.gle/3K13MJI\n➖ Deploy on Google Cloud  → https://goo.gle/4oq7Elv\n➖ Learn more about Vibe Coding and Context Engineering   → https://goo.gle/4iHlOh3\n\nConnect with Amit:\n➖ X → https://goo.gle/3Ki0lhC\n➖ TikTok → https://goo.gle/44ogN6S\n➖ Instagram → https://goo.gle/4reQFoO\nLinkedIn → https://goo.gle/3M2KV1t\n\nConnect with Paige:\n➖ X → https://goo.gle/4odgB1j\n➖ LinkedIn → https://goo.gle/3KrHAbE\n\nJoin the conversation on social media with the hashtag #TheAgentFactory.\n\nConnect with the community at the Google Developer Program forums. → https://goo.gle/4oP9bmb\n\nWatch more Agent Factory → https://www.youtube.com/playlist?list=PLIivdWyY5sqLXR1eSkiM5bE6pFlXC-OSs\n\n🔔 Subscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#Gemini3 #Antigravity #GeminiCLI\n\nSpeakers: Amit Maraj, Paige Bailey\nProducts Mentioned: Gemini, Antigravity, Gemini CLI, Gemini Live",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JKW8InX3mdQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JKW8InX3mdQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JKW8InX3mdQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JKW8InX3mdQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JKW8InX3mdQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Cloud Tech",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Building with Gemini 3, AI Studio, Antigravity, and Nano Banana | The Agent Factory Podcast",
+        "description": "Gemini 3 is here, and it is evolving the way developers build. In this episode of The Agent Factory, host Amit Maraj sits down with Paige Bailey from Google DeepMind to break down the latest rapid fire releases from Google, including the highly anticipated Gemini 3 Pro, Nano Banana Pro, and the new AI-native IDE, Antigravity.\n\nGemini 3 represents a massive leap forward, moving from multimodal understanding (Gemini 1) and reasoning (Gemini 2) to genuine agency and acting. It excels at coding, tool use, and long range planning—as evidenced by its strong performance on a variety of agentic benchmarks.\n\nListen along as Paige builds \"Nordic Shield\"—a multimodal insurance cataloging agent—live in Google AI Studio using the new build feature and Gemini Live. As a bonus, Amit demonstrates how to use the Antigravity IDE to redesign a website using nothing but screenshots and Gemini 3’s multimodal capabilities.\n\nChapters:\n00:00 - Intro & welcome Paige Bailey \n00:42 - Google's new AI releases \n02:49 - What is Gemini 3? (The evolution from 1.0) \n06:48 - The \"Vending Bench\": AI running a business \n11:21 - Demo: Building \"Nordic Shield\" in AI studio \n18:15 - Debugging & \"Auto-Fix\" in action \n21:40 - Using the annotate feature for UI design \n25:17 - Gemini Live & Google Search grounding \n28:34 - Nano Banana Pro: State of the art Image Gen \n30:27 - Demo: Website redesign with Antigravity IDE \n35:41 - The full Google AI stack\n\n🔗  Resources & links mentioned:\n➖ Google’s AI Studio → https://goo.gle/4ixTHR9\n➖ Deploy your Apps to Google Cloud Run →  https://goo.gle/4pdDyCX\n➖ Google’s Antigravity →  https://goo.gle/48m2pNM\n➖ AI Development Documentation  → https://goo.gle/3M0yjYB\n➖ Vending Bench 2  → https://goo.gle/3K13MJI\n➖ Deploy on Google Cloud  → https://goo.gle/4oq7Elv\n➖ Learn more about Vibe Coding and Context Engineering   → https://goo.gle/4iHlOh3\n\nConnect with Amit:\n➖ X → https://goo.gle/3Ki0lhC\n➖ TikTok → https://goo.gle/44ogN6S\n➖ Instagram → https://goo.gle/4reQFoO\nLinkedIn → https://goo.gle/3M2KV1t\n\nConnect with Paige:\n➖ X → https://goo.gle/4odgB1j\n➖ LinkedIn → https://goo.gle/3KrHAbE\n\nJoin the conversation on social media with the hashtag #TheAgentFactory.\n\nConnect with the community at the Google Developer Program forums. → https://goo.gle/4oP9bmb\n\nWatch more Agent Factory → https://www.youtube.com/playlist?list=PLIivdWyY5sqLXR1eSkiM5bE6pFlXC-OSs\n\n🔔 Subscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#Gemini3 #Antigravity #GeminiCLI\n\nSpeakers: Amit Maraj, Paige Bailey\nProducts Mentioned: Gemini, Antigravity, Gemini CLI, Gemini Live"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT36M32S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "11526",
+      "likeCount": "480",
+      "favoriteCount": "0",
+      "commentCount": "44"
+    }
+  }
+}

@@ -1,0 +1,619 @@
+{
+  "cached_at": 1764285744.683136,
+  "cache_type": "channel_videos",
+  "key": "UC0SWcHpA_TA00XUN9qZUn8w_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ktF9ZR_juSMBD6ub1C0wl86B_E0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yVd3rZxuGS0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T13:04:29Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "Genspark Live 2025",
+        "description": "GENSPARK LIVE PRODUCT LAUNCH - November 20, 2025 Join the Genspark team and our friends for our FIRST LIVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yVd3rZxuGS0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yVd3rZxuGS0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yVd3rZxuGS0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T13:04:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c-w27KDjhw0AHMxiO5iWhqcwDvo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lAQmHQr9AdI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:17Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "Genspark AI Sheets 2.0｜あなたのデータ作業を、自動操縦に",
+        "description": "AI Sheets 2.0 登場 - あなた専属のデータアナリスト 使い慣れたExcelが、今や自動操縦に *データ入力* → Web ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lAQmHQr9AdI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lAQmHQr9AdI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lAQmHQr9AdI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mASwjX6sc6p_DvGBNybLPrAMoBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mrtFfpyIznE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:36Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "All-in-one AI workspace: Data analysis to executive briefing in minutes 📊",
+        "description": "So what happens when you put all of this in one workspace? A real-world example: *   Data analysis to executive briefing in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mrtFfpyIznE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mrtFfpyIznE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mrtFfpyIznE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VpvM06D3WZ7vBn4_9ZcuZOVa9pM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LhbbWIrCS-I"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:43Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "젠스파크: 반복업무를 자동화하세요",
+        "description": "오늘날 AI의 문제점: 새로운 기능을 위해 지불하고 학습하며, 기능간 반복된 이동을 통해, 복사 & 붙여넣기를 하고, 여전히 여러분이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LhbbWIrCS-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LhbbWIrCS-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LhbbWIrCS-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HgzkCv2ksiXeDNuDohFu7ygLUmA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4y9_XM86BDc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:20Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "Genspark Teams ｜一緒に構築し、より速く提供",
+        "description": "「final_final_v3」という資料名の悪夢から解放されませんか? Genspark Teams なら、チーム全員がリアルタイムでAIと共に作業 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4y9_XM86BDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4y9_XM86BDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4y9_XM86BDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l-uD1zq_jDLJcpJ-yswWY1zAe6w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u3nOWQDtQX0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:24Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "Genspark AI Inbox｜あなたの受信箱を、自動操縦に",
+        "description": "ローンチイベントの企画に21日間。不可能だと思いますか? 当社のイベントマネージャー、Marianaがやり遂げました - Genspark ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u3nOWQDtQX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u3nOWQDtQX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u3nOWQDtQX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mbOoV0P7uBkpNHiKFtrguOwOjws",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N05p4H6MfDo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:45Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "Genspark: 雑務を自動化しよう",
+        "description": "現在のAIの課題：新しいツールを学び、料金を支払い、ツール間を行き来し、コピー&ペーストを繰り返し、それでも自分で作業を ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N05p4H6MfDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N05p4H6MfDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N05p4H6MfDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yTYN0XG_RC4VtZ4YTuDNtOWhPAg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3550N9VGS5o"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:15Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "All-in-one AI Workspace：📊 データ分析から役員向けブリーフィングまで、数分で完了",
+        "description": "これらすべてを1つのワークスペースにまとめると、何が起こるでしょうか? 実例をご紹介します: *   データ分析から役員向け ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3550N9VGS5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3550N9VGS5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3550N9VGS5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UEvJiAuWkroAu3rhP5YYhLf5jBY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b7CEnij2ycY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:39Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "All-in-one AI workspace:Hiring on autopilot📞",
+        "description": "So what happens when you put all of this in one workspace? A real-world example: *  Hiring on autopilot:* Call For Me conducts ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b7CEnij2ycY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b7CEnij2ycY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b7CEnij2ycY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "62065uu1Hgp_j5Oo7iClBD4vuEs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RWyoXpFm4RI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:12Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "All-in-one AI Workspace:  📞 採用活動を自動操縦",
+        "description": "これらすべてを1つのワークスペースにまとめると、何が起こるでしょうか? 実例をご紹介します: *   採用活動を自動操縦:* Call ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RWyoXpFm4RI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RWyoXpFm4RI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RWyoXpFm4RI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Iax8gKiO-HKtbXFwDEudWCENe-s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T5GsUJw9BeA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:27Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "🚀 Genspark AI Sheets 2.0｜Your Personal Data Analyst",
+        "description": "AI Sheets 2.0 is here - Your Personal Data Analyst * The Excel you know, now on autopilot *Data in* → Web scraping, file ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T5GsUJw9BeA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T5GsUJw9BeA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T5GsUJw9BeA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SJgRk-MSdXU6jU5A24ASQPIyL3o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KHzLctOWbA4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:34Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "🚀 Genspark AI Inbox｜Your inbox, on autopilot",
+        "description": "21 days to plan a launch event. Impossible? Our events manager Mariana just did it - *with Genspark AI Inbox. * Vendor ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KHzLctOWbA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KHzLctOWbA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KHzLctOWbA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "64vUbWzheVP41lY32zloqp7V-ds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q1PjRXPuj1s"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:31Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "🚀 Genspark Teams｜Build together, ship faster",
+        "description": "Done with the \"final_final_v3\" deck nightmare?* Genspark Teams lets your whole team build with AI in real-time. Work together in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q1PjRXPuj1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q1PjRXPuj1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q1PjRXPuj1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z9WDZeN95VbFYHL5G-3te8V384w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Cjv6OIUKmw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:58:57Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "All-in-one AI Workspace: 📞 자동화된 채용",
+        "description": "그럼 만약 이 모든 기능들을 하나의 워크스페이스에 넣으면 어떻게 될까요? 실제 사례: 자동화된 채용: Call For Me기능이 스크리닝 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Cjv6OIUKmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Cjv6OIUKmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Cjv6OIUKmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:58:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jlYrV3h3UB_S-Rg8m5_XEsmUyHc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fO8YB530ykI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:00Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "All-in-one AI Workspace: 📊 몇 분 만에 데이터 분석에서 경영진 브리핑까지",
+        "description": "그럼 만약 이 모든 기능들을 하나의 워크스페이스에 넣으면 어떻게 될까요? 실제 사례: *   몇 분 만에 데이터 분석에서 경영진 브리핑 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fO8YB530ykI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fO8YB530ykI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fO8YB530ykI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jCnUBfhWWnJW8Mbzy2s1jUItsXA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G3z93xRbWfs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:06Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "Genspark Teams｜함께 만들고, 더 빠르게 출시하세요.",
+        "description": "\"최종_찐최종_v3\" 파일 악몽에서 벗어나고 싶으신가요?* 젠스파크 팀즈는 팀 인원 전체가 AI와 함께 실시간으로 작업할 수 있게 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G3z93xRbWfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G3z93xRbWfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G3z93xRbWfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FtbTJE1sj2eXQI1Sw9SW3UEhurE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fOSVMmnBMAw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:03Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "Genspark AI Inbox | 여러분의 수신함을 자동으로 관리하세요",
+        "description": "런칭 이벤트를 계획하는 데 21일….가능할까요? 저희 이벤트 매니저 Mariana는 젠스파크 *AI 수신함과 함께** 해냈습니다. * 이메일 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fOSVMmnBMAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fOSVMmnBMAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fOSVMmnBMAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KTk-jTeUE_J6FG0vRarQw6K89lA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tKhUCKyKWeA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T06:59:09Z",
+        "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+        "title": "Genspark AI 시트 2.0｜ 당신의 개인 데이터 분석가",
+        "description": "AI 시트 2.0 출시 - 당신의 개인 데이터 분석가 * 익숙한 엑셀작업, 이제 자동화 해보세요. *데이터 입력* → 웹 스크래핑, 파일 업로드, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tKhUCKyKWeA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tKhUCKyKWeA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tKhUCKyKWeA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Genspark",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T06:59:09Z"
+      }
+    }
+  ]
+}

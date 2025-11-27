@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285742.956022,
+  "cache_type": "channel_info",
+  "key": "UCU5JicSrEM5A63jkJ2QvGYw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "bMEAN0T8FtQY1UquOkcMVQvIWUU",
+    "id": "UCU5JicSrEM5A63jkJ2QvGYw",
+    "snippet": {
+      "title": "Filipe Deschamps",
+      "description": "Vou fazer você se apaixonar por programação!\n\nMeu último emprego antes de decidir focar 100% no YouTube foi ser CTO do Pagar.me. Lá tive o prazer de ser responsável por um time com mais de 100 pessoas e aprendi MUITO sobre gestão (principalmente gestão de times grandes) e sobre como lidar com tecnologia em escala. Ambos conhecimentos que quero compartilhar nesse canal.\n\n✅ Projetos\n▸ Curso: https://curso.dev\n▸ Newsletter: https://filipedeschamps.com.br/newsletter\n▸ TabNews: https://www.tabnews.com.br\n\n\n✅ CONTATO EXCLUSIVO PARA PUBLICIDADE OU PARCERIAS\n▸ contato  A R R O B A  filipedeschamps.com.br\n\n✅ CONTATO PARA DÚVIDAS GERAIS E SUGESTÕES\n▸ Utilizar comentário no YouTube, pois desta forma outras pessoas poderão se beneficiar de ler a pergunta e resposta, inclusive poderão participar adicionando novos pontos de vista ou novas dúvidas.\n",
+      "customUrl": "@filipedeschamps",
+      "publishedAt": "2015-04-15T00:30:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_l2dYLob_k5biaqXR_dOPX6yOtT1PPOo4l4fw5-NaPe-A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_l2dYLob_k5biaqXR_dOPX6yOtT1PPOo4l4fw5-NaPe-A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_l2dYLob_k5biaqXR_dOPX6yOtT1PPOo4l4fw5-NaPe-A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Filipe Deschamps",
+        "description": "Vou fazer você se apaixonar por programação!\n\nMeu último emprego antes de decidir focar 100% no YouTube foi ser CTO do Pagar.me. Lá tive o prazer de ser responsável por um time com mais de 100 pessoas e aprendi MUITO sobre gestão (principalmente gestão de times grandes) e sobre como lidar com tecnologia em escala. Ambos conhecimentos que quero compartilhar nesse canal.\n\n✅ Projetos\n▸ Curso: https://curso.dev\n▸ Newsletter: https://filipedeschamps.com.br/newsletter\n▸ TabNews: https://www.tabnews.com.br\n\n\n✅ CONTATO EXCLUSIVO PARA PUBLICIDADE OU PARCERIAS\n▸ contato  A R R O B A  filipedeschamps.com.br\n\n✅ CONTATO PARA DÚVIDAS GERAIS E SUGESTÕES\n▸ Utilizar comentário no YouTube, pois desta forma outras pessoas poderão se beneficiar de ler a pergunta e resposta, inclusive poderão participar adicionando novos pontos de vista ou novas dúvidas.\n"
+      },
+      "country": "BR"
+    },
+    "statistics": {
+      "viewCount": "48740383",
+      "subscriberCount": "821000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "514"
+    }
+  }
+}

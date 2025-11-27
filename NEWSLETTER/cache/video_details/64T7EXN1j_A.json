@@ -1,0 +1,84 @@
+{
+  "cached_at": 1764285758.946219,
+  "cache_type": "video_details",
+  "key": "64T7EXN1j_A",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "aN1ImsEHH3Yo3lvLkCHyf2UVEqA",
+    "id": "64T7EXN1j_A",
+    "snippet": {
+      "publishedAt": "2025-11-26T20:00:00Z",
+      "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "title": "Figure Robotics FIRED Their Head of Safety (Lawsuit)",
+      "description": "Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/dell-ai-factory-with-nvidia\n\nDownload The Subtle Art of Not Being Replaced 👇🏼\nhttp://bit.ly/3WLNzdV\n\nDownload Humanities Last Prompt Engineering Guide 👇🏼\nhttps://bit.ly/4kFhajz\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nDiscover The Best AI Tools👇🏼\nhttps://tools.forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forward_future_\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/xxysSXBxFW\n👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/64T7EXN1j_A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/64T7EXN1j_A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/64T7EXN1j_A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/64T7EXN1j_A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/64T7EXN1j_A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Matthew Berman",
+      "tags": [
+        "ai",
+        "llm",
+        "artificial intelligence",
+        "large language model",
+        "openai",
+        "mistral",
+        "chatgpt",
+        "ai news",
+        "claude",
+        "anthropic",
+        "apple ai",
+        "apple intelligence",
+        "llama",
+        "meta ai",
+        "google ai"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "Figure Robotics FIRED Their Head of Safety (Lawsuit)",
+        "description": "Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/dell-ai-factory-with-nvidia\n\nDownload The Subtle Art of Not Being Replaced 👇🏼\nhttp://bit.ly/3WLNzdV\n\nDownload Humanities Last Prompt Engineering Guide 👇🏼\nhttps://bit.ly/4kFhajz\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nDiscover The Best AI Tools👇🏼\nhttps://tools.forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forward_future_\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/xxysSXBxFW\n👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT19M31S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "15605",
+      "likeCount": "529",
+      "favoriteCount": "0",
+      "commentCount": "138"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "cached_at": 1764285767.251147,
+  "cache_type": "video_details",
+  "key": "KQ1nXVT8iJM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "2UFfajzqdvT7HoCuok8-Kb2cNqQ",
+    "id": "KQ1nXVT8iJM",
+    "snippet": {
+      "publishedAt": "2025-11-21T23:27:38Z",
+      "channelId": "UCUBqu_z5uP0AZhYtuyFZB3g",
+      "title": "How to Build Custom Workflows | Runway Academy",
+      "description": "Learn how to build custom workflows in Runway.\n\n—\n\nrunwayml.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KQ1nXVT8iJM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KQ1nXVT8iJM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KQ1nXVT8iJM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KQ1nXVT8iJM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KQ1nXVT8iJM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Runway",
+      "tags": [
+        "AI",
+        "Runway",
+        "ML",
+        "content creation",
+        "gen-1",
+        "gen-2",
+        "generative ai",
+        "generative video",
+        "generate video",
+        "video editing",
+        "vfx",
+        "ai video editing"
+      ],
+      "categoryId": "1",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "How to Build Custom Workflows | Runway Academy",
+        "description": "Learn how to build custom workflows in Runway.\n\n—\n\nrunwayml.com"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT4M3S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "5530",
+      "likeCount": "135",
+      "favoriteCount": "0",
+      "commentCount": "9"
+    }
+  }
+}

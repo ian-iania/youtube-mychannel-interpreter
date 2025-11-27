@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285752.052279,
+  "cache_type": "video_details",
+  "key": "ZK4Z9GSK8JQ",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "FbF8ZG_MByg3UGC0hNkH1ceWHdg",
+    "id": "ZK4Z9GSK8JQ",
+    "snippet": {
+      "publishedAt": "2025-11-23T21:00:34Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "A Mantiqueira e a JBS estão fazendo um investimento estratégico em ovos no mercado americano",
+      "description": "A Mantiqueira e a JBS estão fazendo um investimento estratégico em ovos no mercado americano. 🐣🍳🇺🇸\n\n#ovos #proteína #negócios",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZK4Z9GSK8JQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZK4Z9GSK8JQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZK4Z9GSK8JQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZK4Z9GSK8JQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZK4Z9GSK8JQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "A Mantiqueira e a JBS estão fazendo um investimento estratégico em ovos no mercado americano",
+        "description": "A Mantiqueira e a JBS estão fazendo um investimento estratégico em ovos no mercado americano. 🐣🍳🇺🇸\n\n#ovos #proteína #negócios"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT1M44S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "7297",
+      "likeCount": "582",
+      "favoriteCount": "0",
+      "commentCount": "10"
+    }
+  }
+}

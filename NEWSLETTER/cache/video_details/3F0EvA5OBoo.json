@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285738.930913,
+  "cache_type": "video_details",
+  "key": "3F0EvA5OBoo",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Rj4QTXdPN0zo6lcJbuecO2QNYoM",
+    "id": "3F0EvA5OBoo",
+    "snippet": {
+      "publishedAt": "2025-11-24T14:37:58Z",
+      "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+      "title": "Programming #programming #coding",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3F0EvA5OBoo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3F0EvA5OBoo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3F0EvA5OBoo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3F0EvA5OBoo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3F0EvA5OBoo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Data Science in your pocket",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-IN",
+      "localized": {
+        "title": "Programming #programming #coding",
+        "description": ""
+      },
+      "defaultAudioLanguage": "en-IN"
+    },
+    "contentDetails": {
+      "duration": "PT4S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "3566",
+      "likeCount": "28",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

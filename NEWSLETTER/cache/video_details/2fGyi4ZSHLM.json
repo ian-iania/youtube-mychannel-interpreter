@@ -1,0 +1,70 @@
+{
+  "cached_at": 1764285771.5679228,
+  "cache_type": "video_details",
+  "key": "2fGyi4ZSHLM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "SwjA3Yu_rFXVsTlg4pifrsVAciA",
+    "id": "2fGyi4ZSHLM",
+    "snippet": {
+      "publishedAt": "2025-11-23T17:29:11Z",
+      "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+      "title": "Have you used this Python feature?",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim\n\n🎞 Video Resources 🎞\n\n⏳ Timestamps ⏳\n\nHashtags",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2fGyi4ZSHLM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2fGyi4ZSHLM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2fGyi4ZSHLM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2fGyi4ZSHLM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2fGyi4ZSHLM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tech With Tim",
+      "tags": [
+        "tech with tim"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Have you used this Python feature?",
+        "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim\n\n🎞 Video Resources 🎞\n\n⏳ Timestamps ⏳\n\nHashtags"
+      },
+      "defaultAudioLanguage": "en-CA"
+    },
+    "contentDetails": {
+      "duration": "PT1M13S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "17669",
+      "likeCount": "413",
+      "favoriteCount": "0",
+      "commentCount": "8"
+    }
+  }
+}

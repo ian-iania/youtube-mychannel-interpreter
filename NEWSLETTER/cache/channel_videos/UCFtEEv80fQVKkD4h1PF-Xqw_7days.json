@@ -1,0 +1,211 @@
+{
+  "cached_at": 1764285759.899596,
+  "cache_type": "channel_videos",
+  "key": "UCFtEEv80fQVKkD4h1PF-Xqw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Tq9nOA67yDOoXiJlcUAuy4QpIqk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TuuJ6MBbYx4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T16:50:41Z",
+        "channelId": "UCFtEEv80fQVKkD4h1PF-Xqw",
+        "title": "OneApp. Endless Support for Teachers",
+        "description": "Teach For America is reimagining how it supports teachers, so they can focus less on juggling systems and more on the students ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TuuJ6MBbYx4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TuuJ6MBbYx4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TuuJ6MBbYx4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T16:50:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mUf-9IwSwdM90V0ZvkW9BxG3WcI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8wuGSl2kO-A"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T21:59:19Z",
+        "channelId": "UCFtEEv80fQVKkD4h1PF-Xqw",
+        "title": "GRWM: Alix Earle Mico edition 👠✨ Download the Copilot app to meet the Alix Earle custom Mico",
+        "description": "Download Copilot at link in bio. #microsoft #microsoftcopilot #copilot #alixearle.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8wuGSl2kO-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8wuGSl2kO-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8wuGSl2kO-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T21:59:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MlfiGkByZ4JfEd0_QxD_DBNGvF0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kYg91hrMWGE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T17:01:23Z",
+        "channelId": "UCFtEEv80fQVKkD4h1PF-Xqw",
+        "title": "When there&#39;s no playbook for AI, what leads the way?",
+        "description": "microsoft #ai #manager #management Subscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube Follow us ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kYg91hrMWGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kYg91hrMWGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kYg91hrMWGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T17:01:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uyh61dyu2lh8Gu1zvnyuMzXnR8U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OBgYzaMQbQY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T17:00:41Z",
+        "channelId": "UCFtEEv80fQVKkD4h1PF-Xqw",
+        "title": "Harvard&#39;s Raffaella Sadun on why it&#39;s so hard to become an AI-first organization",
+        "description": "The journey to becoming a Frontier Firm requires leaders to reimagine every aspect of their organization - quickly and without a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OBgYzaMQbQY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OBgYzaMQbQY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OBgYzaMQbQY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T17:00:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "32U1h_FQt7rNZSiFPh2FCojKzFw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iutE3zObbGw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T22:50:20Z",
+        "channelId": "UCFtEEv80fQVKkD4h1PF-Xqw",
+        "title": "What tradition will Ed Policy, President and CEO of the #greenbaypackers , miss the most?",
+        "description": "Subscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube Follow us on social: LinkedIn: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iutE3zObbGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iutE3zObbGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iutE3zObbGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T22:50:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-sN94Ov9Pcxv_5YfdmDrnhttdoQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fKnk37l7CFE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T20:49:14Z",
+        "channelId": "UCFtEEv80fQVKkD4h1PF-Xqw",
+        "title": "NFL&#39;s tech revolution - from chalkboards to tablets #nfl #microsoft",
+        "description": "Ed Policy, president and CEO of the Green Bay Packers, explains the shift from old-school chalkboards to cutting-edge ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fKnk37l7CFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fKnk37l7CFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fKnk37l7CFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T20:49:14Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "cached_at": 1764285752.053011,
+  "cache_type": "video_details",
+  "key": "EyKvvWlEmyM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "j8ZQdcLgJDfrW61eL1kNOTBgEsw",
+    "id": "EyKvvWlEmyM",
+    "snippet": {
+      "publishedAt": "2025-11-21T21:00:32Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "Duas gigantes do e-commerce, Americanas e Magalu, uniram forças para reconquistar terreno no mercado",
+      "description": "Duas gigantes do e-commerce uniram forças em um negócio vantajoso para todas as partes.  #americanas #magalu #ecommerce",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EyKvvWlEmyM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EyKvvWlEmyM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EyKvvWlEmyM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EyKvvWlEmyM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EyKvvWlEmyM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "tags": [
+        "americanas",
+        "ecommerce",
+        "magalu"
+      ],
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Duas gigantes do e-commerce, Americanas e Magalu, uniram forças para reconquistar terreno no mercado",
+        "description": "Duas gigantes do e-commerce uniram forças em um negócio vantajoso para todas as partes.  #americanas #magalu #ecommerce"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT2M12S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "11684",
+      "likeCount": "1008",
+      "favoriteCount": "0",
+      "commentCount": "31"
+    }
+  }
+}

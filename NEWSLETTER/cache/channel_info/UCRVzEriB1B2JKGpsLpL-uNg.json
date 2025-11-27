@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285761.99249,
+  "cache_type": "channel_info",
+  "key": "UCRVzEriB1B2JKGpsLpL-uNg",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "GUMtKvjYao9DzTRRf3xCpbnJf-g",
+    "id": "UCRVzEriB1B2JKGpsLpL-uNg",
+    "snippet": {
+      "title": "Onde eu Clico",
+      "description": "🖱️O Onde eu Clico é um canal dedicado a mostrar, na prática, como a inteligência artificial está mudando o nosso dia a dia. Aqui você encontra análises diretas, tutoriais completos e demonstrações reais de ferramentas de IA — geração de imagens, modelos avançados, agentes autônomos, produtividade, automações e muito mais.\nO objetivo é simples: explicar IA sem complicação, com exemplos úteis, linguagem clara e conteúdo pensado para quem quer aprender, trabalhar melhor e explorar todo o potencial das novas tecnologias.\nSe você quer se atualizar, entender os lançamentos mais importantes e aproveitar o que existe de mais avançado em IA, este é o seu lugar.\nInscreva-se e faça parte da nova era da inteligência artificial🤖\n",
+      "customUrl": "@ondeeuclico",
+      "publishedAt": "2020-04-27T02:38:33.438042Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/LzPz1qUjDSxiwcVob5A0u9OZyulgtc5Zy6qgLEleWHfCyz0oQr1ytDdra5_ETA3uecoXqjxdzA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/LzPz1qUjDSxiwcVob5A0u9OZyulgtc5Zy6qgLEleWHfCyz0oQr1ytDdra5_ETA3uecoXqjxdzA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/LzPz1qUjDSxiwcVob5A0u9OZyulgtc5Zy6qgLEleWHfCyz0oQr1ytDdra5_ETA3uecoXqjxdzA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Onde eu Clico",
+        "description": "🖱️O Onde eu Clico é um canal dedicado a mostrar, na prática, como a inteligência artificial está mudando o nosso dia a dia. Aqui você encontra análises diretas, tutoriais completos e demonstrações reais de ferramentas de IA — geração de imagens, modelos avançados, agentes autônomos, produtividade, automações e muito mais.\nO objetivo é simples: explicar IA sem complicação, com exemplos úteis, linguagem clara e conteúdo pensado para quem quer aprender, trabalhar melhor e explorar todo o potencial das novas tecnologias.\nSe você quer se atualizar, entender os lançamentos mais importantes e aproveitar o que existe de mais avançado em IA, este é o seu lugar.\nInscreva-se e faça parte da nova era da inteligência artificial🤖\n"
+      },
+      "country": "BR"
+    },
+    "statistics": {
+      "viewCount": "34055492",
+      "subscriberCount": "399000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1453"
+    }
+  }
+}

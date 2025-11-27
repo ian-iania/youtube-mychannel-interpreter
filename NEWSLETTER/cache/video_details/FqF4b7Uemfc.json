@@ -1,0 +1,71 @@
+{
+  "cached_at": 1764285750.0486321,
+  "cache_type": "video_details",
+  "key": "FqF4b7Uemfc",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "npNoHq2wfa8u1RMlZ9eCSulauVQ",
+    "id": "FqF4b7Uemfc",
+    "snippet": {
+      "publishedAt": "2025-11-25T12:00:36Z",
+      "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "title": "Agentic AI & LLMs Power Real‑Time Insights at Wimbledon & US Open",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam → https://ibm.biz/BdbnGU\n\nLearn more about Real-Time Data here → https://ibm.biz/BdbnG5\n\nA new kind of AI took the court 🎾. Aaron Baughman shares how agentic AI, LLMs, and predictive modeling power real‑time insights at Wimbledon and the US Open—blending analytics, architecture, and innovation into intelligent fan experiences.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdbnGN\n\n#agenticai #llm #usopen #wimbledon",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FqF4b7Uemfc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FqF4b7Uemfc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FqF4b7Uemfc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FqF4b7Uemfc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FqF4b7Uemfc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "IBM Technology",
+      "tags": [
+        "IBM",
+        "IBM Cloud"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Agentic AI & LLMs Power Real‑Time Insights at Wimbledon & US Open",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam → https://ibm.biz/BdbnGU\n\nLearn more about Real-Time Data here → https://ibm.biz/BdbnG5\n\nA new kind of AI took the court 🎾. Aaron Baughman shares how agentic AI, LLMs, and predictive modeling power real‑time insights at Wimbledon and the US Open—blending analytics, architecture, and innovation into intelligent fan experiences.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdbnGN\n\n#agenticai #llm #usopen #wimbledon"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT18M5S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4702",
+      "likeCount": "167",
+      "favoriteCount": "0",
+      "commentCount": "10"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285742.875623,
+  "cache_type": "video_details",
+  "key": "4o_Gt5yNYEE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "xVAwdM--QqMlgKVx7wjHTawOxpQ",
+    "id": "4o_Gt5yNYEE",
+    "snippet": {
+      "publishedAt": "2025-11-20T20:49:42Z",
+      "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+      "title": "Olmo 3: America's Alternative to Qwen",
+      "description": "This video tests Olmo3 model which are striving to become champion of open-source and AI transparency.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#olmo3 \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://huggingface.co/collections/allenai/olmo-3\n\nAll rights reserved © Fahd Mirza",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4o_Gt5yNYEE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4o_Gt5yNYEE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4o_Gt5yNYEE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4o_Gt5yNYEE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4o_Gt5yNYEE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Fahd Mirza",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Olmo 3: America's Alternative to Qwen",
+        "description": "This video tests Olmo3 model which are striving to become champion of open-source and AI transparency.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#olmo3 \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://huggingface.co/collections/allenai/olmo-3\n\nAll rights reserved © Fahd Mirza"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT10M47S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "3261",
+      "likeCount": "125",
+      "favoriteCount": "0",
+      "commentCount": "9"
+    }
+  }
+}

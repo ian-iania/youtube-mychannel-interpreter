@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285742.87219,
+  "cache_type": "video_details",
+  "key": "sO0UVLQkx5E",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "u_FN-DtO5pTWCOdO0_dmCgfK2s0",
+    "id": "sO0UVLQkx5E",
+    "snippet": {
+      "publishedAt": "2025-11-25T08:01:13Z",
+      "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+      "title": "How-To Install NVIDIA NeMo 2 with Local Inference: Easy Step-by-Step Tutorial",
+      "description": "In this step-by-step tutorial, I’ll show you how to install and do inference with NVIDIA Nemo locally.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#nvidiatriton #nvidia #dcgm #nvidianemo #nemo2 \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://www.nvidia.com/en-us/gpu-cloud/\n\nAll rights reserved © Fahd Mirza",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sO0UVLQkx5E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sO0UVLQkx5E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sO0UVLQkx5E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sO0UVLQkx5E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sO0UVLQkx5E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Fahd Mirza",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "How-To Install NVIDIA NeMo 2 with Local Inference: Easy Step-by-Step Tutorial",
+        "description": "In this step-by-step tutorial, I’ll show you how to install and do inference with NVIDIA Nemo locally.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#nvidiatriton #nvidia #dcgm #nvidianemo #nemo2 \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://www.nvidia.com/en-us/gpu-cloud/\n\nAll rights reserved © Fahd Mirza"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT9M56S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "979",
+      "likeCount": "55",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

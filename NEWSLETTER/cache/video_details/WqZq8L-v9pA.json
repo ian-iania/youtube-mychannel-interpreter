@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.958137,
+  "cache_type": "video_details",
+  "key": "WqZq8L-v9pA",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "FAJco2Y7_E5RP-CHtrpBVGL86Fg",
+    "id": "WqZq8L-v9pA",
+    "snippet": {
+      "publishedAt": "2025-11-24T20:16:36Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "What Data from 20m Pull Requests Reveal About AI Transformation — Nick Arcolano, Jellyfish",
+      "description": "Engineering teams are spending millions on AI coding tools, but most have no idea what's actually working. Without hard data, you're flying blind – unable to tell which teams are actually using AI effectively. But what if you had access to workflow data from 200,000 engineers and 20 million pull requests across a thousand companies?\n\nIn this talk, we'll share insights from usage data spanning the entire AI engineering ecosystem. We've observed significant productivity gains at scale, including a 2x increase in PR throughput and 24% faster cycle times on average.\n\nYou'll learn what \"good\" adoption looks like (hint: autonomous agents aren't there yet), what productivity gains are possible, and what side effects to expect. More importantly, we'll explore why some teams don't see these gains. We'll show how your code architecture\" is a critical, often overlooked factor.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/arcolano/\n- X (Twitter): https://x.com/arcolano\n- GitHub: https://github.com/arcolano\n- Company: Jellyfish (https://jellyfish.co)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WqZq8L-v9pA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WqZq8L-v9pA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WqZq8L-v9pA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WqZq8L-v9pA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WqZq8L-v9pA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "What Data from 20m Pull Requests Reveal About AI Transformation — Nick Arcolano, Jellyfish",
+        "description": "Engineering teams are spending millions on AI coding tools, but most have no idea what's actually working. Without hard data, you're flying blind – unable to tell which teams are actually using AI effectively. But what if you had access to workflow data from 200,000 engineers and 20 million pull requests across a thousand companies?\n\nIn this talk, we'll share insights from usage data spanning the entire AI engineering ecosystem. We've observed significant productivity gains at scale, including a 2x increase in PR throughput and 24% faster cycle times on average.\n\nYou'll learn what \"good\" adoption looks like (hint: autonomous agents aren't there yet), what productivity gains are possible, and what side effects to expect. More importantly, we'll explore why some teams don't see these gains. We'll show how your code architecture\" is a critical, often overlooked factor.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/arcolano/\n- X (Twitter): https://x.com/arcolano\n- GitHub: https://github.com/arcolano\n- Company: Jellyfish (https://jellyfish.co)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT17M57S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "717",
+      "likeCount": "18",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

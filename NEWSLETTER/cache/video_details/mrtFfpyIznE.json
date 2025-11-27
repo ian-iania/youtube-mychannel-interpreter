@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285744.838179,
+  "cache_type": "video_details",
+  "key": "mrtFfpyIznE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "F7xn6hkBkcP_eP1towIkZ69aQDU",
+    "id": "mrtFfpyIznE",
+    "snippet": {
+      "publishedAt": "2025-11-21T06:59:36Z",
+      "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+      "title": "All-in-one AI workspace: Data analysis to executive briefing in minutes 📊",
+      "description": "So what happens when you put all of this in one workspace?\n\nA real-world example:\n\n*📊 Data analysis to executive briefing in minutes:* AI Sheets analyzes sales data → Hub synthesizes insights → AI Slides creates executive deck → Voice Your Slides turns it into a narrated video briefing\n\nOne AI workspace. Jobs get done. ✨\n\nTry it: http://genspark.ai/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mrtFfpyIznE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mrtFfpyIznE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mrtFfpyIznE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mrtFfpyIznE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mrtFfpyIznE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Genspark",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "All-in-one AI workspace: Data analysis to executive briefing in minutes 📊",
+        "description": "So what happens when you put all of this in one workspace?\n\nA real-world example:\n\n*📊 Data analysis to executive briefing in minutes:* AI Sheets analyzes sales data → Hub synthesizes insights → AI Slides creates executive deck → Voice Your Slides turns it into a narrated video briefing\n\nOne AI workspace. Jobs get done. ✨\n\nTry it: http://genspark.ai/"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M41S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1348",
+      "likeCount": "30",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

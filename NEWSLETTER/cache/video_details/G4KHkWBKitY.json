@@ -1,0 +1,73 @@
+{
+  "cached_at": 1764285752.053327,
+  "cache_type": "video_details",
+  "key": "G4KHkWBKitY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "fsvnSNyhUE8gNsUucdrSOhV4Dqg",
+    "id": "G4KHkWBKitY",
+    "snippet": {
+      "publishedAt": "2025-11-20T21:00:31Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "O Whatsapp está ganhando o mercado da Apple nos Estado Unidos.",
+      "description": "O Whatsapp está ganhando o mercado da Apple nos Estado Unidos.\n\n#whatsapp #apple #eua",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G4KHkWBKitY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G4KHkWBKitY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G4KHkWBKitY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/G4KHkWBKitY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/G4KHkWBKitY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "tags": [
+        "apple",
+        "eua",
+        "imessage",
+        "whatsapp"
+      ],
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "O Whatsapp está ganhando o mercado da Apple nos Estado Unidos.",
+        "description": "O Whatsapp está ganhando o mercado da Apple nos Estado Unidos.\n\n#whatsapp #apple #eua"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT1M46S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "11905",
+      "likeCount": "907",
+      "favoriteCount": "0",
+      "commentCount": "20"
+    }
+  }
+}

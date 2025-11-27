@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285744.838642,
+  "cache_type": "video_details",
+  "key": "u3nOWQDtQX0",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "jHRIkI9c396tgrTe5pt0iKpebss",
+    "id": "u3nOWQDtQX0",
+    "snippet": {
+      "publishedAt": "2025-11-21T06:59:24Z",
+      "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+      "title": "Genspark AI Inbox｜あなたの受信箱を、自動操縦に",
+      "description": "ローンチイベントの企画に21日間。不可能だと思いますか?\n\n当社のイベントマネージャー、Marianaがやり遂げました - Genspark AI Inboxを使って。🚀\n\nメールの添付ファイルに埋もれたベンダー契約書? Genspark が見つけ出し、並べて比較し、交渉メールの下書きまで作成しました。スレッド全体に散らばったタスクの更新情報? スケジュールエージェントがすべて自動追跡し、日次ダッシュボードにまとめました。\n\n1つのプロンプト。仕事完了。あなたの受信箱を、自動操縦に。✨\n\nAI Inboxをトライ: https://www.genspark.ai/ai_inbox",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/u3nOWQDtQX0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/u3nOWQDtQX0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/u3nOWQDtQX0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/u3nOWQDtQX0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/u3nOWQDtQX0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Genspark",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ja",
+      "localized": {
+        "title": "Genspark AI Inbox｜あなたの受信箱を、自動操縦に",
+        "description": "ローンチイベントの企画に21日間。不可能だと思いますか?\n\n当社のイベントマネージャー、Marianaがやり遂げました - Genspark AI Inboxを使って。🚀\n\nメールの添付ファイルに埋もれたベンダー契約書? Genspark が見つけ出し、並べて比較し、交渉メールの下書きまで作成しました。スレッド全体に散らばったタスクの更新情報? スケジュールエージェントがすべて自動追跡し、日次ダッシュボードにまとめました。\n\n1つのプロンプト。仕事完了。あなたの受信箱を、自動操縦に。✨\n\nAI Inboxをトライ: https://www.genspark.ai/ai_inbox"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M50S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "847",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

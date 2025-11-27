@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.95715,
+  "cache_type": "video_details",
+  "key": "kWOQS3XPZ10",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "g3Ip_RszPk7HfOZW-0f0rEkr16Q",
+    "id": "kWOQS3XPZ10",
+    "snippet": {
+      "publishedAt": "2025-11-24T20:16:36Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "Developing Taste in Coding Agents: Applied Meta Neuro-Symbolic RL — Ahmad Awais, CommandCode",
+      "description": "Your coding agent writes code like an LLM bot. CommandCode writes code like me.\n\nEvery developer has a coding agent now. What if your coding agent actually had taste? What if it understood not just what you're building, but how you like to build it? Your weird naming conventions. Your obsession with early returns. That thing you do where you always extract utilities before they get messy. Your coding taste.\n\nI've been building coding agents since Greg Brockman gave me GPT-3 access in 2020. Started as a CLI tool I used every day. Five years later, we've deployed over 350K agents through Langbase, and I've learned something crucial: the best agents don't just write code—they develop taste.\n\nIn this talk, I'll share what we've learned about building agents that actually feel like they know you. We'll dive into the architecture patterns that make this possible: contextual memory systems, preference learning loops, and what I call \"engineering intuition\"—going way beyond the typical \"agents.md\" approach.\n\nIt's about building agents that evolve with you, remember your decisions, and start making choices that feel like your own. By the end, you'll understand how to build coding agents that can develop taste. It's battle-tested insights from one of the largest deployment of AI agents in production today.\n\nAhmad Awais is an award-winning open-source engineering leader, founder & CEO of Langbase.com (AI Cloud powering 350K+ AI agents), Creator of CommandCode.ai. NASA Mars Ingenuity Helicopter mission code-contributor. Angel investor. Ex-VP DX, Google Developers Advisory Board founding member and Board Member Linux Foundation & OpenAPI Initiative. Ahmad has authored various open-source software tools used by millions of developers worldwide, like his Shades of Purple code theme (4M Dev Users), corona-cli (10+ Billion Requests), and now Langbase (1.2Billion/mo agent runs). He’s a Google Devs Expert and 5x recipient of the 8th GitHub Stars Gold award.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/MrAhmadAwais/\n- X (Twitter): https://x.com/_AhmadAwais\n- GitHub: https://github.com/AhmadAwais\n- Website: https://AhmadAwais.com/about\n- Company: CommandCode.ai | Langbase (https://commandcode.ai)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kWOQS3XPZ10/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kWOQS3XPZ10/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kWOQS3XPZ10/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kWOQS3XPZ10/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kWOQS3XPZ10/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Developing Taste in Coding Agents: Applied Meta Neuro-Symbolic RL — Ahmad Awais, CommandCode",
+        "description": "Your coding agent writes code like an LLM bot. CommandCode writes code like me.\n\nEvery developer has a coding agent now. What if your coding agent actually had taste? What if it understood not just what you're building, but how you like to build it? Your weird naming conventions. Your obsession with early returns. That thing you do where you always extract utilities before they get messy. Your coding taste.\n\nI've been building coding agents since Greg Brockman gave me GPT-3 access in 2020. Started as a CLI tool I used every day. Five years later, we've deployed over 350K agents through Langbase, and I've learned something crucial: the best agents don't just write code—they develop taste.\n\nIn this talk, I'll share what we've learned about building agents that actually feel like they know you. We'll dive into the architecture patterns that make this possible: contextual memory systems, preference learning loops, and what I call \"engineering intuition\"—going way beyond the typical \"agents.md\" approach.\n\nIt's about building agents that evolve with you, remember your decisions, and start making choices that feel like your own. By the end, you'll understand how to build coding agents that can develop taste. It's battle-tested insights from one of the largest deployment of AI agents in production today.\n\nAhmad Awais is an award-winning open-source engineering leader, founder & CEO of Langbase.com (AI Cloud powering 350K+ AI agents), Creator of CommandCode.ai. NASA Mars Ingenuity Helicopter mission code-contributor. Angel investor. Ex-VP DX, Google Developers Advisory Board founding member and Board Member Linux Foundation & OpenAPI Initiative. Ahmad has authored various open-source software tools used by millions of developers worldwide, like his Shades of Purple code theme (4M Dev Users), corona-cli (10+ Billion Requests), and now Langbase (1.2Billion/mo agent runs). He’s a Google Devs Expert and 5x recipient of the 8th GitHub Stars Gold award.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/MrAhmadAwais/\n- X (Twitter): https://x.com/_AhmadAwais\n- GitHub: https://github.com/AhmadAwais\n- Website: https://AhmadAwais.com/about\n- Company: CommandCode.ai | Langbase (https://commandcode.ai)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT20M52S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "359",
+      "likeCount": "11",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

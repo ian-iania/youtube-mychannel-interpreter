@@ -1,0 +1,1095 @@
+{
+  "cached_at": 1764285770.80962,
+  "cache_type": "channel_videos",
+  "key": "UCdmGjywrxeOPfC7vDllmSgQ_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fnsLp8S1GrTvDz6uO1HVsMxxsxI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mj5m2PA8eoc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T22:00:56Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "GOVERNO DERRUBA 300 SITES DE FILMES E SÉRIES! TESLA vira Fábrica de Chips e VAZAMENTO na OpenAI!",
+        "description": "Governo tira do ar mais de 300 sites e um app de filmes e séries piratas. Peraí, a Tesla faz chips também? Elon Musk projeta ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mj5m2PA8eoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mj5m2PA8eoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mj5m2PA8eoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T22:00:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UQknQ0DLaEcA7PmznJEjE3VHftk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KAByIbdpblM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T19:11:46Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "ELE FEZ A ARMADURA EXOESQUELETO MAIS INCRÍVEL DA INTERNET!",
+        "description": "Um estudante universitário chinês de 21 anos, Huang Yanjun, construiu uma armadura de exoesqueleto controlada por voz com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KAByIbdpblM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KAByIbdpblM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KAByIbdpblM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T19:11:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KEGhTkRy7fvL1PvvnwGmZIgh7Dk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xir86fj1vIw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T15:01:09Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "O que faz as pessoas comprarem na Black Friday?",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join A gente foi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xir86fj1vIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xir86fj1vIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xir86fj1vIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T15:01:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A-zPxnOTdfYHQTWCanM2Hy1wBpk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BetsXTmGRCY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T13:00:32Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "Você conhece a Chefinha, brand persona da Acer?",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join As marcas ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BetsXTmGRCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BetsXTmGRCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BetsXTmGRCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T13:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uUIotzWs9vqYiZqSttyeQQPQ134",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XqfPoVCkQgM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T23:30:11Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "Top 7 produtos da Philco mais desejados na Black Friday 2025",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join A Black ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XqfPoVCkQgM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XqfPoVCkQgM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XqfPoVCkQgM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T23:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kw0GMlI2FtazQGuHLTMsmfcrPFA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7bRG2HJfH-E"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T22:00:08Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "AMAZON DÁ CLUBE IFOOD PARA ASSINANTES! Petrobras sofre MEGA ATAQUE e LEILÃO de PS5, IPHONE e HB20!",
+        "description": "Criminosos vazam 190 GB de dados da Petrobras após extorsão. Amazon dá 3 meses grátis de Clube iFood para assinantes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7bRG2HJfH-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7bRG2HJfH-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7bRG2HJfH-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T22:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l3RJcQZrz-bv-QXxZ1HDVpG5DXM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O-8stl5Rux0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T18:00:25Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "LADRÃO ENTALA EM PORTA GIRATÓRIA E FICA DE CUECA EM INVASÃO A BANCO",
+        "description": "Um jovem de 20 anos foi preso em Carangola (MG) após uma tentativa frustrada de furto a uma agência bancária. Câmeras de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O-8stl5Rux0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O-8stl5Rux0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O-8stl5Rux0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T18:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qHulh1oY_Mw96o44HurtUb3GvV4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2firbfBhA6w"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T15:00:06Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "A história da HONDA: das motos e F1 ao 1º foguete (e o robô ASIMO)",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join Ela ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2firbfBhA6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2firbfBhA6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2firbfBhA6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T15:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0-y3bbHu__tqmKodRnkSWiHfclM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lg6dOzaprVk"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T01:39:43Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "👀 Joy Macedo confirma retorno para o TecMundo na #BlackFriday Quinta 16h e Sexta 13h",
+        "description": "Joy Macedo está de volta... Mas voltou ou não voltou para o TecMundo? Neste corte, ela confirma presença no evento especial ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lg6dOzaprVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lg6dOzaprVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lg6dOzaprVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T01:39:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m-PcjOZA5OBRSW5ucWgOkApQ8sY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zZNW6TC9cOA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T22:01:17Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "Celular da Coreia do Norte censura tudo, ChatGPT e iOS 27 surpreendem",
+        "description": "Na edição de hoje, falamos sobre celulares da Coreia do Norte com censura extrema, o novo recurso “Pesquisa de compras” do ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zZNW6TC9cOA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zZNW6TC9cOA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zZNW6TC9cOA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T22:01:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NYcUXGCJA4TT3yxRv_Y-ruFs_AA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4EHttzXOu6g"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T19:00:09Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "Produtos da Acer para renovar seu setup na Black Friday!",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join Tá ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4EHttzXOu6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4EHttzXOu6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4EHttzXOu6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T19:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R4tqUdD4a7Lw_H13-HSJM1sviNE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z57W968dqqY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T18:00:41Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "ROBÔ COM PELE HUMANA BIZARRA E HIPERREALISTA?!",
+        "description": "Um vídeo de uma suposta robô humanoide com pele sintética altamente realista viralizou nas redes sociais. O material reage ao ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z57W968dqqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z57W968dqqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z57W968dqqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T18:00:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hTqy5Z8OgRSJS0MWb17r9Zbme28",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gAQKZkCrVpQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T22:00:54Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "PORNHUB vs APPLE e Google! TORNOZELEIRA do BOLSONARO; PIX MED 2.0 CHEGA COM FORÇA e mais!",
+        "description": "O Banco Central lançou o MED 2.0, uma nova versão para apertar o cerco contra golpes no Pix. Tornozeleira Eletrônica: Quanto ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gAQKZkCrVpQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gAQKZkCrVpQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gAQKZkCrVpQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T22:00:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nDGQIEJqYB3hlJmQurr6rTnMNlM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qsBgx8k13Rc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T18:20:32Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "TORNOZELEIRA ELETRÔNICA: COMO FUNCIONA E QUANTO CUSTA?",
+        "description": "A tornozeleira eletrônica violada por Jair Bolsonaro, que tentou abri-la com um ferro de solda, tem uma origem surpreendente: a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qsBgx8k13Rc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qsBgx8k13Rc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qsBgx8k13Rc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T18:20:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4y9eDMqjBxbgp8lWp7G5A8O1p-U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Frdsg2tF560"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T18:00:28Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "As melhores ofertas da Black Friday, AO VIVO!",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join As lives de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Frdsg2tF560/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Frdsg2tF560/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Frdsg2tF560/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T18:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q5Rcrn-fYsKb_GX4kCQdOesApY4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H1lrAcodifo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T15:00:30Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "Kindle Colorsoft: talvez você não precise de um agora - REVIEW",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join Se você está ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H1lrAcodifo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H1lrAcodifo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H1lrAcodifo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T15:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2RDz2AiE_Sku7YY9UIVgTvw33V0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZX5zYYct7hI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T14:48:38Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "Como comprar com segurança na Black Friday – Parte 3",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZX5zYYct7hI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZX5zYYct7hI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZX5zYYct7hI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T14:48:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eY0nYuKv3p2uwtivQS3edp8jZrw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8BL7rhclE7g"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T21:00:10Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "O nascimento de CHAVES, do Vale do Silício e do 1º MICROPROCESSADOR (1971)",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join 1971 foi o ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8BL7rhclE7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8BL7rhclE7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8BL7rhclE7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T21:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mdQfrhlbb4TGGApDuAUb9LzfEL8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hkH4kIlkSLQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T14:01:13Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "FOTO INACREDITÁVEL CAPTURA PARAQUEDISTA CRUZANDO SOL",
+        "description": "O astrofotógrafo Andrew McCarthy e o paraquedista Gabriel C. Brown uniram forças para criar \"A Queda de Ícaro\", uma imagem ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hkH4kIlkSLQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hkH4kIlkSLQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hkH4kIlkSLQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T14:01:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "590FrWJLSk-6UF8fp3uh0UaBNRg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2ZNjXUZump0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T21:00:06Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "Como Fazer Ligações e Videochamadas no WhatsApp Pelo PC! - #AssistênciaTec 172",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join Aprenda ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2ZNjXUZump0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2ZNjXUZump0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ZNjXUZump0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T21:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a98979Rl5P1fymqbMKAxFohDogc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xIJoGOvT94Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T20:57:35Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "🔥Ainda é BLACK FRIDAY! Vai perder a CHANCE? Últimas ofertas, cupons e promoções",
+        "description": "Acorda menino e menina já é dia de Black Friday! Você que perdeu as ofertas da madrugada essa é a sua última chance de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xIJoGOvT94Y/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xIJoGOvT94Y/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xIJoGOvT94Y/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2025-11-22T20:57:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1vXTmVJ-zo9TCGDMEiGPMDPPb4g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ce3FvoHyXDI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T20:48:50Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "🚨🔥Black Friday AO VIVO! Promoção, cupom e desconto AQUI!",
+        "description": "Radar TecMundo no AR! Confiança, segurança e ofertas reais para aproveitar ao máximo. A TecFriday chegou e no TecMundo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ce3FvoHyXDI/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ce3FvoHyXDI/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ce3FvoHyXDI/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "live",
+        "publishTime": "2025-11-22T20:48:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4oTE39DbWwAfJt9AQ7Pt4tryE0Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G6cCG9Z9Cy0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T14:00:33Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "PEDIDOS DE SOCORRO NO GOOGLE MAPS",
+        "description": "Uma imagem de satélite do Google Maps, mostrando a palavra \"HELP\" (socorro) e \"tráfico\" escritas em areia num terreno baldio ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G6cCG9Z9Cy0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G6cCG9Z9Cy0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G6cCG9Z9Cy0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T14:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RgT5LwqrHYDhhDTPZiH6UP_UhiI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kTYX2_5PK1Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T14:01:21Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "As 7 Melhores Cadeiras Gamer para Comprar em 2025!",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join Confira ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kTYX2_5PK1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kTYX2_5PK1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kTYX2_5PK1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T14:01:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cn4Tff2EYzJJx82Gi3wPIJEGbfQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "reJgwcHHeS8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T13:01:56Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "Como comprar com segurança na Black Friday – Parte 2",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join Se tem uma ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/reJgwcHHeS8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/reJgwcHHeS8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/reJgwcHHeS8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T13:01:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QTVCLJsWpoAAURYQQIc3PQ1hZpE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5auT24g6grQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T23:30:03Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "Infinix GT 30 Pro na prática: testando todas as funções do smartphone",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join O Infinix GT ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5auT24g6grQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5auT24g6grQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5auT24g6grQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T23:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jusgzH_423-wF7c5IZw923WetdU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gh0FkPL8ZfA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T22:00:47Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "ELON MUSK maior que LEBRON JAMES e JESUS? FINALMENTE ANDROID + iPHONE JUNTOS e ChatGPT para GRUPOS!",
+        "description": "O Google finalmente uniu Android e iPhone, facilitando a transferência de fotos e arquivos de forma nativa. Elon Musk está no ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gh0FkPL8ZfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gh0FkPL8ZfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gh0FkPL8ZfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T22:00:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sB9eHpKwrYq8MrgyeKVNsoq9fpI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N_qPMpzLfTs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T21:07:53Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "Como comprar com segurança na Black Friday – Parte 1",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join A Black ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N_qPMpzLfTs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N_qPMpzLfTs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N_qPMpzLfTs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T21:07:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kka6AW-6J2faQgSovucKxGlBM3g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UmhGaPqfcIM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T18:41:23Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "MICROONDAS CAUSA INCÊNDIO NA COP30",
+        "description": "Um incêndio atingiu a Blue Zone da COP30, área dedicada às negociações oficiais entre países, causando pânico e a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UmhGaPqfcIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UmhGaPqfcIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UmhGaPqfcIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T18:41:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Wv_nHUs005RTHxU7gcwEk8PZjkU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "If3AOb-UNGE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T17:07:30Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "XIAOMI: celulares terão AUMENTO no preço, NOVA ONDA de IAS, FALHA no CLOUDFLARE - #SemManual 016",
+        "description": "Xiaomi alerta que por conta da procura de chips de IA, celulares ficarão mais caros em 2026. Compre agora ou se arrependa!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/If3AOb-UNGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/If3AOb-UNGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/If3AOb-UNGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T17:07:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k9_444Dc5kNkpLeaAhwQkvTCzbg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "myvSnVUkQqg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T13:44:53Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "Radar TecFriday: Predator PKW400 da Acer",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join Bora pra ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/myvSnVUkQqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/myvSnVUkQqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/myvSnVUkQqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T13:44:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8q_UlF2Sx325id78UySBInrJVgQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bh5TLBj1qK8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T22:00:46Z",
+        "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+        "title": "TCL C7K: O MELHOR CUSTO-BENEFÍCIO em TV QD-MiniLED de 2025? (Review)",
+        "description": "Seja membro deste canal e ganhe benefícios: https://www.youtube.com/channel/UCdmGjywrxeOPfC7vDllmSgQ/join A TCL C7K ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bh5TLBj1qK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bh5TLBj1qK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bh5TLBj1qK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TecMundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T22:00:46Z"
+      }
+    }
+  ]
+}

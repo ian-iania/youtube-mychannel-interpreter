@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285765.305708,
+  "cache_type": "channel_info",
+  "key": "UCMcoud_ZW7cfxeIugBflSBw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "19D0-EYgBEOD7LWv71azvBM7E44",
+    "id": "UCMcoud_ZW7cfxeIugBflSBw",
+    "snippet": {
+      "title": "Riley Brown",
+      "description": "Vibe Coding\nAI Tools\nAI Automation\nAI Agents\n\nThese 5 categories of tools are changing the world. \n\nOn this channel, I dive into practical detail on how you can learn the most important technology our generation has ever seen. \n\nMy goal is to make advanced tools simple and accessible so anyone can create, launch, and win in this new era. \n\nSubscribe if you're ready for a new vibe.\n",
+      "customUrl": "@rileybrownai",
+      "publishedAt": "2018-04-05T16:53:16Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Cm_AOGXEC3TYdp2iOXTUj07zgqBkCMJjh4C-0iD0DJOALbMb-D2tz9fJ2e-EDE5DJnJCnd3PaA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Cm_AOGXEC3TYdp2iOXTUj07zgqBkCMJjh4C-0iD0DJOALbMb-D2tz9fJ2e-EDE5DJnJCnd3PaA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Cm_AOGXEC3TYdp2iOXTUj07zgqBkCMJjh4C-0iD0DJOALbMb-D2tz9fJ2e-EDE5DJnJCnd3PaA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Riley Brown",
+        "description": "Vibe Coding\nAI Tools\nAI Automation\nAI Agents\n\nThese 5 categories of tools are changing the world. \n\nOn this channel, I dive into practical detail on how you can learn the most important technology our generation has ever seen. \n\nMy goal is to make advanced tools simple and accessible so anyone can create, launch, and win in this new era. \n\nSubscribe if you're ready for a new vibe.\n"
+      }
+    },
+    "statistics": {
+      "viewCount": "5464546",
+      "subscriberCount": "162000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "146"
+    }
+  }
+}

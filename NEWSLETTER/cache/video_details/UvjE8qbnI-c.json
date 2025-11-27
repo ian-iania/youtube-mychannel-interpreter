@@ -1,0 +1,83 @@
+{
+  "cached_at": 1764285744.209253,
+  "cache_type": "video_details",
+  "key": "UvjE8qbnI-c",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "yT53-MBc02Sq0TFV1ckqDX5AykE",
+    "id": "UvjE8qbnI-c",
+    "snippet": {
+      "publishedAt": "2025-11-21T23:15:47Z",
+      "channelId": "UC_RovKmk0OCbuZjA8f08opw",
+      "title": "Nano Banana 2 is WILD - 50+ Use Cases",
+      "description": "🖥️ Download the free AI Content Creation Checklist:  https://clickhubspot.com/32b2d5\n\nMore from Futurepedia:\n👉 Join the fastest-growing AI education platform! Try it free and explore 30+ top-rated courses in AI: https://bit.ly/futurepediaSL\n\nSummary:\nNano Banana Pro has been released by Google and it completely dominates every other AI image editor and AI text to image model across many use cases. The ability to create infographics and extensive text is particularly mind-blowing. Nano Banana Pro is powered by Gemini 3 giving it the ability to think through prompts and use search before generating. It is miles beyond many of the other image models. I cover tons of use cases and challenges.\n\nChapters\n0:00 Intro\n0:19 Text generation (infographics, diagrams, etc.)\n4:37 Attempting previous fails\n8:07 Consistent characters and realism\n11:32 Changing camera angles\n13:04 Changing styles\n13:16 Pose control\n13:53 Marketing use cases\n14:47 Testing X examples\n19:16 Futurepedia",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UvjE8qbnI-c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UvjE8qbnI-c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UvjE8qbnI-c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UvjE8qbnI-c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UvjE8qbnI-c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Futurepedia",
+      "tags": [
+        "nano banana",
+        "google gemini",
+        "google nano banana",
+        "nano banana ai",
+        "nano banana pro review",
+        "gemini 2.5 flash",
+        "gemini 3.0",
+        "nano banana 2",
+        "gemini 3 pro",
+        "ai news today",
+        "google gemini 3",
+        "multimodal ai",
+        "text to image",
+        "nano banana pro"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Nano Banana 2 is WILD - 50+ Use Cases",
+        "description": "🖥️ Download the free AI Content Creation Checklist:  https://clickhubspot.com/32b2d5\n\nMore from Futurepedia:\n👉 Join the fastest-growing AI education platform! Try it free and explore 30+ top-rated courses in AI: https://bit.ly/futurepediaSL\n\nSummary:\nNano Banana Pro has been released by Google and it completely dominates every other AI image editor and AI text to image model across many use cases. The ability to create infographics and extensive text is particularly mind-blowing. Nano Banana Pro is powered by Gemini 3 giving it the ability to think through prompts and use search before generating. It is miles beyond many of the other image models. I cover tons of use cases and challenges.\n\nChapters\n0:00 Intro\n0:19 Text generation (infographics, diagrams, etc.)\n4:37 Attempting previous fails\n8:07 Consistent characters and realism\n11:32 Changing camera angles\n13:04 Changing styles\n13:16 Pose control\n13:53 Marketing use cases\n14:47 Testing X examples\n19:16 Futurepedia"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT19M49S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "47696",
+      "likeCount": "1395",
+      "favoriteCount": "0",
+      "commentCount": "78"
+    }
+  }
+}

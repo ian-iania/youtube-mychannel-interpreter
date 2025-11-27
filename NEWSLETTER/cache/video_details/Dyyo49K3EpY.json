@@ -1,0 +1,73 @@
+{
+  "cached_at": 1764285738.92945,
+  "cache_type": "video_details",
+  "key": "Dyyo49K3EpY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "8XBas73zsLL7Rpb5lAg6lVMw2kc",
+    "id": "Dyyo49K3EpY",
+    "snippet": {
+      "publishedAt": "2025-11-26T00:08:57Z",
+      "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+      "title": "AI #ai #chatgpt",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Dyyo49K3EpY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Dyyo49K3EpY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Dyyo49K3EpY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Dyyo49K3EpY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Dyyo49K3EpY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Data Science in your pocket",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-IN",
+      "localized": {
+        "title": "AI #ai #chatgpt",
+        "description": ""
+      },
+      "defaultAudioLanguage": "en-IN"
+    },
+    "contentDetails": {
+      "duration": "PT4S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "regionRestriction": {
+        "blocked": [
+          "BY",
+          "RU"
+        ]
+      },
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "498",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

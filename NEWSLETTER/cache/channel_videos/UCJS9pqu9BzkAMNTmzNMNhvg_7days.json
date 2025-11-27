@@ -1,0 +1,279 @@
+{
+  "cached_at": 1764285746.400249,
+  "cache_type": "channel_videos",
+  "key": "UCJS9pqu9BzkAMNTmzNMNhvg_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UUTInjImXlPtL5tKnQiGQXqCI6o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E_7P2SIdkIg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T00:24:31Z",
+        "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+        "title": "Refining your vision: A guide to AI image editing",
+        "description": "Refine your creative vision with advanced AI image editing using Google Cloud's Gemini Image model, also known as Nano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E_7P2SIdkIg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E_7P2SIdkIg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E_7P2SIdkIg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google Cloud Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T00:24:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q8mYk1YHSs2LGRARPxB5Yod7nXY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ly37KvQmVa0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T00:22:13Z",
+        "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+        "title": "From text to vision: An intro to AI image generation",
+        "description": "Explore the exciting world of AI image generation, transforming text into high-impact visuals with Google Cloud's Gemini Image ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ly37KvQmVa0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ly37KvQmVa0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ly37KvQmVa0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google Cloud Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T00:22:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Fdhh6NqVQ3fOXO3sAtGtuOLJL9U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5_zahcDOohY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T00:17:06Z",
+        "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+        "title": "Evolving your story: A guide to AI video editing",
+        "description": "This video explores how to evolve your video narratives with advanced AI editing capabilities using Google Cloud's Veo model.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5_zahcDOohY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5_zahcDOohY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5_zahcDOohY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google Cloud Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T00:17:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-dW8w25CVIb0P6a8SI0jLXTq8xs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5NlXA7A8IKg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T00:07:19Z",
+        "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+        "title": "Bringing ideas to life: An intro to AI video generation",
+        "description": "Discover the exciting world of AI video generation, focusing on how you can bring your creative ideas to life with Google Cloud's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5NlXA7A8IKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5NlXA7A8IKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5NlXA7A8IKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google Cloud Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T00:07:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G3FHFf3jZp8LyaMuHzaeVKZGJBg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JKW8InX3mdQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T00:00:31Z",
+        "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+        "title": "Building with Gemini 3, AI Studio, Antigravity, and Nano Banana | The Agent Factory Podcast",
+        "description": "Gemini 3 is here, and it is evolving the way developers build. In this episode of The Agent Factory, host Amit Maraj sits down with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JKW8InX3mdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JKW8InX3mdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JKW8InX3mdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google Cloud Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T00:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NoTbVNizBitcJr1ksZxOib24JiY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4U3nfVxlwlM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T22:10:16Z",
+        "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+        "title": "Making a list {and checking it twice}: The Gemini CLI workflow",
+        "description": "The first week of {DEV}cember, we're making a list (and checking it twice) and exploring the Gemini CLI workflow! Join host ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4U3nfVxlwlM/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4U3nfVxlwlM/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4U3nfVxlwlM/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google Cloud Tech",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2025-11-26T22:10:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OweFMtBPOOFyaQ7J9D5cT2EcjmM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8R8BMQZj_aQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T20:00:07Z",
+        "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+        "title": "Fine-tuning open LLMs on GKE: The implementation gap",
+        "description": "While Large Language Models (LLMs) offer incredible general capabilities, they often lack the specific domain expertise required ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8R8BMQZj_aQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8R8BMQZj_aQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8R8BMQZj_aQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google Cloud Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T20:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xK-N1rjMoFz5wt89eL_lBxEAXKk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D28tp3g-baw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T17:00:31Z",
+        "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+        "title": "Video avatar agent | The Agent Factory Podcast",
+        "description": "Gemini 3 is finally here! Gemini 3 Pro can bring any idea to life with its state of the art reasoning and multimodal capabilities.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D28tp3g-baw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D28tp3g-baw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D28tp3g-baw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google Cloud Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T17:00:31Z"
+      }
+    }
+  ]
+}

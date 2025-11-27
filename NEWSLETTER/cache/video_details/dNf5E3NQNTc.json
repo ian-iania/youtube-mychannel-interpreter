@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285754.980129,
+  "cache_type": "video_details",
+  "key": "dNf5E3NQNTc",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "GAu6vASGlQeb_U8i8juK0fMjxTU",
+    "id": "dNf5E3NQNTc",
+    "snippet": {
+      "publishedAt": "2025-11-27T14:01:13Z",
+      "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+      "title": "Checkmarks, Circles, Handwriting — ADE Detects It All ✍️ ✅ #ade #documentextraction #handwritten",
+      "description": "Full Webinar here: https://youtu.be/Zl2B1zOpIYk?si=Z0-usoExcuULZAYs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dNf5E3NQNTc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dNf5E3NQNTc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dNf5E3NQNTc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dNf5E3NQNTc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dNf5E3NQNTc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LandingAI",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Checkmarks, Circles, Handwriting — ADE Detects It All ✍️ ✅ #ade #documentextraction #handwritten",
+        "description": "Full Webinar here: https://youtu.be/Zl2B1zOpIYk?si=Z0-usoExcuULZAYs"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT52S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "140",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

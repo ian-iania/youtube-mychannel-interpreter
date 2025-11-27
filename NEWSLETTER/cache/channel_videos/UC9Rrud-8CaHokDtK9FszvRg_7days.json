@@ -1,0 +1,313 @@
+{
+  "cached_at": 1764285745.9096441,
+  "cache_type": "channel_videos",
+  "key": "UC9Rrud-8CaHokDtK9FszvRg_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b6ZTK0yRYeA9m43J9Ss1hpztkUI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M1edEhABidg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T12:31:41Z",
+        "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+        "title": "GitHub Trending Weekly #12: AlohaMini, ZAPI, cgpu, Z-Image, F1 Race Replay, s&amp;box, corner-shape",
+        "description": "Today we're diving into GitHub Trending Weekly #12, where we're exploring 24 of the hottest open source projects that are taking ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M1edEhABidg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M1edEhABidg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M1edEhABidg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Github Awesome",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T12:31:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vAk7V1p9se98ObkiyYEnHoKtxC8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cmahdNdzsVI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T02:49:24Z",
+        "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+        "title": "s&amp;box is now an open-source game engine, and it’s built on Valve’s Source 2 and modern .NET",
+        "description": "s&box is now an open-source game engine, and it's built on Valve's Source 2 and modern .NET. You can create your own games ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cmahdNdzsVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cmahdNdzsVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cmahdNdzsVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Github Awesome",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T02:49:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5P25FjLKU6_OASaDM8DJ5-1zb_o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xtEkFIA-L0Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T01:03:51Z",
+        "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+        "title": "History: An interactive 3D globe that lets you explore the history of any location on the planet.",
+        "description": "THIS is for everyone who doomscrolls Google Maps at 2am clicking on random islands asking, 'What even IS this place?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xtEkFIA-L0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xtEkFIA-L0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xtEkFIA-L0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Github Awesome",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T01:03:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4WXsxGI7s02xL9ztcTvjJkeFrio",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RmQO99zMhmk"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T03:51:21Z",
+        "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+        "title": "gitlogue. It turns your Git history into a cinematic, animated replay right inside your terminal.",
+        "description": "gitlogue. It turns your Git history into a cinematic, animated replay right inside your terminal. Instead of scrolling through raw ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RmQO99zMhmk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RmQO99zMhmk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RmQO99zMhmk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Github Awesome",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T03:51:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-RF_Tult1b3rZiAs6ZPhk2z7Y-c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yX4cHOu7LV8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T03:52:40Z",
+        "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+        "title": "Twitter Account Location Flag Chrome Extension  #github",
+        "description": "Here's a Chrome extension you didn't know you needed until right now. It adds country flags next to every Twitter — sorry, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yX4cHOu7LV8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yX4cHOu7LV8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yX4cHOu7LV8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Github Awesome",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T03:52:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aO-Dkc52scRfENXwzx1kn3pgEN8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m7ZuxZhgncA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T12:03:55Z",
+        "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+        "title": "GitHub Trending Today #10: moss, LLM Council, mgrep, JiT, Gausian, PeekX, NanoBanana Studio, RoMa",
+        "description": "Paid channel subscription: https://www.youtube.com/channel/UC9Rrud-8CaHokDtK9FszvRg/join Today we've got 24 trending ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m7ZuxZhgncA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m7ZuxZhgncA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m7ZuxZhgncA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Github Awesome",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T12:03:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K7jnTi6rJbV8Jt0b4jmLLBy0bO0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Br4bW9PsOiQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T04:11:29Z",
+        "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+        "title": "LLM Council: a project that basically turns your favorite AI models into a panel of experts #github",
+        "description": "LLM Council — a project that basically turns your favorite AI models into a panel of experts. Instead of asking just one LLM for an ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Br4bW9PsOiQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Br4bW9PsOiQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Br4bW9PsOiQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Github Awesome",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T04:11:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hEGTFFYKz7yYn8O7JhtUg3RrnAQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BGurOTjmdEQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T04:24:05Z",
+        "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+        "title": "install-nothing: a tiny Rust-based terminal app that simulates installing  #github",
+        "description": "install-nothing is a tiny Rust-based terminal app that simulates installing… well… nothing. Run it, and you'll get progress bars, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BGurOTjmdEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BGurOTjmdEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BGurOTjmdEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Github Awesome",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T04:24:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I0rdQAC6YaynRwnS9b5D09HAqUg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a7lmyfewf1o"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T03:10:53Z",
+        "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+        "title": "Cloudflare Proxy Manager: a CLI tool for anyone managing domains on Cloudflare. #github",
+        "description": "Cloudflare Proxy Manager, a CLI tool for anyone managing domains on Cloudflare. Instead of logging into the Cloudflare ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a7lmyfewf1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a7lmyfewf1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a7lmyfewf1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Github Awesome",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T03:10:53Z"
+      }
+    }
+  ]
+}

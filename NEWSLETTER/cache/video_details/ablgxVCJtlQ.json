@@ -1,0 +1,69 @@
+{
+  "cached_at": 1764285760.943448,
+  "cache_type": "video_details",
+  "key": "ablgxVCJtlQ",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "pz0AaB6zWgD-FnoquyHUEPBIoz8",
+    "id": "ablgxVCJtlQ",
+    "snippet": {
+      "publishedAt": "2025-11-25T18:51:55Z",
+      "channelId": "UCgc3NEslE8oISOEawhcpMCA",
+      "title": "Understanding Microsoft Agents | EP05",
+      "description": "In this session, you'll learn how the Employee Self-Service Agent in M365 Copilot serves as your single front door for HR and IT support - giving you a jump start in building an agent with preconfigured workflows and templates that work with existing systems such as ServiceNow, Workday, and SAP SuccessFactors.\n\nWatch the other Understanding Agents sessions here: https://www.youtube.com/playlist?list=PLi9EhCY4z99X74gEXX6HXTjZfxAlbjIJf\n\n#MicrosoftAgents #Agents #MicrosoftCommunity #Microsoft365 #MicrosoftCopilot #Copilot #CopilotStudio",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ablgxVCJtlQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ablgxVCJtlQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ablgxVCJtlQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ablgxVCJtlQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ablgxVCJtlQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Power Platform",
+      "tags": [
+        "PowerApps"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Understanding Microsoft Agents | EP05",
+        "description": "In this session, you'll learn how the Employee Self-Service Agent in M365 Copilot serves as your single front door for HR and IT support - giving you a jump start in building an agent with preconfigured workflows and templates that work with existing systems such as ServiceNow, Workday, and SAP SuccessFactors.\n\nWatch the other Understanding Agents sessions here: https://www.youtube.com/playlist?list=PLi9EhCY4z99X74gEXX6HXTjZfxAlbjIJf\n\n#MicrosoftAgents #Agents #MicrosoftCommunity #Microsoft365 #MicrosoftCopilot #Copilot #CopilotStudio"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT47M49S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "552",
+      "likeCount": "19",
+      "favoriteCount": "0"
+    }
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "cached_at": 1764285738.7806568,
+  "cache_type": "channel_videos",
+  "key": "UCQoNosQTIxiMTL9C-gvFdjA_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rebSNaVxOmlsrcQkEjsN4fqTaUQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0Oyn0MuNH_o"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T15:34:30Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "Programming #programming #coding",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Oyn0MuNH_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Oyn0MuNH_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Oyn0MuNH_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T15:34:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XCNiNJrKI-l-Fu2mDMCSlIFAO6Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VDQeDOVUixA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T11:38:28Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "How to use Flux2 for free ?",
+        "description": "Flux.2 Free usage #ai #chatgpt #coding #programming #generativeai #llm #computerscience #computer #engineering ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VDQeDOVUixA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VDQeDOVUixA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VDQeDOVUixA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T11:38:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4SqdfYPQiavoSQYXvyoT40zn21Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o8eauTu40r4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T06:43:57Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "software engineering #softwareengineering #programming #coding",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o8eauTu40r4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o8eauTu40r4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o8eauTu40r4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T06:43:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4qyVy9hT5N7BIDWwUuNiWp01Hm8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dyyo49K3EpY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T00:08:57Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "AI #ai #chatgpt",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dyyo49K3EpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dyyo49K3EpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dyyo49K3EpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T00:08:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u5YVfGQlyLtU4d5ePEwhK5KnY7w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Pdwlz8XGTF4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T12:10:52Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "Hunyuan Video 1.5 : AI video Generation on Consumer GPU",
+        "description": "hunyuanvideo 1.5 is a new open-sourced AI model for video Generation on Consumer grade gpus #ai #chatgpt #coding ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pdwlz8XGTF4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pdwlz8XGTF4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pdwlz8XGTF4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T12:10:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lhdKULG0BMjtTYLWQWQTiBqSR1I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c6ZgQkMqR7s"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T11:42:14Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "Hunyuan OCR : Best OCR, beats PaddleOCR, DeepSeek OCR",
+        "description": "hunyuan OCR is an open-sourced OCR model for free #ai #chatgpt #coding #programming #generativeai #llm #computerscience ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c6ZgQkMqR7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c6ZgQkMqR7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c6ZgQkMqR7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T11:42:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i_T3SX8we8PpdOHmdDWWqbsyAZ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rf6N2rBVRJM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T10:19:50Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "Supertonic : Fastest TTS, no GPU",
+        "description": "How to use Fastest Supertonic TTS for free ? #ai #chatgpt #coding #programming #generativeai #llm #computerscience ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rf6N2rBVRJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rf6N2rBVRJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rf6N2rBVRJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T10:19:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wFjLVIG-o3zfWgYeDV3rUTwdu68",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "odT5hYvhz0I"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T09:42:16Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "Programming #programming #coding",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/odT5hYvhz0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/odT5hYvhz0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/odT5hYvhz0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T09:42:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v514XWiiMoq2aCezQgE699pECK4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jso9VUw2LRc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T06:53:35Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "programming #ai #coding",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jso9VUw2LRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jso9VUw2LRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jso9VUw2LRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T06:53:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SKiM33BhXSQi1e1VgHtG__PyVYQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ROtIqBvfQes"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T14:56:11Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "software engineering #softwareengineering #coding",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ROtIqBvfQes/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ROtIqBvfQes/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ROtIqBvfQes/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T14:56:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aryeuho_Ahsoh9-1-382a6C7Xfg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3F0EvA5OBoo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T14:37:58Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "Programming #programming #coding",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3F0EvA5OBoo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3F0EvA5OBoo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3F0EvA5OBoo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T14:37:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7Lvob8iNZZS2kCDdPRS_yl0H7IY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1s2a7VzNnr0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T11:44:43Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "Programming #ai #programming #coding",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1s2a7VzNnr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1s2a7VzNnr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1s2a7VzNnr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T11:44:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n3zdY3pXsaWV9yPyOOEze7TVs84",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gl26NJQtaoA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T10:48:33Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "Programming #ai #coding #programming",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gl26NJQtaoA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gl26NJQtaoA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gl26NJQtaoA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T10:48:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZWvDeT9B7RLkmlA98LZQ_IKlFX0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jM2eByMtK2c"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T03:31:54Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "SciSpace : AI Assistant for Research, New updates",
+        "description": "Sci space Research Agent : Best Research AI Agent url : https://www.scispace.com/?via=datascienceinpocket DSBFD30 : Offers a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jM2eByMtK2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jM2eByMtK2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jM2eByMtK2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T03:31:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U8E6myKgwdVgeDz74ZfFfNvJ6jg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YuYyaHrfUso"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T03:23:24Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "programming #programming #coding",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YuYyaHrfUso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YuYyaHrfUso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YuYyaHrfUso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T03:23:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0rdPOxcmsKlzVvFcCcHuwYRtxhU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7TYEBZDYHEI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T08:38:43Z",
+        "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+        "title": "Higgsfield Nano Banana Pro Free unlimited ",
+        "description": "Higgsfield dropped Nano Banana Pro – a new pro-grade image engine powered by Google's Gemini 3 Pro Image model.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7TYEBZDYHEI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7TYEBZDYHEI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7TYEBZDYHEI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Data Science in your pocket",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T08:38:43Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285751.035533,
+  "cache_type": "video_details",
+  "key": "mlESXzpoJEs",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "DpRlkQdMdpoUDzeQANlK30eOGvQ",
+    "id": "mlESXzpoJEs",
+    "snippet": {
+      "publishedAt": "2025-11-25T09:00:53Z",
+      "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+      "title": "📢 NotebookLM: Integração com o Google Drive",
+      "description": "📢 NotebookLM: Integração com o Google Drive\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nA integração do NotebookLM com o Google Drive promete facilitar a vida. Mas como toda ferramenta poderosa, o segredo está em saber quando e como usar.\n\nSim, é possível fazer buscas profundas no Drive. Mas aqui vem o \"porém\" importante:\n\nQuando você coloca arquivos diretamente no Drive:\n\n✅ Funciona para buscas simples e pontuais\n❌ Você perde o controle granular que teria com PDFs como fonte dedicada\n❌ A IA tem menos capacidade de abrir e referenciar as fontes com precisão\n\nQuando você adiciona PDFs como fonte específica:\n\n✅ A IA consegue abrir os documentos com exatidão\n✅ Você tem controle total sobre quais informações ela acessa\n✅ Ideal para pesquisas profundas e análises que demandam tempo\n\nA pergunta não é \"qual é melhor?\". A pergunta é: qual é melhor para o seu caso de uso específico?\n\nComece testando com um projeto pequeno. Compare os resultados. Você vai descobrir rapidinho qual estratégia traz mais valor para seu trabalho! #shorts",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mlESXzpoJEs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mlESXzpoJEs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mlESXzpoJEs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mlESXzpoJEs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mlESXzpoJEs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Inteligencia Artificial para advogados",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "📢 NotebookLM: Integração com o Google Drive",
+        "description": "📢 NotebookLM: Integração com o Google Drive\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nA integração do NotebookLM com o Google Drive promete facilitar a vida. Mas como toda ferramenta poderosa, o segredo está em saber quando e como usar.\n\nSim, é possível fazer buscas profundas no Drive. Mas aqui vem o \"porém\" importante:\n\nQuando você coloca arquivos diretamente no Drive:\n\n✅ Funciona para buscas simples e pontuais\n❌ Você perde o controle granular que teria com PDFs como fonte dedicada\n❌ A IA tem menos capacidade de abrir e referenciar as fontes com precisão\n\nQuando você adiciona PDFs como fonte específica:\n\n✅ A IA consegue abrir os documentos com exatidão\n✅ Você tem controle total sobre quais informações ela acessa\n✅ Ideal para pesquisas profundas e análises que demandam tempo\n\nA pergunta não é \"qual é melhor?\". A pergunta é: qual é melhor para o seu caso de uso específico?\n\nComece testando com um projeto pequeno. Compare os resultados. Você vai descobrir rapidinho qual estratégia traz mais valor para seu trabalho! #shorts"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT58S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "243",
+      "likeCount": "9",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

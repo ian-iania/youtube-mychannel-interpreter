@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285749.5815701,
+  "cache_type": "video_details",
+  "key": "oxwsizy1Spw",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "pZBkRano3I_jZa0rTclC0zIvuAo",
+    "id": "oxwsizy1Spw",
+    "snippet": {
+      "publishedAt": "2025-11-26T05:15:04Z",
+      "channelId": "UCHlNU7kIZhRgSbhHvFoy72w",
+      "title": "Inference Providers: Best Way to Build with Open Source Models",
+      "description": "Join Hugging Face Today 👉 https://bit.ly/3LQZ9T0\n\nLearn how to call open-source AI models through one consistent Hugging Face Inference Providers API: run chat completions with LLMs, generate images, and create embeddings with real Python examples. Choose models and providers from the Hub, reuse OpenAI-compatible clients, compare pricing, and deploy to production—swap models or providers with one line and use free monthly credits with zero Hugging Face markup.\n\n---\n🤓 *Topics Covered*\n- Hugging Face Inference Providers overview: single API for open-source models\n- Finding models on the Hub with the “Inference available” filter\n- Creating a fine‑grained Hugging Face access token and enabling “Make calls to inference providers”\n- Pricing and billing: zero Hugging Face markup; same as calling providers directly\n- Free monthly credits ($0.10 Free, $2 Pro) and monitoring usage in the Inference Providers dashboard\n\n---\n⏰ *Timestamps*\n0:00:00 - Intro: What are HF Inference Providers?  \n0:01:07 - Selecting models & providers on the Hub  \n0:04:32 - Creating HF access token  \n0:06:08 - Chat completions with open‑source LLMs  \n0:10:09 - Text‑to‑image generation  \n0:12:30 - Embeddings for RAG  \n0:14:36 - Pricing, credits, and production tips",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oxwsizy1Spw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oxwsizy1Spw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oxwsizy1Spw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oxwsizy1Spw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oxwsizy1Spw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "HuggingFace",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Inference Providers: Best Way to Build with Open Source Models",
+        "description": "Join Hugging Face Today 👉 https://bit.ly/3LQZ9T0\n\nLearn how to call open-source AI models through one consistent Hugging Face Inference Providers API: run chat completions with LLMs, generate images, and create embeddings with real Python examples. Choose models and providers from the Hub, reuse OpenAI-compatible clients, compare pricing, and deploy to production—swap models or providers with one line and use free monthly credits with zero Hugging Face markup.\n\n---\n🤓 *Topics Covered*\n- Hugging Face Inference Providers overview: single API for open-source models\n- Finding models on the Hub with the “Inference available” filter\n- Creating a fine‑grained Hugging Face access token and enabling “Make calls to inference providers”\n- Pricing and billing: zero Hugging Face markup; same as calling providers directly\n- Free monthly credits ($0.10 Free, $2 Pro) and monitoring usage in the Inference Providers dashboard\n\n---\n⏰ *Timestamps*\n0:00:00 - Intro: What are HF Inference Providers?  \n0:01:07 - Selecting models & providers on the Hub  \n0:04:32 - Creating HF access token  \n0:06:08 - Chat completions with open‑source LLMs  \n0:10:09 - Text‑to‑image generation  \n0:12:30 - Embeddings for RAG  \n0:14:36 - Pricing, credits, and production tips"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT18M51S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2677",
+      "likeCount": "130",
+      "favoriteCount": "0",
+      "commentCount": "10"
+    }
+  }
+}

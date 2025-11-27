@@ -1,0 +1,72 @@
+{
+  "cached_at": 1764285760.460903,
+  "cache_type": "video_details",
+  "key": "4qqSPSMJSFY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "lnFFkAYoUExVazSnWeFHAvlW6zs",
+    "id": "4qqSPSMJSFY",
+    "snippet": {
+      "publishedAt": "2025-11-22T01:39:26Z",
+      "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+      "title": "Microsoft Azure Key Vault HSM Animated Explainer",
+      "description": "This video helps you understand Azure Key Vault Hardware Security Modules (HSM) that help keep your data on the Azure platform secure from those that aren't authorized to access it.\n\n📝Learn more about Azure Key Vault and HSM: https://msft.it/6058tpYWa\n\n#AzureKeyVault #HardwareSecurityModule",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4qqSPSMJSFY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4qqSPSMJSFY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4qqSPSMJSFY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4qqSPSMJSFY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4qqSPSMJSFY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Azure",
+      "tags": [
+        "Azure Key Vault HSM",
+        "FIPS-140 Security",
+        "Hardware Security Module"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Microsoft Azure Key Vault HSM Animated Explainer",
+        "description": "This video helps you understand Azure Key Vault Hardware Security Modules (HSM) that help keep your data on the Azure platform secure from those that aren't authorized to access it.\n\n📝Learn more about Azure Key Vault and HSM: https://msft.it/6058tpYWa\n\n#AzureKeyVault #HardwareSecurityModule"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT2M26S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "323",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

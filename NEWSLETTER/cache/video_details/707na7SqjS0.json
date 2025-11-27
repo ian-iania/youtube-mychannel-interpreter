@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285751.036366,
+  "cache_type": "video_details",
+  "key": "707na7SqjS0",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "RT4bzelsIOZuIFd5um2duQpaT8A",
+    "id": "707na7SqjS0",
+    "snippet": {
+      "publishedAt": "2025-11-24T09:01:00Z",
+      "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+      "title": "NotebookLM vs Gemini: Qual é melhor?",
+      "description": "🤖 NotebookLM vs Gemini: Qual é melhor? \n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nTanto o NotebookLM quanto o Gemini são poderosos. Mas têm naturezas diferentes.\n\nO Gemini é versátil, rápido, integrado ao ecossistema Google. Perfeito para tarefas gerais.\nMas o NotebookLM tem um superpoder: a capacidade de criar contexto profundo e fazer pesquisa dentro de um ambiente controlado.\n\nEnquanto você pesquisa em outro lugar e depois traz a informação para o Gemini (perdendo qualidade no caminho), o NotebookLM permite que você faça essa pesquisa dentro da própria ferramenta — mantendo a integridade e a força das respostas.\n\nQuando você pesquisa externamente e traz dados desconectados, há perda de contexto. No NotebookLM, tudo fica integrado.\nResultado prático: respostas mais precisas, fundamentadas e prontas para usar.\n\n3 dicas para aplicar isso hoje:\n\n✅ Teste o NotebookLM para análises que exigem contexto profundo (contratos, pesquisa jurídica, documentação complexa)\n\n✅ Use o Gemini para brainstorms rápidos e tarefas que não precisam de pesquisa integrada\n\n✅ Combine as duas: use NotebookLM para a pesquisa pesada e Gemini para refinamento e formatação\n\nE você? Já testou o NotebookLM? Qual ferramenta você mais usa no seu dia a dia? Comenta aqui! 👇 #shorts",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/707na7SqjS0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/707na7SqjS0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/707na7SqjS0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/707na7SqjS0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/707na7SqjS0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Inteligencia Artificial para advogados",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "NotebookLM vs Gemini: Qual é melhor?",
+        "description": "🤖 NotebookLM vs Gemini: Qual é melhor? \n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nTanto o NotebookLM quanto o Gemini são poderosos. Mas têm naturezas diferentes.\n\nO Gemini é versátil, rápido, integrado ao ecossistema Google. Perfeito para tarefas gerais.\nMas o NotebookLM tem um superpoder: a capacidade de criar contexto profundo e fazer pesquisa dentro de um ambiente controlado.\n\nEnquanto você pesquisa em outro lugar e depois traz a informação para o Gemini (perdendo qualidade no caminho), o NotebookLM permite que você faça essa pesquisa dentro da própria ferramenta — mantendo a integridade e a força das respostas.\n\nQuando você pesquisa externamente e traz dados desconectados, há perda de contexto. No NotebookLM, tudo fica integrado.\nResultado prático: respostas mais precisas, fundamentadas e prontas para usar.\n\n3 dicas para aplicar isso hoje:\n\n✅ Teste o NotebookLM para análises que exigem contexto profundo (contratos, pesquisa jurídica, documentação complexa)\n\n✅ Use o Gemini para brainstorms rápidos e tarefas que não precisam de pesquisa integrada\n\n✅ Combine as duas: use NotebookLM para a pesquisa pesada e Gemini para refinamento e formatação\n\nE você? Já testou o NotebookLM? Qual ferramenta você mais usa no seu dia a dia? Comenta aqui! 👇 #shorts"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT39S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "575",
+      "likeCount": "12",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

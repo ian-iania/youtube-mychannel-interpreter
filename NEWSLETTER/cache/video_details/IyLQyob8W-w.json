@@ -1,0 +1,74 @@
+{
+  "cached_at": 1764285772.975324,
+  "cache_type": "video_details",
+  "key": "IyLQyob8W-w",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Gw4_3JGfQinhOb7RUib1gvi6QO8",
+    "id": "IyLQyob8W-w",
+    "snippet": {
+      "publishedAt": "2025-11-23T16:06:34Z",
+      "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+      "title": "Unreal Engine 5.7: Billions Of Triangles, In Real Time",
+      "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Unreal Engine 5.7 is available here:\nhttps://www.unrealengine.com/en-US/news/unreal-engine-5-7-is-now-available\n\nSources:\nhttps://www.youtube.com/watch?v=Mj_-2SdsYLw\nhttps://www.youtube.com/watch?v=ngzPTqtZWo4\nhttps://advances.realtimerendering.com/s2023/2023%20Siggraph%20-%20Substrate.pdf\n\n📝 My paper on simulations that look almost like reality is available for free here:\nhttps://rdcu.be/cWPfD \n\nOr this is the orig. Nature Physics link with clickable citations:\nhttps://www.nature.com/articles/s41567-022-01788-5\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nBenji Rabhan, B Shang, Christian Ahlin, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Steef, Taras Bobrovytsky, Tybie Fitzhugh, Ueli Gallizzi\nIf you wish to appear here or pick up other perks, click here: https://www.patreon.com/TwoMinutePapers\n\nMy research: https://cg.tuwien.ac.at/~zsolnai/\nX/Twitter: https://twitter.com/twominutepapers\nThumbnail design: Felícia Zsolnai-Fehér - http://felicia.hu",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IyLQyob8W-w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IyLQyob8W-w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IyLQyob8W-w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IyLQyob8W-w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IyLQyob8W-w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Two Minute Papers",
+      "tags": [
+        "ai",
+        "unreal engine",
+        "unreal engine 5.7",
+        "unreal engine 5",
+        "gaming"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Unreal Engine 5.7: Billions Of Triangles, In Real Time",
+        "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Unreal Engine 5.7 is available here:\nhttps://www.unrealengine.com/en-US/news/unreal-engine-5-7-is-now-available\n\nSources:\nhttps://www.youtube.com/watch?v=Mj_-2SdsYLw\nhttps://www.youtube.com/watch?v=ngzPTqtZWo4\nhttps://advances.realtimerendering.com/s2023/2023%20Siggraph%20-%20Substrate.pdf\n\n📝 My paper on simulations that look almost like reality is available for free here:\nhttps://rdcu.be/cWPfD \n\nOr this is the orig. Nature Physics link with clickable citations:\nhttps://www.nature.com/articles/s41567-022-01788-5\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nBenji Rabhan, B Shang, Christian Ahlin, Gordon Child, Juan Benet, Michael Tedder, Owen Skarpness, Richard Sundvall, Steef, Taras Bobrovytsky, Tybie Fitzhugh, Ueli Gallizzi\nIf you wish to appear here or pick up other perks, click here: https://www.patreon.com/TwoMinutePapers\n\nMy research: https://cg.tuwien.ac.at/~zsolnai/\nX/Twitter: https://twitter.com/twominutepapers\nThumbnail design: Felícia Zsolnai-Fehér - http://felicia.hu"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT7M59S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "66905",
+      "likeCount": "2935",
+      "favoriteCount": "0",
+      "commentCount": "368"
+    }
+  }
+}

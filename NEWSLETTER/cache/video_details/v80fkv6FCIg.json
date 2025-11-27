@@ -1,0 +1,71 @@
+{
+  "cached_at": 1764285750.047981,
+  "cache_type": "video_details",
+  "key": "v80fkv6FCIg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "M4MbvxOKUf4G6uVBxSYMycvm3aU",
+    "id": "v80fkv6FCIg",
+    "snippet": {
+      "publishedAt": "2025-11-26T17:01:45Z",
+      "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "title": "Claude 4.5 Opus Efficiency",
+      "description": "Anthropic's Claude 4.5 Opus uses 50% fewer tokens than its predecessor—making advanced reasoning more affordable. See how it changes AI economics.\n\n#anthropic #claude #aitokens",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/v80fkv6FCIg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/v80fkv6FCIg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/v80fkv6FCIg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/v80fkv6FCIg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/v80fkv6FCIg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "IBM Technology",
+      "tags": [
+        "IBM",
+        "IBM Cloud"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Claude 4.5 Opus Efficiency",
+        "description": "Anthropic's Claude 4.5 Opus uses 50% fewer tokens than its predecessor—making advanced reasoning more affordable. See how it changes AI economics.\n\n#anthropic #claude #aitokens"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT36S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "3617",
+      "likeCount": "47",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

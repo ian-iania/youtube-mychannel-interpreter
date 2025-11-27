@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285758.9473438,
+  "cache_type": "video_details",
+  "key": "2CQc_CJ5MQg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "02XBrxnigP-jUldhCUB0bV6fCn0",
+    "id": "2CQc_CJ5MQg",
+    "snippet": {
+      "publishedAt": "2025-11-22T08:05:46Z",
+      "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "title": "Forward Future Live | 11/21/25",
+      "description": "Download Humanities Last Prompt Engineering Guide (free) 👇🏼\nhttps://bit.ly/4kFhajz\n\nDownload The Matthew Berman Vibe Coding Playbook (free) 👇🏼\nhttps://bit.ly/3I2J0YQ\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nDiscover The Best AI Tools👇🏼\nhttps://tools.forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forward_future_\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/xxysSXBxFW\n👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2CQc_CJ5MQg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2CQc_CJ5MQg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2CQc_CJ5MQg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2CQc_CJ5MQg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2CQc_CJ5MQg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Matthew Berman",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "Forward Future Live | 11/21/25",
+        "description": "Download Humanities Last Prompt Engineering Guide (free) 👇🏼\nhttps://bit.ly/4kFhajz\n\nDownload The Matthew Berman Vibe Coding Playbook (free) 👇🏼\nhttps://bit.ly/3I2J0YQ\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nDiscover The Best AI Tools👇🏼\nhttps://tools.forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forward_future_\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/xxysSXBxFW\n👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1H52M38S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "3132",
+      "likeCount": "51",
+      "favoriteCount": "0",
+      "commentCount": "8"
+    }
+  }
+}

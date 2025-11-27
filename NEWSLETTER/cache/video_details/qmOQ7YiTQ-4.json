@@ -1,0 +1,77 @@
+{
+  "cached_at": 1764285764.755189,
+  "cache_type": "video_details",
+  "key": "qmOQ7YiTQ-4",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "tP4v_DSGB3zt2XP0Szk8FU0TINc",
+    "id": "qmOQ7YiTQ-4",
+    "snippet": {
+      "publishedAt": "2025-11-24T17:50:57Z",
+      "channelId": "UCNaV-3aAm3_tuLXVaH-HeHQ",
+      "title": "Fundamentals of AI Agents | Rakesh Gohel",
+      "description": "Want to build AI Agents that scale??\n\nJoin me for my new cohort next year: https://maven.com/rakeshgohel/ai-agent-engineering-react-rag-multi-agent?utm_campaign=NjQ4MjYx&utm_medium=clp_share_link&utm_source=instructor&promoCode=FAST25\n\nIf you're serious about AI Agents, understanding these fundamentals isn't optional; it's essential.\n\n📌 Let me break down the 7 key concepts:\n\n1\\. Agents Under the Hood\n\nAI Agents are not about just models and frameworks. They are more about:\n\n- Agent Auth: Secure identity and access control\n- Memory: Short-term and long-term context retention\n- Tools: External APIs and function calling capabilities\n- Frameworks: ReACT, Reflexion, LangGraph orchestration\n- Model Routers: Dynamic model selection based on task\n- Models: Foundation LLMs powering agent reasoning\n- Infrastructure: Scalable deployment and execution environment\n\n2\\. SPAR Framework (Understanding an AI Agent)\n\n- Sense: Understanding and processing inputs\n- Plan: Strategic thinking and building execution plans\n- Act: Generating responses and taking actions\n- Reflect: Self-correction and learning from errors\n\nLearn more here: https://www.linkedin.com/posts/rakeshgohel01_ai-agents-fail-when-you-skip-the-steps-that-activity-7379493573202804736-TIl5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbIlqoBXsMJDd5Rmp0n6hdlqpbGlM-mkP4\n\n3\\ 3M's of Governance\n\n- Map: Document agent capabilities and workflows\n- Measure: Track performance, accuracy, and compliance\n- Manage: Continuous monitoring and optimization\n\n4\\ 5P's of Guardrails\n\n- Protocols: Standardized operating procedures\n- Pre-Check: Input validation before processing\n- Permissions: Access control and authorization\n- Post-Check: Output validation and safety checks\n- Protection: Security layers and risk mitigation\n\nLearn more here: https://www.linkedin.com/posts/rakeshgohel01_your-ai-agents-are-only-as-strong-as-the-activity-7391475341669666816-AVbT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbIlqoBXsMJDd5Rmp0n6hdlqpbGlM-mkP4\n\n5\\ Building Agents is 90% Software Engineering\n\n- 90% requires solid software architecture, testing, and deployment\n- 10% is AI-specific logic and prompt engineering\n\nEnterprise agents demand production-grade code quality\n\n6\\ Agents Scale with Proper Context Engineering\n\n- Building without context = limited scalability\n- Understanding and implementing context = true scalability\n\nProper knowledge management separates working demos from production systems\n\n7\\ Most Popular Use Cases\n\nLearn more here: https://www.linkedin.com/posts/rakeshgohel01_ai-agent-trends-have-drastically-changed-activity-7383841580014723072-PxZp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbIlqoBXsMJDd5Rmp0n6hdlqpbGlM-mkP4\n\nThese concepts form the backbone of every scalable enterprise AI agent system.\n\nUnderstanding theory is one thing, applying it with an enterprise mindset to build production-ready agents is another, \n\nand that's exactly what my AI Agent Engineering course will enable you to do.\n\nSave 💾 ➞ React 👍 ➞ Share ♻️",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qmOQ7YiTQ-4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qmOQ7YiTQ-4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qmOQ7YiTQ-4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qmOQ7YiTQ-4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qmOQ7YiTQ-4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Rakesh Gohel",
+      "tags": [
+        "openai",
+        "aiagents",
+        "llm",
+        "genai",
+        "elonmusk",
+        "samaltman",
+        "jeffbezzos",
+        "amazon"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Fundamentals of AI Agents | Rakesh Gohel",
+        "description": "Want to build AI Agents that scale??\n\nJoin me for my new cohort next year: https://maven.com/rakeshgohel/ai-agent-engineering-react-rag-multi-agent?utm_campaign=NjQ4MjYx&utm_medium=clp_share_link&utm_source=instructor&promoCode=FAST25\n\nIf you're serious about AI Agents, understanding these fundamentals isn't optional; it's essential.\n\n📌 Let me break down the 7 key concepts:\n\n1\\. Agents Under the Hood\n\nAI Agents are not about just models and frameworks. They are more about:\n\n- Agent Auth: Secure identity and access control\n- Memory: Short-term and long-term context retention\n- Tools: External APIs and function calling capabilities\n- Frameworks: ReACT, Reflexion, LangGraph orchestration\n- Model Routers: Dynamic model selection based on task\n- Models: Foundation LLMs powering agent reasoning\n- Infrastructure: Scalable deployment and execution environment\n\n2\\. SPAR Framework (Understanding an AI Agent)\n\n- Sense: Understanding and processing inputs\n- Plan: Strategic thinking and building execution plans\n- Act: Generating responses and taking actions\n- Reflect: Self-correction and learning from errors\n\nLearn more here: https://www.linkedin.com/posts/rakeshgohel01_ai-agents-fail-when-you-skip-the-steps-that-activity-7379493573202804736-TIl5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbIlqoBXsMJDd5Rmp0n6hdlqpbGlM-mkP4\n\n3\\ 3M's of Governance\n\n- Map: Document agent capabilities and workflows\n- Measure: Track performance, accuracy, and compliance\n- Manage: Continuous monitoring and optimization\n\n4\\ 5P's of Guardrails\n\n- Protocols: Standardized operating procedures\n- Pre-Check: Input validation before processing\n- Permissions: Access control and authorization\n- Post-Check: Output validation and safety checks\n- Protection: Security layers and risk mitigation\n\nLearn more here: https://www.linkedin.com/posts/rakeshgohel01_your-ai-agents-are-only-as-strong-as-the-activity-7391475341669666816-AVbT?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbIlqoBXsMJDd5Rmp0n6hdlqpbGlM-mkP4\n\n5\\ Building Agents is 90% Software Engineering\n\n- 90% requires solid software architecture, testing, and deployment\n- 10% is AI-specific logic and prompt engineering\n\nEnterprise agents demand production-grade code quality\n\n6\\ Agents Scale with Proper Context Engineering\n\n- Building without context = limited scalability\n- Understanding and implementing context = true scalability\n\nProper knowledge management separates working demos from production systems\n\n7\\ Most Popular Use Cases\n\nLearn more here: https://www.linkedin.com/posts/rakeshgohel01_ai-agent-trends-have-drastically-changed-activity-7383841580014723072-PxZp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbIlqoBXsMJDd5Rmp0n6hdlqpbGlM-mkP4\n\nThese concepts form the backbone of every scalable enterprise AI agent system.\n\nUnderstanding theory is one thing, applying it with an enterprise mindset to build production-ready agents is another, \n\nand that's exactly what my AI Agent Engineering course will enable you to do.\n\nSave 💾 ➞ React 👍 ➞ Share ♻️"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT15S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1903",
+      "likeCount": "24",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

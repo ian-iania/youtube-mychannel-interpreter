@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285744.8390772,
+  "cache_type": "video_details",
+  "key": "b7CEnij2ycY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "sKwYTeZ6HWk4qozU0jcLwu8P84g",
+    "id": "b7CEnij2ycY",
+    "snippet": {
+      "publishedAt": "2025-11-21T06:59:39Z",
+      "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+      "title": "All-in-one AI workspace:Hiring on autopilot📞",
+      "description": "So what happens when you put all of this in one workspace?\n\nA real-world example:\n\n*📞Hiring on autopilot:* Call For Me conducts screening call → Super Agent summarizes performance → Calendar availability automatically found → Interview invite drafted and sent!\n\nOne AI workspace. Jobs get done. ✨\n\nTry it: genspark.ai",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b7CEnij2ycY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b7CEnij2ycY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b7CEnij2ycY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/b7CEnij2ycY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/b7CEnij2ycY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Genspark",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "All-in-one AI workspace:Hiring on autopilot📞",
+        "description": "So what happens when you put all of this in one workspace?\n\nA real-world example:\n\n*📞Hiring on autopilot:* Call For Me conducts screening call → Super Agent summarizes performance → Calendar availability automatically found → Interview invite drafted and sent!\n\nOne AI workspace. Jobs get done. ✨\n\nTry it: genspark.ai"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT2M12S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1551",
+      "likeCount": "25",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

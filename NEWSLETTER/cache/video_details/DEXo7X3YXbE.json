@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285745.49563,
+  "cache_type": "video_details",
+  "key": "DEXo7X3YXbE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "4nPM60qvWdR9NLdkM4y3U5sZrJU",
+    "id": "DEXo7X3YXbE",
+    "snippet": {
+      "publishedAt": "2025-11-21T00:09:50Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "Rubber Duck Thursdays - Let's build",
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DEXo7X3YXbE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DEXo7X3YXbE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DEXo7X3YXbE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DEXo7X3YXbE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DEXo7X3YXbE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Rubber Duck Thursdays - Let's build",
+        "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects."
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1H38M7S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "803",
+      "likeCount": "32",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

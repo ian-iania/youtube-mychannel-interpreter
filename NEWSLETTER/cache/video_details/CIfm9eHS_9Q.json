@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285754.979529,
+  "cache_type": "video_details",
+  "key": "CIfm9eHS_9Q",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Gn91-NBwgo3ETak5QFpXHtNAdMc",
+    "id": "CIfm9eHS_9Q",
+    "snippet": {
+      "publishedAt": "2025-11-27T19:38:00Z",
+      "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+      "title": "Vintage Thanksgiving Ad Extraction with ADE 📰",
+      "description": "🦃 16 lbs of Turkey for $9.12? We analyzed the vintage ad. 🗞️🕰️\n\nThis Thanksgiving, we pushed a chaotic, grainy 1950s newspaper circular through the LandingAI ADE Playground to see how well it could decode the vintage deals.\n\nThe scan was messy. Fonts were inconsistent. The layout was all over the place.\n\nADE still parsed the structure and extracted the prices cleanly:\n🍗 Fancy Hens: 57¢/lb\n🥓 Bacon: 55¢/lb\n🥔 Sweet Potatoes: 3 lbs for 25¢ (Yes, really.)\n\nFrom a 70-year-old image to a structured price list in seconds. Estimated full dinner cost back then? $10.81. 🤯\n\nNo workflows. No templates. Just upload a document and get structured data back.\n\nTry it yourself here → https://va.landing.ai/demo/doc-extraction\n\n#thanksgiving #ade",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CIfm9eHS_9Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CIfm9eHS_9Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CIfm9eHS_9Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CIfm9eHS_9Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CIfm9eHS_9Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LandingAI",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Vintage Thanksgiving Ad Extraction with ADE 📰",
+        "description": "🦃 16 lbs of Turkey for $9.12? We analyzed the vintage ad. 🗞️🕰️\n\nThis Thanksgiving, we pushed a chaotic, grainy 1950s newspaper circular through the LandingAI ADE Playground to see how well it could decode the vintage deals.\n\nThe scan was messy. Fonts were inconsistent. The layout was all over the place.\n\nADE still parsed the structure and extracted the prices cleanly:\n🍗 Fancy Hens: 57¢/lb\n🥓 Bacon: 55¢/lb\n🥔 Sweet Potatoes: 3 lbs for 25¢ (Yes, really.)\n\nFrom a 70-year-old image to a structured price list in seconds. Estimated full dinner cost back then? $10.81. 🤯\n\nNo workflows. No templates. Just upload a document and get structured data back.\n\nTry it yourself here → https://va.landing.ai/demo/doc-extraction\n\n#thanksgiving #ade"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M2S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

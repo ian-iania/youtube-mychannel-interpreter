@@ -1,0 +1,86 @@
+{
+  "cached_at": 1764285745.494549,
+  "cache_type": "video_details",
+  "key": "Hio_cJjrR-Y",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "PudhkYaxxhLYh2abPmLEJKwUa8w",
+    "id": "Hio_cJjrR-Y",
+    "snippet": {
+      "publishedAt": "2025-11-22T06:55:11Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "Open Source Friday with Cilium",
+      "description": "On this week’s Open Source Friday, we highlight Cilium, an open source project that provides modern networking, security, and observability for cloud-native environments using eBPF. \n\n03:30 Welcome to Open Source Fridays\n03:49 Introduction to Cilium\n04:45 The Evolution of Networking\n05:11 Challenges in Container Networking\n06:40 What is eBPF?\n08:39 The Power of eBPF in Linux Kernel\n13:32 Why Choose Cilium?\n14:32 Cilium's Key Features\n19:04 Hands-On with Cilium\n24:03 Network Policy Deployment\n24:27 Observability with Hubble\n26:06 Getting Started with Cilium\n26:39 Cilium's Expanding Capabilities\n28:52 Business Value of Cilium\n30:06 Operational Costs and Migration\n33:50 Contributing to Cilium\n36:36 The Role of the eBPF Foundation\n41:38 Conclusion and Final Thoughts\n\nLinks mentioned: \n- https://ebpf.io/\n- https://ebpf.foundation/\n- https://cilium.io/\n- https://github.com/cilium/cilium/\n- https://www.linkedin.com/company/cilium/\n- https://isovalent.com/labs/cilium-getting-started/\n- https://cilium.io/newsletter/\n- https://www.youtube.com/watch?v=Wb_vD3XZYOA\n\nStay up-to-date on all things GitHub by subscribing and following us at:\nYouTube: http://bit.ly/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\nFacebook: https://www.facebook.com/GitHub/\n\nAbout GitHub:\nIt’s where over 180 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Hio_cJjrR-Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Hio_cJjrR-Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Hio_cJjrR-Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Hio_cJjrR-Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Hio_cJjrR-Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "tags": [
+        "Here are YouTube-friendly CSV tags for this episode (all comma-separated",
+        "under 500 characters total): **cilium",
+        "ebpf",
+        "open source friday",
+        "kubernetes networking",
+        "kubernetes security",
+        "cloud native",
+        "hubble observability",
+        "ebpf foundation",
+        "cloud networking",
+        "open source projects",
+        "github open source",
+        "cilium ebpf",
+        "k8s networking",
+        "k8s security",
+        "service mesh alternatives",
+        "multi cluster networking**"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Open Source Friday with Cilium",
+        "description": "On this week’s Open Source Friday, we highlight Cilium, an open source project that provides modern networking, security, and observability for cloud-native environments using eBPF. \n\n03:30 Welcome to Open Source Fridays\n03:49 Introduction to Cilium\n04:45 The Evolution of Networking\n05:11 Challenges in Container Networking\n06:40 What is eBPF?\n08:39 The Power of eBPF in Linux Kernel\n13:32 Why Choose Cilium?\n14:32 Cilium's Key Features\n19:04 Hands-On with Cilium\n24:03 Network Policy Deployment\n24:27 Observability with Hubble\n26:06 Getting Started with Cilium\n26:39 Cilium's Expanding Capabilities\n28:52 Business Value of Cilium\n30:06 Operational Costs and Migration\n33:50 Contributing to Cilium\n36:36 The Role of the eBPF Foundation\n41:38 Conclusion and Final Thoughts\n\nLinks mentioned: \n- https://ebpf.io/\n- https://ebpf.foundation/\n- https://cilium.io/\n- https://github.com/cilium/cilium/\n- https://www.linkedin.com/company/cilium/\n- https://isovalent.com/labs/cilium-getting-started/\n- https://cilium.io/newsletter/\n- https://www.youtube.com/watch?v=Wb_vD3XZYOA\n\nStay up-to-date on all things GitHub by subscribing and following us at:\nYouTube: http://bit.ly/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\nFacebook: https://www.facebook.com/GitHub/\n\nAbout GitHub:\nIt’s where over 180 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT43M13S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1452",
+      "likeCount": "40",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285754.981674,
+  "cache_type": "video_details",
+  "key": "5WTxmkld9Lg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "v_NhGiEJ3iQaNdbblMnrVo5HyO0",
+    "id": "5WTxmkld9Lg",
+    "snippet": {
+      "publishedAt": "2025-11-24T15:47:32Z",
+      "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+      "title": "Financial AI Hackathon Championship 2025 | LandingAI x AWS Recap 🏆",
+      "description": "What an incredible Saturday at the Financial AI Hackathon Championship in New York. ⚡️\n\nHosted in collaboration with Amazon Web Services (AWS), the event brought together builders from around the world to solve real challenges in financial document processing using Agentic Document Extraction (ADE), LLMs, and agentic frameworks.\n\nWe saw more than 290 participants, over 50 project submissions, and 22 finalist teams presenting thoughtful, production-ready solutions. From underwriting and contract analysis to fraud detection, M&A due diligence, loan automation, and financial reporting, the depth of engineering, creativity, and domain expertise stood out.\n\nA huge congratulations to the winners:\n🏆 LoanLens – First Place\n🥈 Skywalker – Second Place\n🏅 Beemnet Haile – Best Online-Only Team\n\nSpecial appreciation to the judges, mentors, and partners who supported the event, to Andrew Ng for joining us in New York, and to Dan Maloney for closing the day with reflections on the future of agentic financial systems.\n\nAnd to every builder who participated.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5WTxmkld9Lg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5WTxmkld9Lg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5WTxmkld9Lg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5WTxmkld9Lg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5WTxmkld9Lg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LandingAI",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Financial AI Hackathon Championship 2025 | LandingAI x AWS Recap 🏆",
+        "description": "What an incredible Saturday at the Financial AI Hackathon Championship in New York. ⚡️\n\nHosted in collaboration with Amazon Web Services (AWS), the event brought together builders from around the world to solve real challenges in financial document processing using Agentic Document Extraction (ADE), LLMs, and agentic frameworks.\n\nWe saw more than 290 participants, over 50 project submissions, and 22 finalist teams presenting thoughtful, production-ready solutions. From underwriting and contract analysis to fraud detection, M&A due diligence, loan automation, and financial reporting, the depth of engineering, creativity, and domain expertise stood out.\n\nA huge congratulations to the winners:\n🏆 LoanLens – First Place\n🥈 Skywalker – Second Place\n🏅 Beemnet Haile – Best Online-Only Team\n\nSpecial appreciation to the judges, mentors, and partners who supported the event, to Andrew Ng for joining us in New York, and to Dan Maloney for closing the day with reflections on the future of agentic financial systems.\n\nAnd to every builder who participated."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT4M57S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "79",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

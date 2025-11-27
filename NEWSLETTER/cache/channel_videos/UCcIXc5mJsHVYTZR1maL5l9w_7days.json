@@ -1,0 +1,177 @@
+{
+  "cached_at": 1764285741.390638,
+  "cache_type": "channel_videos",
+  "key": "UCcIXc5mJsHVYTZR1maL5l9w_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_mVFgaEVM7NVuaWc1o-qWTwx_Ac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mY9EypyKaEU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T16:01:13Z",
+        "channelId": "UCcIXc5mJsHVYTZR1maL5l9w",
+        "title": "Deep Learning Specialization by DeepLearning.AI #BeADeepLearner",
+        "description": "Enroll Now: https://bit.ly/47elYXy Looking to grow your skills and build a career in AI? Join 1 million+ learners and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mY9EypyKaEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mY9EypyKaEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mY9EypyKaEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DeepLearningAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T16:01:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jOqxRg6AknTEl7cqWxI21PdXEMQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cSLmR2eX4xE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T17:16:43Z",
+        "channelId": "UCcIXc5mJsHVYTZR1maL5l9w",
+        "title": "AI Dev 25 NYC: Event Highlights",
+        "description": "What a day! AI Dev 25 x NYC, hosted by Andrew Ng and DeepLearning.AI, brought together engineers, researchers, and builders ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cSLmR2eX4xE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cSLmR2eX4xE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cSLmR2eX4xE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DeepLearningAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T17:16:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XByvE0JxLoYlZJRNdY0udY-RNao",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d3mYcvWgAhY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T17:16:56Z",
+        "channelId": "UCcIXc5mJsHVYTZR1maL5l9w",
+        "title": "Generative AI for Software Development is open for enrollment!",
+        "description": "Enroll now: https://bit.ly/4p18Oo4 Generative AI is not just a tool for creating content faster. It's a paradigm shift in how you can ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d3mYcvWgAhY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d3mYcvWgAhY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d3mYcvWgAhY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DeepLearningAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T17:16:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OzQmGigB9zSv8nN8myyar8oBiMM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VRBBuCbyASI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T17:53:14Z",
+        "channelId": "UCcIXc5mJsHVYTZR1maL5l9w",
+        "title": "The AI for Good Specialization is Now Available at DeepLearning.AI",
+        "description": "Enroll now! https://bit.ly/4p5rJOY In AI for Good, our three-course specialization built in collaboration with the Microsoft AI for Good ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VRBBuCbyASI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VRBBuCbyASI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VRBBuCbyASI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DeepLearningAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T17:53:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rzdmYbmqj3apzNTKSkd0AX82oLQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SZz1qC-X1uA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T17:49:22Z",
+        "channelId": "UCcIXc5mJsHVYTZR1maL5l9w",
+        "title": "Machine Learning Specialization by DeepLearning.AI",
+        "description": "Enroll in the Machine Learning Specialization https://bit.ly/4nFHHOF This 3-course specialization is a foundational online ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SZz1qC-X1uA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SZz1qC-X1uA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SZz1qC-X1uA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DeepLearningAI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T17:49:22Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.959199,
+  "cache_type": "video_details",
+  "key": "o3gmwzo-Mik",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "RWc2SpP1mzirzPqhMurI2p4z9fA",
+    "id": "o3gmwzo-Mik",
+    "snippet": {
+      "publishedAt": "2025-11-23T19:44:51Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "AI changes *Nothing* — Dax Raad, OpenCode",
+      "description": "Everyone says AI changes everything. Dax Raad argues that when it comes to building a winning product, AI changes nothing.\n\nIn this contrarian talk, Dax breaks down why the fundamental challenges of product success: marketing, onboarding, and retention remain stubbornly human problems that AI cannot solve. He argues that while AI can generate content, it cannot generate cool. While it can write code, it cannot design the deep primitives required for long term retention.\n\nKey Takeaways:\n- Marketing is about Cool: You need to create things that people feel compelled to share. AI is too corny to help you here.\n- The \"Aha\" Moment: You must ruthlessly eliminate friction to get users to the singular moment they understand your product. This requires deep, opinionated taste, not algorithmic optimization.\n- Primitives over Features: To retain power users, you must build deep primitives first and simple experiences second. AI cannot hallucinate the right mental model for your problem space.\n\nWinning still requires hard work, deep taste, and human ingenuity. And that's a good thing.\n\nDax Raad is a core contributor to SST, the framework that makes it easy to build serverless applications. He is a well-known voice in the developer community, advocating for better developer experiences and honest product thinking.\n\n---\nSocials:\n- X (Twitter): https://x.com/thdxr\n- GitHub: https://github.com/thdxr\n- Website: https://thdxr.com/\n- Company: OpenCode (https://opencode.ai)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o3gmwzo-Mik/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o3gmwzo-Mik/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o3gmwzo-Mik/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/o3gmwzo-Mik/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/o3gmwzo-Mik/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "AI changes *Nothing* — Dax Raad, OpenCode",
+        "description": "Everyone says AI changes everything. Dax Raad argues that when it comes to building a winning product, AI changes nothing.\n\nIn this contrarian talk, Dax breaks down why the fundamental challenges of product success: marketing, onboarding, and retention remain stubbornly human problems that AI cannot solve. He argues that while AI can generate content, it cannot generate cool. While it can write code, it cannot design the deep primitives required for long term retention.\n\nKey Takeaways:\n- Marketing is about Cool: You need to create things that people feel compelled to share. AI is too corny to help you here.\n- The \"Aha\" Moment: You must ruthlessly eliminate friction to get users to the singular moment they understand your product. This requires deep, opinionated taste, not algorithmic optimization.\n- Primitives over Features: To retain power users, you must build deep primitives first and simple experiences second. AI cannot hallucinate the right mental model for your problem space.\n\nWinning still requires hard work, deep taste, and human ingenuity. And that's a good thing.\n\nDax Raad is a core contributor to SST, the framework that makes it easy to build serverless applications. He is a well-known voice in the developer community, advocating for better developer experiences and honest product thinking.\n\n---\nSocials:\n- X (Twitter): https://x.com/thdxr\n- GitHub: https://github.com/thdxr\n- Website: https://thdxr.com/\n- Company: OpenCode (https://opencode.ai)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT16M39S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "15872",
+      "likeCount": "749",
+      "favoriteCount": "0",
+      "commentCount": "68"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285745.593033,
+  "cache_type": "channel_info",
+  "key": "UC9Rrud-8CaHokDtK9FszvRg",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "xkuS1zX7J8Soiu7z-JVL1-vzDYY",
+    "id": "UC9Rrud-8CaHokDtK9FszvRg",
+    "snippet": {
+      "title": "Github Awesome",
+      "description": "🚀 Welcome to GitHub Awesome!\n\nWe bring you the latest trending repositories on GitHub—fresh, daily, and packed with inspiration. Whether you’re a developer, student, or just curious about what’s hot in open source, this is the place to discover amazing projects, tools, and ideas shaping the tech world.\n\n⚡️ Stay ahead with quick highlights, simple breakdowns, and daily updates on what’s rising in the GitHub community.\n\n📌 Note: This is an unofficial channel. We’re not affiliated with GitHub or any original media sources—just passionate about sharing what’s awesome in open source!\n",
+      "customUrl": "@githubawesome",
+      "publishedAt": "2020-08-04T14:09:48.44579Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/fgdG_4Y5n9M-49-enIA1R_Ot60eJXCceUxKXsgGjSbX240I1gr-Van1Ph78abWJfAL9rIlbRWQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/fgdG_4Y5n9M-49-enIA1R_Ot60eJXCceUxKXsgGjSbX240I1gr-Van1Ph78abWJfAL9rIlbRWQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/fgdG_4Y5n9M-49-enIA1R_Ot60eJXCceUxKXsgGjSbX240I1gr-Van1Ph78abWJfAL9rIlbRWQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Github Awesome",
+        "description": "🚀 Welcome to GitHub Awesome!\n\nWe bring you the latest trending repositories on GitHub—fresh, daily, and packed with inspiration. Whether you’re a developer, student, or just curious about what’s hot in open source, this is the place to discover amazing projects, tools, and ideas shaping the tech world.\n\n⚡️ Stay ahead with quick highlights, simple breakdowns, and daily updates on what’s rising in the GitHub community.\n\n📌 Note: This is an unofficial channel. We’re not affiliated with GitHub or any original media sources—just passionate about sharing what’s awesome in open source!\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "1006010",
+      "subscriberCount": "16500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "116"
+    }
+  }
+}

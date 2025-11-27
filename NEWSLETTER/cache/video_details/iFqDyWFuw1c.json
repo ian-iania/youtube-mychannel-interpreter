@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285747.442775,
+  "cache_type": "video_details",
+  "key": "iFqDyWFuw1c",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "t75bY39Vc72mYP9GWB_VBt4hBdc",
+    "id": "iFqDyWFuw1c",
+    "snippet": {
+      "publishedAt": "2025-11-25T23:00:42Z",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "Sundar Pichai: Gemini 3, Vibe Coding and Google's Full Stack Strategy",
+      "description": "Logan Kilpatrick from Google DeepMind sits down with Sundar Pichai, CEO of Google and Alphabet to discuss the launch of Gemini 3, Nano Banana Pro and Google's overall AI momentum. They talk about Google’s long-term bets on infrastructure, what it’s actually like to ship SOTA models, and the rise of vibe coding. Sundar also shares his personal launch day rituals and thoughts on future moonshots like putting data centers in space.\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nChapters:\n0:00 - Intro \n0:51 - Shipping Gemini 3\n2:44 - Google's decade-long investment in AI\n4:27 - The full stack advantage\n5:43 - Scaling up compute and capacity\n7:32 - Sim-shipping Gemini across products\n9:35 - Nano Banana Pro\n12:13 - Monitoring launch day\n14:13 - Future model roadmap\n16:05 - Launch day rituals\n18:02 - The Blue Micro Kitchen\n21:57 - Future moonshots\n23:26 - The rise of vibe coding\n26:50 - What’s next\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Sundar Pichai \nProducts Mentioned:  Google AI, Gemini",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iFqDyWFuw1c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iFqDyWFuw1c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iFqDyWFuw1c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iFqDyWFuw1c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iFqDyWFuw1c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google for Developers",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: AI DevRel (fka Core ML);",
+        "Purpose: Learn;",
+        "Video Type:Podcast;",
+        "ct: AIG;;",
+        "gds:Yes;"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Sundar Pichai: Gemini 3, Vibe Coding and Google's Full Stack Strategy",
+        "description": "Logan Kilpatrick from Google DeepMind sits down with Sundar Pichai, CEO of Google and Alphabet to discuss the launch of Gemini 3, Nano Banana Pro and Google's overall AI momentum. They talk about Google’s long-term bets on infrastructure, what it’s actually like to ship SOTA models, and the rise of vibe coding. Sundar also shares his personal launch day rituals and thoughts on future moonshots like putting data centers in space.\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nChapters:\n0:00 - Intro \n0:51 - Shipping Gemini 3\n2:44 - Google's decade-long investment in AI\n4:27 - The full stack advantage\n5:43 - Scaling up compute and capacity\n7:32 - Sim-shipping Gemini across products\n9:35 - Nano Banana Pro\n12:13 - Monitoring launch day\n14:13 - Future model roadmap\n16:05 - Launch day rituals\n18:02 - The Blue Micro Kitchen\n21:57 - Future moonshots\n23:26 - The rise of vibe coding\n26:50 - What’s next\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Sundar Pichai \nProducts Mentioned:  Google AI, Gemini"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT27M35S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "74902",
+      "likeCount": "2034",
+      "favoriteCount": "0",
+      "commentCount": "223"
+    }
+  }
+}

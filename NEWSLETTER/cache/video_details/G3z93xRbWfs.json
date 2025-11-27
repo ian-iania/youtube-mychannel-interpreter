@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285744.840095,
+  "cache_type": "video_details",
+  "key": "G3z93xRbWfs",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "X9yvtaj0i6m7Wva6k0MrFWXYvTo",
+    "id": "G3z93xRbWfs",
+    "snippet": {
+      "publishedAt": "2025-11-21T06:59:06Z",
+      "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+      "title": "Genspark Teams｜함께 만들고, 더 빠르게 출시하세요.",
+      "description": "*\"최종_찐최종_v3\" 파일 악몽에서 벗어나고 싶으신가요?* 젠스파크 팀즈는 팀 인원 전체가 AI와 함께 실시간으로 작업할 수 있게 해줍니다.\n\nAI 슬라이드와 슈퍼 에이전트에서 함께 작업하세요. 팀원들 그리고 AI와 모두 같은 공간에서 채팅하세요 . 더 이상 슬랙에 스크린샷 올리며 \"저희 어떤 버전 쓰는 거예요?\" 물어볼 필요가 없습니다.\n\n당신의 팀 + AI가 하나의 워크스페이스에서 함께 만들고, 더 빠르게 출시하세요.\n\n지금 바로 사용해보세요: https://www.genspark.ai/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/G3z93xRbWfs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/G3z93xRbWfs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/G3z93xRbWfs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/G3z93xRbWfs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/G3z93xRbWfs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Genspark",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "Genspark Teams｜함께 만들고, 더 빠르게 출시하세요.",
+        "description": "*\"최종_찐최종_v3\" 파일 악몽에서 벗어나고 싶으신가요?* 젠스파크 팀즈는 팀 인원 전체가 AI와 함께 실시간으로 작업할 수 있게 해줍니다.\n\nAI 슬라이드와 슈퍼 에이전트에서 함께 작업하세요. 팀원들 그리고 AI와 모두 같은 공간에서 채팅하세요 . 더 이상 슬랙에 스크린샷 올리며 \"저희 어떤 버전 쓰는 거예요?\" 물어볼 필요가 없습니다.\n\n당신의 팀 + AI가 하나의 워크스페이스에서 함께 만들고, 더 빠르게 출시하세요.\n\n지금 바로 사용해보세요: https://www.genspark.ai/"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M40S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "210",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

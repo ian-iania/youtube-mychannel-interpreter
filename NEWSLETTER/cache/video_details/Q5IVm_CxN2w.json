@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.9588969,
+  "cache_type": "video_details",
+  "key": "Q5IVm_CxN2w",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "6nN2bTCY5SYjMzOC9daEfGVVTCA",
+    "id": "Q5IVm_CxN2w",
+    "snippet": {
+      "publishedAt": "2025-11-24T20:16:36Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "Infra that fixes itself, thanks to coding agents — Mahmoud Abdelwahab, Railway",
+      "description": "This talk shows how we built Railway Autofix, a plug-in template you can drop into any Railway project to monitor your infrastructure, and open PRs with fixes when issues are detected. We use OpenCode as our coding agent, as well as Inngest for durable execution\n\nThe final code will be live at https://github.com/m-abdelwahab/railway-autofix\n\nMahmoud Abdelwahab is a Software Engineer who works at the intersection of Product, Marketing, Education and Community. He loves building over-engineered demos and playing around with the latest technologies.\n\n---\nSocials:\n- LinkedIn: https://linkedin.com/in/thisismahmoud\n- X (Twitter): https://x.com/thisismahmoud\n- GitHub: https://github.com/m-abdelwahab\n- Company: Railway (https://railway.com)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q5IVm_CxN2w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q5IVm_CxN2w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q5IVm_CxN2w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Q5IVm_CxN2w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Q5IVm_CxN2w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Infra that fixes itself, thanks to coding agents — Mahmoud Abdelwahab, Railway",
+        "description": "This talk shows how we built Railway Autofix, a plug-in template you can drop into any Railway project to monitor your infrastructure, and open PRs with fixes when issues are detected. We use OpenCode as our coding agent, as well as Inngest for durable execution\n\nThe final code will be live at https://github.com/m-abdelwahab/railway-autofix\n\nMahmoud Abdelwahab is a Software Engineer who works at the intersection of Product, Marketing, Education and Community. He loves building over-engineered demos and playing around with the latest technologies.\n\n---\nSocials:\n- LinkedIn: https://linkedin.com/in/thisismahmoud\n- X (Twitter): https://x.com/thisismahmoud\n- GitHub: https://github.com/m-abdelwahab\n- Company: Railway (https://railway.com)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT18M8S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "355",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

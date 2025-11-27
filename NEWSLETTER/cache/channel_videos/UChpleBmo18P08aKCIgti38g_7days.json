@@ -1,0 +1,177 @@
+{
+  "cached_at": 1764285758.227167,
+  "cache_type": "channel_videos",
+  "key": "UChpleBmo18P08aKCIgti38g_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YjbBNq-gIXdAEkQIKKjuu9pKoZE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p7SRuKWZMvQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T22:00:54Z",
+        "channelId": "UChpleBmo18P08aKCIgti38g",
+        "title": "11 FREE AI Tools That WILL Replace Your Paid Apps",
+        "description": "Checkout Meta's SAM3 by clicking here: https://aidemos.meta.com/segment-anything Who doesn't love free?! Meet the best ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p7SRuKWZMvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p7SRuKWZMvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p7SRuKWZMvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matt Wolfe",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T22:00:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZoN_UVAjeZIR5ybsJE7OAhYymt4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "55k3QUInR3s"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:57:32Z",
+        "channelId": "UChpleBmo18P08aKCIgti38g",
+        "title": "AI Video Editing Hack",
+        "description": "BTS of my filming setup … but with a little help from Meta's new SAM 3 model. I uploaded a quick BTS video and SAM 3 locked ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/55k3QUInR3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/55k3QUInR3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/55k3QUInR3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matt Wolfe",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:57:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "10AmF0TFsgxKQijj66zJZD63xMM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GO5TngVcH1A"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T14:00:29Z",
+        "channelId": "UChpleBmo18P08aKCIgti38g",
+        "title": "AI News: Insane Week - Gemini 3 Was Just The Start",
+        "description": "Try Warp for free today! Use my link to get started → https://go.warp.dev/wolfeigagents This might've been the craziest week in AI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GO5TngVcH1A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GO5TngVcH1A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GO5TngVcH1A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matt Wolfe",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T14:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jbaY9IIPxvfAhrm-Gb5ObzGkw5k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z7PCDGJztDk"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T19:03:18Z",
+        "channelId": "UChpleBmo18P08aKCIgti38g",
+        "title": "Customizing My Mac With AI",
+        "description": "I just used AI to completely customize my MacBook. It helped me: Clear up space Organize my files and folders 🖼️Even ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z7PCDGJztDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z7PCDGJztDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z7PCDGJztDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matt Wolfe",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T19:03:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b0nRGVMI2MNWSh9bjtWxbdHeYyE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1ABQb6cGphI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T01:00:28Z",
+        "channelId": "UChpleBmo18P08aKCIgti38g",
+        "title": "Nano Banana 2: New Features",
+        "description": "Finally, AI image text that isn't total gibberish I tested some of the new features in the new Nano Banana 2 (AKA Nano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1ABQb6cGphI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1ABQb6cGphI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1ABQb6cGphI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matt Wolfe",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T01:00:28Z"
+      }
+    }
+  ]
+}

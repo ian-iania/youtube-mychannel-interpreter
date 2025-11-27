@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285746.497642,
+  "cache_type": "video_details",
+  "key": "4U3nfVxlwlM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "-zlHZB3xIoSYYoAWKbLm6XGRW-A",
+    "id": "4U3nfVxlwlM",
+    "snippet": {
+      "publishedAt": "2025-11-26T22:10:16Z",
+      "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "title": "Making a list {and checking it twice}: The Gemini CLI workflow",
+      "description": "The first week of {DEV}cember, we're making a list (and checking it twice) and exploring the Gemini CLI workflow! Join host Stephanie Wong and Gemini CLI experts Billy Jacobson, Amit Maraj, and Taylor Mullen for a walk through on building your entire AI workflow using Gemini CLI.\n\nSpeakers: Stephanie Wong, Billy Jacobson, Amit Maraj, Taylor Mullen\nProducts Mentioned: Gemini CLI",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4U3nfVxlwlM/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4U3nfVxlwlM/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4U3nfVxlwlM/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4U3nfVxlwlM/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4U3nfVxlwlM/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Cloud Tech",
+      "categoryId": "28",
+      "liveBroadcastContent": "upcoming",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Making a list {and checking it twice}: The Gemini CLI workflow",
+        "description": "The first week of {DEV}cember, we're making a list (and checking it twice) and exploring the Gemini CLI workflow! Join host Stephanie Wong and Gemini CLI experts Billy Jacobson, Amit Maraj, and Taylor Mullen for a walk through on building your entire AI workflow using Gemini CLI.\n\nSpeakers: Stephanie Wong, Billy Jacobson, Amit Maraj, Taylor Mullen\nProducts Mentioned: Gemini CLI"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "P0D",
+      "dimension": "2d",
+      "definition": "sd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "0",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

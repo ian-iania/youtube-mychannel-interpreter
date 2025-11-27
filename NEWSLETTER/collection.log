@@ -1,0 +1,632 @@
+✅ Usando YOUTUBE_API_KEY
+======================================================================
+📺 Coletor Otimizado de Vídeos do YouTube
+======================================================================
+
+🎯 Canais a processar: 103
+📅 Período: Últimos 7 dias
+💾 Cache: Ativado
+
+
+[1/103] Processando canal...
+
+⚠️  Quota excedida para YOUTUBE_API_KEY
+   Keys esgotadas: 1/3
+🔐 Tentando OAUTH_PRIMARY (OAuth2)...
+✅ Usando OAUTH_PRIMARY (OAuth2)
+✅ Mudou para OAUTH_PRIMARY
+
+⚠️  Quota excedida para OAUTH_PRIMARY
+   Keys esgotadas: 2/3
+🔐 Tentando OAUTH_SECONDARY (OAuth2)...
+✅ Usando OAUTH_SECONDARY (OAuth2)
+✅ Mudou para OAUTH_SECONDARY
+
+📺 1littlecoder
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[2/103] Processando canal...
+
+📺 3Blue1Brown
+   📹 1 vídeos encontrados
+   ✅ 1 vídeos processados
+
+[3/103] Processando canal...
+
+📺 AI Engineer
+   📹 20 vídeos encontrados
+   ✅ 20 vídeos processados
+
+[4/103] Processando canal...
+
+📺 AI Engineer Brasil
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[5/103] Processando canal...
+
+📺 AI LABS
+   📹 4 vídeos encontrados
+   ✅ 4 vídeos processados
+
+[6/103] Processando canal...
+
+📺 AI and Tech for Education
+   📹 1 vídeos encontrados
+   ✅ 1 vídeos processados
+
+[7/103] Processando canal...
+
+📺 AICodeKing
+   📹 7 vídeos encontrados
+   ✅ 7 vídeos processados
+
+[8/103] Processando canal...
+
+📺 Afonso Lopes | Automações IA 
+   📹 1 vídeos encontrados
+   ✅ 1 vídeos processados
+
+[9/103] Processando canal...
+
+📺 Andrej Karpathy
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[10/103] Processando canal...
+
+📺 Anthropic
+   📹 6 vídeos encontrados
+   ✅ 6 vídeos processados
+
+[11/103] Processando canal...
+
+📺 Argonalyst
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[12/103] Processando canal...
+
+📺 Arseny Shatokhin
+   📹 1 vídeos encontrados
+   ✅ 1 vídeos processados
+
+[13/103] Processando canal...
+
+📺 Arxiv Papers
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[14/103] Processando canal...
+
+📺 Asimov Academy
+   📹 3 vídeos encontrados
+   ✅ 3 vídeos processados
+
+[15/103] Processando canal...
+
+📺 Billy Automações
+   📹 3 vídeos encontrados
+   ✅ 3 vídeos processados
+
+[16/103] Processando canal...
+
+📺 Boris Meinardus
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[17/103] Processando canal...
+
+📺 ByteByteGo
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[18/103] Processando canal...
+
+📺 Canaltech
+   📹 30 vídeos encontrados
+   ✅ 30 vídeos processados
+
+[19/103] Processando canal...
+
+📺 Code with Ania Kubów
+   📹 2 vídeos encontrados
+   ✅ 2 vídeos processados
+
+[20/103] Processando canal...
+
+📺 Comunidade ZDG
+   📹 1 vídeos encontrados
+   ✅ 1 vídeos processados
+
+[21/103] Processando canal...
+
+📺 CrewAI
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[22/103] Processando canal...
+
+📺 Data Science in your pocket
+   📹 16 vídeos encontrados
+   ✅ 16 vídeos processados
+
+[23/103] Processando canal...
+
+📺 Databricks
+   📹 7 vídeos encontrados
+   ✅ 7 vídeos processados
+
+[24/103] Processando canal...
+
+📺 Databricks Brazil
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[25/103] Processando canal...
+
+📺 Dave Ebbelaar
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[26/103] Processando canal...
+
+📺 Deborah Folloni
+   📹 3 vídeos encontrados
+   ✅ 3 vídeos processados
+
+[27/103] Processando canal...
+
+📺 DeepLearningAI
+   📹 5 vídeos encontrados
+   ✅ 5 vídeos processados
+
+[28/103] Processando canal...
+
+📺 Eric Tech
+   📹 3 vídeos encontrados
+   ✅ 3 vídeos processados
+
+[29/103] Processando canal...
+
+📺 Fahd Mirza
+   📹 17 vídeos encontrados
+   ✅ 17 vídeos processados
+
+[30/103] Processando canal...
+
+📺 Filipe Deschamps
+   📹 2 vídeos encontrados
+   ✅ 2 vídeos processados
+
+[31/103] Processando canal...
+
+📺 Fireship
+   📹 2 vídeos encontrados
+   ✅ 2 vídeos processados
+
+[32/103] Processando canal...
+
+📺 Futurepedia
+   📹 2 vídeos encontrados
+   ✅ 2 vídeos processados
+
+[33/103] Processando canal...
+
+📺 Genspark
+   📹 18 vídeos encontrados
+   ✅ 18 vídeos processados
+
+[34/103] Processando canal...
+
+📺 GitHub
+   📹 18 vídeos encontrados
+   ✅ 18 vídeos processados
+
+[35/103] Processando canal...
+
+📺 Github Awesome
+   📹 9 vídeos encontrados
+   ✅ 9 vídeos processados
+
+[36/103] Processando canal...
+
+📺 Google Cloud Tech
+   📹 8 vídeos encontrados
+   ✅ 8 vídeos processados
+
+[37/103] Processando canal...
+
+📺 Google Research
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[38/103] Processando canal...
+
+📺 Google for Developers
+   📹 10 vídeos encontrados
+   ✅ 10 vídeos processados
+
+[39/103] Processando canal...
+
+📺 Greg Isenberg
+   📹 3 vídeos encontrados
+   ✅ 3 vídeos processados
+
+[40/103] Processando canal...
+
+📺 Groq
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[41/103] Processando canal...
+
+📺 Hackers Realm
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[42/103] Processando canal...
+
+📺 Helena Liu
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[43/103] Processando canal...
+
+📺 HuggingFace
+   📹 3 vídeos encontrados
+   ✅ 3 vídeos processados
+
+[44/103] Processando canal...
+
+📺 IBM Technology
+   📹 8 vídeos encontrados
+   ✅ 8 vídeos processados
+
+[45/103] Processando canal...
+
+📺 Iania
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[46/103] Processando canal...
+
+📺 Inteligencia Artificial para advogados
+   📹 15 vídeos encontrados
+   ✅ 15 vídeos processados
+
+[47/103] Processando canal...
+
+📺 Inteligência Mil Grau
+   📹 3 vídeos encontrados
+   ✅ 3 vídeos processados
+
+[48/103] Processando canal...
+
+📺 InvestNews BR
+   📹 19 vídeos encontrados
+   ✅ 19 vídeos processados
+
+[49/103] Processando canal...
+
+📺 James Briggs
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[50/103] Processando canal...
+
+📺 James Montemagno
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[51/103] Processando canal...
+
+📺 Jeff Su
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[52/103] Processando canal...
+
+📺 Jonathan da Cruz
+   📹 3 vídeos encontrados
+   ✅ 3 vídeos processados
+
+[53/103] Processando canal...
+
+📺 Kiro
+   📹 1 vídeos encontrados
+   ✅ 1 vídeos processados
+
+[54/103] Processando canal...
+
+📺 LandingAI
+   📹 15 vídeos encontrados
+   ✅ 15 vídeos processados
+
+[55/103] Processando canal...
+
+📺 LangChain
+   📹 4 vídeos encontrados
+   ✅ 4 vídeos processados
+
+[56/103] Processando canal...
+
+📺 Langflow
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[57/103] Processando canal...
+
+📺 Leon van Zyl
+   📹 2 vídeos encontrados
+   ✅ 2 vídeos processados
+
+[58/103] Processando canal...
+
+📺 ManuAGI - AutoGPT Tutorials
+   📹 4 vídeos encontrados
+   ✅ 4 vídeos processados
+
+[59/103] Processando canal...
+
+📺 Manual de Inteligência Artificial
+   📹 5 vídeos encontrados
+   ✅ 5 vídeos processados
+
+[60/103] Processando canal...
+
+📺 Matt Williams
+   📹 1 vídeos encontrados
+   ✅ 1 vídeos processados
+
+[61/103] Processando canal...
+
+📺 Matt Wolfe
+   📹 5 vídeos encontrados
+   ✅ 5 vídeos processados
+
+[62/103] Processando canal...
+
+📺 Matthew Berman
+   📹 6 vídeos encontrados
+   ✅ 6 vídeos processados
+
+[63/103] Processando canal...
+
+📺 Mervin Praison
+   📹 4 vídeos encontrados
+   ✅ 4 vídeos processados
+
+[64/103] Processando canal...
+
+📺 Microsoft
+   📹 6 vídeos encontrados
+   ✅ 6 vídeos processados
+
+[65/103] Processando canal...
+
+📺 Microsoft Azure
+   📹 13 vídeos encontrados
+   ✅ 13 vídeos processados
+
+[66/103] Processando canal...
+
+📺 Microsoft Power Platform
+   📹 6 vídeos encontrados
+   ✅ 6 vídeos processados
+
+[67/103] Processando canal...
+
+📺 Neo4j
+   📹 1 vídeos encontrados
+   ✅ 1 vídeos processados
+
+[68/103] Processando canal...
+
+📺 NoCode StartUp
+   📹 6 vídeos encontrados
+   ✅ 6 vídeos processados
+
+[69/103] Processando canal...
+
+📺 Onde eu Clico
+   📹 10 vídeos encontrados
+   ✅ 10 vídeos processados
+
+[70/103] Processando canal...
+
+📺 OpenAI
+   📹 1 vídeos encontrados
+   ✅ 1 vídeos processados
+
+[71/103] Processando canal...
+
+📺 Pinecone
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[72/103] Processando canal...
+
+📺 Prompt Engineer
+   📹 3 vídeos encontrados
+   ✅ 3 vídeos processados
+
+[73/103] Processando canal...
+
+📺 Prompt Engineering
+   📹 2 vídeos encontrados
+   ✅ 2 vídeos processados
+
+[74/103] Processando canal...
+
+📺 Rakesh Gohel
+   📹 3 vídeos encontrados
+   ✅ 3 vídeos processados
+
+[75/103] Processando canal...
+
+📺 Replit
+   📹 5 vídeos encontrados
+   ✅ 5 vídeos processados
+
+[76/103] Processando canal...
+
+📺 Riley Brown
+   📹 3 vídeos encontrados
+   ✅ 3 vídeos processados
+
+[77/103] Processando canal...
+
+📺 Rob The AI Guy
+   📹 7 vídeos encontrados
+   ✅ 7 vídeos processados
+
+[78/103] Processando canal...
+
+📺 Rodrigo Celoto 
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[79/103] Processando canal...
+
+📺 Ronnald Hawk
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[80/103] Processando canal...
+
+📺 Runway
+   📹 3 vídeos encontrados
+   ✅ 3 vídeos processados
+
+[81/103] Processando canal...
+
+📺 Sam Witteveen
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[82/103] Processando canal...
+
+📺 SingularityNET
+   📹 2 vídeos encontrados
+   ✅ 2 vídeos processados
+
+[83/103] Processando canal...
+
+📺 Siraj Raval
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[84/103] Processando canal...
+
+📺 Sophia the Robot
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[85/103] Processando canal...
+
+📺 StatQuest with Josh Starmer
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[86/103] Processando canal...
+
+📺 Synthesia
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[87/103] Processando canal...
+
+📺 Synthflow AI
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[88/103] Processando canal...
+
+📺 TecMundo
+   📹 32 vídeos encontrados
+   ✅ 32 vídeos processados
+
+[89/103] Processando canal...
+
+📺 Tech With Tim
+   📹 10 vídeos encontrados
+   ✅ 10 vídeos processados
+
+[90/103] Processando canal...
+
+📺 Theoretically Media
+   📹 1 vídeos encontrados
+   ✅ 1 vídeos processados
+
+[91/103] Processando canal...
+
+📺 Thu Vu
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[92/103] Processando canal...
+
+📺 Two Minute Papers
+   📹 1 vídeos encontrados
+   ✅ 1 vídeos processados
+
+[93/103] Processando canal...
+
+📺 Underfitted
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[94/103] Processando canal...
+
+📺 Unitree Robotics
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[95/103] Processando canal...
+
+📺 Universe of AI
+   📹 3 vídeos encontrados
+   ✅ 3 vídeos processados
+
+[96/103] Processando canal...
+
+📺 Weaviate vector database
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[97/103] Processando canal...
+
+📺 Well Pires 
+   📹 3 vídeos encontrados
+   ✅ 3 vídeos processados
+
+[98/103] Processando canal...
+
+📺 Wes Roth
+
+⚠️  Quota excedida para OAUTH_SECONDARY
+   Keys esgotadas: 3/3
+
+❌ TODAS as API keys esgotaram a quota!
+   Aguarde até amanhã ou adicione mais keys no .env
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[99/103] Processando canal...
+
+📺 Windsurf
+   ℹ️  Nenhum vídeo nos últimos 7 dias
+
+[100/103] Processando canal...
+
+📺 WorldofAI
+   📹 7 vídeos encontrados
+   ✅ 7 vídeos processados
+
+[101/103] Processando canal...
+
+📺 exame
+   📹 44 vídeos encontrados
+   ✅ 44 vídeos processados
+
+[102/103] Processando canal...
+   ❌ Erro ao processar canal: list index out of range
+
+[103/103] Processando canal...
+   ❌ Erro ao processar canal: list index out of range
+
+💾 Resultados salvos em: /Users/persivalballeste/Documents/LAB/NEWSLETTER/newsletters/2025-11-27_videos_full.json
+
+======================================================================
+📊 Estatísticas Finais
+======================================================================
+
+📺 Canais processados: 67
+🎬 Vídeos coletados: 473
+📡 Chamadas de API: 268
+💾 Cache hits: 0
+❌ Erros: 2
+
+💰 Taxa de cache: 0.0%
+💰 Economia de quota: ~0 chamadas
+
+🔑 Status das Credenciais:
+   Credencial atual: None
+   Credenciais restantes: 0
+
+📊 Estatísticas do Cache:
+   ✅ Hits: 0
+   ❌ Misses: 677
+   💾 Saves: 675
+   📈 Hit Rate: 0.0%
+   📁 Arquivos: 678
+   💽 Tamanho: 2.72 MB

@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285775.7972639,
+  "cache_type": "channel_info",
+  "key": "UC2WmuBuFq6gL08QYG-JjXKw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "BoEKuHlFaiMa0g0kjPZi9pbixxg",
+    "id": "UC2WmuBuFq6gL08QYG-JjXKw",
+    "snippet": {
+      "title": "WorldofAI",
+      "description": "World of Ai is here to push the creative use of Artificial Intelligence (AI) applications for simple day-to-day tasks!\n\nHere at WOA, you will find tips, tricks, and guides using AI applications to help you out in your day-to-day life. Going to strive to make your life easier! I will show you how and what you need to do to help your life out! I will strive to show you the wonders of AI and if that interests you, then make sure you subscribe to the channel now!\n",
+      "customUrl": "@intheworldofai",
+      "publishedAt": "2023-02-02T17:05:59.178275Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Aee59geVCIWJz9y7AzVdnY3I1jPR1S4VFF4kIkNJ46VD6jrEGhH2VszD-vKly0XhHz_sLBN3u4A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Aee59geVCIWJz9y7AzVdnY3I1jPR1S4VFF4kIkNJ46VD6jrEGhH2VszD-vKly0XhHz_sLBN3u4A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Aee59geVCIWJz9y7AzVdnY3I1jPR1S4VFF4kIkNJ46VD6jrEGhH2VszD-vKly0XhHz_sLBN3u4A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "WorldofAI",
+        "description": "World of Ai is here to push the creative use of Artificial Intelligence (AI) applications for simple day-to-day tasks!\n\nHere at WOA, you will find tips, tricks, and guides using AI applications to help you out in your day-to-day life. Going to strive to make your life easier! I will show you how and what you need to do to help your life out! I will strive to show you the wonders of AI and if that interests you, then make sure you subscribe to the channel now!\n"
+      },
+      "country": "CA"
+    },
+    "statistics": {
+      "viewCount": "16487324",
+      "subscriberCount": "176000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "953"
+    }
+  }
+}

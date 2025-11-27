@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285754.396561,
+  "cache_type": "channel_info",
+  "key": "UCYQS3jkfB79Diyr9sQJAj5Q",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "CTvikaonKkDS03N65azMut5SDKY",
+    "id": "UCYQS3jkfB79Diyr9sQJAj5Q",
+    "snippet": {
+      "title": "LandingAI",
+      "description": "LandingAI helps companies build, deploy, and scale Visual AI solutions.\n\nLandingAI delivers cutting-edge agentic visual AI technologies that empower customers to unlock the value of visual data. With LandingAI’s solutions, companies realize the value of AI and move AI projects from proof-of-concept to production.\n\nLandingAI’s flagship product, LandingLens, enables users to build, iterate, and deploy Visual AI solutions quickly and easily.\n\nLandingAI is a pioneer in agentic vision AI technologies, including Agentic Document Extraction and Agentic Object Detection, which enhance the ability to process and understand visual data at scale, making sophisticated Visual AI tools more accessible and efficient.\n\nFounded by Andrew Ng, co-founder of Coursera, founding lead of Google Brain, and former chief scientist at Baidu, LandingAI is uniquely positioned to lead the development of Visual AI that benefits all. For more information, visit http://landing.ai\n",
+      "customUrl": "@landingai",
+      "publishedAt": "2023-02-06T16:44:57.134235Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/3FO3c4qtP4FaLPwG2vdXV91dFWkSyL4Knr1kfMzx-0IwRyls4YuRCbgAWfLZv0CjXfCXRrdqrxs=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/3FO3c4qtP4FaLPwG2vdXV91dFWkSyL4Knr1kfMzx-0IwRyls4YuRCbgAWfLZv0CjXfCXRrdqrxs=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/3FO3c4qtP4FaLPwG2vdXV91dFWkSyL4Knr1kfMzx-0IwRyls4YuRCbgAWfLZv0CjXfCXRrdqrxs=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "LandingAI",
+        "description": "LandingAI helps companies build, deploy, and scale Visual AI solutions.\n\nLandingAI delivers cutting-edge agentic visual AI technologies that empower customers to unlock the value of visual data. With LandingAI’s solutions, companies realize the value of AI and move AI projects from proof-of-concept to production.\n\nLandingAI’s flagship product, LandingLens, enables users to build, iterate, and deploy Visual AI solutions quickly and easily.\n\nLandingAI is a pioneer in agentic vision AI technologies, including Agentic Document Extraction and Agentic Object Detection, which enhance the ability to process and understand visual data at scale, making sophisticated Visual AI tools more accessible and efficient.\n\nFounded by Andrew Ng, co-founder of Coursera, founding lead of Google Brain, and former chief scientist at Baidu, LandingAI is uniquely positioned to lead the development of Visual AI that benefits all. For more information, visit http://landing.ai\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "4719649",
+      "subscriberCount": "11000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "108"
+    }
+  }
+}

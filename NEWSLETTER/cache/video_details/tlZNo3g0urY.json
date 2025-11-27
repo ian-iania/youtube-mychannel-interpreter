@@ -1,0 +1,97 @@
+{
+  "cached_at": 1764285776.2332,
+  "cache_type": "video_details",
+  "key": "tlZNo3g0urY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "5yebC8OiTx0bn0ccy15ekl_6MbQ",
+    "id": "tlZNo3g0urY",
+    "snippet": {
+      "publishedAt": "2025-11-24T19:21:11Z",
+      "channelId": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "title": "Greptile: Self-Healing AI Coding Agent With INCREDIBLE Code Context! Powerful Coding Agent!",
+      "description": "If you’ve ever wished your repo could explain itself, catch subtle bugs, and even heal your codebase automatically, Greptile is the tool you need. In this video, I break down how Greptile builds a complete graph of your entire codebase, learns your patterns, reviews your PRs with context, catches edge-case bugs, and even gives confidence scores so you know exactly what’s safe to merge. This is the closest thing to a true AI software engineer working beside you.\n\n📌 LINKS & RESOURCES\nWebsite: https://www.greptile.com/\nDocs: https://www.greptile.com/docs/introduction\n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nOpen Agent Builder: Easily Create AI Agents That Can Automate Anything! Opensource n8n Alternative!: https://youtu.be/6sk-q79-zZE\nClaude Haiku 4.5: NEW Powerful Coding Model That's Cheap + Fast! Beats Sonnet 4 Easily!: https://youtu.be/qOB30aJZW9s\nOpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial): https://youtu.be/gHkdrO6IExM?si=lDxCrjGrwL6HAwnj\n\nWhether you’re working with massive monorepos, legacy systems, messy codebases, or fast-moving dev teams—Greptile turns code review into something actually enjoyable. Let’s dive in. 🚀⚡\n\n⭐ What You’ll Learn\nHow Greptile builds deep code understanding through repo graphing\nHow it catches bugs traditional tools miss\nHow the self-healing agent fixes code issues automatically\nWhat confidence scores mean in code reviews\nWhy dev teams with huge repos love Greptile\nReal PR examples, real bug catches, real dev workflow improvements\n\n🔥 Why Greptile is a Game-Changer\nLearns your repo like a team member\nTracks relationships across your entire codebase\nUnderstands every function, class, and directory\nEnhances PR review quality\nHelps prevent regressions and flaky tests\nSelf-heals and auto-fixes issues with context\n\n📌 Tags/Keywords (comma-separated)\nGreptile, AI coding agent, coding agent, AI code review, AI developer tools, codebase graphing, PR review automation, AI software engineer, repo indexing, context aware coding, code intelligence, smart code assistant, devtools, AI debugging, bug detection, developer productivity, coding automation, software engineering tools, machine learning code tools, self healing code, AI for developers\n\n🔥 Hashtags + Emojis\n#AI #Coding #DevTools #SoftwareEngineering #AIAgent #CodeReview #Automation 🤖💻⚡🚀",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tlZNo3g0urY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tlZNo3g0urY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tlZNo3g0urY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tlZNo3g0urY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tlZNo3g0urY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "WorldofAI",
+      "tags": [
+        "greptile",
+        "Self-Healing AI Agent",
+        "self-evolving ai agent",
+        "greptile ai",
+        "Greptile",
+        "AI coding agent",
+        "coding agent",
+        "AI code review",
+        "AI developer tools",
+        "AI software engineer",
+        "repo indexing",
+        "context aware coding",
+        "code intelligence",
+        "smart code assistant",
+        "devtools",
+        "AI debugging",
+        "bug detection",
+        "developer productivity",
+        "coding automation",
+        "software engineering tools",
+        "self healing code",
+        "cognee",
+        "Superior AI Memory",
+        "AI memory",
+        "AI agents",
+        "Python AI",
+        "developer AI tools",
+        "ai agents"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Greptile: Self-Healing AI Coding Agent With INCREDIBLE Code Context! Powerful Coding Agent!",
+        "description": "If you’ve ever wished your repo could explain itself, catch subtle bugs, and even heal your codebase automatically, Greptile is the tool you need. In this video, I break down how Greptile builds a complete graph of your entire codebase, learns your patterns, reviews your PRs with context, catches edge-case bugs, and even gives confidence scores so you know exactly what’s safe to merge. This is the closest thing to a true AI software engineer working beside you.\n\n📌 LINKS & RESOURCES\nWebsite: https://www.greptile.com/\nDocs: https://www.greptile.com/docs/introduction\n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nOpen Agent Builder: Easily Create AI Agents That Can Automate Anything! Opensource n8n Alternative!: https://youtu.be/6sk-q79-zZE\nClaude Haiku 4.5: NEW Powerful Coding Model That's Cheap + Fast! Beats Sonnet 4 Easily!: https://youtu.be/qOB30aJZW9s\nOpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial): https://youtu.be/gHkdrO6IExM?si=lDxCrjGrwL6HAwnj\n\nWhether you’re working with massive monorepos, legacy systems, messy codebases, or fast-moving dev teams—Greptile turns code review into something actually enjoyable. Let’s dive in. 🚀⚡\n\n⭐ What You’ll Learn\nHow Greptile builds deep code understanding through repo graphing\nHow it catches bugs traditional tools miss\nHow the self-healing agent fixes code issues automatically\nWhat confidence scores mean in code reviews\nWhy dev teams with huge repos love Greptile\nReal PR examples, real bug catches, real dev workflow improvements\n\n🔥 Why Greptile is a Game-Changer\nLearns your repo like a team member\nTracks relationships across your entire codebase\nUnderstands every function, class, and directory\nEnhances PR review quality\nHelps prevent regressions and flaky tests\nSelf-heals and auto-fixes issues with context\n\n📌 Tags/Keywords (comma-separated)\nGreptile, AI coding agent, coding agent, AI code review, AI developer tools, codebase graphing, PR review automation, AI software engineer, repo indexing, context aware coding, code intelligence, smart code assistant, devtools, AI debugging, bug detection, developer productivity, coding automation, software engineering tools, machine learning code tools, self healing code, AI for developers\n\n🔥 Hashtags + Emojis\n#AI #Coding #DevTools #SoftwareEngineering #AIAgent #CodeReview #Automation 🤖💻⚡🚀"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT11M36S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "7105",
+      "likeCount": "213",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

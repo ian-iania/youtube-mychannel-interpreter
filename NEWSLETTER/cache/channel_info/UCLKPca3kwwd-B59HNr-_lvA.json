@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285729.347432,
+  "cache_type": "channel_info",
+  "key": "UCLKPca3kwwd-B59HNr-_lvA",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "oSdFXPuw5wWtBGXkTitnQVSip60",
+    "id": "UCLKPca3kwwd-B59HNr-_lvA",
+    "snippet": {
+      "title": "AI Engineer",
+      "description": "Talks, workshops, events, and training for AI Engineers. ",
+      "customUrl": "@aidotengineer",
+      "publishedAt": "2023-09-19T01:26:18.585459Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ajVemEB89DAOemsbfuMY6ZOWXJAACx3cbty9z21jeqRKODaVkDBSRun1b1xfQJljEsziOWS_Mg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ajVemEB89DAOemsbfuMY6ZOWXJAACx3cbty9z21jeqRKODaVkDBSRun1b1xfQJljEsziOWS_Mg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ajVemEB89DAOemsbfuMY6ZOWXJAACx3cbty9z21jeqRKODaVkDBSRun1b1xfQJljEsziOWS_Mg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "AI Engineer",
+        "description": "Talks, workshops, events, and training for AI Engineers. "
+      }
+    },
+    "statistics": {
+      "viewCount": "8748654",
+      "subscriberCount": "275000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "559"
+    }
+  }
+}

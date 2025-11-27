@@ -1,0 +1,74 @@
+{
+  "cached_at": 1764285746.4969358,
+  "cache_type": "video_details",
+  "key": "5_zahcDOohY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "qhnl5gKVTg-04CTM6ApTGHBv5IU",
+    "id": "5_zahcDOohY",
+    "snippet": {
+      "publishedAt": "2025-11-27T00:17:06Z",
+      "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "title": "Evolving your story: A guide to AI video editing",
+      "description": "This video explores how to evolve your video narratives with advanced AI editing capabilities using Google Cloud's Veo model. We dive into three powerful features: interpolation for smooth scene transitions, extension for seamlessly lengthening clips, and image guidance for maintaining visual consistency. Discover how Veo gives content creators and developers enhanced creative control, transforming text prompts and images into high-quality, narrative-driven videos.\n\n\nChapters:\n\n0:00 - Introduction to AI Video Editing\n0:15 - What is Generative Video (Veo)\n0:45 - Video Feature 1: Interpolation\n2:09 - Video Feature 2: Extension\n3:35 - Video Feature 3: Image Guidance\n5:04 - Popular Use Cases\n5:23 - Conclusion\n\n\nResources:\nVeo documentation → https://goo.gle/44rlWuV \nGetting started code → https://goo.gle/484TcKX \nVertex AI Studio → https://goo.gle/43PpvLh \n\n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#GoogleCloud #Veo #AIVideoEditing\n\nSpeakers: Katie Nguyen\nProducts Mentioned: Vertex AI, Veo",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5_zahcDOohY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5_zahcDOohY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5_zahcDOohY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5_zahcDOohY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5_zahcDOohY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Cloud Tech",
+      "tags": [
+        "Pr_pr: Google Cloud Tech;",
+        "Campaign: ITPUP;",
+        "ct: AIG;",
+        "gds:Yes;",
+        "Type: DevByte;"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Evolving your story: A guide to AI video editing",
+        "description": "This video explores how to evolve your video narratives with advanced AI editing capabilities using Google Cloud's Veo model. We dive into three powerful features: interpolation for smooth scene transitions, extension for seamlessly lengthening clips, and image guidance for maintaining visual consistency. Discover how Veo gives content creators and developers enhanced creative control, transforming text prompts and images into high-quality, narrative-driven videos.\n\n\nChapters:\n\n0:00 - Introduction to AI Video Editing\n0:15 - What is Generative Video (Veo)\n0:45 - Video Feature 1: Interpolation\n2:09 - Video Feature 2: Extension\n3:35 - Video Feature 3: Image Guidance\n5:04 - Popular Use Cases\n5:23 - Conclusion\n\n\nResources:\nVeo documentation → https://goo.gle/44rlWuV \nGetting started code → https://goo.gle/484TcKX \nVertex AI Studio → https://goo.gle/43PpvLh \n\n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#GoogleCloud #Veo #AIVideoEditing\n\nSpeakers: Katie Nguyen\nProducts Mentioned: Vertex AI, Veo"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT5M54S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1328",
+      "likeCount": "59",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

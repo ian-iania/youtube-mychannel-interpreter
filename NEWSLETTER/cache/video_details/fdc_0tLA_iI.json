@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285736.9753048,
+  "cache_type": "video_details",
+  "key": "fdc_0tLA_iI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "qmCm1xe06hiyX_bnFPzzXtwzMf4",
+    "id": "fdc_0tLA_iI",
+    "snippet": {
+      "publishedAt": "2025-11-27T13:22:38Z",
+      "channelId": "UC_bXJnsgwOqEPA_-6N6faKw",
+      "title": "Procurando um smartphone para comprar na Black Friday? Então você precisa conhecer o Moto G86 5G!",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fdc_0tLA_iI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fdc_0tLA_iI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fdc_0tLA_iI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fdc_0tLA_iI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fdc_0tLA_iI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Canaltech",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Procurando um smartphone para comprar na Black Friday? Então você precisa conhecer o Moto G86 5G!",
+        "description": ""
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT55S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2391",
+      "likeCount": "202",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

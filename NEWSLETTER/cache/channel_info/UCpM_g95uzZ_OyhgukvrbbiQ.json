@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285748.845184,
+  "cache_type": "channel_info",
+  "key": "UCpM_g95uzZ_OyhgukvrbbiQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "fj12HC9D65rbqy8DwUDWQjY5Eb8",
+    "id": "UCpM_g95uzZ_OyhgukvrbbiQ",
+    "snippet": {
+      "title": "Helena Liu",
+      "description": "Hi, I’m Helena 👋 — I teach you how to use AI tools and automation to grow your business, save time, and build new income streams.\n\nOn this channel, you’ll learn practical ways to use ChatGPT, AI agents, and no-code automation to create content faster, launch AI side hustles, and future-proof your career.\n\nWhether you’re an entrepreneur, content creator, or someone just curious about AI, you’ll find step-by-step tutorials, AI business ideas, and real use cases you can apply right away.\n\nSubscribe for weekly videos on AI, automation, and digital entrepreneurship — and start building your future with AI today. Also, don't forget to sign up for my free AI and automations training: https://www.productcamps.com/free\n",
+      "customUrl": "@helena-liu",
+      "publishedAt": "2015-01-23T01:24:15Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/xWVWBZpaBqr4Y46Z-anYMW0HLi9Inpe8LBqVUV10NAt5pZJltT510_BH9iL6dh71BOaHWs3nEg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/xWVWBZpaBqr4Y46Z-anYMW0HLi9Inpe8LBqVUV10NAt5pZJltT510_BH9iL6dh71BOaHWs3nEg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/xWVWBZpaBqr4Y46Z-anYMW0HLi9Inpe8LBqVUV10NAt5pZJltT510_BH9iL6dh71BOaHWs3nEg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Helena Liu",
+        "description": "Hi, I’m Helena 👋 — I teach you how to use AI tools and automation to grow your business, save time, and build new income streams.\n\nOn this channel, you’ll learn practical ways to use ChatGPT, AI agents, and no-code automation to create content faster, launch AI side hustles, and future-proof your career.\n\nWhether you’re an entrepreneur, content creator, or someone just curious about AI, you’ll find step-by-step tutorials, AI business ideas, and real use cases you can apply right away.\n\nSubscribe for weekly videos on AI, automation, and digital entrepreneurship — and start building your future with AI today. Also, don't forget to sign up for my free AI and automations training: https://www.productcamps.com/free\n"
+      },
+      "country": "CA"
+    },
+    "statistics": {
+      "viewCount": "7838905",
+      "subscriberCount": "252000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "296"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285771.075211,
+  "cache_type": "channel_info",
+  "key": "UC4JX40jDee_tINbkjycV4Sg",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "EaBVJDiEnK2pFT84EaZIg0Q6xk0",
+    "id": "UC4JX40jDee_tINbkjycV4Sg",
+    "snippet": {
+      "title": "Tech With Tim",
+      "description": "I'm Tim, a self-taught developer & entrepreneur who brings you educational tech content without the fluff and noise. I went from a broke dropout working at McDonalds to making $100k+/month as a developer, travelling the world and moving to Dubai all before the age of 22. I've since helped thousands of aspiring developers land their first software engineering role and assisted mid-level devs land jobs at companies like google.\n\nMax landed his first developer job 3 weeks after going through my training.\nYoussef was laid off and landed a new role in 2 months while working with me.\nJamario landing competing job offers before graduating college.\n\nIf you want to learn more you can click the first link and watch my free training on how we help developers who already know how to code get hired by top tech companies.\n",
+      "customUrl": "@techwithtim",
+      "publishedAt": "2014-04-23T01:57:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Tech With Tim",
+        "description": "I'm Tim, a self-taught developer & entrepreneur who brings you educational tech content without the fluff and noise. I went from a broke dropout working at McDonalds to making $100k+/month as a developer, travelling the world and moving to Dubai all before the age of 22. I've since helped thousands of aspiring developers land their first software engineering role and assisted mid-level devs land jobs at companies like google.\n\nMax landed his first developer job 3 weeks after going through my training.\nYoussef was laid off and landed a new role in 2 months while working with me.\nJamario landing competing job offers before graduating college.\n\nIf you want to learn more you can click the first link and watch my free training on how we help developers who already know how to code get hired by top tech companies.\n"
+      },
+      "country": "CA"
+    },
+    "statistics": {
+      "viewCount": "194467340",
+      "subscriberCount": "1910000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1735"
+    }
+  }
+}

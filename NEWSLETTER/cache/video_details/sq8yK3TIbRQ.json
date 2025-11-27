@@ -1,0 +1,71 @@
+{
+  "cached_at": 1764285750.048984,
+  "cache_type": "video_details",
+  "key": "sq8yK3TIbRQ",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "ymBx4knA1T_u7rmhck30SzP6ITI",
+    "id": "sq8yK3TIbRQ",
+    "snippet": {
+      "publishedAt": "2025-11-23T17:01:26Z",
+      "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "title": "Using Gemini 3 to build a workout plan",
+      "description": "How Gemini 3 built a personalized workout tracker in 2 minutes—complete with dashboards, custom visuals and one hilarious AI mistake.\n\n#gemini3 #aiprompts #aiagents",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sq8yK3TIbRQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sq8yK3TIbRQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sq8yK3TIbRQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sq8yK3TIbRQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sq8yK3TIbRQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "IBM Technology",
+      "tags": [
+        "IBM",
+        "IBM Cloud"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Using Gemini 3 to build a workout plan",
+        "description": "How Gemini 3 built a personalized workout tracker in 2 minutes—complete with dashboards, custom visuals and one hilarious AI mistake.\n\n#gemini3 #aiprompts #aiagents"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT58S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "9067",
+      "likeCount": "117",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

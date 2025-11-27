@@ -1,0 +1,73 @@
+{
+  "cached_at": 1764285752.0502489,
+  "cache_type": "video_details",
+  "key": "9_xUsL9uFlo",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "EV-Rn1QVviiJEj6IRDJpIwE2Gf0",
+    "id": "9_xUsL9uFlo",
+    "snippet": {
+      "publishedAt": "2025-11-27T21:46:04Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "Roberto Campos Neto: As stablecoins como financiadoras da dívida americana",
+      "description": "Roberto Campos Neto, vice-chairman e head global de políticas públicas do Nubank, fala sobre a participação das stablecoins na dívida americana ao podcast Perspectivas, do Investnews.\n\n#stablecoins #nubank #podcast",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9_xUsL9uFlo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9_xUsL9uFlo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9_xUsL9uFlo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9_xUsL9uFlo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9_xUsL9uFlo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "tags": [
+        "nubank",
+        "podcast",
+        "roberto campos neto",
+        "stablecoins"
+      ],
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Roberto Campos Neto: As stablecoins como financiadoras da dívida americana",
+        "description": "Roberto Campos Neto, vice-chairman e head global de políticas públicas do Nubank, fala sobre a participação das stablecoins na dívida americana ao podcast Perspectivas, do Investnews.\n\n#stablecoins #nubank #podcast"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT55S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "117",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

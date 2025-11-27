@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285755.080448,
+  "cache_type": "channel_info",
+  "key": "UCC-lyoTfSrcJzA1ab3APAgw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "9Tu14U-UUn85ICfHms3LIg1V8U4",
+    "id": "UCC-lyoTfSrcJzA1ab3APAgw",
+    "snippet": {
+      "title": "LangChain",
+      "description": "Learn more about how to build agents with LangChain products.",
+      "customUrl": "@langchain",
+      "publishedAt": "2023-04-12T23:41:18.530487Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/W5ggp2u4xRvrJugy7zMEn2fYqHzNxOwfjiBHmS5w0Vp5kLs9csGAVOVWUuf1BPVy2oUmJj4YVg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/W5ggp2u4xRvrJugy7zMEn2fYqHzNxOwfjiBHmS5w0Vp5kLs9csGAVOVWUuf1BPVy2oUmJj4YVg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/W5ggp2u4xRvrJugy7zMEn2fYqHzNxOwfjiBHmS5w0Vp5kLs9csGAVOVWUuf1BPVy2oUmJj4YVg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "LangChain",
+        "description": "Learn more about how to build agents with LangChain products."
+      }
+    },
+    "statistics": {
+      "viewCount": "8000995",
+      "subscriberCount": "160000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "396"
+    }
+  }
+}

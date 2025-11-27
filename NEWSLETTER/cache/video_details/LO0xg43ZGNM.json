@@ -1,0 +1,71 @@
+{
+  "cached_at": 1764285750.0492978,
+  "cache_type": "video_details",
+  "key": "LO0xg43ZGNM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "j8I_3RbxBxVYH708QB2T1g4X0aY",
+    "id": "LO0xg43ZGNM",
+    "snippet": {
+      "publishedAt": "2025-11-21T17:00:39Z",
+      "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "title": "Is Gemini 3 hallucinating?",
+      "description": "Google just launched Gemini 3—but experts say it's still cannot admit when it's wrong. Why are these new models still hallucinating? Watch the latest Mixture of Experts episode to hear more.\n\n#gemini #aiagents #aimodels",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LO0xg43ZGNM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LO0xg43ZGNM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LO0xg43ZGNM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LO0xg43ZGNM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LO0xg43ZGNM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "IBM Technology",
+      "tags": [
+        "IBM",
+        "IBM Cloud"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Is Gemini 3 hallucinating?",
+        "description": "Google just launched Gemini 3—but experts say it's still cannot admit when it's wrong. Why are these new models still hallucinating? Watch the latest Mixture of Experts episode to hear more.\n\n#gemini #aiagents #aimodels"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT31S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "20620",
+      "likeCount": "204",
+      "favoriteCount": "0",
+      "commentCount": "8"
+    }
+  }
+}

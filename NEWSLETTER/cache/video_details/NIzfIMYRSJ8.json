@@ -1,0 +1,70 @@
+{
+  "cached_at": 1764285739.487095,
+  "cache_type": "video_details",
+  "key": "NIzfIMYRSJ8",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "1nuAhkYmWfClB3zgqpTNZ1Vf1R0",
+    "id": "NIzfIMYRSJ8",
+    "snippet": {
+      "publishedAt": "2025-11-24T16:00:30Z",
+      "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+      "title": "How to Drive Data & AI Platform Adoption at Scale",
+      "description": "Unlock AI value: The enterprise guide to AI readiness\n\nDownload free eBook: https://www.databricks.com/resources/ebook/unlock-ai-value-databricks-maturity-assessment",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NIzfIMYRSJ8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NIzfIMYRSJ8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NIzfIMYRSJ8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NIzfIMYRSJ8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NIzfIMYRSJ8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Databricks",
+      "tags": [
+        "Databricks"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "How to Drive Data & AI Platform Adoption at Scale",
+        "description": "Unlock AI value: The enterprise guide to AI readiness\n\nDownload free eBook: https://www.databricks.com/resources/ebook/unlock-ai-value-databricks-maturity-assessment"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M20S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1460",
+      "likeCount": "19",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

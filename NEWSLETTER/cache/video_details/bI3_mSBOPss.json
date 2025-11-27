@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285776.893951,
+  "cache_type": "video_details",
+  "key": "bI3_mSBOPss",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "00EibRYOHM1AGfVZO-WBDICXK7o",
+    "id": "bI3_mSBOPss",
+    "snippet": {
+      "publishedAt": "2025-11-20T22:14:32Z",
+      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+      "title": "Vídeo captura início de incêndio na COP30",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bI3_mSBOPss/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bI3_mSBOPss/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bI3_mSBOPss/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bI3_mSBOPss/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bI3_mSBOPss/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "exame",
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Vídeo captura início de incêndio na COP30",
+        "description": ""
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT38S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4223",
+      "likeCount": "97",
+      "favoriteCount": "0",
+      "commentCount": "14"
+    }
+  }
+}

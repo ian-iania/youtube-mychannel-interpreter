@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285769.658904,
+  "cache_type": "channel_info",
+  "key": "UC0Rqs6pyPoGaMT5HFMFdslg",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "gCvWDeKi_oNMKEmzNoq88UphMck",
+    "id": "UC0Rqs6pyPoGaMT5HFMFdslg",
+    "snippet": {
+      "title": "Synthesia",
+      "description": "We share actionable tutorials about video creation, marketing, and AI.\n\nSynthesia is an AI video creation platform that transforms text into professional videos with customizable avatars—no cameras needed. Fast, cost-effective, and perfect for training, marketing, and education, it’s revolutionizing how businesses and creators communicate.\n\nOn Synthesia’s YouTube channel, you’ll master the art of video creation. From basics like converting text to video, to advanced topics like creating custom avatars that look and sound 100% like you!\n\nBeyond tutorials, we share insightful case studies from our research and the AI video industry.\n\nOur mission is simple: to educate and empower you to harness the power of video with AI.\n",
+      "customUrl": "@synthesia-io",
+      "publishedAt": "2018-10-25T14:59:06Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/vR72EVpFnd5516yPGxYv08PITyyVST5tf8y5kWNrwDgPUJtzEUx9GUHB05SRlaTk-LQ8djA4DQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/vR72EVpFnd5516yPGxYv08PITyyVST5tf8y5kWNrwDgPUJtzEUx9GUHB05SRlaTk-LQ8djA4DQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/vR72EVpFnd5516yPGxYv08PITyyVST5tf8y5kWNrwDgPUJtzEUx9GUHB05SRlaTk-LQ8djA4DQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Synthesia",
+        "description": "We share actionable tutorials about video creation, marketing, and AI.\n\nSynthesia is an AI video creation platform that transforms text into professional videos with customizable avatars—no cameras needed. Fast, cost-effective, and perfect for training, marketing, and education, it’s revolutionizing how businesses and creators communicate.\n\nOn Synthesia’s YouTube channel, you’ll master the art of video creation. From basics like converting text to video, to advanced topics like creating custom avatars that look and sound 100% like you!\n\nBeyond tutorials, we share insightful case studies from our research and the AI video industry.\n\nOur mission is simple: to educate and empower you to harness the power of video with AI.\n"
+      },
+      "country": "GB"
+    },
+    "statistics": {
+      "viewCount": "3804168",
+      "subscriberCount": "78000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "760"
+    }
+  }
+}

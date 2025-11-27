@@ -1,0 +1,93 @@
+{
+  "cached_at": 1764285761.912065,
+  "cache_type": "video_details",
+  "key": "aU8W-MhbMu8",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "7OWz1NVCsRyWjhdYB5z8uf7aQP8",
+    "id": "aU8W-MhbMu8",
+    "snippet": {
+      "publishedAt": "2025-11-25T18:45:52Z",
+      "channelId": "UCYx10jQ_0QeqkV7gWiUE5yw",
+      "title": "Se você quer criar Apps Avançados com Vibe Coding siga essas 3 dicas",
+      "description": "Quer evoluir dos projetos básicos para criar apps avançados, escaláveis e realmente profissionais usando ferramentas Vibe Coding?\n\n Neste vídeo, você aprende o caminho exato para sair do nível iniciante e construir projetos sólidos usando Lovable, Supabase e Cursor — do jeito certo e como essa combinação é hoje o caminho mais rápido, seguro e profissional para criar softwares, SaaS, microsaas e automações com IA.]\n\nSe você quer dominar projetos avançados, estruturar seu backend, evoluir além do básico e criar soluções que realmente escalam — esse vídeo é para você.\n\n=================================================\n🟡 ÚLTIMOS DIAS! Black IA na veia: garanta sua vaga e aproveite 3 formações inéditas!\n👉 https://bit.ly/3XlxXOG\n\n=================================================\n[Se você quer criar Apps Avançados com Vibe Coding siga essas 3 dicas]\n00:00:09 — Dica 1: Começando e focando na dor principal\n00:01:48 — Case \n00:02:45 — Domine o Supabase, o coração dos projetos avançados\n00:03:39 — Dica 3: Quando avançar para Cursor/ editores de código com IA",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/aU8W-MhbMu8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/aU8W-MhbMu8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/aU8W-MhbMu8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aU8W-MhbMu8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aU8W-MhbMu8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "NoCode StartUp",
+      "tags": [
+        "Apps avançados vibe coding",
+        "vibe code",
+        "vide coding",
+        "IA",
+        "Lovable",
+        "Supabase",
+        "Cursor",
+        "apps com ia",
+        "aplicativos com ia",
+        "inteligência artificial",
+        "claude code",
+        "apps sem código",
+        "criar aplicativos",
+        "projetos com IA",
+        "ferramentas IA",
+        "ferramentas inteligência artificial",
+        "como usar o Lovable",
+        "como usar o Supabase",
+        "agente de ia",
+        "nocode startup",
+        "cursor 2.0",
+        "programação sem código",
+        "criar aplicativos com ia",
+        "webcode"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Se você quer criar Apps Avançados com Vibe Coding siga essas 3 dicas",
+        "description": "Quer evoluir dos projetos básicos para criar apps avançados, escaláveis e realmente profissionais usando ferramentas Vibe Coding?\n\n Neste vídeo, você aprende o caminho exato para sair do nível iniciante e construir projetos sólidos usando Lovable, Supabase e Cursor — do jeito certo e como essa combinação é hoje o caminho mais rápido, seguro e profissional para criar softwares, SaaS, microsaas e automações com IA.]\n\nSe você quer dominar projetos avançados, estruturar seu backend, evoluir além do básico e criar soluções que realmente escalam — esse vídeo é para você.\n\n=================================================\n🟡 ÚLTIMOS DIAS! Black IA na veia: garanta sua vaga e aproveite 3 formações inéditas!\n👉 https://bit.ly/3XlxXOG\n\n=================================================\n[Se você quer criar Apps Avançados com Vibe Coding siga essas 3 dicas]\n00:00:09 — Dica 1: Começando e focando na dor principal\n00:01:48 — Case \n00:02:45 — Domine o Supabase, o coração dos projetos avançados\n00:03:39 — Dica 3: Quando avançar para Cursor/ editores de código com IA"
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT4M44S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "544",
+      "likeCount": "51",
+      "favoriteCount": "0",
+      "commentCount": "7"
+    }
+  }
+}

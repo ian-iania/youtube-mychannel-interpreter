@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285759.0302742,
+  "cache_type": "channel_info",
+  "key": "UCWTyktbw5JYoSBduu8LsBgQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "5wBi9voPC1YaUbxr4vVemC22Xac",
+    "id": "UCWTyktbw5JYoSBduu8LsBgQ",
+    "snippet": {
+      "title": "Mervin Praison",
+      "description": "Mervin Praison",
+      "customUrl": "@mervinpraison",
+      "publishedAt": "2007-02-21T12:22:46Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/tvoeEgEQYmqwc1ReBGOn3UpsFcbhktf45VUX2zhg4_r28oqH6S_ZhzDXaPv-PJsVJdozFJRzfA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/tvoeEgEQYmqwc1ReBGOn3UpsFcbhktf45VUX2zhg4_r28oqH6S_ZhzDXaPv-PJsVJdozFJRzfA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/tvoeEgEQYmqwc1ReBGOn3UpsFcbhktf45VUX2zhg4_r28oqH6S_ZhzDXaPv-PJsVJdozFJRzfA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Mervin Praison",
+        "description": "Mervin Praison"
+      },
+      "country": "GB"
+    },
+    "statistics": {
+      "viewCount": "5978256",
+      "subscriberCount": "76700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "610"
+    }
+  }
+}

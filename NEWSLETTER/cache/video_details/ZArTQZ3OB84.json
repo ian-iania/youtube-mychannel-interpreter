@@ -1,0 +1,75 @@
+{
+  "cached_at": 1764285753.812114,
+  "cache_type": "video_details",
+  "key": "ZArTQZ3OB84",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "g6VT2FAZr8hlukBvzV2rTusbes4",
+    "id": "ZArTQZ3OB84",
+    "snippet": {
+      "publishedAt": "2025-11-26T11:30:38Z",
+      "channelId": "UC3M_z-XMGTFMBbCjVLPKkUA",
+      "title": "COBIT 2019 Descomplicado: Princípios e Objetivos em 20 Minutos.",
+      "description": "A Governança de TI parece um bicho de sete cabeças para você? 🤯 Muitos profissionais travam na hora de entender a diferença entre Gestão e Governança ou como aplicar os 40 objetivos do COBIT na prática.\n\nNeste vídeo, eu vou desmistificar o framework COBIT 2019. Vamos sair da teoria chata e ir direto ao ponto sobre como esse modelo pode transformar a TI de um \"centro de custo\" para um \"gerador de valor\".\n\nO que você vai aprender hoje: ✅ Os 6 Princípios do Sistema de Governança (e por que eles importam). ✅ A diferença crucial entre os Princípios do Sistema vs. Princípios do Framework. ✅ O Modelo Central (Core Model): Entendendo os 40 Objetivos de Governança e Gestão. ✅ Como o COBIT alinha a TI com a estratégia do negócio.\n\n\n#tecnologia #governança  #cobit",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZArTQZ3OB84/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZArTQZ3OB84/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZArTQZ3OB84/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZArTQZ3OB84/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZArTQZ3OB84/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jonathan da Cruz",
+      "tags": [
+        "framework cobit",
+        "cobit para concursos",
+        "governança de ti",
+        "gestão de ti",
+        "gerenciar Ti",
+        "gestão em tecnologia"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "COBIT 2019 Descomplicado: Princípios e Objetivos em 20 Minutos.",
+        "description": "A Governança de TI parece um bicho de sete cabeças para você? 🤯 Muitos profissionais travam na hora de entender a diferença entre Gestão e Governança ou como aplicar os 40 objetivos do COBIT na prática.\n\nNeste vídeo, eu vou desmistificar o framework COBIT 2019. Vamos sair da teoria chata e ir direto ao ponto sobre como esse modelo pode transformar a TI de um \"centro de custo\" para um \"gerador de valor\".\n\nO que você vai aprender hoje: ✅ Os 6 Princípios do Sistema de Governança (e por que eles importam). ✅ A diferença crucial entre os Princípios do Sistema vs. Princípios do Framework. ✅ O Modelo Central (Core Model): Entendendo os 40 Objetivos de Governança e Gestão. ✅ Como o COBIT alinha a TI com a estratégia do negócio.\n\n\n#tecnologia #governança  #cobit"
+      },
+      "defaultAudioLanguage": "pt"
+    },
+    "contentDetails": {
+      "duration": "PT20M11S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "15",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

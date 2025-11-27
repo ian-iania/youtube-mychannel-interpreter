@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285737.701557,
+  "cache_type": "channel_info",
+  "key": "UCrPbAoQKz42Gm0mLdWatAEA",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "zMEvfLlr04WZSDAIkZh1K_VH1Mk",
+    "id": "UCrPbAoQKz42Gm0mLdWatAEA",
+    "snippet": {
+      "title": "Comunidade ZDG",
+      "description": "Comunidade ZDG - Automação e Marketing",
+      "customUrl": "@comunidadezdg",
+      "publishedAt": "2021-06-26T17:36:12.975484Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/EPTzup3rjkOmFKEst6jAzKaJraogChjewCJzp57S31ii9UyF_jfCf3ZidxCekfQjZjH7gzwppe0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/EPTzup3rjkOmFKEst6jAzKaJraogChjewCJzp57S31ii9UyF_jfCf3ZidxCekfQjZjH7gzwppe0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/EPTzup3rjkOmFKEst6jAzKaJraogChjewCJzp57S31ii9UyF_jfCf3ZidxCekfQjZjH7gzwppe0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Comunidade ZDG",
+        "description": "Comunidade ZDG - Automação e Marketing"
+      },
+      "country": "BR"
+    },
+    "statistics": {
+      "viewCount": "3376984",
+      "subscriberCount": "54700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "376"
+    }
+  }
+}

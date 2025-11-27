@@ -1,0 +1,45 @@
+{
+  "cached_at": 1764285761.5568352,
+  "cache_type": "channel_info",
+  "key": "UCYx10jQ_0QeqkV7gWiUE5yw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "jgi4rWddyp-6NhaWxVSDVw-iqno",
+    "id": "UCYx10jQ_0QeqkV7gWiUE5yw",
+    "snippet": {
+      "title": "NoCode StartUp",
+      "description": "Domine as habilidades do futuro sem precisar aprender a programar.\nAprenda a criar você mesmo Agentes de Inteligência Artificial, Automações de IA, Softwares e Apps de IA, SaaS e Micro-SaaS de IA e liberte seu potencial.\n\nSiga nosso canal e ative o sininho para não perder nada sobre esse universo NoCode + Inteligência Artificial.\n\nBlack IA na veia: Acesso vitalício + 3 formações inéditas\n",
+      "customUrl": "@nocodestartup",
+      "publishedAt": "2022-06-29T22:46:51.743018Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/YMvlapl6L2oaTEh1WoT7N8OhCp62ELkN_ZgCUf-KEDvazXxyKFa8fLdhz7XLEDsQBVsbbvHS=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/YMvlapl6L2oaTEh1WoT7N8OhCp62ELkN_ZgCUf-KEDvazXxyKFa8fLdhz7XLEDsQBVsbbvHS=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/YMvlapl6L2oaTEh1WoT7N8OhCp62ELkN_ZgCUf-KEDvazXxyKFa8fLdhz7XLEDsQBVsbbvHS=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "pt",
+      "localized": {
+        "title": "NoCode StartUp",
+        "description": "Domine as habilidades do futuro sem precisar aprender a programar.\nAprenda a criar você mesmo Agentes de Inteligência Artificial, Automações de IA, Softwares e Apps de IA, SaaS e Micro-SaaS de IA e liberte seu potencial.\n\nSiga nosso canal e ative o sininho para não perder nada sobre esse universo NoCode + Inteligência Artificial.\n\nBlack IA na veia: Acesso vitalício + 3 formações inéditas\n"
+      },
+      "country": "BR"
+    },
+    "statistics": {
+      "viewCount": "4076397",
+      "subscriberCount": "124000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "316"
+    }
+  }
+}

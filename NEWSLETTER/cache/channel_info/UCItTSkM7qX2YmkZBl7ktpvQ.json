@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285770.046986,
+  "cache_type": "channel_info",
+  "key": "UCItTSkM7qX2YmkZBl7ktpvQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "67jgeBdR4YE2sOs0WZJ1u8fp4bo",
+    "id": "UCItTSkM7qX2YmkZBl7ktpvQ",
+    "snippet": {
+      "title": "Synthflow AI",
+      "description": "Welcome to Synthflow AI! Dive into the world of conversational AI and voice technology with our comprehensive tutorials, insightful interviews, and real-world case studies. Whether you’re a beginner or a pro, our no-code guides and best practices will help you create and optimize AI voice assistants for your business. Stay updated with the latest features, integrations, and industry trends. \n\nJoin our community to collaborate and innovate together!\n\nWhy Subscribe?\n\n\t•\tIn-depth tutorials & demos\n\t•\tExpert interviews\n\t•\tLatest product updates\n\t•\tReal-world case studies\n\t•\tCommunity support\n\nSubscribe now and hit the bell icon to stay notified of our latest videos!\n",
+      "customUrl": "@synthflowai",
+      "publishedAt": "2023-05-19T18:23:28.483304Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/yMGyfClTfNd45CzkZpGoZZzOzLCm8rrJA7vewqhvVmn5GU9jqJ8rjxywvvir3d_Iqyq6Vx_jPQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/yMGyfClTfNd45CzkZpGoZZzOzLCm8rrJA7vewqhvVmn5GU9jqJ8rjxywvvir3d_Iqyq6Vx_jPQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/yMGyfClTfNd45CzkZpGoZZzOzLCm8rrJA7vewqhvVmn5GU9jqJ8rjxywvvir3d_Iqyq6Vx_jPQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Synthflow AI",
+        "description": "Welcome to Synthflow AI! Dive into the world of conversational AI and voice technology with our comprehensive tutorials, insightful interviews, and real-world case studies. Whether you’re a beginner or a pro, our no-code guides and best practices will help you create and optimize AI voice assistants for your business. Stay updated with the latest features, integrations, and industry trends. \n\nJoin our community to collaborate and innovate together!\n\nWhy Subscribe?\n\n\t•\tIn-depth tutorials & demos\n\t•\tExpert interviews\n\t•\tLatest product updates\n\t•\tReal-world case studies\n\t•\tCommunity support\n\nSubscribe now and hit the bell icon to stay notified of our latest videos!\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "2833462",
+      "subscriberCount": "3620",
+      "hiddenSubscriberCount": false,
+      "videoCount": "208"
+    }
+  }
+}

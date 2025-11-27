@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285742.875233,
+  "cache_type": "video_details",
+  "key": "RmiadlfNPa4",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "APJSSHcHMO716Jw0kgg7WJR9lCM",
+    "id": "RmiadlfNPa4",
+    "snippet": {
+      "publishedAt": "2025-11-21T19:00:30Z",
+      "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+      "title": "GPU Hot: Real-Time NVIDIA GPU Monitoring Dashboard: Run Locally",
+      "description": "This video installs and tests GPU Hot, which is web-based monitoring for NVIDIA GPUs.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n🚀 This video is sponsored by https://www.eigent.ai, the World's First Multi-agent Workforce to Unlock Your Exceptional Productivity.\n\n#gpuhot \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nResources:\n\n▶ https://github.com/psalias2006/gpu-hot\n\nAll rights reserved © Fahd Mirza",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RmiadlfNPa4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RmiadlfNPa4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RmiadlfNPa4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RmiadlfNPa4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RmiadlfNPa4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Fahd Mirza",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "GPU Hot: Real-Time NVIDIA GPU Monitoring Dashboard: Run Locally",
+        "description": "This video installs and tests GPU Hot, which is web-based monitoring for NVIDIA GPUs.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n🚀 This video is sponsored by https://www.eigent.ai, the World's First Multi-agent Workforce to Unlock Your Exceptional Productivity.\n\n#gpuhot \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nResources:\n\n▶ https://github.com/psalias2006/gpu-hot\n\nAll rights reserved © Fahd Mirza"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT8M19S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "937",
+      "likeCount": "55",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

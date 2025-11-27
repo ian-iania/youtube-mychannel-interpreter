@@ -1,0 +1,41 @@
+{
+  "cached_at": 1764285732.293329,
+  "cache_type": "channel_videos",
+  "key": "UCG8Woy3WwNyv2H_dLP_KFkg_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K6E0L444MDkJL3H4e36iK3sqDIE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f34qu9Mp1NA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T22:00:50Z",
+        "channelId": "UCG8Woy3WwNyv2H_dLP_KFkg",
+        "title": "A verdade que NINGUÉM te conta sobre vender automações de AGENTES DE IA",
+        "description": "Formação Agentes de IA: https://alvoleads.com.br/y-agente-ia Curso de Prompt: https://alvoleads.com.br/prompts Grupo de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f34qu9Mp1NA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f34qu9Mp1NA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f34qu9Mp1NA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Afonso Lopes | Automações IA ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T22:00:50Z"
+      }
+    }
+  ]
+}

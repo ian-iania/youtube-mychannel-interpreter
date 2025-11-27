@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285775.496166,
+  "cache_type": "channel_info",
+  "key": "UCirYnEfIjR8L1-sM2ozb7QQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "OkyhQ-XESxbF5cTiZo_bOZxwlL8",
+    "id": "UCirYnEfIjR8L1-sM2ozb7QQ",
+    "snippet": {
+      "title": "Windsurf",
+      "description": "🏄 | First Agentic IDE\n🚀 | 3M+ Users\n🧑‍💻 | Formerly Codeium\n",
+      "customUrl": "@windsurf",
+      "publishedAt": "2022-11-11T01:26:44.078368Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/6kLNxjLW3OREYdL7Y_sAzCuolXAmQkjJZVTCAch3Q_-hGZ2049wD2PSTFTfi9M8Iqh0PpxgChjU=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/6kLNxjLW3OREYdL7Y_sAzCuolXAmQkjJZVTCAch3Q_-hGZ2049wD2PSTFTfi9M8Iqh0PpxgChjU=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/6kLNxjLW3OREYdL7Y_sAzCuolXAmQkjJZVTCAch3Q_-hGZ2049wD2PSTFTfi9M8Iqh0PpxgChjU=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Windsurf",
+        "description": "🏄 | First Agentic IDE\n🚀 | 3M+ Users\n🧑‍💻 | Formerly Codeium\n"
+      }
+    },
+    "statistics": {
+      "viewCount": "1006465",
+      "subscriberCount": "19000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "141"
+    }
+  }
+}

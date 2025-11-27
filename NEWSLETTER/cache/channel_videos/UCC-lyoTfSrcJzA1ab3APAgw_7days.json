@@ -1,0 +1,143 @@
+{
+  "cached_at": 1764285755.322263,
+  "cache_type": "channel_videos",
+  "key": "UCC-lyoTfSrcJzA1ab3APAgw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s8JV19xVCyhIfrf6xYaqre1lJ8s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-gLH_okCcBA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T18:05:02Z",
+        "channelId": "UCC-lyoTfSrcJzA1ab3APAgw",
+        "title": "AI Agents in Production: Lessons from Rippling and LangChain",
+        "description": "How does a company deploy AI agents across HR, payroll, IT, and finance products used by thousands of companies?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-gLH_okCcBA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-gLH_okCcBA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-gLH_okCcBA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LangChain",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T18:05:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kPHxfUjZQmkl5pAB3NoFKPQVWdE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yl_mdp2IiW4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T16:30:31Z",
+        "channelId": "UCC-lyoTfSrcJzA1ab3APAgw",
+        "title": "Using skills with Deep Agents CLI",
+        "description": "Anthropic recently introduced the idea of agent skills, a directory of folders that an agent can access to perform different actions.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yl_mdp2IiW4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yl_mdp2IiW4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yl_mdp2IiW4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LangChain",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T16:30:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3XZ5x6UkIaojyKTgQybEHgi60C8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A1t53E4vtGo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T14:00:14Z",
+        "channelId": "UCC-lyoTfSrcJzA1ab3APAgw",
+        "title": "Managing Agent Context with LangChain: Summarization Middleware Explained",
+        "description": "Long-running agents eventually hit context overload — leading to context poisoning, distraction, confusion, and degraded ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A1t53E4vtGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A1t53E4vtGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A1t53E4vtGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LangChain",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T14:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yG7u2hK0YNq1R-_-PXto_qFnZBs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IVts6ztrkFg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T07:14:25Z",
+        "channelId": "UCC-lyoTfSrcJzA1ab3APAgw",
+        "title": "What are Deep Agents?",
+        "description": "Deep Agents is a term we coined to describe agents capable of handling complex, open-ended tasks over long time horizons.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IVts6ztrkFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IVts6ztrkFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IVts6ztrkFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LangChain",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T07:14:25Z"
+      }
+    }
+  ]
+}

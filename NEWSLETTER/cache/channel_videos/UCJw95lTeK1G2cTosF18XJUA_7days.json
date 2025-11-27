@@ -1,0 +1,109 @@
+{
+  "cached_at": 1764285735.6118898,
+  "cache_type": "channel_videos",
+  "key": "UCJw95lTeK1G2cTosF18XJUA_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gOrmUHWKDEgBwgLJmhf2PccyrJw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n112vfmsgeE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T21:00:54Z",
+        "channelId": "UCJw95lTeK1G2cTosF18XJUA",
+        "title": "Como automatizar TUDO de graça e SEM limites",
+        "description": "Aprenda IA e automação, monte seus primeiros agentes e começe a faturar (sem depender de ninguém): Conheça minha ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n112vfmsgeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n112vfmsgeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n112vfmsgeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Billy Automações",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T21:00:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bbDfI6FAWHdvCvaF8qR5OhTc6Nk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6W9034DBgpw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T21:55:58Z",
+        "channelId": "UCJw95lTeK1G2cTosF18XJUA",
+        "title": "Como automatizar o RH com IA - Como criar automação de analise de currículo com n8n",
+        "description": "Aprenda IA e automação, monte seus primeiros agentes e começe a faturar (sem depender de ninguém): Conheça minha ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6W9034DBgpw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6W9034DBgpw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6W9034DBgpw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Billy Automações",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T21:55:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7afL1Gjy_79MQAFEM-2LekP-YCA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MXvwksTOu9I"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T21:00:34Z",
+        "channelId": "UCJw95lTeK1G2cTosF18XJUA",
+        "title": "Como detectar erros e corrigir mais rápido nas automações",
+        "description": "Aprenda IA e automação, monte seus primeiros agentes e começe a faturar (sem depender de ninguém): Conheça minha ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MXvwksTOu9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MXvwksTOu9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MXvwksTOu9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Billy Automações",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T21:00:34Z"
+      }
+    }
+  ]
+}

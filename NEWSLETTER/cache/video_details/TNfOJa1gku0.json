@@ -1,0 +1,88 @@
+{
+  "cached_at": 1764285775.137565,
+  "cache_type": "video_details",
+  "key": "TNfOJa1gku0",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "agtVLJQHEWOpTtX8ZKT9_H7pD1M",
+    "id": "TNfOJa1gku0",
+    "snippet": {
+      "publishedAt": "2025-11-24T16:26:17Z",
+      "channelId": "UCOu9pKHv94bFeRy5vzB-b1Q",
+      "title": "Conectar Credenciais Google ao N8N em 6 minutos",
+      "description": "Aprenda a conectar os aplicativos do Google ao N8N de maneira prática e direta ao ponto!\n\nNessa aula você irá aprender em menos de 6 minutos a conectar seu Google Sheets, Google Agenda, Gmail ao n8n; criar uma conta no google cloud console e criar autenticação oAuth para integrar ao n8n. Espero que curtam!\n\nEntre na AI Makers e consiga seu 1º cliente + todos meus templates ⤵️\nhttps://aimakers.lovable.app/\n\nMe contrate para automatizar seu negócio com Agentes de IA ⤵️\nhttps://tally.so/r/J9KM1X\n\nVPS da Hostinger usando o cupom WELLPIRES para obter + desconto (por tempo limitado): 🔗 https://tag.gs/Well_Pires_",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TNfOJa1gku0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TNfOJa1gku0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TNfOJa1gku0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TNfOJa1gku0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TNfOJa1gku0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Well Pires ",
+      "tags": [
+        "conectar credenciais google ao n8n",
+        "google n8n",
+        "gmail n8n",
+        "google drive n8n",
+        "google calendar n8n",
+        "google sheets n8n",
+        "google cloud console n8n",
+        "client id n8n",
+        "client secret n8n",
+        "como conectar google ao n8n",
+        "como conectar google sheets ao n8n",
+        "como conectar google drive ao n8n",
+        "como conectar gmail ao n8n",
+        "tutorial n8n",
+        "curso de n8n",
+        "n8n para iniciantes",
+        "n8n tutorial",
+        "n8n",
+        "n8n self hosted google cloud"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Conectar Credenciais Google ao N8N em 6 minutos",
+        "description": "Aprenda a conectar os aplicativos do Google ao N8N de maneira prática e direta ao ponto!\n\nNessa aula você irá aprender em menos de 6 minutos a conectar seu Google Sheets, Google Agenda, Gmail ao n8n; criar uma conta no google cloud console e criar autenticação oAuth para integrar ao n8n. Espero que curtam!\n\nEntre na AI Makers e consiga seu 1º cliente + todos meus templates ⤵️\nhttps://aimakers.lovable.app/\n\nMe contrate para automatizar seu negócio com Agentes de IA ⤵️\nhttps://tally.so/r/J9KM1X\n\nVPS da Hostinger usando o cupom WELLPIRES para obter + desconto (por tempo limitado): 🔗 https://tag.gs/Well_Pires_"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT7M20S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "418",
+      "likeCount": "36",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

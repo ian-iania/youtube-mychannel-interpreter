@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285776.880867,
+  "cache_type": "video_details",
+  "key": "pDsDMdj6Olk",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "SzpB8D7_d0MmztVWUzmIJiriBP4",
+    "id": "pDsDMdj6Olk",
+    "snippet": {
+      "publishedAt": "2025-11-27T16:21:55Z",
+      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+      "title": "Tarcísio sobre megaoperação: fraude é do tamanho do gasto com saúde em SP",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pDsDMdj6Olk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pDsDMdj6Olk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pDsDMdj6Olk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pDsDMdj6Olk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pDsDMdj6Olk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "exame",
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Tarcísio sobre megaoperação: fraude é do tamanho do gasto com saúde em SP",
+        "description": ""
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT1M25S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "11296",
+      "likeCount": "310",
+      "favoriteCount": "0",
+      "commentCount": "86"
+    }
+  }
+}

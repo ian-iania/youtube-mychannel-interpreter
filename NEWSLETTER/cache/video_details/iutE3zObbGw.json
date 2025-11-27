@@ -1,0 +1,70 @@
+{
+  "cached_at": 1764285759.9943419,
+  "cache_type": "video_details",
+  "key": "iutE3zObbGw",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "j02Wvvpcp1vYO2M3ZouhF_TQSiQ",
+    "id": "iutE3zObbGw",
+    "snippet": {
+      "publishedAt": "2025-11-21T22:50:20Z",
+      "channelId": "UCFtEEv80fQVKkD4h1PF-Xqw",
+      "title": "What tradition will Ed Policy, President and CEO of the #greenbaypackers , miss the most?",
+      "description": "Subscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube\r\n\r\nFollow us on social: \r\nLinkedIn: https://www.linkedin.com/company/microsoft/ \r\nTwitter: https://twitter.com/Microsoft\r\nFacebook: https://www.facebook.com/Microsoft/ \r\nInstagram: https://www.instagram.com/microsoft/ \r\n \r\nFor more about Microsoft, our technology, and our mission, visit https://aka.ms/microsoftstories",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iutE3zObbGw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iutE3zObbGw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iutE3zObbGw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iutE3zObbGw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/iutE3zObbGw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft",
+      "tags": [
+        "microsoft"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "What tradition will Ed Policy, President and CEO of the #greenbaypackers , miss the most?",
+        "description": "Subscribe to Microsoft on YouTube here: https://aka.ms/SubscribeToYouTube\r\n\r\nFollow us on social: \r\nLinkedIn: https://www.linkedin.com/company/microsoft/ \r\nTwitter: https://twitter.com/Microsoft\r\nFacebook: https://www.facebook.com/Microsoft/ \r\nInstagram: https://www.instagram.com/microsoft/ \r\n \r\nFor more about Microsoft, our technology, and our mission, visit https://aka.ms/microsoftstories"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT44S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4270",
+      "likeCount": "50",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

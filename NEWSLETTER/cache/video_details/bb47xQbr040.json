@@ -1,0 +1,77 @@
+{
+  "cached_at": 1764285754.9807801,
+  "cache_type": "video_details",
+  "key": "bb47xQbr040",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "DZOUVsLhEAhppTPld8Z1p8A9XNw",
+    "id": "bb47xQbr040",
+    "snippet": {
+      "publishedAt": "2025-11-27T01:11:56Z",
+      "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+      "title": "Tony Li - Vp of Sales and Partnership LandingAI",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bb47xQbr040/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bb47xQbr040/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bb47xQbr040/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bb47xQbr040/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bb47xQbr040/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LandingAI",
+      "tags": [
+        "Hackathon",
+        "Financial Services",
+        "Document AI",
+        "Doc AI",
+        "IDP",
+        "Intelligent Document Processing",
+        "OCR",
+        "Community"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Tony Li - Vp of Sales and Partnership LandingAI",
+        "description": ""
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT26S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "17",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

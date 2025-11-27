@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285776.886048,
+  "cache_type": "video_details",
+  "key": "UuRgwEu4kSE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "GAOsOt7uj_mQez_r2VWO-Imc_0A",
+    "id": "UuRgwEu4kSE",
+    "snippet": {
+      "publishedAt": "2025-11-24T20:06:58Z",
+      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+      "title": "Vulcão na Etiópia entra em erupção pela 1ª vez em quase 12 mil anos",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UuRgwEu4kSE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UuRgwEu4kSE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UuRgwEu4kSE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UuRgwEu4kSE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UuRgwEu4kSE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "exame",
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Vulcão na Etiópia entra em erupção pela 1ª vez em quase 12 mil anos",
+        "description": ""
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT20S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "11381",
+      "likeCount": "366",
+      "favoriteCount": "0",
+      "commentCount": "10"
+    }
+  }
+}

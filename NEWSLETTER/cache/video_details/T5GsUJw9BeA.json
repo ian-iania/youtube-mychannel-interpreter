@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285744.839388,
+  "cache_type": "video_details",
+  "key": "T5GsUJw9BeA",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "2lDhp_FV06izbhhqCpqbgGygUrE",
+    "id": "T5GsUJw9BeA",
+    "snippet": {
+      "publishedAt": "2025-11-21T06:59:27Z",
+      "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+      "title": "🚀 Genspark AI Sheets 2.0｜Your Personal Data Analyst",
+      "description": "*AI Sheets 2.0 is here - Your Personal Data Analyst 🚀*\n\nThe Excel you know, now on autopilot\n*Data in* → Web scraping, file uploads, or connect your own database\n*Analysis* → AI runs Jupyter, SQL, formulas & visualizations automatically\n*Export* → .xlsx with everything intact, including format and formula\n\n*See it in action:* Our co-founder & CTO Kay demoed two killer use cases at Genspark Live.\n• Compile and analyze NVIDIA's 5-year financials with one prompt\n• Auto-write SQL to analyze complex business questions and deliver strategies with one prompt\n\nYour data work, on autopilot. ✨\n\nTry it: https://www.genspark.ai/agents?type=sheets_agent_new",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T5GsUJw9BeA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T5GsUJw9BeA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T5GsUJw9BeA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/T5GsUJw9BeA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/T5GsUJw9BeA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Genspark",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "🚀 Genspark AI Sheets 2.0｜Your Personal Data Analyst",
+        "description": "*AI Sheets 2.0 is here - Your Personal Data Analyst 🚀*\n\nThe Excel you know, now on autopilot\n*Data in* → Web scraping, file uploads, or connect your own database\n*Analysis* → AI runs Jupyter, SQL, formulas & visualizations automatically\n*Export* → .xlsx with everything intact, including format and formula\n\n*See it in action:* Our co-founder & CTO Kay demoed two killer use cases at Genspark Live.\n• Compile and analyze NVIDIA's 5-year financials with one prompt\n• Auto-write SQL to analyze complex business questions and deliver strategies with one prompt\n\nYour data work, on autopilot. ✨\n\nTry it: https://www.genspark.ai/agents?type=sheets_agent_new"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT2M21S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1560",
+      "likeCount": "30",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

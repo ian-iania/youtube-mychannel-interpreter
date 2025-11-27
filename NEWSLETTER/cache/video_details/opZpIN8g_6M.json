@@ -1,0 +1,98 @@
+{
+  "cached_at": 1764285730.954401,
+  "cache_type": "video_details",
+  "key": "opZpIN8g_6M",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Gt6B2PEJFoUUcYxj-qeHYSSlf3g",
+    "id": "opZpIN8g_6M",
+    "snippet": {
+      "publishedAt": "2025-11-21T13:45:11Z",
+      "channelId": "UCelfWQr9sXVMTvBzviPGlFw",
+      "title": "Claude Just Solved Their Biggest Problem",
+      "description": "Claude MCP as code revolutionizes how we handle tool calls by preventing context window bloat. This approach leverages Claude Code's capabilities to transform MCPs into efficient backend APIs. Discover how Claude Skills combined with MCP as code enables progressive disclosure, smarter workflows, and better state management for AI development.\n\nClaude MCP as code revolutionizes how we handle tool calls by preventing context window bloat. This approach leverages Claude Code's capabilities to transform MCPs into efficient backend APIs. Discover how Claude Skills combined with MCP as code enables progressive disclosure, smarter workflows, and better state management for AI development.\n\nIn this video, I break down Anthropic's paper on solving MCP context window problems. You'll learn why traditional MCPs consume 10%+ of your context before you even start working, and how converting them to code fixes this issue. I cover progressive disclosure for loading only what you need, context-efficient tool results that prevent data bloat, powerful control flow that reduces hallucinations, privacy-preserving operations for sensitive data, and state persistence using Claude's filesystem-based approach.\n\nWhether you're building with Claude or just curious about optimizing AI workflows, this video shows you practical solutions that software engineers have used for years—now applied to AI agents. Perfect for developers working with Model Context Protocol and anyone looking to maximize their AI agent's efficiency.\n\n#ClaudeAI #MCP #AIAgents #ClaudeCode #ModelContextProtocol #AICoding #Anthropic #ClaudeSkills #AIWorkflow #SoftwareDevelopment #AITools #MachineLearning #CodingWithAI #AIAutomation #DeveloperTools",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/opZpIN8g_6M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/opZpIN8g_6M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/opZpIN8g_6M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/opZpIN8g_6M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/opZpIN8g_6M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI LABS",
+      "tags": [
+        "claude",
+        "claude 4",
+        "claude ai",
+        "gta claude",
+        "claude mcp",
+        "mcp claude",
+        "claude tips",
+        "claude code",
+        "claude speed",
+        "claude styles",
+        "claude skills",
+        "skills claude",
+        "claude code mcp",
+        "claude pricing",
+        "claude features",
+        "claude tutorial",
+        "claude ai skills",
+        "how to use claude",
+        "rip claude speed",
+        "claude code гаид",
+        "claude clawmark",
+        "claude vs chatgpt",
+        "claude interface",
+        "new claude skills",
+        "n8n claude skills",
+        "claude skills n8n",
+        "skills for claude",
+        "anthropic claude",
+        "gta 3 claude voice"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Claude Just Solved Their Biggest Problem",
+        "description": "Claude MCP as code revolutionizes how we handle tool calls by preventing context window bloat. This approach leverages Claude Code's capabilities to transform MCPs into efficient backend APIs. Discover how Claude Skills combined with MCP as code enables progressive disclosure, smarter workflows, and better state management for AI development.\n\nClaude MCP as code revolutionizes how we handle tool calls by preventing context window bloat. This approach leverages Claude Code's capabilities to transform MCPs into efficient backend APIs. Discover how Claude Skills combined with MCP as code enables progressive disclosure, smarter workflows, and better state management for AI development.\n\nIn this video, I break down Anthropic's paper on solving MCP context window problems. You'll learn why traditional MCPs consume 10%+ of your context before you even start working, and how converting them to code fixes this issue. I cover progressive disclosure for loading only what you need, context-efficient tool results that prevent data bloat, powerful control flow that reduces hallucinations, privacy-preserving operations for sensitive data, and state persistence using Claude's filesystem-based approach.\n\nWhether you're building with Claude or just curious about optimizing AI workflows, this video shows you practical solutions that software engineers have used for years—now applied to AI agents. Perfect for developers working with Model Context Protocol and anyone looking to maximize their AI agent's efficiency.\n\n#ClaudeAI #MCP #AIAgents #ClaudeCode #ModelContextProtocol #AICoding #Anthropic #ClaudeSkills #AIWorkflow #SoftwareDevelopment #AITools #MachineLearning #CodingWithAI #AIAutomation #DeveloperTools"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT9M24S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "17754",
+      "likeCount": "467",
+      "favoriteCount": "0",
+      "commentCount": "59"
+    }
+  }
+}

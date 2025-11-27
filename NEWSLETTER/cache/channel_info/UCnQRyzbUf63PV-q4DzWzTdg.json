@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285733.486491,
+  "cache_type": "channel_info",
+  "key": "UCnQRyzbUf63PV-q4DzWzTdg",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "dkdikA5raftVt4KwLr58pVERkK8",
+    "id": "UCnQRyzbUf63PV-q4DzWzTdg",
+    "snippet": {
+      "title": "Argonalyst",
+      "description": "Análises de tecnologia narrados por ele... o Pedro, também conhecido como 'Argo' nos universos simulados da internet. Inscreva-se no canal e ganhe um doce (the Cake is a lie).",
+      "customUrl": "@argonalyst",
+      "publishedAt": "2015-09-12T23:17:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kss4dajycl86pfMMdpf1BF_Dlz5uXXNBcEuBqrfIq5RQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kss4dajycl86pfMMdpf1BF_Dlz5uXXNBcEuBqrfIq5RQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kss4dajycl86pfMMdpf1BF_Dlz5uXXNBcEuBqrfIq5RQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Argonalyst",
+        "description": "Análises de tecnologia narrados por ele... o Pedro, também conhecido como 'Argo' nos universos simulados da internet. Inscreva-se no canal e ganhe um doce (the Cake is a lie)."
+      },
+      "country": "BR"
+    },
+    "statistics": {
+      "viewCount": "1565282",
+      "subscriberCount": "30200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "340"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285746.139777,
+  "cache_type": "channel_info",
+  "key": "UCJS9pqu9BzkAMNTmzNMNhvg",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "OMHraiLKAAV284VFDT9j7rbXGpE",
+    "id": "UCJS9pqu9BzkAMNTmzNMNhvg",
+    "snippet": {
+      "title": "Google Cloud Tech",
+      "description": "Welcome to the official YouTube channel for Google Cloud’s technical community. Explore our tutorials, see exciting demos, stay up to date with product news, and find new developer tools helping you build what’s next.\n",
+      "customUrl": "@googlecloudtech",
+      "publishedAt": "2014-07-21T21:05:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/1a3sAZKZj0xtTNPJCta6_MQ1wWfsjK2URS1S5bL_NJdDcYxLotkg4tWmlC1lz-K8kULyz2zHlUA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/1a3sAZKZj0xtTNPJCta6_MQ1wWfsjK2URS1S5bL_NJdDcYxLotkg4tWmlC1lz-K8kULyz2zHlUA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/1a3sAZKZj0xtTNPJCta6_MQ1wWfsjK2URS1S5bL_NJdDcYxLotkg4tWmlC1lz-K8kULyz2zHlUA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Google Cloud Tech",
+        "description": "Welcome to the official YouTube channel for Google Cloud’s technical community. Explore our tutorials, see exciting demos, stay up to date with product news, and find new developer tools helping you build what’s next.\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "50540764",
+      "subscriberCount": "1290000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1937"
+    }
+  }
+}

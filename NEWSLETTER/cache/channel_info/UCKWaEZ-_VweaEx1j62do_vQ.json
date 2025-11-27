@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285749.6759481,
+  "cache_type": "channel_info",
+  "key": "UCKWaEZ-_VweaEx1j62do_vQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "Lo3L_fP80Rvanb0fT5QafDQ7-mg",
+    "id": "UCKWaEZ-_VweaEx1j62do_vQ",
+    "snippet": {
+      "title": "IBM Technology",
+      "description": "Whether it’s AI, automation, cybersecurity, data science, DevOps, quantum computing or anything in between, we provide educational content on the biggest topics in tech. Subscribe to build your skillset, learn about new trends, and gain insights from IBM experts. \n\nThis channel follows the IBM Social Computing Guidelines.\n\n",
+      "customUrl": "@ibmtechnology",
+      "publishedAt": "2008-05-27T21:31:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/7qCmNHAsFvD6RSINuJ1WoGZYoKmm7TDnhORKFqLb8QoeOFh2qFXal8brkzoxNrwqmJTuvOLs=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/7qCmNHAsFvD6RSINuJ1WoGZYoKmm7TDnhORKFqLb8QoeOFh2qFXal8brkzoxNrwqmJTuvOLs=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/7qCmNHAsFvD6RSINuJ1WoGZYoKmm7TDnhORKFqLb8QoeOFh2qFXal8brkzoxNrwqmJTuvOLs=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "IBM Technology",
+        "description": "Whether it’s AI, automation, cybersecurity, data science, DevOps, quantum computing or anything in between, we provide educational content on the biggest topics in tech. Subscribe to build your skillset, learn about new trends, and gain insights from IBM experts. \n\nThis channel follows the IBM Social Computing Guidelines.\n\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "97958895",
+      "subscriberCount": "1470000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1472"
+    }
+  }
+}

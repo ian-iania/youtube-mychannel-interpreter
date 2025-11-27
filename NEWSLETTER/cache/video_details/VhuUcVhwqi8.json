@@ -1,0 +1,84 @@
+{
+  "cached_at": 1764285758.94685,
+  "cache_type": "video_details",
+  "key": "VhuUcVhwqi8",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "znKcsZ7x1Xlz9z5Rk-F697xqSck",
+    "id": "VhuUcVhwqi8",
+    "snippet": {
+      "publishedAt": "2025-11-24T22:52:58Z",
+      "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "title": "Anthropic just dropped Opus 4.5...",
+      "description": "Warp is free to try but for a limited time, try Warp Pro free for 7 days with 2,500 Al credits-no card required. Use my link ➞ https://go.warp.dev/bermanytagents\n\nDownload The Subtle Art of Not Being Replaced 👇🏼\nhttp://bit.ly/3WLNzdV\n\nDownload Humanities Last Prompt Engineering Guide (free) 👇🏼\nhttps://bit.ly/4kFhajz\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nDiscover The Best AI Tools👇🏼\nhttps://tools.forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forward_future_\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/xxysSXBxFW\n👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://www.anthropic.com/news/claude-opus-4-5\nhttps://x.com/danshipper/status/1993033227070849180\nhttps://x.com/emollick/status/1993030988759470156",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VhuUcVhwqi8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VhuUcVhwqi8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VhuUcVhwqi8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VhuUcVhwqi8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VhuUcVhwqi8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Matthew Berman",
+      "tags": [
+        "ai",
+        "llm",
+        "artificial intelligence",
+        "large language model",
+        "openai",
+        "mistral",
+        "chatgpt",
+        "ai news",
+        "claude",
+        "anthropic",
+        "apple ai",
+        "apple intelligence",
+        "llama",
+        "meta ai",
+        "google ai"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "Anthropic just dropped Opus 4.5...",
+        "description": "Warp is free to try but for a limited time, try Warp Pro free for 7 days with 2,500 Al credits-no card required. Use my link ➞ https://go.warp.dev/bermanytagents\n\nDownload The Subtle Art of Not Being Replaced 👇🏼\nhttp://bit.ly/3WLNzdV\n\nDownload Humanities Last Prompt Engineering Guide (free) 👇🏼\nhttps://bit.ly/4kFhajz\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nDiscover The Best AI Tools👇🏼\nhttps://tools.forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forward_future_\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/xxysSXBxFW\n👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\nhttps://www.anthropic.com/news/claude-opus-4-5\nhttps://x.com/danshipper/status/1993033227070849180\nhttps://x.com/emollick/status/1993030988759470156"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT10M27S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "81950",
+      "likeCount": "2538",
+      "favoriteCount": "0",
+      "commentCount": "300"
+    }
+  }
+}

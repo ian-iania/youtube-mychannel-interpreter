@@ -1,0 +1,89 @@
+{
+  "cached_at": 1764285731.975269,
+  "cache_type": "video_details",
+  "key": "J7e2n-BMtYQ",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "4BYec_1DVfK6ot8lVUCN9WSiXN8",
+    "id": "J7e2n-BMtYQ",
+    "snippet": {
+      "publishedAt": "2025-11-26T09:15:01Z",
+      "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+      "title": "Bind AI IDE: This AI Coder FIXES Vibe-Coding for EVERYONE!",
+      "description": "Visit Bind AI: https://app.getbind.co/vibe-coder-lifetime-credits\n\nIn this video, I'm covering a massive Bind AI update that includes the removal of their waitlist, a limited-time Black Friday offer with Lifetime Credits, and powerful new features that make it a serious competitor to Replit, Lovable, and Cursor.\n\n--\nKey Takeaways:\n\n🎉 The Bind AI waitlist has been officially removed—anyone can start building right now.  \n💰 Black Friday offer: Save up to 60% on Lifetime Credits that never expire (ends Nov 28).  \n🤖 Access to top-tier models like Gemini 3.0 Pro, Claude 4.5 Sonnet, and GPT-5.1 in one platform.  \n🎨 Design-to-code feature converts Figma mockups to React/NextJS with 92% accuracy.  \n⚙️ Full-stack capabilities including backend setup, API routes, and Supabase database integration.  \n🔗 Native GitHub integration lets you push code, create branches, and merge PRs directly.  \n⏮️ Version History with Rollbacks protects you from AI mistakes and code mishaps.  \n🚀 One-click Vercel deployment takes you from prompt to live production URL seamlessly.  \n👥 Team collaboration supports up to 50 members with centralized billing.  \n✨ Part of Google for AI Startups Program, giving early access to powerful Gemini models.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J7e2n-BMtYQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J7e2n-BMtYQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J7e2n-BMtYQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/J7e2n-BMtYQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/J7e2n-BMtYQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AICodeKing",
+      "tags": [
+        "bind ai",
+        "bind ai update",
+        "ai coding assistant",
+        "replit alternative",
+        "lovable alternative",
+        "cursor alternative",
+        "full stack ai",
+        "lifetime credits",
+        "gemini 3.0 pro",
+        "claude 4.5 sonnet",
+        "gpt 5.1",
+        "design to code",
+        "figma to react",
+        "supabase integration",
+        "github integration",
+        "vercel deployment",
+        "ai web development",
+        "no code tools",
+        "low code development",
+        "ai app builder"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Bind AI IDE: This AI Coder FIXES Vibe-Coding for EVERYONE!",
+        "description": "Visit Bind AI: https://app.getbind.co/vibe-coder-lifetime-credits\n\nIn this video, I'm covering a massive Bind AI update that includes the removal of their waitlist, a limited-time Black Friday offer with Lifetime Credits, and powerful new features that make it a serious competitor to Replit, Lovable, and Cursor.\n\n--\nKey Takeaways:\n\n🎉 The Bind AI waitlist has been officially removed—anyone can start building right now.  \n💰 Black Friday offer: Save up to 60% on Lifetime Credits that never expire (ends Nov 28).  \n🤖 Access to top-tier models like Gemini 3.0 Pro, Claude 4.5 Sonnet, and GPT-5.1 in one platform.  \n🎨 Design-to-code feature converts Figma mockups to React/NextJS with 92% accuracy.  \n⚙️ Full-stack capabilities including backend setup, API routes, and Supabase database integration.  \n🔗 Native GitHub integration lets you push code, create branches, and merge PRs directly.  \n⏮️ Version History with Rollbacks protects you from AI mistakes and code mishaps.  \n🚀 One-click Vercel deployment takes you from prompt to live production URL seamlessly.  \n👥 Team collaboration supports up to 50 members with centralized billing.  \n✨ Part of Google for AI Startups Program, giving early access to powerful Gemini models."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT8M42S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "5004",
+      "likeCount": "138",
+      "favoriteCount": "0",
+      "commentCount": "38"
+    }
+  }
+}

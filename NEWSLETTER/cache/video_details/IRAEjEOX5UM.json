@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285742.875434,
+  "cache_type": "video_details",
+  "key": "IRAEjEOX5UM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "inn6Vq96N81NOpQY6RvyI14rdUA",
+    "id": "IRAEjEOX5UM",
+    "snippet": {
+      "publishedAt": "2025-11-21T05:20:00Z",
+      "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+      "title": "Fireside Interview with Michael Tso - CEO and Co-founder Cloudian",
+      "description": "This is an informal conversation with Michael Tso, CEO and co-founder of Cloudian discussing his star-studded journey and AI era.\n\n#cloudian #aidp #hyperscale #hyperstore \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://cloudian.com\n\nAll rights reserved © 2021 Fahd Mirza",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IRAEjEOX5UM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IRAEjEOX5UM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IRAEjEOX5UM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IRAEjEOX5UM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IRAEjEOX5UM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Fahd Mirza",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Fireside Interview with Michael Tso - CEO and Co-founder Cloudian",
+        "description": "This is an informal conversation with Michael Tso, CEO and co-founder of Cloudian discussing his star-studded journey and AI era.\n\n#cloudian #aidp #hyperscale #hyperstore \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://cloudian.com\n\nAll rights reserved © 2021 Fahd Mirza"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT36M20S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "375",
+      "likeCount": "27",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

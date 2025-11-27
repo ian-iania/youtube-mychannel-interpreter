@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285776.882296,
+  "cache_type": "video_details",
+  "key": "63XWPaxn40o",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "E4KrblKkKLH3FjrORF2JRZbTvkw",
+    "id": "63XWPaxn40o",
+    "snippet": {
+      "publishedAt": "2025-11-27T13:42:08Z",
+      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+      "title": "Amazônia e o Futuro da Pecuária Sustentável no Pará | Helder Barbalho",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/63XWPaxn40o/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/63XWPaxn40o/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/63XWPaxn40o/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/63XWPaxn40o/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/63XWPaxn40o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "exame",
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Amazônia e o Futuro da Pecuária Sustentável no Pará | Helder Barbalho",
+        "description": ""
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT1M1S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "287",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285765.220063,
+  "cache_type": "video_details",
+  "key": "nh6gvHZKGvg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Gc-PkFoVAMvlpFKTaiEIqYSN9dw",
+    "id": "nh6gvHZKGvg",
+    "snippet": {
+      "publishedAt": "2025-11-21T01:49:24Z",
+      "channelId": "UCgoJjdR6-7AMu9fDitb6nVw",
+      "title": "Replit Fast Mode is free for a limited time only",
+      "description": "Replit is free for the first time ever! \n  \nWe’re introducing Fast Mode, a 5x faster way to build with AI. Complete tasks in under 30 seconds. \n  \nAnd for a limited time, it’s completely free \n   \nTry it out today at http://Replit.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nh6gvHZKGvg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nh6gvHZKGvg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nh6gvHZKGvg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nh6gvHZKGvg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nh6gvHZKGvg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Replit",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Replit Fast Mode is free for a limited time only",
+        "description": "Replit is free for the first time ever! \n  \nWe’re introducing Fast Mode, a 5x faster way to build with AI. Complete tasks in under 30 seconds. \n  \nAnd for a limited time, it’s completely free \n   \nTry it out today at http://Replit.com"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT30S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "502954",
+      "likeCount": "577",
+      "favoriteCount": "0",
+      "commentCount": "7"
+    }
+  }
+}

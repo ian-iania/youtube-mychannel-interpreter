@@ -1,0 +1,72 @@
+{
+  "cached_at": 1764285739.486754,
+  "cache_type": "video_details",
+  "key": "j_yfuLDbyN4",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "w_kex_aAlfPr5rqxZp8NcmPp7jk",
+    "id": "j_yfuLDbyN4",
+    "snippet": {
+      "publishedAt": "2025-11-25T18:30:02Z",
+      "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+      "title": "Unity Catalog: Setting Up Volumes",
+      "description": "Explore the capabilities of Unity Catalog Volumes with Shreel Shah, a Scale Solutions Engineer at Databricks. Learn how to access, store, manage, and process non-tabular data with ease, and discover the benefits of managed and external volumes for data governance.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/j_yfuLDbyN4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/j_yfuLDbyN4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/j_yfuLDbyN4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/j_yfuLDbyN4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/j_yfuLDbyN4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Databricks",
+      "tags": [
+        "Databricks",
+        "AWS",
+        "Unity Catalog",
+        "Volumes"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Unity Catalog: Setting Up Volumes",
+        "description": "Explore the capabilities of Unity Catalog Volumes with Shreel Shah, a Scale Solutions Engineer at Databricks. Learn how to access, store, manage, and process non-tabular data with ease, and discover the benefits of managed and external volumes for data governance."
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT2M57S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "591",
+      "likeCount": "23",
+      "favoriteCount": "0"
+    }
+  }
+}

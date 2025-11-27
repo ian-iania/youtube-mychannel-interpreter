@@ -1,0 +1,74 @@
+{
+  "cached_at": 1764285746.496246,
+  "cache_type": "video_details",
+  "key": "E_7P2SIdkIg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "zOjo_PfmGckxlvX9ihzsL_joweA",
+    "id": "E_7P2SIdkIg",
+    "snippet": {
+      "publishedAt": "2025-11-27T00:24:31Z",
+      "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "title": "Refining your vision: A guide to AI image editing",
+      "description": "Refine your creative vision with advanced AI image editing using Google Cloud's Gemini Image model, also known as Nano Banana. This video moves beyond basic generation to explore powerful editing capabilities, including conversational editing, seamless object removal, and sophisticated style transfer. Learn how to maintain subject consistency across edits and leverage multiple reference images for complex compositions. Finally, discover how to animate your newly edited images by integrating them with Google's Veo video generation model.\n\n\nChapters:\n0:00 - Introduction to AI Image Editing\n0:16 - The Gemini Image Model (Nano Banana)\n0:35 - Conversational Editing\n1:16 - Object Removal\n1:37 - Style Transfer\n2:10 - Consistency in Editing\n2:37 - References-to-Image\n3:30 - Animate Your Images with Veo\n4:10 - Conclusion\n\n\nResources:\nNano Banana documentation → https://goo.gle/3XRVzut \nGetting started code → https://goo.gle/3XhgxTp \nVertex AI Studio → https://goo.gle/48jp1hX \n\n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#GoogleCloud #Veo #NanoBanana #Gemini\n\nSpeakers: Katie Nguyen\nProducts Mentioned:  Gemini, Veo, Nano Banana, Vertex AI",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E_7P2SIdkIg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E_7P2SIdkIg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E_7P2SIdkIg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/E_7P2SIdkIg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/E_7P2SIdkIg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Cloud Tech",
+      "tags": [
+        "Pr_pr: Google Cloud Tech;",
+        "Campaign: ITPUP;",
+        "ct: AIG;",
+        "gds:Yes;",
+        "Type: DevByte;"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Refining your vision: A guide to AI image editing",
+        "description": "Refine your creative vision with advanced AI image editing using Google Cloud's Gemini Image model, also known as Nano Banana. This video moves beyond basic generation to explore powerful editing capabilities, including conversational editing, seamless object removal, and sophisticated style transfer. Learn how to maintain subject consistency across edits and leverage multiple reference images for complex compositions. Finally, discover how to animate your newly edited images by integrating them with Google's Veo video generation model.\n\n\nChapters:\n0:00 - Introduction to AI Image Editing\n0:16 - The Gemini Image Model (Nano Banana)\n0:35 - Conversational Editing\n1:16 - Object Removal\n1:37 - Style Transfer\n2:10 - Consistency in Editing\n2:37 - References-to-Image\n3:30 - Animate Your Images with Veo\n4:10 - Conclusion\n\n\nResources:\nNano Banana documentation → https://goo.gle/3XRVzut \nGetting started code → https://goo.gle/3XhgxTp \nVertex AI Studio → https://goo.gle/48jp1hX \n\n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#GoogleCloud #Veo #NanoBanana #Gemini\n\nSpeakers: Katie Nguyen\nProducts Mentioned:  Gemini, Veo, Nano Banana, Vertex AI"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT4M49S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "3197",
+      "likeCount": "118",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

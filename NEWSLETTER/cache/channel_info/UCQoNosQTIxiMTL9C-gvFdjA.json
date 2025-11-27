@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285738.490484,
+  "cache_type": "channel_info",
+  "key": "UCQoNosQTIxiMTL9C-gvFdjA",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "w-HQNx_0v9ZBgOsmtOg3oL9XYuw",
+    "id": "UCQoNosQTIxiMTL9C-gvFdjA",
+    "snippet": {
+      "title": "Data Science in your pocket",
+      "description": "Welcome to Data Science In Your Pocket! Dive deep into advanced AI and Data Science topics not thoroughly covered elsewhere. Discover comprehensive insights and answers to complex questions, all in one place. Subscribe for in-depth tutorials and expert knowledge on cutting-edge data science and AI.\n\nWe have tutorials on Generative AI, Reinforcement Learning, NLP, Time Series, Graph Analytics and other major Data Science domains\n",
+      "customUrl": "@datascienceinyourpocket",
+      "publishedAt": "2019-06-11T18:59:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/gM446ckgeJp2aG0AAdr20CG8xk_TedOG97DuBBxqD_-Zw0_QMoPJ0AP0XOwbvTM4iS4UMf4Bbw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/gM446ckgeJp2aG0AAdr20CG8xk_TedOG97DuBBxqD_-Zw0_QMoPJ0AP0XOwbvTM4iS4UMf4Bbw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/gM446ckgeJp2aG0AAdr20CG8xk_TedOG97DuBBxqD_-Zw0_QMoPJ0AP0XOwbvTM4iS4UMf4Bbw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Data Science in your pocket",
+        "description": "Welcome to Data Science In Your Pocket! Dive deep into advanced AI and Data Science topics not thoroughly covered elsewhere. Discover comprehensive insights and answers to complex questions, all in one place. Subscribe for in-depth tutorials and expert knowledge on cutting-edge data science and AI.\n\nWe have tutorials on Generative AI, Reinforcement Learning, NLP, Time Series, Graph Analytics and other major Data Science domains\n"
+      },
+      "country": "IN"
+    },
+    "statistics": {
+      "viewCount": "6176666",
+      "subscriberCount": "23700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1338"
+    }
+  }
+}

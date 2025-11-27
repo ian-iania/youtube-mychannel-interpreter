@@ -1,0 +1,105 @@
+{
+  "cached_at": 1764285776.233402,
+  "cache_type": "video_details",
+  "key": "ButAp5rF69E",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "_BuO6968OkIkIwWyFLjT174TuLo",
+    "id": "ButAp5rF69E",
+    "snippet": {
+      "publishedAt": "2025-11-23T17:30:02Z",
+      "channelId": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "title": "NEW MCP Toolkit Is PERFECT! Ultimate MCP Setup For AI Coding Assistants Will 10x Your Productivity!",
+      "description": "Try the Docker MCP Catalog here for FREE: \n\nThe brand-new Docker MCP Toolkit just changed the entire MCP game. One-click installs. Zero config headaches. Fully containerized, secure, scalable MCP servers that plug straight into Claude Desktop, Cursor, Continue Dev, VS Code, Gordon, and more.\n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nOpen Agent Builder: Easily Create AI Agents That Can Automate Anything! Opensource n8n Alternative!: https://youtu.be/6sk-q79-zZE\nClaude Haiku 4.5: NEW Powerful Coding Model That's Cheap + Fast! Beats Sonnet 4 Easily!: https://youtu.be/qOB30aJZW9s\nOpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial): https://youtu.be/gHkdrO6IExM?si=lDxCrjGrwL6HAwnj\n\n📌 LINKS & RESOURCES\nDocker Desktop: https://www.docker.com/products/docker-desktop/\nMCP Hub: https://hub.docker.com/mcp\nDocs: https://docs.docker.com/ai/mcp-catalog-and-toolkit/\nBlog: https://www.docker.com/blog/introducing-docker-hub-mcp-server/\nMCP Gateway Blog: https://www.docker.com/blog/docker-mcp-gateway-secure-infrastructure-for-agentic-ai/\n\nIn this video, I break down how the new MCP Toolkit eliminates all the painful setup steps and lets you instantly launch verified MCP servers for coding, automation, browser control, scraping, repo management, and more. If you're building AI agents or using coding assistants daily, this update will seriously 10x your workflow.\n\n✅ One-click MCP installs\n✅ Safe containerized environments\n✅ Discover tools instantly\n✅ Managed secrets + access policies\n✅ Connect Claude, Cursor, Continue, VS Code\n✅ Zero DevOps overhead\n✅ Huge boost to coding speed & automation\n\nThis has officially become the easiest and safest way to run MCPs at scale.\n\nHashtags:\n#MCP #Docker #AIcoding #AItools #Claude #CursorAI #DevTools #AgenticAI #CodingProductivity #Automation #Developers #AIAgents\n\nTags (comma-separated):\nMCP,Docker MCP Toolkit,Claude,Claude Desktop,Cursor,Cursor AI,Continue Dev,VS Code,AI coding assistant,AI tools,AI agents,agentic AI,developer tools,coding automation,Playwright MCP,Firecrawl,MCP servers,one click MCP,Docker Desktop,AI productivity,LLM tools",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ButAp5rF69E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ButAp5rF69E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ButAp5rF69E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ButAp5rF69E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ButAp5rF69E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "WorldofAI",
+      "tags": [
+        "ai coding",
+        "model context protocol",
+        "ai agents",
+        "mcp toolkit",
+        "mcp",
+        "software engineering",
+        "artificial intelligence",
+        "mcp server",
+        "ai",
+        "software development",
+        "coding",
+        "automation",
+        "saas",
+        "cursor",
+        "windsurf",
+        "ai coding guide",
+        "cline",
+        "roo code",
+        "mcp + windsurf",
+        "mcp + cursor",
+        "ai coding workflow",
+        "mcp guide",
+        "windsurf guide",
+        "cursor guide",
+        "vibe coding",
+        "vibe coding guide",
+        "supabase",
+        "supabase mcp",
+        "supabase guide",
+        "context7",
+        "context7 guide",
+        "context7 tutorial",
+        "claude 4",
+        "opus",
+        "sonnet",
+        "gemini 3.0 pro"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "NEW MCP Toolkit Is PERFECT! Ultimate MCP Setup For AI Coding Assistants Will 10x Your Productivity!",
+        "description": "Try the Docker MCP Catalog here for FREE: \n\nThe brand-new Docker MCP Toolkit just changed the entire MCP game. One-click installs. Zero config headaches. Fully containerized, secure, scalable MCP servers that plug straight into Claude Desktop, Cursor, Continue Dev, VS Code, Gordon, and more.\n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nOpen Agent Builder: Easily Create AI Agents That Can Automate Anything! Opensource n8n Alternative!: https://youtu.be/6sk-q79-zZE\nClaude Haiku 4.5: NEW Powerful Coding Model That's Cheap + Fast! Beats Sonnet 4 Easily!: https://youtu.be/qOB30aJZW9s\nOpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial): https://youtu.be/gHkdrO6IExM?si=lDxCrjGrwL6HAwnj\n\n📌 LINKS & RESOURCES\nDocker Desktop: https://www.docker.com/products/docker-desktop/\nMCP Hub: https://hub.docker.com/mcp\nDocs: https://docs.docker.com/ai/mcp-catalog-and-toolkit/\nBlog: https://www.docker.com/blog/introducing-docker-hub-mcp-server/\nMCP Gateway Blog: https://www.docker.com/blog/docker-mcp-gateway-secure-infrastructure-for-agentic-ai/\n\nIn this video, I break down how the new MCP Toolkit eliminates all the painful setup steps and lets you instantly launch verified MCP servers for coding, automation, browser control, scraping, repo management, and more. If you're building AI agents or using coding assistants daily, this update will seriously 10x your workflow.\n\n✅ One-click MCP installs\n✅ Safe containerized environments\n✅ Discover tools instantly\n✅ Managed secrets + access policies\n✅ Connect Claude, Cursor, Continue, VS Code\n✅ Zero DevOps overhead\n✅ Huge boost to coding speed & automation\n\nThis has officially become the easiest and safest way to run MCPs at scale.\n\nHashtags:\n#MCP #Docker #AIcoding #AItools #Claude #CursorAI #DevTools #AgenticAI #CodingProductivity #Automation #Developers #AIAgents\n\nTags (comma-separated):\nMCP,Docker MCP Toolkit,Claude,Claude Desktop,Cursor,Cursor AI,Continue Dev,VS Code,AI coding assistant,AI tools,AI agents,agentic AI,developer tools,coding automation,Playwright MCP,Firecrawl,MCP servers,one click MCP,Docker Desktop,AI productivity,LLM tools"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT8M53S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "16907",
+      "likeCount": "599",
+      "favoriteCount": "0",
+      "commentCount": "18"
+    }
+  }
+}

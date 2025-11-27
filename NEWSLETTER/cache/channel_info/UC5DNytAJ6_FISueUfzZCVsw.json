@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285737.073637,
+  "cache_type": "channel_info",
+  "key": "UC5DNytAJ6_FISueUfzZCVsw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "wPSVh0SoPZ_q0dS48ptXHORWagE",
+    "id": "UC5DNytAJ6_FISueUfzZCVsw",
+    "snippet": {
+      "title": "Code with Ania Kubów",
+      "description": "Worked with Google, Amazon, Microsoft and many more. \n\nWant to learn how to code from nothing? I will show you how!\n\nMy name is Ania and I am a Software Developer and Course Creator.\n\nI quit working as a Software Developer for Eurostar in 2019 to focus on creating video tutorials on YouTube, as well as create the Codewithania.com Full Stack Developer Course. I am very grateful to now have an incredibly supportive online community on here and on my Discord Channel.\n\nFrom Polish heritage and raised in the UAE, I graduated from Dubai College majoring in Math, Physics and DesignTech before moving to the UK to attend University. Fun fact: I worked as a Financial Derivatives Broker in Singapore and London in a past life.\n\nWhat I teach:\nJavaScript, React, React-Native, Next.js, Node.js, Express, GraphQL, Databases +\n\nPlease Subscribe for upcoming releases, and don’t forget to press the bell icon.\n\nFor contact:\nTwitter: @ania_kubow\nInstagram: @aniakubow\nEmail: team@codewithania.com\n",
+      "customUrl": "@aniakubow",
+      "publishedAt": "2019-10-23T15:07:49.798601Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/CALIyblKHLncjzU4Fx4WmdC1vDhZTBTBosbYJI5DsWJVHXrtlftBhzn681EmvUjGViePBN-GrsI=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/CALIyblKHLncjzU4Fx4WmdC1vDhZTBTBosbYJI5DsWJVHXrtlftBhzn681EmvUjGViePBN-GrsI=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/CALIyblKHLncjzU4Fx4WmdC1vDhZTBTBosbYJI5DsWJVHXrtlftBhzn681EmvUjGViePBN-GrsI=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Code with Ania Kubów",
+        "description": "Worked with Google, Amazon, Microsoft and many more. \n\nWant to learn how to code from nothing? I will show you how!\n\nMy name is Ania and I am a Software Developer and Course Creator.\n\nI quit working as a Software Developer for Eurostar in 2019 to focus on creating video tutorials on YouTube, as well as create the Codewithania.com Full Stack Developer Course. I am very grateful to now have an incredibly supportive online community on here and on my Discord Channel.\n\nFrom Polish heritage and raised in the UAE, I graduated from Dubai College majoring in Math, Physics and DesignTech before moving to the UK to attend University. Fun fact: I worked as a Financial Derivatives Broker in Singapore and London in a past life.\n\nWhat I teach:\nJavaScript, React, React-Native, Next.js, Node.js, Express, GraphQL, Databases +\n\nPlease Subscribe for upcoming releases, and don’t forget to press the bell icon.\n\nFor contact:\nTwitter: @ania_kubow\nInstagram: @aniakubow\nEmail: team@codewithania.com\n"
+      },
+      "country": "GB"
+    },
+    "statistics": {
+      "viewCount": "18488688",
+      "subscriberCount": "442000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "441"
+    }
+  }
+}

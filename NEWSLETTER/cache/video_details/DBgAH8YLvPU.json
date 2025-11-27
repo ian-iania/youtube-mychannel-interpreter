@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285737.609531,
+  "cache_type": "video_details",
+  "key": "DBgAH8YLvPU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "vWmyKv96ygNMilr4Os8ioY8xsO4",
+    "id": "DBgAH8YLvPU",
+    "snippet": {
+      "publishedAt": "2025-11-27T14:49:31Z",
+      "channelId": "UC5DNytAJ6_FISueUfzZCVsw",
+      "title": "Let’s build an automation!",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DBgAH8YLvPU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DBgAH8YLvPU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DBgAH8YLvPU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DBgAH8YLvPU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DBgAH8YLvPU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Code with Ania Kubów",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Let’s build an automation!",
+        "description": ""
+      },
+      "defaultAudioLanguage": "en-GB"
+    },
+    "contentDetails": {
+      "duration": "PT34S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1885",
+      "likeCount": "66",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

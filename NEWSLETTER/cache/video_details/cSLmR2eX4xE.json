@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285741.48659,
+  "cache_type": "video_details",
+  "key": "cSLmR2eX4xE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "kFEZFMGwlTKoBjpADV_OFcaqMDI",
+    "id": "cSLmR2eX4xE",
+    "snippet": {
+      "publishedAt": "2025-11-24T17:16:43Z",
+      "channelId": "UCcIXc5mJsHVYTZR1maL5l9w",
+      "title": "AI Dev 25 NYC: Event Highlights",
+      "description": "What a day! AI Dev 25 x NYC, hosted by Andrew Ng and DeepLearning.AI, brought together engineers, researchers, and builders to share what they’re learning as they design and deploy AI systems in the real world. \n\nThis highlight reel captures moments from the talks, demos, hallway conversations, and hands-on sessions across the day.\n\nFrom agent architectures and context engineering to governance, optimization, and production workflows, the event showcased how developers are approaching AI in practice.\n\nWatch the recap to revisit the ideas that shaped the day.\n\nSee you at AI Dev 26 in San Francisco!\n\nEarly bird tickets: https://ai-dev.deeplearning.ai/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cSLmR2eX4xE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cSLmR2eX4xE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cSLmR2eX4xE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cSLmR2eX4xE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cSLmR2eX4xE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "DeepLearningAI",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "AI Dev 25 NYC: Event Highlights",
+        "description": "What a day! AI Dev 25 x NYC, hosted by Andrew Ng and DeepLearning.AI, brought together engineers, researchers, and builders to share what they’re learning as they design and deploy AI systems in the real world. \n\nThis highlight reel captures moments from the talks, demos, hallway conversations, and hands-on sessions across the day.\n\nFrom agent architectures and context engineering to governance, optimization, and production workflows, the event showcased how developers are approaching AI in practice.\n\nWatch the recap to revisit the ideas that shaped the day.\n\nSee you at AI Dev 26 in San Francisco!\n\nEarly bird tickets: https://ai-dev.deeplearning.ai/"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT3M16S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "586",
+      "likeCount": "20",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

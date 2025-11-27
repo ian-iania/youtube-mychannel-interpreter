@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285731.0688121,
+  "cache_type": "channel_info",
+  "key": "UCwvRf1alwULB0UOJD2mgnxA",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "W65BZVTCeeJ3qYg-Z3EYnrXAO-Q",
+    "id": "UCwvRf1alwULB0UOJD2mgnxA",
+    "snippet": {
+      "title": "AI and Tech for Education",
+      "description": "Hello!\nWelcome to AI and Tech for Education! This channel is dedicated to exploring the many ways AI tools are transforming the educational landscape and to helping researchers and students find and use the latest and best tools that will make them more productive, efficient and effective. \n\nThrough detailed tutorials and exploration of the latest tools, I hope you'll find a wealth of information here.\n\nContact me at:\n\nAIandtechforeducation@gmail.com\n",
+      "customUrl": "@aiandtechforeducation",
+      "publishedAt": "2023-12-22T11:22:24.558915Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/9UbfH7Qc4rpZcCCRrJVcqb_x8YGZeQypizN4TClRYhyIPZuLMXH8YB7I8iCU0djEda4wNJzdTg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/9UbfH7Qc4rpZcCCRrJVcqb_x8YGZeQypizN4TClRYhyIPZuLMXH8YB7I8iCU0djEda4wNJzdTg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/9UbfH7Qc4rpZcCCRrJVcqb_x8YGZeQypizN4TClRYhyIPZuLMXH8YB7I8iCU0djEda4wNJzdTg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "AI and Tech for Education",
+        "description": "Hello!\nWelcome to AI and Tech for Education! This channel is dedicated to exploring the many ways AI tools are transforming the educational landscape and to helping researchers and students find and use the latest and best tools that will make them more productive, efficient and effective. \n\nThrough detailed tutorials and exploration of the latest tools, I hope you'll find a wealth of information here.\n\nContact me at:\n\nAIandtechforeducation@gmail.com\n"
+      }
+    },
+    "statistics": {
+      "viewCount": "1703315",
+      "subscriberCount": "30100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "101"
+    }
+  }
+}

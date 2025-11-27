@@ -1,0 +1,62 @@
+{
+  "cached_at": 1764285738.929674,
+  "cache_type": "video_details",
+  "key": "Pdwlz8XGTF4",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "qpanfrtlk7eVOH8v6FgCbLysT8k",
+    "id": "Pdwlz8XGTF4",
+    "snippet": {
+      "publishedAt": "2025-11-25T12:10:52Z",
+      "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+      "title": "Hunyuan Video 1.5 : AI video Generation on Consumer GPU",
+      "description": "hunyuanvideo 1.5 is a new open-sourced AI model for video Generation on Consumer grade gpus #ai #chatgpt #coding #programming #generativeai #llm #computerscience #computer #engineering #modelcontextprotocol",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Pdwlz8XGTF4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Pdwlz8XGTF4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Pdwlz8XGTF4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Pdwlz8XGTF4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Data Science in your pocket",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-IN",
+      "localized": {
+        "title": "Hunyuan Video 1.5 : AI video Generation on Consumer GPU",
+        "description": "hunyuanvideo 1.5 is a new open-sourced AI model for video Generation on Consumer grade gpus #ai #chatgpt #coding #programming #generativeai #llm #computerscience #computer #engineering #modelcontextprotocol"
+      },
+      "defaultAudioLanguage": "en-IN"
+    },
+    "contentDetails": {
+      "duration": "PT6M33S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "196",
+      "likeCount": "11",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

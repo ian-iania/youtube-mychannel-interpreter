@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285733.412249,
+  "cache_type": "video_details",
+  "key": "zrcCS9oHjtI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "ux44a24MIjGTjuCdE5X2DggDnmg",
+    "id": "zrcCS9oHjtI",
+    "snippet": {
+      "publishedAt": "2025-11-24T18:52:06Z",
+      "channelId": "UCrDwWp7EBBv4NwvScIpBDOA",
+      "title": "Claude Code on desktop",
+      "description": "Today, we’re introducing Claude Code in our desktop apps in research preview. You can now run multiple local and remote Claude Code sessions in parallel: one agent fixing bugs, another researching GitHub, a third updating docs. It uses git worktrees for parallel repo work and offers a clean user interface with the option to open in VS Code or resume in CLI.\n\nLearn more: https://www.anthropic.com/news/claude-opus-4-5",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zrcCS9oHjtI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zrcCS9oHjtI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zrcCS9oHjtI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zrcCS9oHjtI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zrcCS9oHjtI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Anthropic",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Claude Code on desktop",
+        "description": "Today, we’re introducing Claude Code in our desktop apps in research preview. You can now run multiple local and remote Claude Code sessions in parallel: one agent fixing bugs, another researching GitHub, a third updating docs. It uses git worktrees for parallel repo work and offers a clean user interface with the option to open in VS Code or resume in CLI.\n\nLearn more: https://www.anthropic.com/news/claude-opus-4-5"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT21S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "43765",
+      "likeCount": "712",
+      "favoriteCount": "0",
+      "commentCount": "66"
+    }
+  }
+}

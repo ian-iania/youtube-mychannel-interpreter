@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285744.839794,
+  "cache_type": "video_details",
+  "key": "6Cjv6OIUKmw",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "CwkuE57Gvv4593Mt94QO4cVM9zc",
+    "id": "6Cjv6OIUKmw",
+    "snippet": {
+      "publishedAt": "2025-11-21T06:58:57Z",
+      "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+      "title": "All-in-one AI Workspace: 📞 자동화된 채용",
+      "description": "그럼 만약 이 모든 기능들을 하나의 워크스페이스에 넣으면 어떻게 될까요?\n\n실제 사례:\n\n📞 자동화된 채용: Call For Me기능이 스크리닝 전화면접 진행 → 슈퍼 에이전트가 성과 요약 → 캘린더 일정 자동 확인 → 면접 초대 작성 및 발송!\n\n하나의 AI 워크스페이스 안에서 모든 작업이 완료됩니다. ✨\n\n지금 바로 체험해보세요: http://genspark.ai/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6Cjv6OIUKmw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6Cjv6OIUKmw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6Cjv6OIUKmw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6Cjv6OIUKmw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6Cjv6OIUKmw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Genspark",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "All-in-one AI Workspace: 📞 자동화된 채용",
+        "description": "그럼 만약 이 모든 기능들을 하나의 워크스페이스에 넣으면 어떻게 될까요?\n\n실제 사례:\n\n📞 자동화된 채용: Call For Me기능이 스크리닝 전화면접 진행 → 슈퍼 에이전트가 성과 요약 → 캘린더 일정 자동 확인 → 면접 초대 작성 및 발송!\n\n하나의 AI 워크스페이스 안에서 모든 작업이 완료됩니다. ✨\n\n지금 바로 체험해보세요: http://genspark.ai/"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT2M12S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "158",
+      "likeCount": "8",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

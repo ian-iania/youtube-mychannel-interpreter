@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285760.461463,
+  "cache_type": "video_details",
+  "key": "ldfhEbR5clM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "QQ7m09fCT9Oe5GpeMuzmZduLbOc",
+    "id": "ldfhEbR5clM",
+    "snippet": {
+      "publishedAt": "2025-11-21T19:36:25Z",
+      "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+      "title": "Arun Ulag revealed his top 3 announcements for Microsoft Databases and Microsoft Fabric",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ldfhEbR5clM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ldfhEbR5clM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ldfhEbR5clM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ldfhEbR5clM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ldfhEbR5clM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Azure",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Arun Ulag revealed his top 3 announcements for Microsoft Databases and Microsoft Fabric",
+        "description": ""
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT44S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "8869",
+      "likeCount": "114",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

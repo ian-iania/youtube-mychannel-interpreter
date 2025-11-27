@@ -1,0 +1,70 @@
+{
+  "cached_at": 1764285759.993502,
+  "cache_type": "video_details",
+  "key": "8wuGSl2kO-A",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "1XzaYFQvTnKMeLwvmosVR91KlzE",
+    "id": "8wuGSl2kO-A",
+    "snippet": {
+      "publishedAt": "2025-11-25T21:59:19Z",
+      "channelId": "UCFtEEv80fQVKkD4h1PF-Xqw",
+      "title": "GRWM: Alix Earle Mico edition 👠✨ Download the Copilot app to meet the Alix Earle custom Mico",
+      "description": "Download Copilot at link in bio.\n \n #microsoft #microsoftcopilot #copilot #alixearle",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8wuGSl2kO-A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8wuGSl2kO-A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8wuGSl2kO-A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8wuGSl2kO-A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8wuGSl2kO-A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft",
+      "tags": [
+        "microsoft"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "GRWM: Alix Earle Mico edition 👠✨ Download the Copilot app to meet the Alix Earle custom Mico",
+        "description": "Download Copilot at link in bio.\n \n #microsoft #microsoftcopilot #copilot #alixearle"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT16S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2616",
+      "likeCount": "27",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

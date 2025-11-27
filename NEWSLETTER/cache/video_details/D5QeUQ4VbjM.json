@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285730.953563,
+  "cache_type": "video_details",
+  "key": "D5QeUQ4VbjM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "sjv6bAA5u_ODquJOk-nj1haPdLo",
+    "id": "D5QeUQ4VbjM",
+    "snippet": {
+      "publishedAt": "2025-11-27T13:44:55Z",
+      "channelId": "UCelfWQr9sXVMTvBzviPGlFw",
+      "title": "Anthropic's New Paper Is WILD",
+      "description": "Claude shows alarming behaviors in new research, revealing how models can cheat systems. We explore Claude Code risks, and uncover hidden AI misalignment patterns in this unsettling breakdown of Anthropic’s latest findings.\n\n\nLink to the paper: https://www.anthropic.com/research/emergent-misalignment-reward-hacking\n\n\n#ai #claudeskills #chatgpt #claudecode #vibecoding #claude #artificialintelligence #mcp #aitools #claudeai #aicoding",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D5QeUQ4VbjM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D5QeUQ4VbjM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D5QeUQ4VbjM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/D5QeUQ4VbjM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/D5QeUQ4VbjM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI LABS",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Anthropic's New Paper Is WILD",
+        "description": "Claude shows alarming behaviors in new research, revealing how models can cheat systems. We explore Claude Code risks, and uncover hidden AI misalignment patterns in this unsettling breakdown of Anthropic’s latest findings.\n\n\nLink to the paper: https://www.anthropic.com/research/emergent-misalignment-reward-hacking\n\n\n#ai #claudeskills #chatgpt #claudecode #vibecoding #claude #artificialintelligence #mcp #aitools #claudeai #aicoding"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT7M6S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "6349",
+      "likeCount": "164",
+      "favoriteCount": "0",
+      "commentCount": "21"
+    }
+  }
+}

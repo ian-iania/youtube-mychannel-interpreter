@@ -1,0 +1,89 @@
+{
+  "cached_at": 1764285766.099545,
+  "cache_type": "video_details",
+  "key": "8x4ZCDeTGaE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "a5EFUWQPK-zAJdFhY2Yst7RxxD0",
+    "id": "8x4ZCDeTGaE",
+    "snippet": {
+      "publishedAt": "2025-11-21T15:27:36Z",
+      "channelId": "UC0FBv8ckxw1hrZxbUm3G7hA",
+      "title": "HeyGen’s NEW Video Agent Tool Just K*LLED Video Editors! (HeyGen Tutorial)",
+      "description": "Start Creating AI Generated Videos with HeyGen For FREE: https://www.heygen.com/?sid=rewardful&via=robtheaiguy\n\nThanks to HeyGen for sponsoring this video! If you want to learn how to create AI generated videos in seconds with HeyGen’s new Video Agent this video is for you. \n\nIn this tutorial, I’ll show you how to turn simple text prompts into full multi-scene videos using AI avatars, custom characters, or your own digital twin. \n\nYou will learn how to use Video Agent step-by-step, how to edit scenes, how to generate B-roll automatically, and three use cases that show how creators, businesses, and educators can use this tool to scale content fast. Because Video Agent lets you create vertical or horizontal videos, choose lengths from 15 seconds to 3 minutes, generate talking avatar videos, transform photos into videos, and even turn full presentations into narrated content. You can use it for faceless channels, UGC ads, tutorials, educational content, product demos, social media videos, and more.\n\nHere’s the full list of everything you’ll learn in this video: • How HeyGen Video Agent works• How to turn a prompt into a full multi-scene video• How to use AI avatars, photo avatars, and voice cloning• How to upload assets, images, and PowerPoints• How to auto-generate scripts, captions, and B-roll• How to edit scenes and customize voices, pacing, and visuals• Three powerful use cases for AI generated content• How creators are using AI to produce UGC videos at scale",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8x4ZCDeTGaE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8x4ZCDeTGaE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8x4ZCDeTGaE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8x4ZCDeTGaE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8x4ZCDeTGaE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Rob The AI Guy",
+      "tags": [
+        "Heygen tutorial",
+        "Heygen tutorial video",
+        "how to use Heygen tutorial",
+        "how to use Heygen video maker",
+        "how to make videos with heygen",
+        "how to make ai avatar videos with heygen",
+        "making ai avatar videos with heygen",
+        "how to make ai generated videos",
+        "heygen alternative",
+        "heygen beta tutorial",
+        "ai video creation",
+        "text to video ai generator",
+        "heygen avatar iv",
+        "heygen",
+        "viral ai content",
+        "how to make ai avatar",
+        "ai video",
+        "heygen tutorial for beginners",
+        "heygen ai tutorial",
+        "ai content creation"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "HeyGen’s NEW Video Agent Tool Just K*LLED Video Editors! (HeyGen Tutorial)",
+        "description": "Start Creating AI Generated Videos with HeyGen For FREE: https://www.heygen.com/?sid=rewardful&via=robtheaiguy\n\nThanks to HeyGen for sponsoring this video! If you want to learn how to create AI generated videos in seconds with HeyGen’s new Video Agent this video is for you. \n\nIn this tutorial, I’ll show you how to turn simple text prompts into full multi-scene videos using AI avatars, custom characters, or your own digital twin. \n\nYou will learn how to use Video Agent step-by-step, how to edit scenes, how to generate B-roll automatically, and three use cases that show how creators, businesses, and educators can use this tool to scale content fast. Because Video Agent lets you create vertical or horizontal videos, choose lengths from 15 seconds to 3 minutes, generate talking avatar videos, transform photos into videos, and even turn full presentations into narrated content. You can use it for faceless channels, UGC ads, tutorials, educational content, product demos, social media videos, and more.\n\nHere’s the full list of everything you’ll learn in this video: • How HeyGen Video Agent works• How to turn a prompt into a full multi-scene video• How to use AI avatars, photo avatars, and voice cloning• How to upload assets, images, and PowerPoints• How to auto-generate scripts, captions, and B-roll• How to edit scenes and customize voices, pacing, and visuals• Three powerful use cases for AI generated content• How creators are using AI to produce UGC videos at scale"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT12M33S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4796",
+      "likeCount": "196",
+      "favoriteCount": "0",
+      "commentCount": "25"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285750.048365,
+  "cache_type": "video_details",
+  "key": "x1yRb5_PVro",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "pQjCdcpQQGa-FKdOxbjvm3Bu-ek",
+    "id": "x1yRb5_PVro",
+    "snippet": {
+      "publishedAt": "2025-11-26T11:01:55Z",
+      "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "title": "The dark web job market thrives, AI fraud rings rise and it’s holiday scam season.",
+      "description": "Explore the podcast → https://ibm.biz/BdbJiF\n\nLearn more about the X-Force Malware Threat Research GitHub → https://ibm.biz/BdbJiE\n\nDo you think you’re too smart to fall for a Black Friday scam? Generative AI might knock you down a few pegs. On this episode of Security Intelligence, host Matt Kosinski and panelists Suja Viswesan, Dave McGinnis and Nick Bradley discuss how threat actors are using AI to turbocharge holiday scam season. Plus: \n- IBM X-Force makes malware research tools public \n- The dark web job market is thriving \n- AI fraud schemes are getting quite elaborate \n\nAnd the story of an enterprising insider threat who tried to turn his employer’s wind turbines into cryptojacking machines. Spoiler: He got caught. \n\n00:00 – Introduction \n02:45 – Holiday scam season \n13:37 – X-Force malware research tools \n19:47 – Dark web jobs report \n24:41 – Factory finds an AI fraud ring \n31:48 – Cryptojacking wind turbines \n\nSubscribe for AI and security updates → https://ibm.biz/BdbJtx\n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity. \n\n#holidayscams #darkweb #aifraud",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/x1yRb5_PVro/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/x1yRb5_PVro/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/x1yRb5_PVro/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/x1yRb5_PVro/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/x1yRb5_PVro/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "IBM Technology",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "The dark web job market thrives, AI fraud rings rise and it’s holiday scam season.",
+        "description": "Explore the podcast → https://ibm.biz/BdbJiF\n\nLearn more about the X-Force Malware Threat Research GitHub → https://ibm.biz/BdbJiE\n\nDo you think you’re too smart to fall for a Black Friday scam? Generative AI might knock you down a few pegs. On this episode of Security Intelligence, host Matt Kosinski and panelists Suja Viswesan, Dave McGinnis and Nick Bradley discuss how threat actors are using AI to turbocharge holiday scam season. Plus: \n- IBM X-Force makes malware research tools public \n- The dark web job market is thriving \n- AI fraud schemes are getting quite elaborate \n\nAnd the story of an enterprising insider threat who tried to turn his employer’s wind turbines into cryptojacking machines. Spoiler: He got caught. \n\n00:00 – Introduction \n02:45 – Holiday scam season \n13:37 – X-Force malware research tools \n19:47 – Dark web jobs report \n24:41 – Factory finds an AI fraud ring \n31:48 – Cryptojacking wind turbines \n\nSubscribe for AI and security updates → https://ibm.biz/BdbJtx\n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity. \n\n#holidayscams #darkweb #aifraud"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT40M1S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1113",
+      "likeCount": "37",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

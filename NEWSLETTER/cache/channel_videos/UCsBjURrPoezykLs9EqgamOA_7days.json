@@ -1,0 +1,75 @@
+{
+  "cached_at": 1764285743.6853209,
+  "cache_type": "channel_videos",
+  "key": "UCsBjURrPoezykLs9EqgamOA_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EecwbaHyDaGRtbkacxG4q-ktAfs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S6wc6yvoZLY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T18:20:32Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "AI agents are paying each other now…",
+        "description": "Get up to 67% off Docker VPS to self-host your own app. Use code FIRESHIP for an extra discount ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S6wc6yvoZLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S6wc6yvoZLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S6wc6yvoZLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T18:20:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TTTKRCPi683rfutetcMZxl7yULc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bsL7ZnKIAhs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T19:26:50Z",
+        "channelId": "UCsBjURrPoezykLs9EqgamOA",
+        "title": "Did Google just kill OpenAI?",
+        "description": "Get 20% off Mobbin Pro to make your apps not ugly - https://mobbin.com/fireship Gemini 3 may have just put Google in prime ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bsL7ZnKIAhs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bsL7ZnKIAhs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bsL7ZnKIAhs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fireship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T19:26:50Z"
+      }
+    }
+  ]
+}

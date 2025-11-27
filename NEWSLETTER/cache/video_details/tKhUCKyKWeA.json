@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285744.8403788,
+  "cache_type": "video_details",
+  "key": "tKhUCKyKWeA",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "bgKlI27jyVKKYC-u61DwkjiIpW8",
+    "id": "tKhUCKyKWeA",
+    "snippet": {
+      "publishedAt": "2025-11-21T06:59:09Z",
+      "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+      "title": "Genspark AI 시트 2.0｜ 당신의 개인 데이터 분석가",
+      "description": "*AI 시트 2.0 출시 - 당신의 개인 데이터 분석가 🚀*\n\n익숙한 엑셀작업, 이제 자동화 해보세요.\n\n*데이터 입력* → 웹 스크래핑, 파일 업로드, 또는 자체 데이터베이스 연결 \n*분석* → AI가 자동으로 주피터(Jupyter), SQL, 수식 및 시각화 실행 \n*내보내기* → 형식과 수식을 포함한 모든 것이 그대로 유지된 .xlsx 파일\n\n*실제 구동되는 사례 확인:* 공동 창립자이자 CTO인 Kay가 젠스파크에서 두 가지 강력한 사용 사례를 시연했습니다. \n• 한 번의 프롬프트로 엔비디아의 5년간 재무제표 수집 및 분석 \n• 복잡한 비즈니스 질문을 분석하고 전략을 제시하는 SQL을 한 번의 프롬프트로 간단하게 작성\n\n당신의 데이터 작업을 자동화 해보세요. ✨\n\n지금 바로 사용해보기: https://www.genspark.ai/agents?type=sheets_agent_new",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tKhUCKyKWeA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tKhUCKyKWeA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tKhUCKyKWeA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tKhUCKyKWeA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tKhUCKyKWeA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Genspark",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "Genspark AI 시트 2.0｜ 당신의 개인 데이터 분석가",
+        "description": "*AI 시트 2.0 출시 - 당신의 개인 데이터 분석가 🚀*\n\n익숙한 엑셀작업, 이제 자동화 해보세요.\n\n*데이터 입력* → 웹 스크래핑, 파일 업로드, 또는 자체 데이터베이스 연결 \n*분석* → AI가 자동으로 주피터(Jupyter), SQL, 수식 및 시각화 실행 \n*내보내기* → 형식과 수식을 포함한 모든 것이 그대로 유지된 .xlsx 파일\n\n*실제 구동되는 사례 확인:* 공동 창립자이자 CTO인 Kay가 젠스파크에서 두 가지 강력한 사용 사례를 시연했습니다. \n• 한 번의 프롬프트로 엔비디아의 5년간 재무제표 수집 및 분석 \n• 복잡한 비즈니스 질문을 분석하고 전략을 제시하는 SQL을 한 번의 프롬프트로 간단하게 작성\n\n당신의 데이터 작업을 자동화 해보세요. ✨\n\n지금 바로 사용해보기: https://www.genspark.ai/agents?type=sheets_agent_new"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT2M21S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "358",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

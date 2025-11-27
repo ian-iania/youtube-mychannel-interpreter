@@ -1,0 +1,80 @@
+{
+  "cached_at": 1764285761.913675,
+  "cache_type": "video_details",
+  "key": "k5kC-GQuz6I",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "BP_Uqd2HhRrdbufVC6Kt_0_NjV8",
+    "id": "k5kC-GQuz6I",
+    "snippet": {
+      "publishedAt": "2025-11-21T14:01:30Z",
+      "channelId": "UCYx10jQ_0QeqkV7gWiUE5yw",
+      "title": "Faça um Aplicativo com IA em Minutos",
+      "description": "Hoje qualquer pessoa consegue criar um aplicativo com IA sem saber programar e sem gastar nada.\n\nUsamos o Lovable para gerar um app que analisa uma foto da refeição e calcula calorias, proteínas, carboidratos e muito mais — tudo com um único prompt.\n\nE se você quer aprender a criar apps e projetos com IA sem código, inscreva-se no nosso canal para mais tutoriais rápidos como esse.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/k5kC-GQuz6I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/k5kC-GQuz6I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/k5kC-GQuz6I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/k5kC-GQuz6I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/k5kC-GQuz6I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "NoCode StartUp",
+      "tags": [
+        "curso IA",
+        "formação IA",
+        "formação nocode",
+        "formação em inteligência artificial",
+        "curso inteligencia artificial",
+        "curso n8n",
+        "formação n8n",
+        "nocode startup",
+        "criar aplicativos IA",
+        "automações IA",
+        "como usar IA"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Faça um Aplicativo com IA em Minutos",
+        "description": "Hoje qualquer pessoa consegue criar um aplicativo com IA sem saber programar e sem gastar nada.\n\nUsamos o Lovable para gerar um app que analisa uma foto da refeição e calcula calorias, proteínas, carboidratos e muito mais — tudo com um único prompt.\n\nE se você quer aprender a criar apps e projetos com IA sem código, inscreva-se no nosso canal para mais tutoriais rápidos como esse."
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT34S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1525",
+      "likeCount": "63",
+      "favoriteCount": "0",
+      "commentCount": "17"
+    }
+  }
+}

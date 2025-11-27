@@ -1,0 +1,62 @@
+{
+  "cached_at": 1764285738.928998,
+  "cache_type": "video_details",
+  "key": "VDQeDOVUixA",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "c7AufmHRMgykqAWJaEDJKI3qTFI",
+    "id": "VDQeDOVUixA",
+    "snippet": {
+      "publishedAt": "2025-11-26T11:38:28Z",
+      "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+      "title": "How to use Flux2 for free ?",
+      "description": "Flux.2 Free usage #ai #chatgpt #coding #programming #generativeai #llm #computerscience #computer #engineering #modelcontextprotocol",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VDQeDOVUixA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VDQeDOVUixA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VDQeDOVUixA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VDQeDOVUixA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Data Science in your pocket",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-IN",
+      "localized": {
+        "title": "How to use Flux2 for free ?",
+        "description": "Flux.2 Free usage #ai #chatgpt #coding #programming #generativeai #llm #computerscience #computer #engineering #modelcontextprotocol"
+      },
+      "defaultAudioLanguage": "en-IN"
+    },
+    "contentDetails": {
+      "duration": "PT7M13S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "332",
+      "likeCount": "10",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

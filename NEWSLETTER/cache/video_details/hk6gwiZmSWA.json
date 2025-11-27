@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285747.443648,
+  "cache_type": "video_details",
+  "key": "hk6gwiZmSWA",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "k0HvVu9dN8KPwRkXxB5sYnH7aFE",
+    "id": "hk6gwiZmSWA",
+    "snippet": {
+      "publishedAt": "2025-11-25T01:39:39Z",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "Nano Banana Pro: Hands-on with the World’s Most Powerful Image Model",
+      "description": "Introducing Nano Banana Pro, a powerful model built on Gemini 3 Pro, designed to enhance text rendering, infographics, and structured content generation. Tune in to learn about Nano Banana Pro’s advanced visual reasoning and multi-turn generation capabilities, and how this next-gen tool enables complex image edits and real-world applications. In this episode, we discuss how user feedback and continuous benchmarking drive model improvements, ensuring a superior experience for developers.\n\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nChapters:\n00:00 - Introducing Nano Banana Pro\n02:00 - Enhanced world understanding\n04:59 - Advanced text rendering\n05:49 - Gemini 3 Pro's influence\n09:30 - Multi-turn & infographics\n14:04 - Text rendering comparison\n16:26 - Multilingual text support\n18:22 - Infographics for learning\n24:00 - Multi-image input\n26:38 - Resolution & fidelity\n30:07 - Advanced editing & style\n32:09 - Practical use cases\n35:26 - Future outlook & thanks\n\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Abhishek Sinha, Robin Strudel, Yilin Gao, Sherry Ben\nProducts Mentioned:  Google AI, Gemini, Nano Banana",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hk6gwiZmSWA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hk6gwiZmSWA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hk6gwiZmSWA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hk6gwiZmSWA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hk6gwiZmSWA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google for Developers",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: AI DevRel (fka Core ML);",
+        "Purpose: Learn;",
+        "Video Type:Podcast;",
+        "ct: AIG;;",
+        "gds:Yes;"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Nano Banana Pro: Hands-on with the World’s Most Powerful Image Model",
+        "description": "Introducing Nano Banana Pro, a powerful model built on Gemini 3 Pro, designed to enhance text rendering, infographics, and structured content generation. Tune in to learn about Nano Banana Pro’s advanced visual reasoning and multi-turn generation capabilities, and how this next-gen tool enables complex image edits and real-world applications. In this episode, we discuss how user feedback and continuous benchmarking drive model improvements, ensuring a superior experience for developers.\n\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nChapters:\n00:00 - Introducing Nano Banana Pro\n02:00 - Enhanced world understanding\n04:59 - Advanced text rendering\n05:49 - Gemini 3 Pro's influence\n09:30 - Multi-turn & infographics\n14:04 - Text rendering comparison\n16:26 - Multilingual text support\n18:22 - Infographics for learning\n24:00 - Multi-image input\n26:38 - Resolution & fidelity\n30:07 - Advanced editing & style\n32:09 - Practical use cases\n35:26 - Future outlook & thanks\n\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Abhishek Sinha, Robin Strudel, Yilin Gao, Sherry Ben\nProducts Mentioned:  Google AI, Gemini, Nano Banana"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT36M25S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "9517",
+      "likeCount": "243",
+      "favoriteCount": "0",
+      "commentCount": "31"
+    }
+  }
+}

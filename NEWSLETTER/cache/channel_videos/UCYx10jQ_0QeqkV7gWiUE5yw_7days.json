@@ -1,0 +1,211 @@
+{
+  "cached_at": 1764285761.809889,
+  "cache_type": "channel_videos",
+  "key": "UCYx10jQ_0QeqkV7gWiUE5yw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aDZVvJ2huHJGT32pdjrMYND9YO4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kI3QIOA1h9s"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T14:01:29Z",
+        "channelId": "UCYx10jQ_0QeqkV7gWiUE5yw",
+        "title": "Criei uma Atendente de IA que Vende Sozinha (Do Pedido ao Pix)",
+        "description": "Conheça a Ana, a agente de IA que faz tudo sozinha: atende, monta carrinho, consulta banco de dados, gera link de pagamento ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kI3QIOA1h9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kI3QIOA1h9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kI3QIOA1h9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NoCode StartUp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T14:01:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IYhg0ESfIjhavyCd7pA8ZIKE3IU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EbTyzPccfjw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T18:32:47Z",
+        "channelId": "UCYx10jQ_0QeqkV7gWiUE5yw",
+        "title": "4 Erros que Travam Seus Prompts — e Como Corrigir Agora",
+        "description": "Quer respostas melhores da IA? ✨ Descubra 4 dicas práticas para melhorar seus prompts: contexto, modelos, variedade e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EbTyzPccfjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EbTyzPccfjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EbTyzPccfjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NoCode StartUp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T18:32:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vE8V9triSUVQeElgFU0JUJUscHE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aU8W-MhbMu8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T18:45:52Z",
+        "channelId": "UCYx10jQ_0QeqkV7gWiUE5yw",
+        "title": "Se você quer criar Apps Avançados com Vibe Coding siga essas 3 dicas",
+        "description": "Quer evoluir dos projetos básicos para criar apps avançados, escaláveis e realmente profissionais usando ferramentas Vibe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aU8W-MhbMu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aU8W-MhbMu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aU8W-MhbMu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NoCode StartUp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T18:45:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NEgNPvwacjZEqQGQGeSSWVNFTBk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FCsnGueeuKM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T21:42:57Z",
+        "channelId": "UCYx10jQ_0QeqkV7gWiUE5yw",
+        "title": "Dá pra usar a IA para ficar rico sem trabalhar?",
+        "description": "IA para ficar rico sem trabalhar? Será que essa história realmente é verdadeira? Vem descobrir nesse vídeo! Se você quer ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FCsnGueeuKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FCsnGueeuKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FCsnGueeuKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NoCode StartUp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T21:42:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3Y0WXWVwBZJXxd54K9eSk_Odf0s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hus1M6ru4xk"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T14:01:22Z",
+        "channelId": "UCYx10jQ_0QeqkV7gWiUE5yw",
+        "title": "3 Maneiras Práticas de Usar o N8n Para Automatizar Tudo",
+        "description": "Descubra 3 maneiras práticas de usar o N8n para automatizar tarefas, integrar ferramentas e enviar mensagens automáticas em ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hus1M6ru4xk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hus1M6ru4xk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hus1M6ru4xk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NoCode StartUp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T14:01:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xLXmCMoTrVwfW0IR-SPGxnVcdlk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k5kC-GQuz6I"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T14:01:30Z",
+        "channelId": "UCYx10jQ_0QeqkV7gWiUE5yw",
+        "title": "Faça um Aplicativo com IA em Minutos",
+        "description": "Hoje qualquer pessoa consegue criar um aplicativo com IA sem saber programar e sem gastar nada. Usamos o Lovable para ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k5kC-GQuz6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k5kC-GQuz6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k5kC-GQuz6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NoCode StartUp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T14:01:30Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "cached_at": 1764285753.322639,
+  "cache_type": "channel_info",
+  "key": "UC3M_z-XMGTFMBbCjVLPKkUA",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "-U9PxCejV2yXKw3yb4kfh3CN340",
+    "id": "UC3M_z-XMGTFMBbCjVLPKkUA",
+    "snippet": {
+      "title": "Jonathan da Cruz",
+      "description": "Bem-vindo ao meu canal! 🚀\n\nSou Jonathan da Cruz, técnico em informática e bacharel em sistemas de informação. Minha paixão é aprender, criar e compartilhar conhecimento sobre tecnologia e programação.\n\nSei que o caminho do aprendizado nem sempre é fácil. Venho de uma cidade pequena, mas aprendi que, com a internet, não existem fronteiras — tudo pode ser alcançado com dedicação e a orientação certa.\n\nAqui, meu objetivo é ajudar você a superar desafios e transformar obstáculos em oportunidades. Vamos juntos explorar o universo da tecnologia e construir o futuro que desejamos!\n\n🔔 Inscreva-se e faça parte dessa jornada!\n",
+      "customUrl": "@jonathandacruz",
+      "publishedAt": "2014-05-01T16:21:46Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/9jwzLZ-SkTidW7oRENodJZLSfcHrKcbsJFUN80a5wbF7hoQ38Lyw4rJjmRsGqFbXLL0C9jPr=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/9jwzLZ-SkTidW7oRENodJZLSfcHrKcbsJFUN80a5wbF7hoQ38Lyw4rJjmRsGqFbXLL0C9jPr=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/9jwzLZ-SkTidW7oRENodJZLSfcHrKcbsJFUN80a5wbF7hoQ38Lyw4rJjmRsGqFbXLL0C9jPr=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "pt",
+      "localized": {
+        "title": "Jonathan da Cruz",
+        "description": "Bem-vindo ao meu canal! 🚀\n\nSou Jonathan da Cruz, técnico em informática e bacharel em sistemas de informação. Minha paixão é aprender, criar e compartilhar conhecimento sobre tecnologia e programação.\n\nSei que o caminho do aprendizado nem sempre é fácil. Venho de uma cidade pequena, mas aprendi que, com a internet, não existem fronteiras — tudo pode ser alcançado com dedicação e a orientação certa.\n\nAqui, meu objetivo é ajudar você a superar desafios e transformar obstáculos em oportunidades. Vamos juntos explorar o universo da tecnologia e construir o futuro que desejamos!\n\n🔔 Inscreva-se e faça parte dessa jornada!\n"
+      },
+      "country": "BR"
+    },
+    "statistics": {
+      "viewCount": "55811",
+      "subscriberCount": "1780",
+      "hiddenSubscriberCount": false,
+      "videoCount": "60"
+    }
+  }
+}

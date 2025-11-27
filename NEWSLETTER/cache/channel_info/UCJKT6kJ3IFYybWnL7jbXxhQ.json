@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285774.3329039,
+  "cache_type": "channel_info",
+  "key": "UCJKT6kJ3IFYybWnL7jbXxhQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "EWlHwNUc3QbgUIg41ozzuDgnspw",
+    "id": "UCJKT6kJ3IFYybWnL7jbXxhQ",
+    "snippet": {
+      "title": "Weaviate vector database",
+      "description": "This channel is about all topics around vector search, and about the open-source vector database Weaviate. \n",
+      "customUrl": "@weaviate",
+      "publishedAt": "2018-09-17T19:40:07Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/mJRcoQYNb1mzu6CHg89drxBHNi6xt6n-BFl-_p3QNYaK83Nijnpgef73QxSYpKXOdJXoQo55HqQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/mJRcoQYNb1mzu6CHg89drxBHNi6xt6n-BFl-_p3QNYaK83Nijnpgef73QxSYpKXOdJXoQo55HqQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/mJRcoQYNb1mzu6CHg89drxBHNi6xt6n-BFl-_p3QNYaK83Nijnpgef73QxSYpKXOdJXoQo55HqQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Weaviate vector database",
+        "description": "This channel is about all topics around vector search, and about the open-source vector database Weaviate. \n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "689198",
+      "subscriberCount": "12800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "327"
+    }
+  }
+}

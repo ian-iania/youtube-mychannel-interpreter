@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285742.256014,
+  "cache_type": "channel_info",
+  "key": "UCPix8N6PMRI4KzgyjuZeF0g",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "SLr9xe9LrIY-eFmy39yLSLuIwJA",
+    "id": "UCPix8N6PMRI4KzgyjuZeF0g",
+    "snippet": {
+      "title": "Fahd Mirza",
+      "description": "Learn AI, Cloud, DevOps and Databases. Become a Better AI Cloud Engineer.",
+      "customUrl": "@fahdmirza",
+      "publishedAt": "2020-08-07T07:12:15.845802Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/J3-Aidj_-1f90ZU53gXJOE06A6jXBp41FJX16pLEyY1lApFkSWIOilI--QVDoVZGIcHDFfJcVw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/J3-Aidj_-1f90ZU53gXJOE06A6jXBp41FJX16pLEyY1lApFkSWIOilI--QVDoVZGIcHDFfJcVw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/J3-Aidj_-1f90ZU53gXJOE06A6jXBp41FJX16pLEyY1lApFkSWIOilI--QVDoVZGIcHDFfJcVw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Fahd Mirza",
+        "description": "Learn AI, Cloud, DevOps and Databases. Become a Better AI Cloud Engineer."
+      },
+      "country": "AU"
+    },
+    "statistics": {
+      "viewCount": "9633244",
+      "subscriberCount": "49700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "4906"
+    }
+  }
+}

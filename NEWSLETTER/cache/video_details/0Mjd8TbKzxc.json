@@ -1,0 +1,75 @@
+{
+  "cached_at": 1764285731.976518,
+  "cache_type": "video_details",
+  "key": "0Mjd8TbKzxc",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "lxmEBlQH1A2IITwIi0kMKiysspg",
+    "id": "0Mjd8TbKzxc",
+    "snippet": {
+      "publishedAt": "2025-11-23T09:15:00Z",
+      "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+      "title": "Gemini CLI 6.0: Google JUST INTEGRATED Gemini-3 into Gemini CLI & IT'S INSANE!",
+      "description": "Visit Augment Code: https://www.augmentcode.com/\n\nIn this video, I'll be telling you about the new Gemini 3 integration in Gemini CLI and how you can access it through the waitlist or API. I also cover the massive UI overhaul, new configuration settings, and test the model against various coding benchmarks to see where it shines and where it fails due to model fallbacks.\n\n--\nKey Takeaways:\n\n🚀 Gemini 3 is now integrated into Gemini CLI via a fast-moving waitlist or instant API access.\n🖥️ The CLI interface has been overhauled with sticky headers, mouse-based navigation, and anchored prompts.\n⚙️ You need to enable preview features in settings to select Gemini 3 Pro via the slash models command.\n⚡ Google is using their own TPU chips for inference, resulting in incredibly fast speeds and low costs.\n✅ The model excels at creating Expo apps, Go-based calculators, and editing Godot games.\n📉 Complex tasks like Svelte, Nuxt, and Tauri apps struggle due to automatic fallback to Gemini 2.5.\n📊 You can verify which model was actually used for a task by running the Slash Stats command.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0Mjd8TbKzxc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0Mjd8TbKzxc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0Mjd8TbKzxc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0Mjd8TbKzxc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0Mjd8TbKzxc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AICodeKing",
+      "tags": [
+        "gemini cli",
+        "gemini 3 pro",
+        "google gemini update",
+        "ai coding assistant",
+        "gemini cli new gemini 3 upgrade",
+        "gemini cli new gemini 3"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Gemini CLI 6.0: Google JUST INTEGRATED Gemini-3 into Gemini CLI & IT'S INSANE!",
+        "description": "Visit Augment Code: https://www.augmentcode.com/\n\nIn this video, I'll be telling you about the new Gemini 3 integration in Gemini CLI and how you can access it through the waitlist or API. I also cover the massive UI overhaul, new configuration settings, and test the model against various coding benchmarks to see where it shines and where it fails due to model fallbacks.\n\n--\nKey Takeaways:\n\n🚀 Gemini 3 is now integrated into Gemini CLI via a fast-moving waitlist or instant API access.\n🖥️ The CLI interface has been overhauled with sticky headers, mouse-based navigation, and anchored prompts.\n⚙️ You need to enable preview features in settings to select Gemini 3 Pro via the slash models command.\n⚡ Google is using their own TPU chips for inference, resulting in incredibly fast speeds and low costs.\n✅ The model excels at creating Expo apps, Go-based calculators, and editing Godot games.\n📉 Complex tasks like Svelte, Nuxt, and Tauri apps struggle due to automatic fallback to Gemini 2.5.\n📊 You can verify which model was actually used for a task by running the Slash Stats command."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT9M22S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "23440",
+      "likeCount": "564",
+      "favoriteCount": "0",
+      "commentCount": "75"
+    }
+  }
+}

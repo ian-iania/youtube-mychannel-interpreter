@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285758.414678,
+  "cache_type": "channel_info",
+  "key": "UCawZsQWqfGSbCI5yjkdVkTA",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "eOxj0L_QOqyW85IOOhbGPEJSKog",
+    "id": "UCawZsQWqfGSbCI5yjkdVkTA",
+    "snippet": {
+      "title": "Matthew Berman",
+      "description": "Artificial Intelligence (AI), Open Source, Generative Art, AI Art, Futurism, ChatGPT, Large Language Models (LLM), Machine Learning, Technology, Coding, Tutorials, AI News, and more\n\n\n",
+      "customUrl": "@matthew_berman",
+      "publishedAt": "2008-01-27T09:20:24Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/FLJEnb2WnG3g0GV9GbGbdvkMKqInA0WcEzQkL-haJ0mBSDHl5wrUrmQ2w1_wyeoonmKl5DWvVwk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/FLJEnb2WnG3g0GV9GbGbdvkMKqInA0WcEzQkL-haJ0mBSDHl5wrUrmQ2w1_wyeoonmKl5DWvVwk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/FLJEnb2WnG3g0GV9GbGbdvkMKqInA0WcEzQkL-haJ0mBSDHl5wrUrmQ2w1_wyeoonmKl5DWvVwk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Matthew Berman",
+        "description": "Artificial Intelligence (AI), Open Source, Generative Art, AI Art, Futurism, ChatGPT, Large Language Models (LLM), Machine Learning, Technology, Coding, Tutorials, AI News, and more\n\n\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "66514545",
+      "subscriberCount": "529000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "785"
+    }
+  }
+}

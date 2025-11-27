@@ -1,0 +1,279 @@
+{
+  "cached_at": 1764285749.946348,
+  "cache_type": "channel_videos",
+  "key": "UCKWaEZ-_VweaEx1j62do_vQ_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kUunEIysBXxHUp2h-OK5onzwIn4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v80fkv6FCIg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T17:01:45Z",
+        "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+        "title": "Claude 4.5 Opus Efficiency",
+        "description": "Anthropic's Claude 4.5 Opus uses 50% fewer tokens than its predecessor—making advanced reasoning more affordable.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v80fkv6FCIg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v80fkv6FCIg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v80fkv6FCIg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IBM Technology",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T17:01:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yqz6gfkIlzwdTmP6NXbJyg1D4eM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x1yRb5_PVro"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T11:01:55Z",
+        "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+        "title": "The dark web job market thrives, AI fraud rings rise and it’s holiday scam season.",
+        "description": "Explore the podcast → https://ibm.biz/BdbJiF Learn more about the X-Force Malware Threat Research GitHub ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x1yRb5_PVro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x1yRb5_PVro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x1yRb5_PVro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IBM Technology",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T11:01:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3XbfNRhM1iSDupguPJvyqCrZSFU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FqF4b7Uemfc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T12:00:36Z",
+        "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+        "title": "Agentic AI &amp; LLMs Power Real‑Time Insights at Wimbledon &amp; US Open",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FqF4b7Uemfc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FqF4b7Uemfc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FqF4b7Uemfc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IBM Technology",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T12:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Dx3n6kYrq6yGi8Re2hV_UlBwhLU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZeZozy3lsJg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T12:01:18Z",
+        "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+        "title": "Is this the YEAR or DECADE of AI Agents &amp; Agentic AI?",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZeZozy3lsJg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZeZozy3lsJg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZeZozy3lsJg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IBM Technology",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T12:01:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rQXDfS8AaVCdXA743fTv5iVRvyY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sq8yK3TIbRQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T17:01:26Z",
+        "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+        "title": "Using Gemini 3 to build a workout plan",
+        "description": "How Gemini 3 built a personalized workout tracker in 2 minutes—complete with dashboards, custom visuals and one hilarious AI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sq8yK3TIbRQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sq8yK3TIbRQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sq8yK3TIbRQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IBM Technology",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T17:01:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yPGLV9CafrC5tWckmzsfM9wpkoU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_QfxGZGITGw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T12:01:11Z",
+        "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+        "title": "Open Source vs Closed AI: LLMs, Agents &amp; the AI Stack Explained",
+        "description": "Ready to become a certified z/OS v3.x Administrator? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_QfxGZGITGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_QfxGZGITGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_QfxGZGITGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IBM Technology",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T12:01:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xCmVUi28SRQTwb-iy99kxVQ-52c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LO0xg43ZGNM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T17:00:39Z",
+        "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+        "title": "Is Gemini 3 hallucinating?",
+        "description": "Google just launched Gemini 3—but experts say it's still cannot admit when it's wrong. Why are these new models still ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LO0xg43ZGNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LO0xg43ZGNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LO0xg43ZGNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IBM Technology",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T17:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cJYe1ri_FaT1yFQDoBxjwxlhYJQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7T_TjH6P8CE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T11:00:25Z",
+        "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+        "title": "Google’s Gemini 3: AI agents, reasoning and search mode",
+        "description": "Explore the podcast → https://ibm.biz/BdbhEh Learn more about IBM's CUGA agent framework → https://ibm.biz/BdbhE9 Does ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7T_TjH6P8CE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7T_TjH6P8CE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7T_TjH6P8CE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IBM Technology",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T11:00:25Z"
+      }
+    }
+  ]
+}

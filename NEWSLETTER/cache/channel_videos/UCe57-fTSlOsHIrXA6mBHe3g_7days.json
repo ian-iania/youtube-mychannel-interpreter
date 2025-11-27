@@ -1,0 +1,517 @@
+{
+  "cached_at": 1764285750.915426,
+  "cache_type": "channel_videos",
+  "key": "UCe57-fTSlOsHIrXA6mBHe3g_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NndQpzlJQSSnLNGEWqFNUq7_8T0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qYnP7fZJlo8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T09:00:54Z",
+        "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+        "title": "Pesquisa Avançada com NotebookLM: O Segredo que Poucos Conhecem",
+        "description": "Pesquisa Avançada com NotebookLM: O Segredo que Poucos Conhecem (Quer receber o link do grupo que tem todos os ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qYnP7fZJlo8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qYnP7fZJlo8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qYnP7fZJlo8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligencia Artificial para advogados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T09:00:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sw3Rik0dhfQiGdac0i2hJJ_wuMA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7Pb0A00Z_NU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T00:11:12Z",
+        "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+        "title": "A nova função de busca Profunda no NotebookLM",
+        "description": "A nova função de busca Profunda no NotebookLM (Quer receber o link do grupo que tem todos os materiais gratuitos? Siga a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Pb0A00Z_NU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Pb0A00Z_NU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Pb0A00Z_NU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligencia Artificial para advogados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T00:11:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k2Cb-GTEPHz1fK1j6OfliuB1mFM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mlESXzpoJEs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T09:00:53Z",
+        "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+        "title": "📢 NotebookLM: Integração com o Google Drive",
+        "description": "NotebookLM: Integração com o Google Drive (Quer receber o link do grupo que tem todos os materiais gratuitos? Siga a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mlESXzpoJEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mlESXzpoJEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mlESXzpoJEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligencia Artificial para advogados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T09:00:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cGlS8V7EyhP05XJ2qDyEq-dAsQQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bfkurYqu5vo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T22:26:36Z",
+        "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+        "title": "NotebookLM vs JusIA: Qual busca avançada escolher?",
+        "description": "NotebookLM vs JusIA: Qual busca avançada escolher? (Quer receber o link do grupo que tem todos os materiais gratuitos?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bfkurYqu5vo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bfkurYqu5vo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bfkurYqu5vo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligencia Artificial para advogados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T22:26:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RZzsKrtHCutAcDbBc9ZzHUoVXOg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-y8HflU3-go"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T15:01:04Z",
+        "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+        "title": "NotebookLM: A Ferramenta que Muda o Jogo na Busca de Jurisprudências",
+        "description": "NotebookLM: A Ferramenta que Muda o Jogo na Busca de Jurisprudências (Quer receber o link do grupo que tem todos os ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-y8HflU3-go/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-y8HflU3-go/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-y8HflU3-go/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligencia Artificial para advogados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T15:01:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0RkxcxPSPq5qeLAQmEC0bI1YnE8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "707na7SqjS0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T09:01:00Z",
+        "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+        "title": "NotebookLM vs Gemini: Qual é melhor?",
+        "description": "NotebookLM vs Gemini: Qual é melhor? (Quer receber o link do grupo que tem todos os materiais gratuitos? Siga a @juridico.agil ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/707na7SqjS0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/707na7SqjS0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/707na7SqjS0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligencia Artificial para advogados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T09:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Dk5E6UorzqTDBzZTwbX83-FM6HM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SdvQyKB-kDs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T23:43:21Z",
+        "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+        "title": "NotebookLM: Como uma IA transforma pesquisa em relatórios profissionais",
+        "description": "NotebookLM: Como uma IA transforma pesquisa em relatórios profissionais (Quer receber o link do grupo que tem todos os ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SdvQyKB-kDs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SdvQyKB-kDs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SdvQyKB-kDs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligencia Artificial para advogados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T23:43:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QQPpbQWCO_RU3t2um9XmKVbIEQk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IW5MOdvxnxo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T09:00:54Z",
+        "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+        "title": "Por que utilizar o NotebookLM no dia a dia?",
+        "description": "Por que utilizar o NotebookLM no dia a dia? (Quer receber o link do grupo que tem todos os materiais gratuitos? Siga a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IW5MOdvxnxo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IW5MOdvxnxo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IW5MOdvxnxo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligencia Artificial para advogados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T09:00:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Dgw3VoY_ayS5HfWvzSKoITMVjsU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_yUEAa-Pw_s"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T00:55:09Z",
+        "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+        "title": "Por que investir em IA agora?",
+        "description": "Por que investir em IA agora? (Quer receber o link do grupo que tem todos os materiais gratuitos? Siga a @juridico.agil e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_yUEAa-Pw_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_yUEAa-Pw_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_yUEAa-Pw_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligencia Artificial para advogados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T00:55:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hS9rKG0DAEMb4lYD0vHwbQBq0w0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TylLn2qfWVw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T16:01:00Z",
+        "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+        "title": "Dicas para o Uso Profissional de IA!",
+        "description": "Dicas para o Uso Profissional de IA! (Quer receber o link do grupo que tem todos os materiais gratuitos? Siga a @juridico.agil e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TylLn2qfWVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TylLn2qfWVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TylLn2qfWVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligencia Artificial para advogados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T16:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BkNTPeTW_mVyfrJeN7eg7uErnBw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "avY5LUpmXfU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T09:01:14Z",
+        "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+        "title": "Não cometa esses erros no uso de IA!",
+        "description": "Não cometa esses erros no uso de IA! (Quer receber o link do grupo que tem todos os materiais gratuitos? Siga a @juridico.agil e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/avY5LUpmXfU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/avY5LUpmXfU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/avY5LUpmXfU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligencia Artificial para advogados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T09:01:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tSggdf3CyW6F9KR50v1kjcmIyno",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dLf4PlR2ILc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T00:05:09Z",
+        "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+        "title": "NotebookLM: Nova função!",
+        "description": "NotebookLM: Nova função! (Quer receber o link do grupo que tem todos os materiais gratuitos? Siga a @juridico.agil e comente ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dLf4PlR2ILc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dLf4PlR2ILc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dLf4PlR2ILc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligencia Artificial para advogados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T00:05:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gVT2sWuT10H2SWswieNerDS_0a4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P1-s1e1mlF0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T16:00:51Z",
+        "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+        "title": "IA: A Importância da Escolha de Cérebros Adequados",
+        "description": "IA: A Importância da Escolha de Cérebros Adequados (Quer receber o link do grupo que tem todos os materiais gratuitos? Siga a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P1-s1e1mlF0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P1-s1e1mlF0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P1-s1e1mlF0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligencia Artificial para advogados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T16:00:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Abvlewr-MIsRwy_FdX2DlWznTN8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BpgZyX_aGu4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T13:01:00Z",
+        "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+        "title": "Buscas Fundamentadas com JusIA: Quando a IA Entende o Contexto do Seu Caso",
+        "description": "Buscas Fundamentadas com JusIA: Quando a IA Entende o Contexto do Seu Caso (Quer receber o link do grupo que tem todos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BpgZyX_aGu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BpgZyX_aGu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BpgZyX_aGu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligencia Artificial para advogados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T13:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wmdL032_1a9j-GooRtbjq_Z-5xw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "08xcUA4HsN8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T09:00:50Z",
+        "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+        "title": "Por que investir em treinamento com IA?",
+        "description": "Por que investir em treinamento com IA? (Quer receber o link do grupo que tem todos os materiais gratuitos? Siga a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/08xcUA4HsN8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/08xcUA4HsN8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/08xcUA4HsN8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligencia Artificial para advogados",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T09:00:50Z"
+      }
+    }
+  ]
+}

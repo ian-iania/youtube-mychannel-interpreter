@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285755.408044,
+  "cache_type": "video_details",
+  "key": "IVts6ztrkFg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "FUtKebQbkVSrQKahuCmWRnmDviE",
+    "id": "IVts6ztrkFg",
+    "snippet": {
+      "publishedAt": "2025-11-24T07:14:25Z",
+      "channelId": "UCC-lyoTfSrcJzA1ab3APAgw",
+      "title": "What are Deep Agents?",
+      "description": "Deep Agents is a term we coined to describe agents capable of handling complex, open-ended tasks over long time horizons. We identified four essential components that make this possible: a planning tool, access to a filesystem, subagents, and detailed prompts.\n\nWe built deepagents as a Python package that brings all of these pieces together. With the framework in place, all you need to provide are your custom tools and a tailored prompt. deepagents makes it easy to build your own Deep Agent from the ground up.\n\nDocs: https://docs.langchain.com/oss/python/deepagents/overview/?utm_medium=social&utm_source=youtube&utm_campaign=q4-2025_deep-agents-campaign_aw\n\nSlides: https://docs.google.com/presentation/d/10RyhGsScWhfqKk4PbYOljPiotoa8xcWNw9pAujJ0sAc/edit?usp=sharing",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IVts6ztrkFg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IVts6ztrkFg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IVts6ztrkFg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IVts6ztrkFg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IVts6ztrkFg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LangChain",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "What are Deep Agents?",
+        "description": "Deep Agents is a term we coined to describe agents capable of handling complex, open-ended tasks over long time horizons. We identified four essential components that make this possible: a planning tool, access to a filesystem, subagents, and detailed prompts.\n\nWe built deepagents as a Python package that brings all of these pieces together. With the framework in place, all you need to provide are your custom tools and a tailored prompt. deepagents makes it easy to build your own Deep Agent from the ground up.\n\nDocs: https://docs.langchain.com/oss/python/deepagents/overview/?utm_medium=social&utm_source=youtube&utm_campaign=q4-2025_deep-agents-campaign_aw\n\nSlides: https://docs.google.com/presentation/d/10RyhGsScWhfqKk4PbYOljPiotoa8xcWNw9pAujJ0sAc/edit?usp=sharing"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT7M43S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "8571",
+      "likeCount": "238",
+      "favoriteCount": "0",
+      "commentCount": "13"
+    }
+  }
+}

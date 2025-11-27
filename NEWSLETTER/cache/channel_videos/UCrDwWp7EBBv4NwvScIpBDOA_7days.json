@@ -1,0 +1,211 @@
+{
+  "cached_at": 1764285733.3113532,
+  "cache_type": "channel_videos",
+  "key": "UCrDwWp7EBBv4NwvScIpBDOA_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GmXPgiBOfmbyNbLYPfy2tkT5N98",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fOxC44g8vig"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T22:09:15Z",
+        "channelId": "UCrDwWp7EBBv4NwvScIpBDOA",
+        "title": "Claude Agent Skills Explained",
+        "description": "Agent Skills are organized folders that package expertise that Claude can automatically invoke when relevant to the task at hand.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fOxC44g8vig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fOxC44g8vig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fOxC44g8vig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Anthropic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T22:09:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jHXEN8tbZ645xZEt6lP-ZivgZwg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "56kq0VTkU4k"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T18:51:59Z",
+        "channelId": "UCrDwWp7EBBv4NwvScIpBDOA",
+        "title": "Introducing Claude Opus 4.5",
+        "description": "Claude Opus 4.5 sets a new standard for coding, agents, computer use, and enterprise workflows. It knows when to pause and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/56kq0VTkU4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/56kq0VTkU4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/56kq0VTkU4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Anthropic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T18:51:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WOCjjLiow4CLJNKMyawqjRISgHs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zrcCS9oHjtI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T18:52:06Z",
+        "channelId": "UCrDwWp7EBBv4NwvScIpBDOA",
+        "title": "Claude Code on desktop",
+        "description": "Today, we're introducing Claude Code in our desktop apps in research preview. You can now run multiple local and remote ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zrcCS9oHjtI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zrcCS9oHjtI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zrcCS9oHjtI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Anthropic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T18:52:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o57KIXP8IJd_dy4SPMTODAJDtp0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2MJDdzSXL74"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T18:51:55Z",
+        "channelId": "UCrDwWp7EBBv4NwvScIpBDOA",
+        "title": "Claude Opus 4.5 solves a puzzle game",
+        "description": "Watch Claude complete a puzzle game using new capabilities that enable Claude to take action in the real world—the tool search ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2MJDdzSXL74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2MJDdzSXL74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2MJDdzSXL74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Anthropic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T18:51:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i7dUM16Bvgs6amufCdGJzqV3cgA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LpGpwhORWr0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T18:52:03Z",
+        "channelId": "UCrDwWp7EBBv4NwvScIpBDOA",
+        "title": "Claude works with you on slides, spreadsheets, and contract redlines",
+        "description": "See Claude Opus 4.5 tackle real work tasks—building board decks, transforming spreadsheet data, redlining contracts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LpGpwhORWr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LpGpwhORWr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LpGpwhORWr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Anthropic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T18:52:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cXqwEr1NcseZLbYSTmVfeQO0WY8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lvMMZLYoDr4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T16:59:20Z",
+        "channelId": "UCrDwWp7EBBv4NwvScIpBDOA",
+        "title": "What is Al &quot;reward hacking&quot;—and why do we worry about it?",
+        "description": "We discuss our new paper, \"Natural emergent misalignment from reward hacking in production RL\". In this paper, we show for the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lvMMZLYoDr4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lvMMZLYoDr4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lvMMZLYoDr4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Anthropic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T16:59:20Z"
+      }
+    }
+  ]
+}

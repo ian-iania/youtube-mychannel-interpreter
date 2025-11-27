@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285751.038234,
+  "cache_type": "video_details",
+  "key": "dLf4PlR2ILc",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "-dIcw4oXwL2PC8Fb0lNFzpHTAiE",
+    "id": "dLf4PlR2ILc",
+    "snippet": {
+      "publishedAt": "2025-11-22T00:05:09Z",
+      "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+      "title": "NotebookLM: Nova função!",
+      "description": "🔍 NotebookLM: Nova função!\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nO NotebookLM liberou a busca profunda — e isso muda o jogo.\n\nA novidade não é exatamente revolucionária, mas é prática demais. Quando você vai adicionar fontes ao seu notebook, agora tem duas opções de busca:\n\n✅ Busca normal (a tradicional)\n✅ Busca profunda (a nova estrela)\n\nEssa funcionalidade chegou tanto na versão gratuita quanto na paga — ou seja, todo mundo tem acesso.\n\nPor que isso importa para você, advogado?\nPense em cenários reais:\n\n📋 Preparar um parecer com fundamentação sólida\n🔎 Pesquisar jurisprudência específica\n📚 Encontrar fontes relevantes sem perder tempo em resultados genéricos\n\nA busca profunda vai além da superfície. Ela não apenas encontra palavras-chave — ela compreende contexto, relevância e profundidade. É como ter um assistente de pesquisa que realmente entende o que você está procurando.\n\nE aí, já testou? Qual é o seu maior desafio na hora de pesquisar fontes para seus trabalhos? \n\nDeixa nos comentários — vamos conversar sobre como essas ferramentas estão transformando o dia a dia da advocacia. #shorts",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dLf4PlR2ILc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dLf4PlR2ILc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dLf4PlR2ILc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dLf4PlR2ILc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dLf4PlR2ILc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Inteligencia Artificial para advogados",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "NotebookLM: Nova função!",
+        "description": "🔍 NotebookLM: Nova função!\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nO NotebookLM liberou a busca profunda — e isso muda o jogo.\n\nA novidade não é exatamente revolucionária, mas é prática demais. Quando você vai adicionar fontes ao seu notebook, agora tem duas opções de busca:\n\n✅ Busca normal (a tradicional)\n✅ Busca profunda (a nova estrela)\n\nEssa funcionalidade chegou tanto na versão gratuita quanto na paga — ou seja, todo mundo tem acesso.\n\nPor que isso importa para você, advogado?\nPense em cenários reais:\n\n📋 Preparar um parecer com fundamentação sólida\n🔎 Pesquisar jurisprudência específica\n📚 Encontrar fontes relevantes sem perder tempo em resultados genéricos\n\nA busca profunda vai além da superfície. Ela não apenas encontra palavras-chave — ela compreende contexto, relevância e profundidade. É como ter um assistente de pesquisa que realmente entende o que você está procurando.\n\nE aí, já testou? Qual é o seu maior desafio na hora de pesquisar fontes para seus trabalhos? \n\nDeixa nos comentários — vamos conversar sobre como essas ferramentas estão transformando o dia a dia da advocacia. #shorts"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT1M5S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "575",
+      "likeCount": "20",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

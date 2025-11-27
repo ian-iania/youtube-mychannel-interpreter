@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285751.037971,
+  "cache_type": "video_details",
+  "key": "avY5LUpmXfU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "nt64HW58orme7aAmKhYD5PhT_74",
+    "id": "avY5LUpmXfU",
+    "snippet": {
+      "publishedAt": "2025-11-22T09:01:14Z",
+      "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+      "title": "Não cometa esses erros no uso de IA!",
+      "description": "🚨 Não cometa esses erros no uso de IA!\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nA inteligência artificial chegou na advocacia com tudo, mas muitos profissionais ainda acham que é só digitar uma pergunta e pronto — a resposta vem pronta pra usar. Errado.\n\nIdentificamos dois grandes vilões nessa história:\n\n1️⃣ A ilusão da facilidade: Quando você vê aquele chat respondendo rapidinho, parece mágica. Mas aí vem o problema: alucinações. A IA inventa jurisprudência, cita doutrina que não existe, e você sai por aí usando como se fosse ouro puro. Isso não é só impreciso — é perigoso pro seu cliente.\n\n2️⃣ O mito do \"trabalho muito personalizado\"\nMuitos advogados ainda dizem: \"Meu trabalho é muito específico, IA é só pra contestações em massa\". Aqui está o segundo erro. Na verdade, a IA é extremamente contextual. Quanto mais detalhes você alimenta o sistema, melhor ela entende seu caso. O impacto positivo vem justamente quando você sabe usar bem essa capacidade de processar nuances.\n\nA IA não é vilã nem salvadora — é uma ferramenta que exige estratégia. Assim como em qualquer mudança de gestão, você precisa:\n\n✅ Validar sempre — Nunca use uma citação jurisprudencial gerada por IA sem conferir na fonte original\n\n✅ Alimentar com contexto — Quanto mais detalhes você der sobre seu caso, melhor será o resultado\n\n✅ Treinar seu time — A implementação de IA não é só tecnologia, é mudança de mentalidade\n\n✅ Testar antes de escalar — Comece com tarefas menores, entenda como a ferramenta funciona no seu contexto\n\nQual é o seu maior medo ao usar IA na advocacia? Comente aqui! 👇 #shorts",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/avY5LUpmXfU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/avY5LUpmXfU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/avY5LUpmXfU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/avY5LUpmXfU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/avY5LUpmXfU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Inteligencia Artificial para advogados",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Não cometa esses erros no uso de IA!",
+        "description": "🚨 Não cometa esses erros no uso de IA!\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nA inteligência artificial chegou na advocacia com tudo, mas muitos profissionais ainda acham que é só digitar uma pergunta e pronto — a resposta vem pronta pra usar. Errado.\n\nIdentificamos dois grandes vilões nessa história:\n\n1️⃣ A ilusão da facilidade: Quando você vê aquele chat respondendo rapidinho, parece mágica. Mas aí vem o problema: alucinações. A IA inventa jurisprudência, cita doutrina que não existe, e você sai por aí usando como se fosse ouro puro. Isso não é só impreciso — é perigoso pro seu cliente.\n\n2️⃣ O mito do \"trabalho muito personalizado\"\nMuitos advogados ainda dizem: \"Meu trabalho é muito específico, IA é só pra contestações em massa\". Aqui está o segundo erro. Na verdade, a IA é extremamente contextual. Quanto mais detalhes você alimenta o sistema, melhor ela entende seu caso. O impacto positivo vem justamente quando você sabe usar bem essa capacidade de processar nuances.\n\nA IA não é vilã nem salvadora — é uma ferramenta que exige estratégia. Assim como em qualquer mudança de gestão, você precisa:\n\n✅ Validar sempre — Nunca use uma citação jurisprudencial gerada por IA sem conferir na fonte original\n\n✅ Alimentar com contexto — Quanto mais detalhes você der sobre seu caso, melhor será o resultado\n\n✅ Treinar seu time — A implementação de IA não é só tecnologia, é mudança de mentalidade\n\n✅ Testar antes de escalar — Comece com tarefas menores, entenda como a ferramenta funciona no seu contexto\n\nQual é o seu maior medo ao usar IA na advocacia? Comente aqui! 👇 #shorts"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT1M4S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "532",
+      "likeCount": "10",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

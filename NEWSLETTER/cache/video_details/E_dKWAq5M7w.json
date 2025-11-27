@@ -1,0 +1,86 @@
+{
+  "cached_at": 1764285756.323487,
+  "cache_type": "video_details",
+  "key": "E_dKWAq5M7w",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "CK2KFZ9N8N8lDlQf8h4ai6Jj0Js",
+    "id": "E_dKWAq5M7w",
+    "snippet": {
+      "publishedAt": "2025-11-21T12:00:35Z",
+      "channelId": "UCtevzRsHEKhs-RK8pAqwSyQ",
+      "title": "Forget Stripe: The Easiest Way to Add Payments",
+      "description": "How to Add Payments to Your SaaS with Claude Code\n\n📚 Access ALL video resources & get personalized help in my community: https://www.skool.com/agentic-labs-1244/about?ref=3fd61190e13d426dbf4f3b38adc7de69\n\n📺 Build a SaaS with Claude Code (Full Series): https://www.youtube.com/playlist?list=PL4HikwTaYE0F40LZ_fZ1RXoxLrJyceKCu\n💬 My AI voice-to-text software (Wispr Flow): https://wisprflow.ai/r?LEON114\n☕ Buy me a coffee: https://www.buymeacoffee.com/leonvanzyl\n💵 Donate using PayPal: https://www.paypal.com/ncp/payment/EKRQ8QSGV6CWW\n\nLearn how to add payment processing to your SaaS applications in this step-by-step tutorial. I'll show you how to integrate Polar payment gateway with Next.js and BetterAuth to build a complete credit-based payment system using Claude Code as your AI coding agent.\nThis payment integration tutorial covers setting up Polar as a Stripe alternative with global availability and automatic tax handling as merchant of record. You'll implement the BetterAuth Polar plugin, create products and pricing tiers, configure Inngest webhooks for automated payment processing, and deploy your production-ready payment system.\nPerfect for indie hackers and SaaS developers building real-world applications who need to add payment processing to their Next.js apps. This is part of my full-stack SaaS series demonstrating how to build production applications with Claude Code.\n\n⏰ TIMESTAMPS:\n00:00 Adding payment processing to SaaS\n00:42 Why use Polar over Stripe\n01:21 Polar Next.js integration overview\n01:32 BetterAuth Polar plugin setup\n02:07 Adding Polar documentation to project\n02:27 Claude Code implementation plan\n03:18 Setting up Polar account\n04:30 Creating products in Polar dashboard\n05:45 Configuring credit packages and pricing\n07:30 Adding Polar environment variables\n08:45 Testing development checkout flow\n11:00 Inngest webhook setup and configuration\n13:00 Creating Inngest payment functions\n15:30 Testing credit allocation system\n17:00 Deploying payment system to production\n19:00 Production Polar account setup\n21:00 Creating production products and webhooks\n25:30 Testing production payment flow\n26:53 Completing Polar account verification\n28:00 Using discount codes for testing\n28:41 Debugging Inngest function sync issues\n29:25 Final production payment test success\n\n#claudecode #polar #vibecoding",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E_dKWAq5M7w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E_dKWAq5M7w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E_dKWAq5M7w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/E_dKWAq5M7w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/E_dKWAq5M7w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Leon van Zyl",
+      "tags": [
+        "how to add polar payment gateway",
+        "polar payment integration tutorial",
+        "betterauth polar plugin",
+        "nextjs payment processing",
+        "saas payment integration",
+        "polar vs stripe",
+        "claude code saas tutorial",
+        "polar merchant of record",
+        "payment gateway for saas",
+        "nextjs polar integration",
+        "betterauth payment integration",
+        "how to integrate polar payments",
+        "polar payment setup",
+        "saas credit system tutorial",
+        "polar nextjs tutorial",
+        "inngest payment processing",
+        "polar checkout integration"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Forget Stripe: The Easiest Way to Add Payments",
+        "description": "How to Add Payments to Your SaaS with Claude Code\n\n📚 Access ALL video resources & get personalized help in my community: https://www.skool.com/agentic-labs-1244/about?ref=3fd61190e13d426dbf4f3b38adc7de69\n\n📺 Build a SaaS with Claude Code (Full Series): https://www.youtube.com/playlist?list=PL4HikwTaYE0F40LZ_fZ1RXoxLrJyceKCu\n💬 My AI voice-to-text software (Wispr Flow): https://wisprflow.ai/r?LEON114\n☕ Buy me a coffee: https://www.buymeacoffee.com/leonvanzyl\n💵 Donate using PayPal: https://www.paypal.com/ncp/payment/EKRQ8QSGV6CWW\n\nLearn how to add payment processing to your SaaS applications in this step-by-step tutorial. I'll show you how to integrate Polar payment gateway with Next.js and BetterAuth to build a complete credit-based payment system using Claude Code as your AI coding agent.\nThis payment integration tutorial covers setting up Polar as a Stripe alternative with global availability and automatic tax handling as merchant of record. You'll implement the BetterAuth Polar plugin, create products and pricing tiers, configure Inngest webhooks for automated payment processing, and deploy your production-ready payment system.\nPerfect for indie hackers and SaaS developers building real-world applications who need to add payment processing to their Next.js apps. This is part of my full-stack SaaS series demonstrating how to build production applications with Claude Code.\n\n⏰ TIMESTAMPS:\n00:00 Adding payment processing to SaaS\n00:42 Why use Polar over Stripe\n01:21 Polar Next.js integration overview\n01:32 BetterAuth Polar plugin setup\n02:07 Adding Polar documentation to project\n02:27 Claude Code implementation plan\n03:18 Setting up Polar account\n04:30 Creating products in Polar dashboard\n05:45 Configuring credit packages and pricing\n07:30 Adding Polar environment variables\n08:45 Testing development checkout flow\n11:00 Inngest webhook setup and configuration\n13:00 Creating Inngest payment functions\n15:30 Testing credit allocation system\n17:00 Deploying payment system to production\n19:00 Production Polar account setup\n21:00 Creating production products and webhooks\n25:30 Testing production payment flow\n26:53 Completing Polar account verification\n28:00 Using discount codes for testing\n28:41 Debugging Inngest function sync issues\n29:25 Final production payment test success\n\n#claudecode #polar #vibecoding"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT30M14S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2101",
+      "likeCount": "94",
+      "favoriteCount": "0",
+      "commentCount": "31"
+    }
+  }
+}

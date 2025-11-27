@@ -1,0 +1,143 @@
+{
+  "cached_at": 1764285756.752366,
+  "cache_type": "channel_videos",
+  "key": "UC1weYqfDgX0ALlNOSzcyblQ_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZanN7lVThMF9woO4WepTofUz6Gg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dudjYjY0Wc8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T14:45:06Z",
+        "channelId": "UC1weYqfDgX0ALlNOSzcyblQ",
+        "title": "Best Open Source Dev Tools 2025: UI Frameworks, SDKs &amp; Self-Host Platforms",
+        "description": "Best Open Source Dev Tools 2025: UI Frameworks, SDKs & Self-Host Platforms #OpenSource #DevTools #autogpttutorials Try ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dudjYjY0Wc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dudjYjY0Wc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dudjYjY0Wc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ManuAGI - AutoGPT Tutorials",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T14:45:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X24pOjd8N6-Lkihc2nZ_AageFPY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vLfOPlEBcjI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T13:45:10Z",
+        "channelId": "UC1weYqfDgX0ALlNOSzcyblQ",
+        "title": "Top 10 AI Agents for Autonomous Workflow Automation, RAG, &amp; Multi-Agent Systems (2025)",
+        "description": "Top 10 AI Agents for Autonomous Workflow Automation, RAG, & Multi-Agent Systems (2025) #aiprojects #aiagents #aitools Try ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vLfOPlEBcjI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vLfOPlEBcjI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vLfOPlEBcjI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ManuAGI - AutoGPT Tutorials",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T13:45:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4Nlf2pW-0_90GZo0ECFKRAsClNk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mfaMQzOkG4Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T14:45:11Z",
+        "channelId": "UC1weYqfDgX0ALlNOSzcyblQ",
+        "title": "Trending Open-Source GitHub Projects This Week: AI Agents, Automation &amp; Dev Tools #210",
+        "description": "Trending Open-Source GitHub Projects This Week: AI Agents, Automation & Dev Tools #210 #githubprojects #aiprojects ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mfaMQzOkG4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mfaMQzOkG4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mfaMQzOkG4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ManuAGI - AutoGPT Tutorials",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T14:45:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OJDKVQGAI25Y8CThQv4dKkhLKi8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KLODmlb-Ra8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T16:45:03Z",
+        "channelId": "UC1weYqfDgX0ALlNOSzcyblQ",
+        "title": "Trending GitHub Projects This Week: Open Source AI Tools, Dev Kits &amp; Cloud Platforms #209",
+        "description": "Trending GitHub Projects This Week: Open Source AI Tools, Dev Kits & Cloud Platforms #209 #githubprojects #aiprojects ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KLODmlb-Ra8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KLODmlb-Ra8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KLODmlb-Ra8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ManuAGI - AutoGPT Tutorials",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T16:45:03Z"
+      }
+    }
+  ]
+}

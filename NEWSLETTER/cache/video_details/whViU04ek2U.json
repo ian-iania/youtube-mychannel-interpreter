@@ -1,0 +1,86 @@
+{
+  "cached_at": 1764285760.4603388,
+  "cache_type": "video_details",
+  "key": "whViU04ek2U",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "IjawQ7mz61g6GJrqpZTXD-m2uhA",
+    "id": "whViU04ek2U",
+    "snippet": {
+      "publishedAt": "2025-11-22T02:46:21Z",
+      "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+      "title": "Blue Yonder Powers Responsible Supply Chains With Microsoft Foundry",
+      "description": "Learn about the integration of responsible AI principles throughout the development lifecycle, ensuring safety, compliance, trust, and security\n\nLearn more: https://msft.it/AIFoundry\n\n#MicrosoftAzure #MicrosoftFoundry",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/whViU04ek2U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/whViU04ek2U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/whViU04ek2U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/whViU04ek2U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Microsoft Azure",
+      "tags": [
+        "Blue Yonder",
+        "Microsoft Foundry",
+        "Azure AI",
+        "AI Content Safety",
+        "Generative AI",
+        "supply chain",
+        "responsible AI",
+        "AI agents",
+        "product development",
+        "supply chain optimization",
+        "AI Red Teaming",
+        "enterprise AI",
+        "compliance",
+        "security",
+        "trust",
+        "digital transformation",
+        "logistics",
+        "operations",
+        "AI at scale",
+        "Microsoft Azure",
+        "supply chain agents",
+        "deployment acceleration"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Blue Yonder Powers Responsible Supply Chains With Microsoft Foundry",
+        "description": "Learn about the integration of responsible AI principles throughout the development lifecycle, ensuring safety, compliance, trust, and security\n\nLearn more: https://msft.it/AIFoundry\n\n#MicrosoftAzure #MicrosoftFoundry"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M22S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "181",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

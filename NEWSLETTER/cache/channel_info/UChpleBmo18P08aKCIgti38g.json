@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285757.917981,
+  "cache_type": "channel_info",
+  "key": "UChpleBmo18P08aKCIgti38g",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "xcrzRQmENdwdX9Wg7_L87uFw9_A",
+    "id": "UChpleBmo18P08aKCIgti38g",
+    "snippet": {
+      "title": "Matt Wolfe",
+      "description": "Breaking down the latest AI news, what it means, and how to actually use what's available to you.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n🎙️ The Next Wave Podcast: https://youtube.com/@TheNextWavePod\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- For brand, sponsorship, and business inquiries: mattwolfe@smoothmedia.co\n",
+      "customUrl": "@mreflow",
+      "publishedAt": "2009-04-08T19:44:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Xfsv8L8S4Dt2PPpgaexoMluK9gkm4H77TY-Sae7DbY8qKSaGI0FOS_uzw65kxVtdQlYvc02bB6k=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Xfsv8L8S4Dt2PPpgaexoMluK9gkm4H77TY-Sae7DbY8qKSaGI0FOS_uzw65kxVtdQlYvc02bB6k=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Xfsv8L8S4Dt2PPpgaexoMluK9gkm4H77TY-Sae7DbY8qKSaGI0FOS_uzw65kxVtdQlYvc02bB6k=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Matt Wolfe",
+        "description": "Breaking down the latest AI news, what it means, and how to actually use what's available to you.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n🎙️ The Next Wave Podcast: https://youtube.com/@TheNextWavePod\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nLet’s work together!\n- For brand, sponsorship, and business inquiries: mattwolfe@smoothmedia.co\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "66089374",
+      "subscriberCount": "864000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "535"
+    }
+  }
+}

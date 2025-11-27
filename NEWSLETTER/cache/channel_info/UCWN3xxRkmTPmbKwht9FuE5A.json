@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285768.3590558,
+  "cache_type": "channel_info",
+  "key": "UCWN3xxRkmTPmbKwht9FuE5A",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "r_WvBztPy7Y4VVxoF4BQ-XasOcw",
+    "id": "UCWN3xxRkmTPmbKwht9FuE5A",
+    "snippet": {
+      "title": "Siraj Raval",
+      "description": "Hello World, it's Siraj!  I'm a technologist on a mission to spread data literacy. Artificial Intelligence, Mathematics, Science, Technology, I simplify these topics to help you understand how they work. Using this knowledge you can build wealth and live a happier, more meaningful life. I live to serve this community. We are the fastest growing AI community in the world! \n\nTwitter: http://www.twitter.com/sirajraval\nInstagram: https://instagram.com/sirajraval/\nFacebook: https://www.facebook.com/sirajology/\n\nSome Research -https://drive.google.com/file/d/0BwUv84lNDk72Q1gzaXgwR2U3U2NWVlZSOFk4amZIRmV1QXI0/view?usp=sharing&resourcekey=0-WgUkgIPZd-qCklnTUElNlg \n\nIn the event of my demise, you must finish what I've started here.",
+      "customUrl": "@sirajraval",
+      "publishedAt": "2016-01-02T00:54:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/CLpkSxaj2o4XVqRW48KJLhRCgj6uzbV0Uhlqyf1E0MXFsR4aP_xZYxOSvKaCmPnLINMIgBCWLQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/CLpkSxaj2o4XVqRW48KJLhRCgj6uzbV0Uhlqyf1E0MXFsR4aP_xZYxOSvKaCmPnLINMIgBCWLQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/CLpkSxaj2o4XVqRW48KJLhRCgj6uzbV0Uhlqyf1E0MXFsR4aP_xZYxOSvKaCmPnLINMIgBCWLQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Siraj Raval",
+        "description": "Hello World, it's Siraj!  I'm a technologist on a mission to spread data literacy. Artificial Intelligence, Mathematics, Science, Technology, I simplify these topics to help you understand how they work. Using this knowledge you can build wealth and live a happier, more meaningful life. I live to serve this community. We are the fastest growing AI community in the world! \n\nTwitter: http://www.twitter.com/sirajraval\nInstagram: https://instagram.com/sirajraval/\nFacebook: https://www.facebook.com/sirajology/\n\nSome Research -https://drive.google.com/file/d/0BwUv84lNDk72Q1gzaXgwR2U3U2NWVlZSOFk4amZIRmV1QXI0/view?usp=sharing&resourcekey=0-WgUkgIPZd-qCklnTUElNlg \n\nIn the event of my demise, you must finish what I've started here."
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "52278184",
+      "subscriberCount": "775000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "489"
+    }
+  }
+}

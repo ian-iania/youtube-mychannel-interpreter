@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285776.893507,
+  "cache_type": "video_details",
+  "key": "OWbKJNTuxXs",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "odiN2OHUKnEZAWiaJDpDyR9y3Ig",
+    "id": "OWbKJNTuxXs",
+    "snippet": {
+      "publishedAt": "2025-11-21T16:58:57Z",
+      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+      "title": "Presidência da COP30 divulga rascunhos e negociações precisam correr na reta final",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OWbKJNTuxXs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OWbKJNTuxXs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OWbKJNTuxXs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OWbKJNTuxXs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OWbKJNTuxXs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "exame",
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Presidência da COP30 divulga rascunhos e negociações precisam correr na reta final",
+        "description": ""
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT2M55S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "40736",
+      "likeCount": "253",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

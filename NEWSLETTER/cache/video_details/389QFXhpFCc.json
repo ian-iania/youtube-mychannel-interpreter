@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285757.3136508,
+  "cache_type": "video_details",
+  "key": "389QFXhpFCc",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "CQO_XRNLE85QdnMV2TixMcL3D8Q",
+    "id": "389QFXhpFCc",
+    "snippet": {
+      "publishedAt": "2025-11-25T22:15:00Z",
+      "channelId": "UCu9_-NMnyN1ltBBG1tKJzJw",
+      "title": "Nova IA FLUX 2: Melhor IA para criar Imagens (Superou Nano Banana PRO?)",
+      "description": "Flux.2 liberado! Nesse vídeo eu mostro os testes sobre as novidades que o pessoal da Black Forest Labs acabou de liberar. Será melhor que o Nano Banana PRO?\n\n✅ CURSO FILMMAKER COM IA: https://manualdeia.com.br/r/cursovideo/389QFXhpFCc \nAprenda as melhores técnicas para criar vídeos com Inteligência Artificial.\n🔽 O QUE VOCÊ GANHA NO CURSO 🔽\n⭐ Acesso ao GERADOR DE PROMPTS;\n⭐ Acesso ao BIBLIOTECA DE PROMPTS;\n⭐ Acesso ao FÓRUM EXCLUSIVO;\n⭐ Acesso a DESCONTOS EXCLUSIVOS nos Parceiros;\n⭐ Acesso aos E-BOOKS EXCLUSIVOS do Canal;\n⭐ Acesso a Comunidade com MEU SUPORTE;\n⭐ Conteúdo Atualizado;\n⭐ Conteúdo Adicional: Curso Midjourney + Novidades;\n⭐ Conteúdo Adicional: Curso Eleven Labs;\n⭐ Periodicamente atualizado com NOVOS CONTEÚDOS;\n⭐ Acesso a TODAS AS AULAS;\n\nAnuncio no X\nhttps://x.com/bfl_ml/status/1993345470945804563\n\nBlog Oficial\nhttps://bfl.ai/blog/flux-2\n\nModelo OpenSource\nhttps://huggingface.co/black-forest-labs/FLUX.2-dev\n\n#flux2 #aiimages #nanobananapro #manualdeia",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/389QFXhpFCc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/389QFXhpFCc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/389QFXhpFCc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/389QFXhpFCc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/389QFXhpFCc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Manual de Inteligência Artificial",
+      "tags": [
+        "flux",
+        "flux images",
+        "flux.2",
+        "flux 2",
+        "black forest labs",
+        "melhor ia para criar imagens",
+        "ia de imagens"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Nova IA FLUX 2: Melhor IA para criar Imagens (Superou Nano Banana PRO?)",
+        "description": "Flux.2 liberado! Nesse vídeo eu mostro os testes sobre as novidades que o pessoal da Black Forest Labs acabou de liberar. Será melhor que o Nano Banana PRO?\n\n✅ CURSO FILMMAKER COM IA: https://manualdeia.com.br/r/cursovideo/389QFXhpFCc \nAprenda as melhores técnicas para criar vídeos com Inteligência Artificial.\n🔽 O QUE VOCÊ GANHA NO CURSO 🔽\n⭐ Acesso ao GERADOR DE PROMPTS;\n⭐ Acesso ao BIBLIOTECA DE PROMPTS;\n⭐ Acesso ao FÓRUM EXCLUSIVO;\n⭐ Acesso a DESCONTOS EXCLUSIVOS nos Parceiros;\n⭐ Acesso aos E-BOOKS EXCLUSIVOS do Canal;\n⭐ Acesso a Comunidade com MEU SUPORTE;\n⭐ Conteúdo Atualizado;\n⭐ Conteúdo Adicional: Curso Midjourney + Novidades;\n⭐ Conteúdo Adicional: Curso Eleven Labs;\n⭐ Periodicamente atualizado com NOVOS CONTEÚDOS;\n⭐ Acesso a TODAS AS AULAS;\n\nAnuncio no X\nhttps://x.com/bfl_ml/status/1993345470945804563\n\nBlog Oficial\nhttps://bfl.ai/blog/flux-2\n\nModelo OpenSource\nhttps://huggingface.co/black-forest-labs/FLUX.2-dev\n\n#flux2 #aiimages #nanobananapro #manualdeia"
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT11M38S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2940",
+      "likeCount": "157",
+      "favoriteCount": "0",
+      "commentCount": "24"
+    }
+  }
+}

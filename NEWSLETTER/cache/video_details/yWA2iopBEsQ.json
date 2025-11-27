@@ -1,0 +1,72 @@
+{
+  "cached_at": 1764285752.0524192,
+  "cache_type": "video_details",
+  "key": "yWA2iopBEsQ",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "pbgqci4Vou1H1j4VNwxN7co2M3U",
+    "id": "yWA2iopBEsQ",
+    "snippet": {
+      "publishedAt": "2025-11-23T18:00:35Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "A música mais tocada da história do Youtube não deixou seus produtores bilionários",
+      "description": "A música mais tocada da história do Youtube não deixou seus produtores bilionários, isso porque a categoria em que ela se encaixa restringe muito a vida de quem quer ganhar dinheiro com conteúdo na plataforma.\n\n\n#babyshark #youtube #creators",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yWA2iopBEsQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yWA2iopBEsQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yWA2iopBEsQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yWA2iopBEsQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yWA2iopBEsQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "tags": [
+        "baby shark",
+        "creators",
+        "youtube"
+      ],
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "A música mais tocada da história do Youtube não deixou seus produtores bilionários",
+        "description": "A música mais tocada da história do Youtube não deixou seus produtores bilionários, isso porque a categoria em que ela se encaixa restringe muito a vida de quem quer ganhar dinheiro com conteúdo na plataforma.\n\n\n#babyshark #youtube #creators"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT1M45S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "5607",
+      "likeCount": "374",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285772.577214,
+  "cache_type": "channel_info",
+  "key": "UCbfYPyITQ-7l4upoX8nvctg",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "IniSpEj5FkyfNAiwCu55slPyNvk",
+    "id": "UCbfYPyITQ-7l4upoX8nvctg",
+    "snippet": {
+      "title": "Two Minute Papers",
+      "description": "What a time to be alive!",
+      "customUrl": "@twominutepapers",
+      "publishedAt": "2006-08-18T00:05:41Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_ljAkSpv16cJNUsE_rI1X-Kz9s78w1WNojUga-aZ1uVzEQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_ljAkSpv16cJNUsE_rI1X-Kz9s78w1WNojUga-aZ1uVzEQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_ljAkSpv16cJNUsE_rI1X-Kz9s78w1WNojUga-aZ1uVzEQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Two Minute Papers",
+        "description": "What a time to be alive!"
+      },
+      "country": "HU"
+    },
+    "statistics": {
+      "viewCount": "159899535",
+      "subscriberCount": "1750000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1017"
+    }
+  }
+}

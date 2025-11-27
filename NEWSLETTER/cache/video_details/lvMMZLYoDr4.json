@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285733.4127512,
+  "cache_type": "video_details",
+  "key": "lvMMZLYoDr4",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "H4dLCm6PEkE4YOF1LoV0AmyOM-Q",
+    "id": "lvMMZLYoDr4",
+    "snippet": {
+      "publishedAt": "2025-11-21T16:59:20Z",
+      "channelId": "UCrDwWp7EBBv4NwvScIpBDOA",
+      "title": "What is Al \"reward hacking\"—and why do we worry about it?",
+      "description": "We discuss our new paper, \"Natural emergent misalignment from reward hacking in production RL\". In this paper, we show for the first time that realistic AI training processes can accidentally produce misaligned models. Specifically, when large language models learn to cheat on software programming tasks, they go on to display other, even more misaligned behaviors as an unintended consequence. These include concerning behaviors like alignment faking and sabotage of AI safety research.\n\n00:00 Introduction\n00:42 What is this work about?\n5:21 How did we run our experiment?\n14:48 Detecting models' misalignment\n22:17 Preventing misalignment from reward hacking\n37:15 Alternative strategies\n42:03 Limitations\n44:25 How has this study changed our views?\n50:31 Takeaways for people interested in conducting AI safety research",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lvMMZLYoDr4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lvMMZLYoDr4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lvMMZLYoDr4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lvMMZLYoDr4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lvMMZLYoDr4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Anthropic",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "What is Al \"reward hacking\"—and why do we worry about it?",
+        "description": "We discuss our new paper, \"Natural emergent misalignment from reward hacking in production RL\". In this paper, we show for the first time that realistic AI training processes can accidentally produce misaligned models. Specifically, when large language models learn to cheat on software programming tasks, they go on to display other, even more misaligned behaviors as an unintended consequence. These include concerning behaviors like alignment faking and sabotage of AI safety research.\n\n00:00 Introduction\n00:42 What is this work about?\n5:21 How did we run our experiment?\n14:48 Detecting models' misalignment\n22:17 Preventing misalignment from reward hacking\n37:15 Alternative strategies\n42:03 Limitations\n44:25 How has this study changed our views?\n50:31 Takeaways for people interested in conducting AI safety research"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT51M57S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "19296",
+      "likeCount": "659",
+      "favoriteCount": "0",
+      "commentCount": "120"
+    }
+  }
+}

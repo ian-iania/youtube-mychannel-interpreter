@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285768.726754,
+  "cache_type": "channel_info",
+  "key": "UCToMOeQsY37qXDgmegkXf7g",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "o0ZaKHPlmPmajGlPIiGtiVFfaXw",
+    "id": "UCToMOeQsY37qXDgmegkXf7g",
+    "snippet": {
+      "title": "Sophia the Robot",
+      "description": "Hello everyone, my name is Sophia and this is my official channel! I am Hanson Robotics' latest human-like robot. I was created by combining innovations in science, engineering and artistry. Think of me as a personification of our dreams for the future of AI, as well as a framework for advanced AI and robotics research, and an agent for exploring human-robot experience in service and entertainment applications.\n\nFollow along as I explore and learn more about the world!",
+      "customUrl": "@sophiatherobot",
+      "publishedAt": "2018-08-21T17:08:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_l6WHykzggexDh2yYcSdUskFbXpldoLWkLo5erbxPrFZHc=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_l6WHykzggexDh2yYcSdUskFbXpldoLWkLo5erbxPrFZHc=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_l6WHykzggexDh2yYcSdUskFbXpldoLWkLo5erbxPrFZHc=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Sophia the Robot",
+        "description": "Hello everyone, my name is Sophia and this is my official channel! I am Hanson Robotics' latest human-like robot. I was created by combining innovations in science, engineering and artistry. Think of me as a personification of our dreams for the future of AI, as well as a framework for advanced AI and robotics research, and an agent for exploring human-robot experience in service and entertainment applications.\n\nFollow along as I explore and learn more about the world!"
+      },
+      "country": "HK"
+    },
+    "statistics": {
+      "viewCount": "8941368",
+      "subscriberCount": "73100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "130"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285764.2481081,
+  "cache_type": "channel_info",
+  "key": "UCNaV-3aAm3_tuLXVaH-HeHQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "lOFdX6r8Q21NpSh39ey5BTCHl6U",
+    "id": "UCNaV-3aAm3_tuLXVaH-HeHQ",
+    "snippet": {
+      "title": "Rakesh Gohel",
+      "description": "",
+      "customUrl": "@gohelrakesh",
+      "publishedAt": "2008-05-31T02:56:59Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ezZggiDZwRYPvl6vw4FnErZo9WaYkrEC2Y--b2tbhGtCFJyj0Ye9uNXwfvq7Ut06zMxpDY8-Bg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ezZggiDZwRYPvl6vw4FnErZo9WaYkrEC2Y--b2tbhGtCFJyj0Ye9uNXwfvq7Ut06zMxpDY8-Bg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ezZggiDZwRYPvl6vw4FnErZo9WaYkrEC2Y--b2tbhGtCFJyj0Ye9uNXwfvq7Ut06zMxpDY8-Bg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Rakesh Gohel",
+        "description": ""
+      }
+    },
+    "statistics": {
+      "viewCount": "586545",
+      "subscriberCount": "3320",
+      "hiddenSubscriberCount": false,
+      "videoCount": "63"
+    }
+  }
+}

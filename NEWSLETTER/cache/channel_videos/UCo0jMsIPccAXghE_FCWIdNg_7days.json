@@ -1,0 +1,653 @@
+{
+  "cached_at": 1764285751.916451,
+  "cache_type": "channel_videos",
+  "key": "UCo0jMsIPccAXghE_FCWIdNg_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w9_NM8tDvjonzhicDZZWRGW2ebI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9_xUsL9uFlo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T21:46:04Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "Roberto Campos Neto: As stablecoins como financiadoras da dívida americana",
+        "description": "Roberto Campos Neto, vice-chairman e head global de políticas públicas do Nubank, fala sobre a participação das stablecoins ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9_xUsL9uFlo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9_xUsL9uFlo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9_xUsL9uFlo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T21:46:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pR6Wsjn1uzT7YFY7i4PPydY1WXY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "91JaJbiHKN8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T21:00:07Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "Plaud: A ferramenta de IA que transforma reuniões e ligações em resumos e tarefas",
+        "description": "Ferramentas de IA como Tactiq, Supernormal, e até apps do Teams e Zoom já fazem atas e transcrições de reuniões ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/91JaJbiHKN8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/91JaJbiHKN8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/91JaJbiHKN8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T21:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8Ep8qtGbNE6laJEEUeqBcFaX-pY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gp59zaIikSQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T12:56:22Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "CSN: tira de um bolso, põe no outro",
+        "description": "O Essencial” é a newsletter diária do InvestNews com reportagens explicativas e análises relevantes sobre o mundo dos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gp59zaIikSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gp59zaIikSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gp59zaIikSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T12:56:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UNSj_MhLcsb2ZAcYtzQqwVmd8cQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rl2iuuR5KBk"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T21:14:33Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "Entenda o que tem influenciado a queda das principais criptomoedas do mercado",
+        "description": "Entenda o que tem influenciado a queda das principais criptomoedas do mercado e quais são os cenários futuros. #cripto ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rl2iuuR5KBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rl2iuuR5KBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rl2iuuR5KBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T21:14:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wvai_WMN2vCbQLqf8x5Gy_D-11k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m8Pv6alTPOc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T20:25:58Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "Do rádio ao streaming, como a família Marinho reinventa o grupo Globo para se manter no topo",
+        "description": "Em meio à queda da audiência da TV aberta e assinantes e ao avanço do streaming , o Grupo Globo passa por uma ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m8Pv6alTPOc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m8Pv6alTPOc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m8Pv6alTPOc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T20:25:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yD1y3DZ1rNvYtK7WmkjScN2ZLq4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qbaeAEQ0O6k"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T12:41:56Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "Como o BTG virou um dos maiores grupos empresariais do país",
+        "description": "O Essencial” é a newsletter diária do InvestNews com reportagens explicativas e análises relevantes sobre o mundo dos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qbaeAEQ0O6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qbaeAEQ0O6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qbaeAEQ0O6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T12:41:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pw7yJcd-BaEPLlJ_4Cd3rBB_0is",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VCSPuH3p-5c"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T23:19:25Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "A Queda do Banco do Brasil: Como o ROE Despencou de 21% para 8%",
+        "description": "O Banco do Brasil (BBAS3) viu seu lucro desabar e o ROE cair de 21% para 8% em um ano. A crise de confiança começou com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VCSPuH3p-5c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VCSPuH3p-5c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VCSPuH3p-5c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T23:19:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kV6_W2Yw69ZO7xcDOhFHdtlRHYo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qi4IuwOzFUM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T15:00:48Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "O futuro do dinheiro: Roberto Campos Neto fala sobre stablecoins, dólar e o Drex",
+        "description": "Neste episódio do videocast Perspectivas, Roberto Campos Neto, ex-presidente do Banco Central e hoje vice-chairman, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qi4IuwOzFUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qi4IuwOzFUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qi4IuwOzFUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T15:00:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0BqU-xApYBVDNjApHd3F8zee2Mk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cd6KNsWR4xA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T12:10:31Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "Carro novo: quanto você economiza pagando à vista",
+        "description": "O Essencial” é a newsletter diária do InvestNews com reportagens explicativas e análises relevantes sobre o mundo dos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cd6KNsWR4xA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cd6KNsWR4xA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cd6KNsWR4xA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T12:10:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O8ux8xrNLQdTyXfat7S6iNKAq5I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "isAawFJT5lM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T22:00:40Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "Alpargatas: como a dona da Havaianas se perdeu na estratégia (e como está reencontrando o passo)",
+        "description": "A Alpargatas, dona da icônica Havaianas, passou de uma das empresas mais antigas da B3 a objeto de desejo de grandes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/isAawFJT5lM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/isAawFJT5lM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/isAawFJT5lM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T22:00:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3NDpaz1nEcj6skjRCklsJB4YbMU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U-aVL65qqE0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T11:59:28Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "Por que ficou mais difícil achar promoções na Le Lis e na Dudalina",
+        "description": "O Essencial” é a newsletter diária do InvestNews com reportagens explicativas e análises relevantes sobre o mundo dos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U-aVL65qqE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U-aVL65qqE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U-aVL65qqE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T11:59:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uhDZK9iIhUaFCKTTBx1GbnlnF_Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZK4Z9GSK8JQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T21:00:34Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "A Mantiqueira e a JBS estão fazendo um investimento estratégico em ovos no mercado americano",
+        "description": "A Mantiqueira e a JBS estão fazendo um investimento estratégico em ovos no mercado americano. #ovos #proteína ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZK4Z9GSK8JQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZK4Z9GSK8JQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZK4Z9GSK8JQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T21:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jf12sxKX4IGWNs5vdst7UwWrvGQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yWA2iopBEsQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T18:00:35Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "A música mais tocada da história do Youtube não deixou seus produtores bilionários",
+        "description": "A música mais tocada da história do Youtube não deixou seus produtores bilionários, isso porque a categoria em que ela se ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yWA2iopBEsQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yWA2iopBEsQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yWA2iopBEsQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T18:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wYUYKHApCPmGD8nBhYUPw-AhhIs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OpSXhDgjd38"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T21:00:25Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "Além do ChatGPT: Por que o Claude, da Anthropic, é a IA que você precisa conhecer",
+        "description": "Enquanto o mercado foca em ChatGPT e Gemini, o Claude, da Anthropic, destaca-se por sua excelência em tarefas profissionais ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OpSXhDgjd38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OpSXhDgjd38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OpSXhDgjd38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T21:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B5PEztb7FENckI5QUtA6sZ9ZJ_E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WPE48AIjBgU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T20:00:35Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "Mototáxi: recomeça a briga em São Paulo",
+        "description": "A Uber e a 99 já avisaram que devem retomar o serviço de mototáxi em São Paulo e a Prefeitura, por sua vez, diz que vai tentar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WPE48AIjBgU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WPE48AIjBgU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WPE48AIjBgU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T20:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zY1QGqxoPgU4rzYf-6cwkd2KKX8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "inB3RzA303k"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T22:13:07Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "Gigantes estatais chinesas no controle da energia brasileira",
+        "description": "O setor elétrico brasileiro é o principal alvo dos investimentos chineses, atraindo US$ 1,43 bilhão só em 2024, um aumento de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/inB3RzA303k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/inB3RzA303k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/inB3RzA303k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T22:13:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QCx5BJ9QnSDjA85KiTQvuPY-pVo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EyKvvWlEmyM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T21:00:32Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "Duas gigantes do e-commerce, Americanas e Magalu, uniram forças para reconquistar terreno no mercado",
+        "description": "Duas gigantes do e-commerce uniram forças em um negócio vantajoso para todas as partes. #americanas #magalu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EyKvvWlEmyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EyKvvWlEmyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EyKvvWlEmyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T21:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kAGhW3MMewoouEhECHM7ZbzDz3A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xtdW0Xed_bA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T13:10:04Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "A energia solar cresceu demais. E agora?",
+        "description": "O Essencial” é a newsletter diária do InvestNews com reportagens explicativas e análises relevantes sobre o mundo dos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xtdW0Xed_bA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xtdW0Xed_bA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xtdW0Xed_bA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T13:10:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5xIGjD8h5vDQWfqu8UxTh23_8D8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G4KHkWBKitY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T21:00:31Z",
+        "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+        "title": "O Whatsapp está ganhando o mercado da Apple nos Estado Unidos.",
+        "description": "O Whatsapp está ganhando o mercado da Apple nos Estado Unidos. #whatsapp #apple #eua.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G4KHkWBKitY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G4KHkWBKitY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G4KHkWBKitY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "InvestNews BR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T21:00:31Z"
+      }
+    }
+  ]
+}

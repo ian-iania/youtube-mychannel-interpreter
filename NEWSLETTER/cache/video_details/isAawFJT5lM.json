@@ -1,0 +1,98 @@
+{
+  "cached_at": 1764285752.05199,
+  "cache_type": "video_details",
+  "key": "isAawFJT5lM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "fhLmtb9tfpJYY0l-7zl1CFRSp8A",
+    "id": "isAawFJT5lM",
+    "snippet": {
+      "publishedAt": "2025-11-24T22:00:40Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "Alpargatas: como a dona da Havaianas se perdeu na estratégia (e como está reencontrando o passo)",
+      "description": "A Alpargatas, dona da icônica Havaianas, passou de uma das empresas mais antigas da B3 a objeto de desejo de grandes grupos, como Camargo Corrêa, J&F e os controladores do Itaú. \n\nNo entanto, tropeços na expansão internacional e na diversificação de produtos levaram a uma crise de confiança. \n\nEntenda a trajetória da marca e o plano atual para colocar o chinelo de volta ao centro do negócio e recuperar seu valor.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/isAawFJT5lM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/isAawFJT5lM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/isAawFJT5lM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/isAawFJT5lM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/isAawFJT5lM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "tags": [
+        "Investnews",
+        "investimentos",
+        "economia",
+        "finanças",
+        "investnewsbr",
+        "mercado financeiro",
+        "bolsa de valores",
+        "notícias",
+        "jornalismo econômico",
+        "negócios",
+        "Alpargatas",
+        "ALPA4",
+        "Havaianas",
+        "crise",
+        "recuperação",
+        "ações",
+        "investimento",
+        "B3",
+        "Itaú",
+        "J&F",
+        "Camargo Corrêa",
+        "tênis",
+        "sandálias",
+        "chinelos",
+        "varejo",
+        "consumo",
+        "Luiz Fernando Edmond",
+        "Liel Miranda",
+        "Rothy's"
+      ],
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Alpargatas: como a dona da Havaianas se perdeu na estratégia (e como está reencontrando o passo)",
+        "description": "A Alpargatas, dona da icônica Havaianas, passou de uma das empresas mais antigas da B3 a objeto de desejo de grandes grupos, como Camargo Corrêa, J&F e os controladores do Itaú. \n\nNo entanto, tropeços na expansão internacional e na diversificação de produtos levaram a uma crise de confiança. \n\nEntenda a trajetória da marca e o plano atual para colocar o chinelo de volta ao centro do negócio e recuperar seu valor."
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT7M58S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "18345",
+      "likeCount": "789",
+      "favoriteCount": "0",
+      "commentCount": "31"
+    }
+  }
+}

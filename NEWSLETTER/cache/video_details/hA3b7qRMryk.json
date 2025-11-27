@@ -1,0 +1,71 @@
+{
+  "cached_at": 1764285743.2971141,
+  "cache_type": "video_details",
+  "key": "hA3b7qRMryk",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "qpBXyv5Dl7vrazr_M37DlVA6uoA",
+    "id": "hA3b7qRMryk",
+    "snippet": {
+      "publishedAt": "2025-11-25T19:23:07Z",
+      "channelId": "UCU5JicSrEM5A63jkJ2QvGYw",
+      "title": "VOCÊ DENTRO DA LIVE 😍",
+      "description": "✅ Entrar dentro da transmissão: https://curso.dev/participar\n✅ Whatsapp do curso.dev: https://curso.dev/whatsapp\nOu então:\n✅ Jogue sozinho: https://curso.dev/show\n✅ Vire o apresentador: https://curso.dev/show?live=true",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hA3b7qRMryk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hA3b7qRMryk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hA3b7qRMryk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hA3b7qRMryk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hA3b7qRMryk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Filipe Deschamps",
+      "tags": [
+        "filipe deschamps",
+        "filipedeschamps"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt",
+      "localized": {
+        "title": "VOCÊ DENTRO DA LIVE 😍",
+        "description": "✅ Entrar dentro da transmissão: https://curso.dev/participar\n✅ Whatsapp do curso.dev: https://curso.dev/whatsapp\nOu então:\n✅ Jogue sozinho: https://curso.dev/show\n✅ Vire o apresentador: https://curso.dev/show?live=true"
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT4H37M43S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "10808",
+      "likeCount": "1051",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

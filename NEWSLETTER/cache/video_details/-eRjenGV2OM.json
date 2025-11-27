@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285745.493543,
+  "cache_type": "video_details",
+  "key": "-eRjenGV2OM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "VYI1HmSjWqeR8TQeLLvQjTGGgjE",
+    "id": "-eRjenGV2OM",
+    "snippet": {
+      "publishedAt": "2025-11-25T08:44:19Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "Rubber Duck Thursdays - Let's build with custom agents",
+      "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects.\n\nIn this episode, we'll explore custom agents and how you can provide Copilot with tailored expertise for specific tasks.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-eRjenGV2OM/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-eRjenGV2OM/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-eRjenGV2OM/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-eRjenGV2OM/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-eRjenGV2OM/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Rubber Duck Thursdays - Let's build with custom agents",
+        "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects.\n\nIn this episode, we'll explore custom agents and how you can provide Copilot with tailored expertise for specific tasks."
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1H48M49S",
+      "dimension": "2d",
+      "definition": "sd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "426",
+      "likeCount": "17",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "cached_at": 1764285758.333451,
+  "cache_type": "video_details",
+  "key": "GO5TngVcH1A",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "aRIvqYtSWRtYLOxUoitcRy5DhS0",
+    "id": "GO5TngVcH1A",
+    "snippet": {
+      "publishedAt": "2025-11-22T14:00:29Z",
+      "channelId": "UChpleBmo18P08aKCIgti38g",
+      "title": "AI News: Insane Week - Gemini 3 Was Just The Start",
+      "description": "Try Warp for free today! Use my link to get started → https://go.warp.dev/wolfeigagents\n\nThis might’ve been the craziest week in AI yet! Google dropped Gemini 3, Microsoft announced over 70 new AI features at Ignite, xAI launched Grok 4.1, Meta revealed SAM 3 & SAM 3D, and OpenAI quietly pushed a new GPT-5.1 Codex Max model.\n\nIn this video, I break down the biggest updates, the weirdest moments, and the stuff you actually need to know. From Google’s new agentic tools to Microsoft’s Windows upgrades to Meta’s wild segmentation tech… this week felt like an AI arms race.\n\nAnd yes — we have to talk about the Russian robot.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n🎙️ The Next Wave Podcast: https://youtube.com/@TheNextWavePod\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nGemini 3: \nhttps://blog.google/products/gemini/gemini-3/#note-from-ceo\nhttps://blog.google/products/gemini/gemini-3-gemini-app/\nhttps://blog.google/products/search/gemini-3-search-ai-mode/\nhttps://blog.google/technology/developers/gemini-3-developers/\nhttps://blog.google/technology/ai/nano-banana-pro/\nhttps://blog.google/technology/developers/gemini-3-pro-image-developers/\n\nMicrosoft Ignite - https://www.theneuron.ai/explainer-articles/here-is-everything-microsoft-announced-at-ignite-2025\nMicrosoft, NVIDIA and Anthropic- https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/\nagentic OS - https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration\nCopilot and agents - https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/18/microsoft-ignite-2025-copilot-and-agents-built-to-power-the-frontier-firm/\nMicrosoft's new AI agents - https://www.zdnet.com/article/microsofts-new-ai-agents-create-your-word-excel-and-powerpoint-projects-now/\nAI into Windows- https://www.zdnet.com/article/microsoft-is-packing-more-ai-into-windows-ready-or-not-heres-whats-new/\nMicrosoft Agent 365- https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/18/microsoft-agent-365-the-control-plane-for-ai-agents/\nGrok 4.1 - https://x.ai/news/grok-4-1\nMeta Segment - https://ai.meta.com/blog/segment-anything-model-3/\nIntroducing SAM 3D - https://ai.meta.com/blog/sam-3d/\nLarry Summers - https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html\nGPT-5.1-Codex-Max - https://openai.com/index/gpt-5-1-codex-max/\nfree version of ChatGPT - https://openai.com/index/chatgpt-for-teachers/\nTech Crunch - https://techcrunch.com/2025/11/18/intuit-signs-100m-deal-with-openai-to-bring-its-apps-to-chatgpt/\nReplit- https://x.com/amasad/status/1990859423942893816\nEleven Labs - https://elevenlabs.io/blog/introducing-elevenlabs-image-and-video\nManus - https://manus.im/blog/manus-browser-operator\nMidJourney - https://www.midjourney.com/updates/profiles-on-midjourney\n\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence #Gemini #Meta \n\nChapters: \n00:00 Intro\n00:43 Gemini 3 Launch Overview\n02:02 Gemini Agent & Anti-Gravity IDE\n02:56 How People Are Using Gemini 3 \n03:48 Nano Banana Pro Features\n06:20 How To Access Nano Banana Pro \n07:25 Nano Banana Pro Examples\n08:54 Warp AI Terminal Tool (Sponsor)\n10:17 Microsoft Ignite Announcements\n12:38 Grok 4.1 Release\n13:28 Meta SAM 3 - Segment Anything Model\n15:41 Meta SAM 3D - 3D Object Generation\n18:08 OpenAI Drama & Board Changes\n18:28 GPT 5.1 Codex Max\n19:45 ChatGPT Group Chat Feature\n20:27 ChatGPT for Teachers\n21:57 Rapid Fire Updates\n24:53 Back to AI News & Closing",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GO5TngVcH1A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GO5TngVcH1A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GO5TngVcH1A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GO5TngVcH1A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GO5TngVcH1A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Matt Wolfe",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "FutureTools",
+        "Futurism",
+        "Machine Learning",
+        "Deep Learning",
+        "Future Tools",
+        "Matt Wolfe",
+        "AI News",
+        "AI Tools",
+        "AI news",
+        "AI news roundup",
+        "Gemini 3",
+        "Google Gemini 3",
+        "Microsoft Ignite 2025",
+        "OpenAI updates",
+        "GPT-5.1 Codex Max",
+        "xAI Grok 4.1",
+        "Meta SAM 3",
+        "Meta SAM 3D",
+        "AI agents",
+        "agentic AI",
+        "Claude on Azure",
+        "AI model updates",
+        "Matt Wolfe AI",
+        "weekly AI news",
+        "tech news 2025",
+        "Gemini 3 Pro Image",
+        "AI announcements",
+        "AI tools roundup",
+        "Nano Banana Pro",
+        "Nano Banana 2"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "AI News: Insane Week - Gemini 3 Was Just The Start",
+        "description": "Try Warp for free today! Use my link to get started → https://go.warp.dev/wolfeigagents\n\nThis might’ve been the craziest week in AI yet! Google dropped Gemini 3, Microsoft announced over 70 new AI features at Ignite, xAI launched Grok 4.1, Meta revealed SAM 3 & SAM 3D, and OpenAI quietly pushed a new GPT-5.1 Codex Max model.\n\nIn this video, I break down the biggest updates, the weirdest moments, and the stuff you actually need to know. From Google’s new agentic tools to Microsoft’s Windows upgrades to Meta’s wild segmentation tech… this week felt like an AI arms race.\n\nAnd yes — we have to talk about the Russian robot.\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n🎙️ The Next Wave Podcast: https://youtube.com/@TheNextWavePod\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\nGemini 3: \nhttps://blog.google/products/gemini/gemini-3/#note-from-ceo\nhttps://blog.google/products/gemini/gemini-3-gemini-app/\nhttps://blog.google/products/search/gemini-3-search-ai-mode/\nhttps://blog.google/technology/developers/gemini-3-developers/\nhttps://blog.google/technology/ai/nano-banana-pro/\nhttps://blog.google/technology/developers/gemini-3-pro-image-developers/\n\nMicrosoft Ignite - https://www.theneuron.ai/explainer-articles/here-is-everything-microsoft-announced-at-ignite-2025\nMicrosoft, NVIDIA and Anthropic- https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/\nagentic OS - https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration\nCopilot and agents - https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/18/microsoft-ignite-2025-copilot-and-agents-built-to-power-the-frontier-firm/\nMicrosoft's new AI agents - https://www.zdnet.com/article/microsofts-new-ai-agents-create-your-word-excel-and-powerpoint-projects-now/\nAI into Windows- https://www.zdnet.com/article/microsoft-is-packing-more-ai-into-windows-ready-or-not-heres-whats-new/\nMicrosoft Agent 365- https://www.microsoft.com/en-us/microsoft-365/blog/2025/11/18/microsoft-agent-365-the-control-plane-for-ai-agents/\nGrok 4.1 - https://x.ai/news/grok-4-1\nMeta Segment - https://ai.meta.com/blog/segment-anything-model-3/\nIntroducing SAM 3D - https://ai.meta.com/blog/sam-3d/\nLarry Summers - https://www.cnbc.com/2025/11/19/larry-summers-epstein-openai.html\nGPT-5.1-Codex-Max - https://openai.com/index/gpt-5-1-codex-max/\nfree version of ChatGPT - https://openai.com/index/chatgpt-for-teachers/\nTech Crunch - https://techcrunch.com/2025/11/18/intuit-signs-100m-deal-with-openai-to-bring-its-apps-to-chatgpt/\nReplit- https://x.com/amasad/status/1990859423942893816\nEleven Labs - https://elevenlabs.io/blog/introducing-elevenlabs-image-and-video\nManus - https://manus.im/blog/manus-browser-operator\nMidJourney - https://www.midjourney.com/updates/profiles-on-midjourney\n\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence #Gemini #Meta \n\nChapters: \n00:00 Intro\n00:43 Gemini 3 Launch Overview\n02:02 Gemini Agent & Anti-Gravity IDE\n02:56 How People Are Using Gemini 3 \n03:48 Nano Banana Pro Features\n06:20 How To Access Nano Banana Pro \n07:25 Nano Banana Pro Examples\n08:54 Warp AI Terminal Tool (Sponsor)\n10:17 Microsoft Ignite Announcements\n12:38 Grok 4.1 Release\n13:28 Meta SAM 3 - Segment Anything Model\n15:41 Meta SAM 3D - 3D Object Generation\n18:08 OpenAI Drama & Board Changes\n18:28 GPT 5.1 Codex Max\n19:45 ChatGPT Group Chat Feature\n20:27 ChatGPT for Teachers\n21:57 Rapid Fire Updates\n24:53 Back to AI News & Closing"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT26M15S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "76441",
+      "likeCount": "2813",
+      "favoriteCount": "0",
+      "commentCount": "249"
+    }
+  }
+}

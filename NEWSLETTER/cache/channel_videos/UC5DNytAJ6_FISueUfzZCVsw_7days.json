@@ -1,0 +1,75 @@
+{
+  "cached_at": 1764285737.5177522,
+  "cache_type": "channel_videos",
+  "key": "UC5DNytAJ6_FISueUfzZCVsw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dZRPWBDhvCu_nVPEihgMf9-DxBM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DBgAH8YLvPU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T14:49:31Z",
+        "channelId": "UC5DNytAJ6_FISueUfzZCVsw",
+        "title": "Let’s build an automation!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DBgAH8YLvPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DBgAH8YLvPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DBgAH8YLvPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Code with Ania Kubów",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T14:49:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "57feyaCRd17QMHHC2GEYiRFytdk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VCuyfJL0RQU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T10:15:05Z",
+        "channelId": "UC5DNytAJ6_FISueUfzZCVsw",
+        "title": "What is a SuperPod?",
+        "description": "What is a SuperPod? And why should you care? (watch my explainer!) We explore the concept of a SuperPod, a revolutionary ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VCuyfJL0RQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VCuyfJL0RQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VCuyfJL0RQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Code with Ania Kubów",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T10:15:05Z"
+      }
+    }
+  ]
+}

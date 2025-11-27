@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285733.412595,
+  "cache_type": "video_details",
+  "key": "LpGpwhORWr0",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "GZnTpEijswIG1KoCzXtyYhmBM7g",
+    "id": "LpGpwhORWr0",
+    "snippet": {
+      "publishedAt": "2025-11-24T18:52:03Z",
+      "channelId": "UCrDwWp7EBBv4NwvScIpBDOA",
+      "title": "Claude works with you on slides, spreadsheets, and contract redlines",
+      "description": "See Claude Opus 4.5 tackle real work tasks—building board decks, transforming spreadsheet data, redlining contracts. Not generating drafts you'll throw away. Actual outputs you can download and use immediately.\n\nTry it: claude.ai",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LpGpwhORWr0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LpGpwhORWr0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LpGpwhORWr0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LpGpwhORWr0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LpGpwhORWr0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Anthropic",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Claude works with you on slides, spreadsheets, and contract redlines",
+        "description": "See Claude Opus 4.5 tackle real work tasks—building board decks, transforming spreadsheet data, redlining contracts. Not generating drafts you'll throw away. Actual outputs you can download and use immediately.\n\nTry it: claude.ai"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M39S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "48776",
+      "likeCount": "1063",
+      "favoriteCount": "0",
+      "commentCount": "59"
+    }
+  }
+}

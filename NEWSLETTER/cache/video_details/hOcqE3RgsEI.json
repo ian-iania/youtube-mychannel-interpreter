@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285735.210037,
+  "cache_type": "video_details",
+  "key": "hOcqE3RgsEI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "wCey-UYz53zQ_VY45aaJgz67XQM",
+    "id": "hOcqE3RgsEI",
+    "snippet": {
+      "publishedAt": "2025-11-21T22:12:51Z",
+      "channelId": "UCxXL5491Db9U8Rhfs-2LVFg",
+      "title": "Este é o fim do JSON Prompting?",
+      "description": "JSON Prompting é uma estratégia que ficou muito popular especificamente ao utilizar modelos de geração de imagens e vídeos pois, em tese, permitira que as informações fossem dispostas de tal forma que as LLMs pudessem compreender melhor as instruções.\n\nO TOON é um projeto que se apresenta como uma otimização do JSON, pois removeria todos os tokens irrelevantes (como aspas, colchetes, chaves...), tornando a informação mais concisa, economizando tokens e melhorando a acurácia.\n\nMas, na prática, parece que não é bem assim.\n\n\nO Chase Adams montou um playground onde é possível comparar TOON, JSON e outros formatos em diferentes estruturas — desde bases pequenas e planas até objetos grandes e profundamente aninhados.\n\n  \nE o resultado surpreende:\no TOON só supera o JSON 3 datasets...\n\nQuando os dados ficam mais complexos, o JSON continua usando menos tokens, sendo mais estável e muito mais previsível.\nOu seja: apesar do hype, parece que o TOON não entregou esse ganho de eficiência toda que estão falando.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hOcqE3RgsEI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hOcqE3RgsEI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hOcqE3RgsEI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hOcqE3RgsEI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hOcqE3RgsEI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Asimov Academy",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Este é o fim do JSON Prompting?",
+        "description": "JSON Prompting é uma estratégia que ficou muito popular especificamente ao utilizar modelos de geração de imagens e vídeos pois, em tese, permitira que as informações fossem dispostas de tal forma que as LLMs pudessem compreender melhor as instruções.\n\nO TOON é um projeto que se apresenta como uma otimização do JSON, pois removeria todos os tokens irrelevantes (como aspas, colchetes, chaves...), tornando a informação mais concisa, economizando tokens e melhorando a acurácia.\n\nMas, na prática, parece que não é bem assim.\n\n\nO Chase Adams montou um playground onde é possível comparar TOON, JSON e outros formatos em diferentes estruturas — desde bases pequenas e planas até objetos grandes e profundamente aninhados.\n\n  \nE o resultado surpreende:\no TOON só supera o JSON 3 datasets...\n\nQuando os dados ficam mais complexos, o JSON continua usando menos tokens, sendo mais estável e muito mais previsível.\nOu seja: apesar do hype, parece que o TOON não entregou esse ganho de eficiência toda que estão falando."
+      },
+      "defaultAudioLanguage": "gu"
+    },
+    "contentDetails": {
+      "duration": "PT1M26S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "10292",
+      "likeCount": "567",
+      "favoriteCount": "0",
+      "commentCount": "10"
+    }
+  }
+}

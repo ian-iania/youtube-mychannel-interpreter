@@ -1,0 +1,143 @@
+{
+  "cached_at": 1764285730.8455522,
+  "cache_type": "channel_videos",
+  "key": "UCelfWQr9sXVMTvBzviPGlFw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uojyMsdPFFJO1FLzA-k51pxYgzM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D5QeUQ4VbjM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T13:44:55Z",
+        "channelId": "UCelfWQr9sXVMTvBzviPGlFw",
+        "title": "Anthropic&#39;s New Paper Is WILD",
+        "description": "Claude shows alarming behaviors in new research, revealing how models can cheat systems. We explore Claude Code risks, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D5QeUQ4VbjM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D5QeUQ4VbjM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D5QeUQ4VbjM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI LABS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T13:44:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kUSvhJ3lT67K_gmRYRccf55IV_U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IZhGvZ4UlPs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T15:43:57Z",
+        "channelId": "UCelfWQr9sXVMTvBzviPGlFw",
+        "title": "Here&#39;s What They Didn&#39;t Tell You About Claude&#39;s New Model - Opus 4.5",
+        "description": "Opus 4.5 takes center stage as we test real coding performance, compare Claude Code against rivals, and break down what ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IZhGvZ4UlPs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IZhGvZ4UlPs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IZhGvZ4UlPs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI LABS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T15:43:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "unTtOkGOLE0o9dD_G8KnHrhmVUo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eLDq5TfIHys"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T13:14:28Z",
+        "channelId": "UCelfWQr9sXVMTvBzviPGlFw",
+        "title": "Claude Just Introduced a New Way To Fix Your UI",
+        "description": "In this video, Claude finally shows how to fix basic AI-designed UIs using powerful Claude Skills inside Claude Code. I also test ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eLDq5TfIHys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eLDq5TfIHys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eLDq5TfIHys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI LABS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T13:14:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YhevUpkIsLYdSUmBY337xUMZ1ow",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "opZpIN8g_6M"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T13:45:11Z",
+        "channelId": "UCelfWQr9sXVMTvBzviPGlFw",
+        "title": "Claude Just Solved Their Biggest Problem",
+        "description": "Claude MCP as code revolutionizes how we handle tool calls by preventing context window bloat. This approach leverages ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/opZpIN8g_6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/opZpIN8g_6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/opZpIN8g_6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI LABS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T13:45:11Z"
+      }
+    }
+  ]
+}

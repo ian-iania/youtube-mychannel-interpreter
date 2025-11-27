@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285754.982054,
+  "cache_type": "video_details",
+  "key": "tAbghR0SWRI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "qf0x085PAI5_rYDN9zmIpX7hHzA",
+    "id": "tAbghR0SWRI",
+    "snippet": {
+      "publishedAt": "2025-11-21T13:45:13Z",
+      "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+      "title": "Field Extraction in Snowflake Using ADE 📊 📄 #ade #fieldextraction #snowflake",
+      "description": "Full Demo here: https://youtu.be/XAfKlfIBMHQ?si=Kd2OkRZUTpmwnmwf",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tAbghR0SWRI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tAbghR0SWRI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tAbghR0SWRI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tAbghR0SWRI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tAbghR0SWRI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LandingAI",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Field Extraction in Snowflake Using ADE 📊 📄 #ade #fieldextraction #snowflake",
+        "description": "Full Demo here: https://youtu.be/XAfKlfIBMHQ?si=Kd2OkRZUTpmwnmwf"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M1S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "359",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

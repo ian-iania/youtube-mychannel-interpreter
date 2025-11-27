@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285751.0302231,
+  "cache_type": "video_details",
+  "key": "qYnP7fZJlo8",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "dGrfZ8mBPFJyr89BHVXq1F53ks4",
+    "id": "qYnP7fZJlo8",
+    "snippet": {
+      "publishedAt": "2025-11-26T09:00:54Z",
+      "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+      "title": "Pesquisa Avançada com NotebookLM: O Segredo que Poucos Conhecem",
+      "description": "🔍 Pesquisa Avançada com NotebookLM: O Segredo que Poucos Conhecem\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nA diferença entre uma busca comum e uma busca avançada no NotebookLM é simples: contexto é tudo.\n\nAo invés de jogar uma pergunta genérica na ferramenta, você estrutura um prompt poderoso. Como assim? Veja:\n\n❌ Errado: \"Busque jurisprudência sobre contestação\"\n✅ Certo: \"Baseado na contestação abaixo, busque jurisprudência relacionada\" + você cola o texto completo da sua peça\n\nParece pequeno, mas é gigante. Você está dizendo exatamente ao NotebookLM: \"Aqui está meu contexto real. Agora ache o que eu preciso.\"\n\nA IA só trabalha bem quando você dá a ela informação de qualidade. É como conversar com um colega experiente: quanto mais detalhes você dá, melhor a resposta.\n\nQuando você entende esse conceito — que contexto é a moeda de troca com a inteligência artificial — você consegue aplicar isso em qualquer ferramenta de IA. ChatGPT, Claude, Gemini... o princípio é o mesmo.\n\n3 Dicas Práticas para Aplicar Hoje Mesmo:\n\n✅ Estruture seu prompt como uma conversa real: Comece com \"Baseado em [contexto], faça [ação]\". Isso muda completamente a qualidade da resposta.\n\n✅ Cole o texto completo: Não resuma. Deixe a IA trabalhar com a peça inteira. Ela vai captar nuances que você talvez tenha perdido.\n\n✅ Teste em diferentes IAs: Depois que domina o conceito, experimenta em outras plataformas. Você vai perceber que o padrão funciona em todas.\n\nQue tal testar isso na sua próxima pesquisa jurídica? Estruture um prompt bem feito, cole sua contestação ou parecer e veja a diferença.\n\nQual é a sua maior dificuldade na pesquisa jurídica hoje? Comenta aqui — a gente adora saber! 💬 #shorts",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qYnP7fZJlo8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qYnP7fZJlo8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qYnP7fZJlo8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qYnP7fZJlo8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qYnP7fZJlo8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Inteligencia Artificial para advogados",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Pesquisa Avançada com NotebookLM: O Segredo que Poucos Conhecem",
+        "description": "🔍 Pesquisa Avançada com NotebookLM: O Segredo que Poucos Conhecem\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nA diferença entre uma busca comum e uma busca avançada no NotebookLM é simples: contexto é tudo.\n\nAo invés de jogar uma pergunta genérica na ferramenta, você estrutura um prompt poderoso. Como assim? Veja:\n\n❌ Errado: \"Busque jurisprudência sobre contestação\"\n✅ Certo: \"Baseado na contestação abaixo, busque jurisprudência relacionada\" + você cola o texto completo da sua peça\n\nParece pequeno, mas é gigante. Você está dizendo exatamente ao NotebookLM: \"Aqui está meu contexto real. Agora ache o que eu preciso.\"\n\nA IA só trabalha bem quando você dá a ela informação de qualidade. É como conversar com um colega experiente: quanto mais detalhes você dá, melhor a resposta.\n\nQuando você entende esse conceito — que contexto é a moeda de troca com a inteligência artificial — você consegue aplicar isso em qualquer ferramenta de IA. ChatGPT, Claude, Gemini... o princípio é o mesmo.\n\n3 Dicas Práticas para Aplicar Hoje Mesmo:\n\n✅ Estruture seu prompt como uma conversa real: Comece com \"Baseado em [contexto], faça [ação]\". Isso muda completamente a qualidade da resposta.\n\n✅ Cole o texto completo: Não resuma. Deixe a IA trabalhar com a peça inteira. Ela vai captar nuances que você talvez tenha perdido.\n\n✅ Teste em diferentes IAs: Depois que domina o conceito, experimenta em outras plataformas. Você vai perceber que o padrão funciona em todas.\n\nQue tal testar isso na sua próxima pesquisa jurídica? Estruture um prompt bem feito, cole sua contestação ou parecer e veja a diferença.\n\nQual é a sua maior dificuldade na pesquisa jurídica hoje? Comenta aqui — a gente adora saber! 💬 #shorts"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT52S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "659",
+      "likeCount": "13",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

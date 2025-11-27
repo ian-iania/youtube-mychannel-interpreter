@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285748.034392,
+  "cache_type": "channel_info",
+  "key": "UCC4EsuM0n_-u5_eOuZFCfpA",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "cHdYj8QtB-1C_SbX3tQFYhy-qbE",
+    "id": "UCC4EsuM0n_-u5_eOuZFCfpA",
+    "snippet": {
+      "title": "Groq",
+      "description": "Fuel for developers.\n",
+      "customUrl": "@groqinc",
+      "publishedAt": "2019-08-27T17:12:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/yvqSk8eSat4K-7IfDNs9DsCkHxid_zMsLUSU1myjRyxau7QLopYUJ_lNoD2a9sm9shdoIvJMkQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/yvqSk8eSat4K-7IfDNs9DsCkHxid_zMsLUSU1myjRyxau7QLopYUJ_lNoD2a9sm9shdoIvJMkQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/yvqSk8eSat4K-7IfDNs9DsCkHxid_zMsLUSU1myjRyxau7QLopYUJ_lNoD2a9sm9shdoIvJMkQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Groq",
+        "description": "Fuel for developers.\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "350293",
+      "subscriberCount": "30900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "25"
+    }
+  }
+}

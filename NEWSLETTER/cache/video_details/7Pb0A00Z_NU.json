@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285751.0351841,
+  "cache_type": "video_details",
+  "key": "7Pb0A00Z_NU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "ayiYwg_5jJUin0jlqb-JdepXsFA",
+    "id": "7Pb0A00Z_NU",
+    "snippet": {
+      "publishedAt": "2025-11-26T00:11:12Z",
+      "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+      "title": "A nova função de busca Profunda no NotebookLM",
+      "description": "🔍 A nova função de busca Profunda no NotebookLM\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nA \"busca profunda\" não é só mais um recurso. É um salto qualitativo na forma como você monta pareceres:\n\n✅ Você formula o prompt como se estivesse conversando com um colega sênior: \"Atue como advogado societário, me diga se...\"\n\n✅ A IA pesquisa, analisa e estrutura — gastando minutos no que levaria horas\n\n✅ Você recebe um parecer detalhado com fontes — pronto para refinar, questionar ou usar como base\n\nMas aqui está o detalhe importante: NotebookLM não é o único player nessa partida. Gemini, ChatGPT, Claude e Perplexity já oferecem buscas sofisticadas similares. O mercado está acelerado. Quem não está testando essas ferramentas está ficando para trás.\n\nComo Aplicar Isso Hoje (3 Dicas Práticas)\n\n🎯 1. Comece com pareceres rotineiros: Teste a busca profunda em questões que você já domina. Assim consegue validar a qualidade e ajustar os prompts.\n\n🎯 2. Use como ponto de partida, não como ponto final: A IA é sua pesquisadora 24/7, mas você continua sendo o advogado. Revise, questione, complemente com sua experiência.\n\n🎯 3. Experimente buscas de jurisprudência: Vá além dos pareceres. Use a busca profunda para mapear tendências jurisprudenciais — isso economiza tempo real de pesquisa.\n\nA pergunta não é mais \"devo usar IA no meu trabalho?\" — é \"qual ferramenta escolho e como integro no meu fluxo?\"\n\nQual dessas plataformas você já testou? Qual foi seu resultado? Comente aqui — vamos trocar experiências reais de quem está na prática! #shorts",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7Pb0A00Z_NU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7Pb0A00Z_NU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7Pb0A00Z_NU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7Pb0A00Z_NU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7Pb0A00Z_NU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Inteligencia Artificial para advogados",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "A nova função de busca Profunda no NotebookLM",
+        "description": "🔍 A nova função de busca Profunda no NotebookLM\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nA \"busca profunda\" não é só mais um recurso. É um salto qualitativo na forma como você monta pareceres:\n\n✅ Você formula o prompt como se estivesse conversando com um colega sênior: \"Atue como advogado societário, me diga se...\"\n\n✅ A IA pesquisa, analisa e estrutura — gastando minutos no que levaria horas\n\n✅ Você recebe um parecer detalhado com fontes — pronto para refinar, questionar ou usar como base\n\nMas aqui está o detalhe importante: NotebookLM não é o único player nessa partida. Gemini, ChatGPT, Claude e Perplexity já oferecem buscas sofisticadas similares. O mercado está acelerado. Quem não está testando essas ferramentas está ficando para trás.\n\nComo Aplicar Isso Hoje (3 Dicas Práticas)\n\n🎯 1. Comece com pareceres rotineiros: Teste a busca profunda em questões que você já domina. Assim consegue validar a qualidade e ajustar os prompts.\n\n🎯 2. Use como ponto de partida, não como ponto final: A IA é sua pesquisadora 24/7, mas você continua sendo o advogado. Revise, questione, complemente com sua experiência.\n\n🎯 3. Experimente buscas de jurisprudência: Vá além dos pareceres. Use a busca profunda para mapear tendências jurisprudenciais — isso economiza tempo real de pesquisa.\n\nA pergunta não é mais \"devo usar IA no meu trabalho?\" — é \"qual ferramenta escolho e como integro no meu fluxo?\"\n\nQual dessas plataformas você já testou? Qual foi seu resultado? Comente aqui — vamos trocar experiências reais de quem está na prática! #shorts"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT58S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "257",
+      "likeCount": "10",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

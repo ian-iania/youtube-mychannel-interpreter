@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.956793,
+  "cache_type": "video_details",
+  "key": "qqXdLf3wy1E",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "n1qQ9My7v1m5UFHFKYwMwhGCHDI",
+    "id": "qqXdLf3wy1E",
+    "snippet": {
+      "publishedAt": "2025-11-24T20:16:38Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "Agents are Robots Too: What Self-Driving Taught Me About Building Agents — Jesse Hu, Abundant",
+      "description": "In this talk, I break down the surprising parallels between robotics and agents: embodiment, statefulness, simulation, and more. The main lesson from self-driving: everyone thought perception was hard and planning was easy. It took 8-10 years to learn we had it backwards. We're seeing the same pattern with agents today. Predictive models aren't action models. Perfect reasoning doesn't guarantee good execution.\n\nAnd just like in robotics, the company with the best infrastructure wins—not just the one with the best model. Whether you're building agents, training models, or just trying to understand why production agents are so hard, this talk covers the concepts from robotics (DAgger, MDPs, simulation, offline RL) that directly apply to making agents work at scale.\n\nJesse has spent the last 10 years as an ML engineer, starting from research in computer vision and NLP, to working on deep learning and two-tower embedding recommender systems at YouTube, to transformer-based planning models for self-driving at Waymo. He is currently working on bringing large-scale RL and simulation techniques to coding agents at Abundant.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/jessehu\n- GitHub: http://github.com/huyouare\n- Company: Abundant (https://abundant.ai)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qqXdLf3wy1E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qqXdLf3wy1E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qqXdLf3wy1E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qqXdLf3wy1E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qqXdLf3wy1E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Agents are Robots Too: What Self-Driving Taught Me About Building Agents — Jesse Hu, Abundant",
+        "description": "In this talk, I break down the surprising parallels between robotics and agents: embodiment, statefulness, simulation, and more. The main lesson from self-driving: everyone thought perception was hard and planning was easy. It took 8-10 years to learn we had it backwards. We're seeing the same pattern with agents today. Predictive models aren't action models. Perfect reasoning doesn't guarantee good execution.\n\nAnd just like in robotics, the company with the best infrastructure wins—not just the one with the best model. Whether you're building agents, training models, or just trying to understand why production agents are so hard, this talk covers the concepts from robotics (DAgger, MDPs, simulation, offline RL) that directly apply to making agents work at scale.\n\nJesse has spent the last 10 years as an ML engineer, starting from research in computer vision and NLP, to working on deep learning and two-tower embedding recommender systems at YouTube, to transformer-based planning models for self-driving at Waymo. He is currently working on bringing large-scale RL and simulation techniques to coding agents at Abundant.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/jessehu\n- GitHub: http://github.com/huyouare\n- Company: Abundant (https://abundant.ai)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT17M37S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "786",
+      "likeCount": "19",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

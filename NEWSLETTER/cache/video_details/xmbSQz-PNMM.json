@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.959604,
+  "cache_type": "video_details",
+  "key": "xmbSQz-PNMM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "5snSCxVhKVJYfwob6xJQgbDzCK8",
+    "id": "xmbSQz-PNMM",
+    "snippet": {
+      "publishedAt": "2025-11-21T23:10:16Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "AIE CODE Day 2: ft Google Deepmind, Anthropic, Cursor, Netflix, Cline, OpenAI, Meta, and METR",
+      "description": "NOVEMBER 21 - all times in EST\n\n* 9:06 am – Opening Remarks\nSwyx  |  Organizer, AI Engineer\n\n* 9:11 am – Stop Building Agents\nBarry Zhang   |  AI Engineer, Anthropic\nMahesh Murag |  AI Engineer, Anthropic\n\n* 9:31 am – No Vibes Allowed: Solving Hard Problems in Complex Codebases\nDex Horthy |  Founder, HumanLayer\n\n* 9:51 am – Building a fast frontier model with RL\nLee Robinson  |  Head of DX, Cursor\n\n* 10:11 am – From Code Snippets to Codebases: Then, Now, and What’s Next for Coding Evals\nNaman Jain  |  Engineering, Cursor\n\n* 11:00 am – Code World Model: Building World Models for Computation\nJacob Kahn | Research Scientist, Meta\n\n* 11:20 am – Efficient Reinforcement Learning\nLinden Li  | Co-founder, Applied Computer\nRhythm Garg  | Co-founder, Applied Computer\n\n* 11:40 am – RL Environments at Scale\nWill Brown | Engineering, Prime Intellect\n\n* 12:00 pm – Agent Reinforcement Fine Tuning\nWill Hang |  Member of Technical Staff, OpenAI\nCathy Zhou |  Member of Technical Staff, OpenAI\n\n*12:20 pm – From Vibe Coding To Vibe Engineering\nKitze |  Developer & Creator, Independent\n\n* 1:45 pm – Proactive Agents\nKath Korevec  |  Engineering, Google Labs\n\n* 2:05 pm – Making Codebases \"Agent-Ready\"\nEno Reyes |  Engineering, Factory AI\n\n* 2:25 pm – Amp Code: Next-Generation AI Coding\nBeyang Liu |  Co-founder & CTO, Amp Code / Sourcegraph\n\n* 2:45 pm – Using AI-Generated Kernels to Instantly Speed Up PyTorch\nNatalie Serrino |  Cofounder, Gimlet Labs\n\n* 3:05 pm – The Infinite Software Crisis\nJake Nations  |  Engineering, Netflix\n\n* 4:00 pm – AGI: The Path Forward\nEiso Kant |  CEO, Poolside\n\n* 4:20 pm – Continual System-Prompt Learning for Code Agents\nAparna Dhinakaran |  Co-founder & CPO, Arize\n\n* 4:40 pm – Hard-Won Lessons from Building Effective AI Coding Agents\nNik Pash  |  Creator, Cline\n\n* 5:00 pm – Benchmarks vs economics: the AI capability measurement gap\nJoel Becker |  Researcher, METR\n\n* 5:20 pm – Defying Gravity\nKevin Hou, Google Antigravity",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xmbSQz-PNMM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xmbSQz-PNMM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xmbSQz-PNMM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xmbSQz-PNMM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xmbSQz-PNMM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "AIE CODE Day 2: ft Google Deepmind, Anthropic, Cursor, Netflix, Cline, OpenAI, Meta, and METR",
+        "description": "NOVEMBER 21 - all times in EST\n\n* 9:06 am – Opening Remarks\nSwyx  |  Organizer, AI Engineer\n\n* 9:11 am – Stop Building Agents\nBarry Zhang   |  AI Engineer, Anthropic\nMahesh Murag |  AI Engineer, Anthropic\n\n* 9:31 am – No Vibes Allowed: Solving Hard Problems in Complex Codebases\nDex Horthy |  Founder, HumanLayer\n\n* 9:51 am – Building a fast frontier model with RL\nLee Robinson  |  Head of DX, Cursor\n\n* 10:11 am – From Code Snippets to Codebases: Then, Now, and What’s Next for Coding Evals\nNaman Jain  |  Engineering, Cursor\n\n* 11:00 am – Code World Model: Building World Models for Computation\nJacob Kahn | Research Scientist, Meta\n\n* 11:20 am – Efficient Reinforcement Learning\nLinden Li  | Co-founder, Applied Computer\nRhythm Garg  | Co-founder, Applied Computer\n\n* 11:40 am – RL Environments at Scale\nWill Brown | Engineering, Prime Intellect\n\n* 12:00 pm – Agent Reinforcement Fine Tuning\nWill Hang |  Member of Technical Staff, OpenAI\nCathy Zhou |  Member of Technical Staff, OpenAI\n\n*12:20 pm – From Vibe Coding To Vibe Engineering\nKitze |  Developer & Creator, Independent\n\n* 1:45 pm – Proactive Agents\nKath Korevec  |  Engineering, Google Labs\n\n* 2:05 pm – Making Codebases \"Agent-Ready\"\nEno Reyes |  Engineering, Factory AI\n\n* 2:25 pm – Amp Code: Next-Generation AI Coding\nBeyang Liu |  Co-founder & CTO, Amp Code / Sourcegraph\n\n* 2:45 pm – Using AI-Generated Kernels to Instantly Speed Up PyTorch\nNatalie Serrino |  Cofounder, Gimlet Labs\n\n* 3:05 pm – The Infinite Software Crisis\nJake Nations  |  Engineering, Netflix\n\n* 4:00 pm – AGI: The Path Forward\nEiso Kant |  CEO, Poolside\n\n* 4:20 pm – Continual System-Prompt Learning for Code Agents\nAparna Dhinakaran |  Co-founder & CPO, Arize\n\n* 4:40 pm – Hard-Won Lessons from Building Effective AI Coding Agents\nNik Pash  |  Creator, Cline\n\n* 5:00 pm – Benchmarks vs economics: the AI capability measurement gap\nJoel Becker |  Researcher, METR\n\n* 5:20 pm – Defying Gravity\nKevin Hou, Google Antigravity"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT8H57M6S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "23353",
+      "likeCount": "494",
+      "favoriteCount": "0",
+      "commentCount": "17"
+    }
+  }
+}

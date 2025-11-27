@@ -1,0 +1,86 @@
+{
+  "cached_at": 1764285766.098376,
+  "cache_type": "video_details",
+  "key": "GAzVZTtWa4E",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "6n2XvzMfKW8qfWQc2B9OT_M4A00",
+    "id": "GAzVZTtWa4E",
+    "snippet": {
+      "publishedAt": "2025-11-26T17:04:38Z",
+      "channelId": "UC0FBv8ckxw1hrZxbUm3G7hA",
+      "title": "I Built An Agent AI App WITHOUT Coding (No Code App Building Tutorial)",
+      "description": "This video is brought to you by Agentplace. Start building your own AI website and use code ROBTHEAIGUY100 to get $100 off any Pro plan:\nhttps://agentplace.io/user/robtheaiguy\n\nThis video shows you how to make AI Agent apps without knowing how to code. If you want to learn how to make viral apps without coding by using AI this video is for you.\n\nJoin AI Automation School (Learn To Automate Your Work & Make $ With AI) 👉 https://www.skool.com/ai-automation-school/about",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GAzVZTtWa4E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GAzVZTtWa4E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GAzVZTtWa4E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GAzVZTtWa4E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GAzVZTtWa4E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Rob The AI Guy",
+      "tags": [
+        "Building ai apps",
+        "building ai apps without coding",
+        "how to build ai apps without coding",
+        "how to build ai apps without coding 2026",
+        "how to build ai apps with no code",
+        "how to build agentic ai apps",
+        "how to build agentic ai apps 2026",
+        "building ai apps",
+        "no code app builder",
+        "build app without code",
+        "build app with prompts",
+        "how to build an ai app",
+        "build app with ai",
+        "how to build an app",
+        "ai app builder",
+        "ai agent",
+        "ai agents"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "I Built An Agent AI App WITHOUT Coding (No Code App Building Tutorial)",
+        "description": "This video is brought to you by Agentplace. Start building your own AI website and use code ROBTHEAIGUY100 to get $100 off any Pro plan:\nhttps://agentplace.io/user/robtheaiguy\n\nThis video shows you how to make AI Agent apps without knowing how to code. If you want to learn how to make viral apps without coding by using AI this video is for you.\n\nJoin AI Automation School (Learn To Automate Your Work & Make $ With AI) 👉 https://www.skool.com/ai-automation-school/about"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT14M5S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1261",
+      "likeCount": "61",
+      "favoriteCount": "0",
+      "commentCount": "8"
+    }
+  }
+}

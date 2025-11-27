@@ -1,0 +1,109 @@
+{
+  "cached_at": 1764285740.894846,
+  "cache_type": "channel_videos",
+  "key": "UCta1sF9e9YzzNG4OlQgIlXw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SdilsuyyvV2xfTkr97x_YUwOPaQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C7lpd1fN48Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T20:36:24Z",
+        "channelId": "UCta1sF9e9YzzNG4OlQgIlXw",
+        "title": "Como eu faço designs IRRESISTÍVEIS com IA (design.json)",
+        "description": "Descobri um SEGREDO que transformou completamente meus designs com IA! Neste vídeo eu revelo um método simples que ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C7lpd1fN48Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C7lpd1fN48Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C7lpd1fN48Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Deborah Folloni",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T20:36:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7vuvXkSOVMjSePeVg0rAodphKqk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7x1Na273zhI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T15:01:29Z",
+        "channelId": "UCta1sF9e9YzzNG4OlQgIlXw",
+        "title": "Meu segredo para fazer designs IRRESISTÍVEIS com IA (design.json)",
+        "description": "Descobri um SEGREDO que transformou completamente meus designs com IA! Neste vídeo eu revelo um método simples que ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7x1Na273zhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7x1Na273zhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7x1Na273zhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Deborah Folloni",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T15:01:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "170DUhjbfMSh7a9_Kz2Ybc31Ke8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EsLOLK0B_CU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T11:19:49Z",
+        "channelId": "UCta1sF9e9YzzNG4OlQgIlXw",
+        "title": "Não seja HACKEADO!",
+        "description": "Seu app vibe coded está VULNERÁVEL! Neste vídeo eu revelo os 5 erros de segurança mais comuns que deixam apps ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EsLOLK0B_CU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EsLOLK0B_CU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EsLOLK0B_CU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Deborah Folloni",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T11:19:49Z"
+      }
+    }
+  ]
+}

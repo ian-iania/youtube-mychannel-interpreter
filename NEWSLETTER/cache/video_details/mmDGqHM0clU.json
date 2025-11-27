@@ -1,0 +1,81 @@
+{
+  "cached_at": 1764285767.250787,
+  "cache_type": "video_details",
+  "key": "mmDGqHM0clU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "BSNdvM5i1RvGzJzc2QJC3Lu1MNo",
+    "id": "mmDGqHM0clU",
+    "snippet": {
+      "publishedAt": "2025-11-22T13:39:30Z",
+      "channelId": "UCUBqu_z5uP0AZhYtuyFZB3g",
+      "title": "Runway This Week | November 22",
+      "description": "Audio nodes, new models and more new features and improvements in Workflows, a detailed custom Workflow walkthrough and a community spotlight. Get caught up on what happened This Week with Runway.\n\n0:00 Intro\n0:07 New Updates\n0:54 This Week's Tip and Trick\n1:51 Community Spotlight\n2:19 Discord Challenge\n2:40 Outro\n\nrunwayml.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mmDGqHM0clU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mmDGqHM0clU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mmDGqHM0clU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mmDGqHM0clU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mmDGqHM0clU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Runway",
+      "tags": [
+        "AI",
+        "Runway",
+        "ML",
+        "content creation",
+        "gen-1",
+        "gen-2",
+        "generative ai",
+        "generative video",
+        "generate video",
+        "video editing",
+        "vfx",
+        "ai video editing"
+      ],
+      "categoryId": "1",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Runway This Week | November 22",
+        "description": "Audio nodes, new models and more new features and improvements in Workflows, a detailed custom Workflow walkthrough and a community spotlight. Get caught up on what happened This Week with Runway.\n\n0:00 Intro\n0:07 New Updates\n0:54 This Week's Tip and Trick\n1:51 Community Spotlight\n2:19 Discord Challenge\n2:40 Outro\n\nrunwayml.com"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT3M",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1623",
+      "likeCount": "49",
+      "favoriteCount": "0",
+      "commentCount": "9"
+    }
+  }
+}

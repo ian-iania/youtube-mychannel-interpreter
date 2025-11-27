@@ -1,0 +1,97 @@
+{
+  "cached_at": 1764285735.690957,
+  "cache_type": "video_details",
+  "key": "MXvwksTOu9I",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "jr_BmfaqPJu4enRguyCe8jyQKso",
+    "id": "MXvwksTOu9I",
+    "snippet": {
+      "publishedAt": "2025-11-20T21:00:34Z",
+      "channelId": "UCJw95lTeK1G2cTosF18XJUA",
+      "title": "Como detectar erros e corrigir mais rápido nas automações",
+      "description": "Aprenda IA e automação, monte seus primeiros agentes e começe a faturar (sem depender de ninguém):\n🤖 Conheça minha formação para iniciantes e especialistas: \n▶️ https://billyia.com/\n\nQuer aprender com acompanhamento ou precisa de uma implementação para automatizar seu negócio?\n▶️ Acesse aqui: https://tally.so/r/3ERXzA\n\n\n🔹 Me siga no Instagram: \nhttps://www.instagram.com/billyia_\n\n🔴 Se te ajudei curta, se inscreva e ative o sininho para não perder nada sobre inteligência artificial.\n\n〰️〰️〰️\n🔹 Entre no meu grupo do WhatsApp de avisos para não perder nada:\n🟢 https://chat.whatsapp.com/Hqswdhe1StXD1V4BbA54sO\n\n✔️ Link do n8n:\nhttps://n8n.partnerlinks.io/xygyzkw2dl0s",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MXvwksTOu9I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MXvwksTOu9I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MXvwksTOu9I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MXvwksTOu9I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MXvwksTOu9I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Billy Automações",
+      "tags": [
+        "n8n",
+        "automação",
+        "automacao",
+        "n8n automação",
+        "automação n8n",
+        "n8n tutorial",
+        "automação de processos",
+        "n8n automaçao",
+        "automação web",
+        "curso de automação",
+        "instagram automação",
+        "automação chatgpt",
+        "chatgpt",
+        "aula n8n",
+        "tutorial n8n",
+        "curso n8n",
+        "como usar n8n",
+        "gestor de automação",
+        "automação de vendas",
+        "automação com n8n",
+        "automação marketing",
+        "ferramentas de automação",
+        "automação de whatsapp",
+        "automação whatsapp",
+        "dica n8n",
+        "dicas n8n",
+        "truques n8n",
+        "truque n8n"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Como detectar erros e corrigir mais rápido nas automações",
+        "description": "Aprenda IA e automação, monte seus primeiros agentes e começe a faturar (sem depender de ninguém):\n🤖 Conheça minha formação para iniciantes e especialistas: \n▶️ https://billyia.com/\n\nQuer aprender com acompanhamento ou precisa de uma implementação para automatizar seu negócio?\n▶️ Acesse aqui: https://tally.so/r/3ERXzA\n\n\n🔹 Me siga no Instagram: \nhttps://www.instagram.com/billyia_\n\n🔴 Se te ajudei curta, se inscreva e ative o sininho para não perder nada sobre inteligência artificial.\n\n〰️〰️〰️\n🔹 Entre no meu grupo do WhatsApp de avisos para não perder nada:\n🟢 https://chat.whatsapp.com/Hqswdhe1StXD1V4BbA54sO\n\n✔️ Link do n8n:\nhttps://n8n.partnerlinks.io/xygyzkw2dl0s"
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT7M16S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "170",
+      "likeCount": "9",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

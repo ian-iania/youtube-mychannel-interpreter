@@ -1,0 +1,78 @@
+{
+  "cached_at": 1764285747.4430568,
+  "cache_type": "video_details",
+  "key": "YwYu1JWvn-8",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "hx8mZCozP0wjdKJh_qWYaJBLMnw",
+    "id": "YwYu1JWvn-8",
+    "snippet": {
+      "publishedAt": "2025-11-25T17:51:10Z",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "What is a reliable system? An SRE perspective",
+      "description": "Reliable systems are a way to respect the user and deliver systems that degrade gracefully. A reliable system also anticipates failures and actively defends against them in any other systems it depends on.\n\nLearn more about SRE! → https://goo.gle/sre-resources \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Christine Rafla",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YwYu1JWvn-8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YwYu1JWvn-8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YwYu1JWvn-8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YwYu1JWvn-8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YwYu1JWvn-8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google for Developers",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google for Developers;",
+        "Purpose: Learn;",
+        "Campaign: BBDS;",
+        "Series: AASRE;",
+        "type:G4D SV: Educational ;",
+        "ct: AIG; ;",
+        "gds:Yes;"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "What is a reliable system? An SRE perspective",
+        "description": "Reliable systems are a way to respect the user and deliver systems that degrade gracefully. A reliable system also anticipates failures and actively defends against them in any other systems it depends on.\n\nLearn more about SRE! → https://goo.gle/sre-resources \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Christine Rafla"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M3S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "3264",
+      "likeCount": "52",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

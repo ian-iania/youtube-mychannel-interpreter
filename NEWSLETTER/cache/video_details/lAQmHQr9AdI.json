@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285744.837976,
+  "cache_type": "video_details",
+  "key": "lAQmHQr9AdI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "J-xnWBZ7eZwn8E5HUr4QvKM09_w",
+    "id": "lAQmHQr9AdI",
+    "snippet": {
+      "publishedAt": "2025-11-21T06:59:17Z",
+      "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+      "title": "Genspark AI Sheets 2.0｜あなたのデータ作業を、自動操縦に",
+      "description": "AI Sheets 2.0 登場 - あなた専属のデータアナリスト 🚀\n\n使い慣れたExcelが、今や自動操縦に\n *データ入力* → Webスクレイピング、ファイルアップロード、または独自データベースの接続\n*分析* → AIがJupyter、SQL、数式、可視化を自動実行 \n*エクスポート* → 書式や数式を含むすべてが保持された.xlsxファイル\n\n*実際の動作をご覧ください:* 共同創業者兼CTOのKayが、Genspark Liveで2つの強力なユースケースをデモしました: • NVIDIAの5年間の財務データを1つのプロンプトで収集・分析 • 複雑なビジネス課題を分析し、戦略を提供するSQLを1つのプロンプトで自動作成\n\nあなたのデータ作業を、自動操縦に。✨\n\nお試しはこちら: https://www.genspark.ai/agents?type=sheets_agent_new",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lAQmHQr9AdI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lAQmHQr9AdI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lAQmHQr9AdI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lAQmHQr9AdI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lAQmHQr9AdI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Genspark",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ja",
+      "localized": {
+        "title": "Genspark AI Sheets 2.0｜あなたのデータ作業を、自動操縦に",
+        "description": "AI Sheets 2.0 登場 - あなた専属のデータアナリスト 🚀\n\n使い慣れたExcelが、今や自動操縦に\n *データ入力* → Webスクレイピング、ファイルアップロード、または独自データベースの接続\n*分析* → AIがJupyter、SQL、数式、可視化を自動実行 \n*エクスポート* → 書式や数式を含むすべてが保持された.xlsxファイル\n\n*実際の動作をご覧ください:* 共同創業者兼CTOのKayが、Genspark Liveで2つの強力なユースケースをデモしました: • NVIDIAの5年間の財務データを1つのプロンプトで収集・分析 • 複雑なビジネス課題を分析し、戦略を提供するSQLを1つのプロンプトで自動作成\n\nあなたのデータ作業を、自動操縦に。✨\n\nお試しはこちら: https://www.genspark.ai/agents?type=sheets_agent_new"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT3M8S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "701",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

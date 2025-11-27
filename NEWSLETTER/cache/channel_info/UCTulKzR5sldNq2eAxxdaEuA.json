@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285738.095171,
+  "cache_type": "channel_info",
+  "key": "UCTulKzR5sldNq2eAxxdaEuA",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "oTp__CliVl4fMJvB2WNu9-_MFtc",
+    "id": "UCTulKzR5sldNq2eAxxdaEuA",
+    "snippet": {
+      "title": "CrewAI",
+      "description": "CrewAI is the leading cutting-edge Python framework for orchestrating role-playing autonomous AI agents.",
+      "customUrl": "@crewaiinc",
+      "publishedAt": "2024-08-26T18:35:36.359708Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ZjHTUCoM7Hj2VCwrg8FEulFlzJEoRLKf6li0wrVVOzR7N2NJnPLKRK6E-MtopMiX9-0Qb9IBXw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ZjHTUCoM7Hj2VCwrg8FEulFlzJEoRLKf6li0wrVVOzR7N2NJnPLKRK6E-MtopMiX9-0Qb9IBXw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ZjHTUCoM7Hj2VCwrg8FEulFlzJEoRLKf6li0wrVVOzR7N2NJnPLKRK6E-MtopMiX9-0Qb9IBXw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "CrewAI",
+        "description": "CrewAI is the leading cutting-edge Python framework for orchestrating role-playing autonomous AI agents."
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "161476",
+      "subscriberCount": "6790",
+      "hiddenSubscriberCount": false,
+      "videoCount": "25"
+    }
+  }
+}

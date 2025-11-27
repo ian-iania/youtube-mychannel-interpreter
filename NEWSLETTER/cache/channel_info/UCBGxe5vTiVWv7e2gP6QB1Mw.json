@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285735.783206,
+  "cache_type": "channel_info",
+  "key": "UCBGxe5vTiVWv7e2gP6QB1Mw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "SFVWFDzmf7cxNOaO_QGU6-PjNzw",
+    "id": "UCBGxe5vTiVWv7e2gP6QB1Mw",
+    "snippet": {
+      "title": "Boris Meinardus",
+      "description": "👨🏻‍🎓 I like to train Neural Networks and understand intelligence\n👨🏻‍💻 I talk about how to learn Machine Learning, how to get a job, and life as an ML researcher",
+      "customUrl": "@borismeinardus",
+      "publishedAt": "2013-11-02T16:07:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mJP5gPRQporlNIUGXbqYWy3AClTTSO1hAkqyh8XFWHm6s=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mJP5gPRQporlNIUGXbqYWy3AClTTSO1hAkqyh8XFWHm6s=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mJP5gPRQporlNIUGXbqYWy3AClTTSO1hAkqyh8XFWHm6s=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Boris Meinardus",
+        "description": "👨🏻‍🎓 I like to train Neural Networks and understand intelligence\n👨🏻‍💻 I talk about how to learn Machine Learning, how to get a job, and life as an ML researcher"
+      },
+      "country": "JP"
+    },
+    "statistics": {
+      "viewCount": "3836629",
+      "subscriberCount": "95500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "75"
+    }
+  }
+}

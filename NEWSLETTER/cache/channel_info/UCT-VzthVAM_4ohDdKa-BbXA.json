@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285746.5935931,
+  "cache_type": "channel_info",
+  "key": "UCT-VzthVAM_4ohDdKa-BbXA",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "nlR8yzOtoo7OqPpV-BqI_YRF3p4",
+    "id": "UCT-VzthVAM_4ohDdKa-BbXA",
+    "snippet": {
+      "title": "Google Research",
+      "description": "Welcome to the official YouTube channel for Google Research. Explore video content that tackles state of the art research across Google like ML/AI, robotics, theory and algorithms, quantum computing, health, bioscience, and much more. Learn about the latest publications, research breakthroughs and the people behind them. ",
+      "customUrl": "@googleresearch",
+      "publishedAt": "2022-08-01T19:51:49.283652Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/RJES6cpDR9eFVhmBL2k6nAVUDD0XVVHrN6ibvFWDAewEYEAZmhkKehOM8hm6yyu-rke3L98C8VI=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/RJES6cpDR9eFVhmBL2k6nAVUDD0XVVHrN6ibvFWDAewEYEAZmhkKehOM8hm6yyu-rke3L98C8VI=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/RJES6cpDR9eFVhmBL2k6nAVUDD0XVVHrN6ibvFWDAewEYEAZmhkKehOM8hm6yyu-rke3L98C8VI=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Google Research",
+        "description": "Welcome to the official YouTube channel for Google Research. Explore video content that tackles state of the art research across Google like ML/AI, robotics, theory and algorithms, quantum computing, health, bioscience, and much more. Learn about the latest publications, research breakthroughs and the people behind them. "
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "4892862",
+      "subscriberCount": "545000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "107"
+    }
+  }
+}

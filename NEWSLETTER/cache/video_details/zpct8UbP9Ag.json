@@ -1,0 +1,69 @@
+{
+  "cached_at": 1764285760.942454,
+  "cache_type": "video_details",
+  "key": "zpct8UbP9Ag",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "SfNcvqzJu_xZNY47aAc_wifAeJg",
+    "id": "zpct8UbP9Ag",
+    "snippet": {
+      "publishedAt": "2025-11-26T18:30:13Z",
+      "channelId": "UCgc3NEslE8oISOEawhcpMCA",
+      "title": "Building Agents in Copilot Studio 101",
+      "description": "In the “Building Agents in Copilot Studio 101” webinar, we demonstrate agent creation, integration of tools and knowledge, use of child and connected agents, and practical orchestration strategies. Advanced features like multi-agent setups, Model Context Protocol (MCP) support, and analytics for monitoring are also introduced.\n\nMicrosoft CAT AI Webinars are a series of interactive virtual sessions designed to help your organization adopt Microsoft Copilot Studio and agents. In these sessions, you'll engage with Microsoft experts and other customers to gain the knowledge and skills needed to successfully adopt and thrive with agents in your organization. \n\nExplore sessions and sign up to attend a webinar live: https://aka.ms/CAT/AIWebinars\n\n#PowerCAT #PowerPlatform #CopilotStudio #Copilot #MicrosoftAgents #MCP #MicrosoftCommunity",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zpct8UbP9Ag/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zpct8UbP9Ag/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zpct8UbP9Ag/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zpct8UbP9Ag/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zpct8UbP9Ag/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Power Platform",
+      "tags": [
+        "PowerApps"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Building Agents in Copilot Studio 101",
+        "description": "In the “Building Agents in Copilot Studio 101” webinar, we demonstrate agent creation, integration of tools and knowledge, use of child and connected agents, and practical orchestration strategies. Advanced features like multi-agent setups, Model Context Protocol (MCP) support, and analytics for monitoring are also introduced.\n\nMicrosoft CAT AI Webinars are a series of interactive virtual sessions designed to help your organization adopt Microsoft Copilot Studio and agents. In these sessions, you'll engage with Microsoft experts and other customers to gain the knowledge and skills needed to successfully adopt and thrive with agents in your organization. \n\nExplore sessions and sign up to attend a webinar live: https://aka.ms/CAT/AIWebinars\n\n#PowerCAT #PowerPlatform #CopilotStudio #Copilot #MicrosoftAgents #MCP #MicrosoftCommunity"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1H5M",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "483",
+      "likeCount": "25",
+      "favoriteCount": "0"
+    }
+  }
+}

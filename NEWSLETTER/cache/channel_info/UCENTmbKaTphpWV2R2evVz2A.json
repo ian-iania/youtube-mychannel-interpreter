@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285752.6633642,
+  "cache_type": "channel_info",
+  "key": "UCENTmbKaTphpWV2R2evVz2A",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "58d7LDeHb8A3MXDvE7IPVkVeADc",
+    "id": "UCENTmbKaTphpWV2R2evVz2A",
+    "snippet": {
+      "title": "James Montemagno",
+      "description": "All things .NET! Come learn C#, .NET MAUI, Blazor, Blazor Hybrid, .NET Aspire, and so much more!\n\nBe humble\n",
+      "customUrl": "@jamesmontemagno",
+      "publishedAt": "2013-02-06T23:24:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zhjjuxzZqxIrj2ndJ2G0XzRm4q6-teJNFeaPA-0BhV3hYo_lOqpWdPxk8MSpP4xQXF5FgTgj=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zhjjuxzZqxIrj2ndJ2G0XzRm4q6-teJNFeaPA-0BhV3hYo_lOqpWdPxk8MSpP4xQXF5FgTgj=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zhjjuxzZqxIrj2ndJ2G0XzRm4q6-teJNFeaPA-0BhV3hYo_lOqpWdPxk8MSpP4xQXF5FgTgj=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "James Montemagno",
+        "description": "All things .NET! Come learn C#, .NET MAUI, Blazor, Blazor Hybrid, .NET Aspire, and so much more!\n\nBe humble\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "8995006",
+      "subscriberCount": "164000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "409"
+    }
+  }
+}

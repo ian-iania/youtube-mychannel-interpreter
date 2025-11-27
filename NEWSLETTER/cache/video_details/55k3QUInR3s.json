@@ -1,0 +1,74 @@
+{
+  "cached_at": 1764285758.333051,
+  "cache_type": "video_details",
+  "key": "55k3QUInR3s",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "zm85FD-yZupi2yPdOU7wnGsGz8M",
+    "id": "55k3QUInR3s",
+    "snippet": {
+      "publishedAt": "2025-11-24T20:57:32Z",
+      "channelId": "UChpleBmo18P08aKCIgti38g",
+      "title": "AI Video Editing Hack",
+      "description": "🎥 BTS of my filming setup\n\n… but with a little help from Meta’s new SAM 3 model.\n\nI uploaded a quick BTS video and SAM 3 locked onto my laptop, camera, mic, and monitor, tracking each one separately and automatically for me.\n\nThat means I can spotlight gear while I’m talking about it, blur the rest of the desk, then switch focus to another object without ever cutting the clip.\n\nNormally this would take forever to do using traditional editing software, but SAM 3 makes it automatic.\n\nYou can try it now in the Segment Anything playground at segment-anything.com, and it’s coming soon to Instagram Edits!\n\n#Ad #AI #Meta #SAM3 #CreatorTools #EditingHack",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/55k3QUInR3s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/55k3QUInR3s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/55k3QUInR3s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/55k3QUInR3s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/55k3QUInR3s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Matt Wolfe",
+      "tags": [
+        "#AI",
+        "#CreatorTools",
+        "#EditingHack",
+        "#Meta",
+        "#SAM3"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "AI Video Editing Hack",
+        "description": "🎥 BTS of my filming setup\n\n… but with a little help from Meta’s new SAM 3 model.\n\nI uploaded a quick BTS video and SAM 3 locked onto my laptop, camera, mic, and monitor, tracking each one separately and automatically for me.\n\nThat means I can spotlight gear while I’m talking about it, blur the rest of the desk, then switch focus to another object without ever cutting the clip.\n\nNormally this would take forever to do using traditional editing software, but SAM 3 makes it automatic.\n\nYou can try it now in the Segment Anything playground at segment-anything.com, and it’s coming soon to Instagram Edits!\n\n#Ad #AI #Meta #SAM3 #CreatorTools #EditingHack"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT53S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "11922",
+      "likeCount": "370",
+      "favoriteCount": "0",
+      "commentCount": "12"
+    }
+  }
+}

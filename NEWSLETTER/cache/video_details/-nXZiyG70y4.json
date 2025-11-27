@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285776.8851578,
+  "cache_type": "video_details",
+  "key": "-nXZiyG70y4",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "gPOEt2WdGt6uHLdA4lwzeV776Qo",
+    "id": "-nXZiyG70y4",
+    "snippet": {
+      "publishedAt": "2025-11-25T18:33:09Z",
+      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+      "title": "Lula vive tensão com Congresso após escolha de Messias e crise com Motta",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-nXZiyG70y4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-nXZiyG70y4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-nXZiyG70y4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-nXZiyG70y4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-nXZiyG70y4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "exame",
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Lula vive tensão com Congresso após escolha de Messias e crise com Motta",
+        "description": ""
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT2M28S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1572",
+      "likeCount": "61",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

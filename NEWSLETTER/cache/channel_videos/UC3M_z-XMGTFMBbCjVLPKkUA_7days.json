@@ -1,0 +1,109 @@
+{
+  "cached_at": 1764285753.7313201,
+  "cache_type": "channel_videos",
+  "key": "UC3M_z-XMGTFMBbCjVLPKkUA_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MehRzEF5GmtBqBnjwiJLiyG1SPI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bsqf8x3FQRU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T12:00:21Z",
+        "channelId": "UC3M_z-XMGTFMBbCjVLPKkUA",
+        "title": "Google Antigravity + n8n: Criei um Agente Financeiro com a NOVA IA do Google!",
+        "description": "Você já imaginou ter um assistente que organiza suas finanças, categoriza gastos e te dá relatórios, tudo 100% no automático?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bsqf8x3FQRU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bsqf8x3FQRU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bsqf8x3FQRU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jonathan da Cruz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T12:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eNFt5ol5nVmJz1k6ARztF7pMI_c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZArTQZ3OB84"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T11:30:38Z",
+        "channelId": "UC3M_z-XMGTFMBbCjVLPKkUA",
+        "title": "COBIT 2019 Descomplicado: Princípios e Objetivos em 20 Minutos.",
+        "description": "A Governança de TI parece um bicho de sete cabeças para você? Muitos profissionais travam na hora de entender a diferença ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZArTQZ3OB84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZArTQZ3OB84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZArTQZ3OB84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jonathan da Cruz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T11:30:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c2Psx_OQCwYtiPYsntrx8dmU7Yk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y7EqDGGPxko"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T21:30:18Z",
+        "channelId": "UC3M_z-XMGTFMBbCjVLPKkUA",
+        "title": "Gemini 3 + Antigravity: O Fim do GPT-4? (Testei na Prática + Fluxo n8n)",
+        "description": "Finalmente testei o GEMINI 3 e o recurso ANTIGRAVITY! Será que o Google acabou de matar as outras IAs ou é apenas hype?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y7EqDGGPxko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y7EqDGGPxko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y7EqDGGPxko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jonathan da Cruz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T21:30:18Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "cached_at": 1764285771.567034,
+  "cache_type": "video_details",
+  "key": "eSbeub2ZeNk",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "nmN4tVdurUh8ZD_ZnRGNresodsE",
+    "id": "eSbeub2ZeNk",
+    "snippet": {
+      "publishedAt": "2025-11-23T22:52:49Z",
+      "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+      "title": "Build & Deploy a Python AI Agent in 20 Minutes",
+      "description": "Click this link https://www.boot.dev?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for boot.dev.\n\nIn this video, I'll show you how to build and deploy an AI agent in Python in a matter of minutes. We'll not write every single line of code completely from scratch, but I will cover all of the important concepts and all the code and demos that you need.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=eSbeub2ZeNk\n\n🎞 Video Resources 🎞\nVercel: https://vercel.com/docs/cli?package-manager=npm\nNodeJS: https://nodejs.org/en\nOpenAI Platform (API Keys): https://platform.openai.com/api-keys\nCode In This Video: https://github.com/techwithtim/BuildAndDeployAIAgent\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:33 | Tools & Architecture\n02:14 | Setup & Install\n06:30 | Writing the Agent \n12:09 | Writing the API\n15:00 | HTML Template \n16:48 | Testing the Code\n18:00 | Deploying to Vercel\n\nHashtags\n#Python #AIAgents #SoftwareEngineer",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eSbeub2ZeNk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eSbeub2ZeNk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eSbeub2ZeNk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eSbeub2ZeNk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Tech With Tim",
+      "tags": [
+        "tech with tim",
+        "python ai tutorial",
+        "build deploy ai agent",
+        "machine learning python",
+        "ai project in 20 minutes",
+        "python automation",
+        "openai api integration",
+        "python coding for ai",
+        "quick ai development",
+        "ai chatbot development",
+        "ai agent build guide",
+        "python scripting for ai",
+        "ai programming tutorial",
+        "rapid ai deployment",
+        "step-by-step ai build",
+        "ai application development",
+        "Boot.Dev"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Build & Deploy a Python AI Agent in 20 Minutes",
+        "description": "Click this link https://www.boot.dev?promo=TECHWITHTIM and use my code TECHWITHTIM to get 25% off your first payment for boot.dev.\n\nIn this video, I'll show you how to build and deploy an AI agent in Python in a matter of minutes. We'll not write every single line of code completely from scratch, but I will cover all of the important concepts and all the code and demos that you need.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=eSbeub2ZeNk\n\n🎞 Video Resources 🎞\nVercel: https://vercel.com/docs/cli?package-manager=npm\nNodeJS: https://nodejs.org/en\nOpenAI Platform (API Keys): https://platform.openai.com/api-keys\nCode In This Video: https://github.com/techwithtim/BuildAndDeployAIAgent\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:33 | Tools & Architecture\n02:14 | Setup & Install\n06:30 | Writing the Agent \n12:09 | Writing the API\n15:00 | HTML Template \n16:48 | Testing the Code\n18:00 | Deploying to Vercel\n\nHashtags\n#Python #AIAgents #SoftwareEngineer"
+      },
+      "defaultAudioLanguage": "en-CA"
+    },
+    "contentDetails": {
+      "duration": "PT23M16S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "22372",
+      "likeCount": "810",
+      "favoriteCount": "0",
+      "commentCount": "19"
+    }
+  }
+}

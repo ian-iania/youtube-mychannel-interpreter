@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285751.530876,
+  "cache_type": "video_details",
+  "key": "uXypOB0gCIU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "03ZV9bs9m1H4pHMbJ2MoWMwl3NE",
+    "id": "uXypOB0gCIU",
+    "snippet": {
+      "publishedAt": "2025-11-24T11:01:48Z",
+      "channelId": "UCQy7CQvtuGSKp-2VGtmTAuQ",
+      "title": "NOVO NotebookLM da Google Agora com Slides e Infográficos Supera ChatGPT na Educação",
+      "description": "Aprenda Inteligência Artificial! \n\n▸ Aprenda Agentes iA: https://www.youtube.com/playlist?list=PLYAGaVIlnsYYwZrQdUFFSb2dCpNWByG55\n▸ Seja MEMBRO: https://www.youtube.com/@inteligenciamilgrau/join\n▸ https://www.inteligenciamilgrau.com\n▸ Instagram: https://www.instagram.com/inteligenciamilgrau/ @inteligenciamilgrau\n▸ Facebook: https://www.facebook.com/inteligenciamilgrau\n▸ GitHub: https://github.com/inteligenciamilgrau\n\nMaximiza iA - Agentes Inteligentes para Empresas\nhttps://forms.gle/nokGjeYF8QhxVZ1s6\n\nLinks:\nhttps://x.com/NotebookLM/status/1991575294352740686\nhttps://x.com/NotebookLM/status/1991574926046687683\nhttps://blog.google/technology/google-labs/video-overviews-nano-banana/\nhttps://blog.google/technology/google-labs/notebooklm-deep-research-file-types/\nhttps://the-decoder.com/gemini-3-pro-and-gpt-5-still-fail-at-complex-physics-tasks-designed-for-real-scientific-research/\n\n00:00 Intro\n01:02 NotebookLM Atualizado agora faz Infográficos e Slides\n03:21 A Integração com Nano Banana e Deep Research\n04:21 Testando na Prática o NotebookLM Atualizado\n06:18 Configurando e Gerando os Infográficos e Slides\n08:18 Vendo o Resultado das Gerações dos Slides e Infográficos\n12:12 Pontos Negativos do NotebookLM\n14:30 Avaliando a Alucinação nos Slides na Prática",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uXypOB0gCIU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uXypOB0gCIU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uXypOB0gCIU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uXypOB0gCIU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uXypOB0gCIU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Inteligência Mil Grau",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt",
+      "localized": {
+        "title": "NOVO NotebookLM da Google Agora com Slides e Infográficos Supera ChatGPT na Educação",
+        "description": "Aprenda Inteligência Artificial! \n\n▸ Aprenda Agentes iA: https://www.youtube.com/playlist?list=PLYAGaVIlnsYYwZrQdUFFSb2dCpNWByG55\n▸ Seja MEMBRO: https://www.youtube.com/@inteligenciamilgrau/join\n▸ https://www.inteligenciamilgrau.com\n▸ Instagram: https://www.instagram.com/inteligenciamilgrau/ @inteligenciamilgrau\n▸ Facebook: https://www.facebook.com/inteligenciamilgrau\n▸ GitHub: https://github.com/inteligenciamilgrau\n\nMaximiza iA - Agentes Inteligentes para Empresas\nhttps://forms.gle/nokGjeYF8QhxVZ1s6\n\nLinks:\nhttps://x.com/NotebookLM/status/1991575294352740686\nhttps://x.com/NotebookLM/status/1991574926046687683\nhttps://blog.google/technology/google-labs/video-overviews-nano-banana/\nhttps://blog.google/technology/google-labs/notebooklm-deep-research-file-types/\nhttps://the-decoder.com/gemini-3-pro-and-gpt-5-still-fail-at-complex-physics-tasks-designed-for-real-scientific-research/\n\n00:00 Intro\n01:02 NotebookLM Atualizado agora faz Infográficos e Slides\n03:21 A Integração com Nano Banana e Deep Research\n04:21 Testando na Prática o NotebookLM Atualizado\n06:18 Configurando e Gerando os Infográficos e Slides\n08:18 Vendo o Resultado das Gerações dos Slides e Infográficos\n12:12 Pontos Negativos do NotebookLM\n14:30 Avaliando a Alucinação nos Slides na Prática"
+      },
+      "defaultAudioLanguage": "pt"
+    },
+    "contentDetails": {
+      "duration": "PT24M26S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "11861",
+      "likeCount": "822",
+      "favoriteCount": "0",
+      "commentCount": "28"
+    }
+  }
+}

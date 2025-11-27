@@ -1,0 +1,449 @@
+{
+  "cached_at": 1764285760.335999,
+  "cache_type": "channel_videos",
+  "key": "UC0m-80FnNY2Qb7obvTL_2fA_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3X_RHwE2FbDgPLpAVjj_8LsZK3Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iWi8M5qsKAk"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T16:01:15Z",
+        "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+        "title": "Future of Cloud: Language of Nature",
+        "description": "In this episode of Future of Cloud: Language of Nature, we trace how the logic of living systems is shaping the next era of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iWi8M5qsKAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iWi8M5qsKAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iWi8M5qsKAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Azure",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T16:01:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nwU9luqq2Rxn4Ks5X9QNuClXK1I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zjwIw_dHsEo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T02:47:39Z",
+        "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+        "title": "Designing Proteins with AI at UW With Microsoft Foundry",
+        "description": "See how University of Washington uses Microsoft Foundry to design new proteins for medicine, technology, and sustainability.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zjwIw_dHsEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zjwIw_dHsEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zjwIw_dHsEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Azure",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T02:47:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fNubbTjb3GA87KMgPFb36MQOy-A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MjLAirBuGY4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T02:46:42Z",
+        "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+        "title": "Orderfox: AI Powered Supply Chains at Scale With Microsoft Foundry",
+        "description": "Orderfox uses AI and Microsoft Foundry to power efficient, data-driven supply chains, connecting buyers and suppliers, enabling ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MjLAirBuGY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MjLAirBuGY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MjLAirBuGY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Azure",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T02:46:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8VIjDb7mkzZisvckBJu1btfAf2c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L0fPilA79_A"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T02:47:01Z",
+        "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+        "title": "Lufthansa Technik: AI That Optimizes Aircraft Maintenance With Microsoft Foundry",
+        "description": "Discover how Lufthansa Technik leverages AI and Microsoft Foundry to revolutionize aircraft maintenance. See how these ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L0fPilA79_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L0fPilA79_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L0fPilA79_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Azure",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T02:47:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8F3NXdpoULIqlwiUFR0l9Vky5D4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "whViU04ek2U"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T02:46:21Z",
+        "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+        "title": "Blue Yonder Powers Responsible Supply Chains With Microsoft Foundry",
+        "description": "Learn about the integration of responsible AI principles throughout the development lifecycle, ensuring safety, compliance, trust, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/whViU04ek2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/whViU04ek2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/whViU04ek2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Azure",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T02:46:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZvChoqwE0NwQOpXnwEbk5PjFQak",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z0wsw8znndg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T02:47:19Z",
+        "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+        "title": "Founderz Makes Online Learning Human With Microsoft Foundry",
+        "description": "Founderz is making online learning more human with diverse learning circles, AI-powered assistants, and a mission to ensure ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z0wsw8znndg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z0wsw8znndg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z0wsw8znndg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Azure",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T02:47:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tO-3SKU0Ufc3Vjee5sLibDW90DI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VxcsxhmJToE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T02:46:01Z",
+        "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+        "title": "Pantone’s Palette Generator enhances creative exploration with agentic AI on Azure",
+        "description": "Pantone empower designers with AI-driven color insights, instant trend forecasting, and seamless access to expert palettes for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VxcsxhmJToE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VxcsxhmJToE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VxcsxhmJToE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Azure",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T02:46:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JW_SdR1zG2KenrPF-fIaTJLEHkE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gNa9FP5up9Q"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T02:45:40Z",
+        "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+        "title": "Growing at the Speed of AI: Sierra’s Journey With Microsoft Foundry",
+        "description": "Discover how Sierra uses Microsoft Foundry and Azure OpenAI to power AI agents that transform customer experiences, solve ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gNa9FP5up9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gNa9FP5up9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gNa9FP5up9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Azure",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T02:45:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JboRbnFwOerx_0vdvHNB839v02g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4qqSPSMJSFY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T01:39:26Z",
+        "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+        "title": "Microsoft Azure Key Vault HSM Animated Explainer",
+        "description": "This video helps you understand Azure Key Vault Hardware Security Modules (HSM) that help keep your data on the Azure ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4qqSPSMJSFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4qqSPSMJSFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4qqSPSMJSFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Azure",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T01:39:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WHNgdKFI-HDbgyhE30CuAeF_hjQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2raGD8wS3ZU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T01:38:27Z",
+        "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+        "title": "Microsoft Azure Hardware Security Module (HSM): Helping you with data security and sovereignty",
+        "description": "Microsoft Azure Key Vault Managed HSM helps keep your data away from those that aren't entitled to access it, including ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2raGD8wS3ZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2raGD8wS3ZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2raGD8wS3ZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Azure",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T01:38:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0zXmiPylorxbQ8e2Xr1u2GLIVIo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iEAk3UqzVJg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T22:22:54Z",
+        "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+        "title": "Premier League drives deep fan connection with Azure Cosmos DB",
+        "description": "The Premier League unified massive, diverse datasets and enabled real-time, personalized fan experiences using Microsoft ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iEAk3UqzVJg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iEAk3UqzVJg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iEAk3UqzVJg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Azure",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T22:22:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4ZSqLQgit2lZIhl7U-w6qE4BoVM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "klRaDzcu9IE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T19:41:47Z",
+        "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+        "title": "Premier League personalizes fan experiences with Microsoft Foundry",
+        "description": "The Premier League is forging deep connections with its growing global fanbase, using Azure AI to unify data and personalize ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/klRaDzcu9IE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/klRaDzcu9IE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/klRaDzcu9IE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Azure",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T19:41:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0M75K588ABzWaE3N9V1G3xBTt_Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ldfhEbR5clM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T19:36:25Z",
+        "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+        "title": "Arun Ulag revealed his top 3 announcements for Microsoft Databases and Microsoft Fabric",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ldfhEbR5clM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ldfhEbR5clM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ldfhEbR5clM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Azure",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T19:36:25Z"
+      }
+    }
+  ]
+}

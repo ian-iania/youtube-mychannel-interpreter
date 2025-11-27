@@ -1,0 +1,347 @@
+{
+  "cached_at": 1764285747.3463838,
+  "cache_type": "channel_videos",
+  "key": "UC_x5XG1OV2P6uZZ5FSM9Ttw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EsXDPw3UqqMfwJpPst4TMiAzGt8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V8COJv2dG2g"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T00:00:40Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "That &quot;quick question&quot; at 4:59 PM always hits different. 😅",
+        "description": "We know the question won't be quick. Subscribe to Google for Developers → https://goo.gle/developers Speaker: Crystal Endless.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V8COJv2dG2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V8COJv2dG2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V8COJv2dG2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T00:00:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UAQCYpIx0EBH4GOTJGu7LA4-a7g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a7nJeXk6VxU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T17:00:00Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Vibe coding and context engineering with ADK",
+        "description": "Go from an empty folder to a fully deployed AI agent using only natural language. This video introduces \"vibe coding,\" a powerful ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a7nJeXk6VxU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a7nJeXk6VxU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a7nJeXk6VxU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T17:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bHjT7FvZytjfdta62BdMWU2_Qr0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iFqDyWFuw1c"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T23:00:42Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Sundar Pichai: Gemini 3, Vibe Coding and Google&#39;s Full Stack Strategy",
+        "description": "Logan Kilpatrick from Google DeepMind sits down with Sundar Pichai, CEO of Google and Alphabet to discuss the launch of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iFqDyWFuw1c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iFqDyWFuw1c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iFqDyWFuw1c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T23:00:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5GJKNpHy0w1fpjBI-uoAnvSLJBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YwYu1JWvn-8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T17:51:10Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What is a reliable system? An SRE perspective",
+        "description": "Reliable systems are a way to respect the user and deliver systems that degrade gracefully. A reliable system also anticipates ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YwYu1JWvn-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YwYu1JWvn-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YwYu1JWvn-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T17:51:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "80TAUrumRttp-CaXZYBGDut5yds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fBshJ_ps6WI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T17:01:15Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "How to build reliable AI Agents?",
+        "description": "Join Ivan and Aparna Dhinakaran, CPO of Arize AI, as they discuss the challenges of moving AI agents from prototype to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fBshJ_ps6WI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fBshJ_ps6WI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fBshJ_ps6WI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T17:01:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_wWSz_-2RaGkv8hFNZk0Fb1n9XI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hk6gwiZmSWA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T01:39:39Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Nano Banana Pro: Hands-on with the World’s Most Powerful Image Model",
+        "description": "Introducing Nano Banana Pro, a powerful model built on Gemini 3 Pro, designed to enhance text rendering, infographics, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hk6gwiZmSWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hk6gwiZmSWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hk6gwiZmSWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T01:39:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c1MMmYRmcGvhPYomPMoq6BLE06k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fXtna7UrL44"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T22:37:26Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Koray Kavukcuoglu: “This Is How We Are Going to Build AGI”",
+        "description": "Join Logan Kilpatrick and Koray Kavukcuoglu, CTO of Google DeepMind and Chief AI Architect of Google, as they discuss Gemini ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fXtna7UrL44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fXtna7UrL44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fXtna7UrL44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T22:37:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jkte32pyebxsvdKf-KjSp34TSLs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yil8Gpd6dLg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T14:01:07Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What&#39;s happening under the hood with C&#39;s type conversion rules? Go!",
+        "description": "Today's C dev challenge explores a common source of bugs. At first glance, -1 is clearly less than 1, but C's type conversion rules ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yil8Gpd6dLg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yil8Gpd6dLg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yil8Gpd6dLg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T14:01:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cjJjBPJeeC_CLqcxSuiL5WdCXdc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9oYHU1hdDog"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T00:00:10Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Agents, AI &amp; The Next Wave: Mike Clark on Vertex AI at DevFest Silicon Valley",
+        "description": "AI just reset the developer playbook. In this DevFest Silicon Valley sit-down, Mike Clark (Google's Director of Product ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9oYHU1hdDog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9oYHU1hdDog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9oYHU1hdDog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T00:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-JpKe6pTsNV6dMM4DdYBQpbYTYc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9EGtawwvlNs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T21:45:49Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Build an AI Agent with Gemini 3",
+        "description": "Gemini 3 is our most intelligent model yet that helps you bring any idea to life. In this video, you'll learn how to build an AI Agent ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9EGtawwvlNs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9EGtawwvlNs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9EGtawwvlNs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T21:45:49Z"
+      }
+    }
+  ]
+}

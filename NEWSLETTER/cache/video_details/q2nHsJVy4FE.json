@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.9590468,
+  "cache_type": "video_details",
+  "key": "q2nHsJVy4FE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "qKSHvX2XeRp7B-8ASWCJtuo_C1w",
+    "id": "q2nHsJVy4FE",
+    "snippet": {
+      "publishedAt": "2025-11-24T20:16:38Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "Compilers in the Age of LLMs — Yusuf Olokoba, Muna",
+      "description": "Python is where ideas start—but it isn't where portable, low-latency software ends. In this talk, I'll show how we use LLMs inside a constrained, verifiable compiler pipeline to turn plain Python functions into self-contained native binaries that run anywhere (cloud, desktop, mobile & web); and how our customers use this technology to run open-source AI models locally and in the cloud with the familiar OpenAI client experience.\n\nYusuf Olokoba is the founder of Muna, specializing in code generation for AI inference workloads. He previously co-founded a real estate technology startup, backed by First Round Capital and Bessemer, which was later acquired. He holds patents in computer vision and augmented reality, powering augmented reality experiences used by millions of users. Yusuf holds a B.A. in computer science from Dartmouth College and is an alumnus of South Park Commons.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/olokobayusuf/\n- X (Twitter): https://x.com/olokobayusuf\n- GitHub: https://github.com/olokobayusuf\n- Company: Muna (https://muna.ai)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q2nHsJVy4FE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q2nHsJVy4FE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q2nHsJVy4FE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/q2nHsJVy4FE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/q2nHsJVy4FE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Compilers in the Age of LLMs — Yusuf Olokoba, Muna",
+        "description": "Python is where ideas start—but it isn't where portable, low-latency software ends. In this talk, I'll show how we use LLMs inside a constrained, verifiable compiler pipeline to turn plain Python functions into self-contained native binaries that run anywhere (cloud, desktop, mobile & web); and how our customers use this technology to run open-source AI models locally and in the cloud with the familiar OpenAI client experience.\n\nYusuf Olokoba is the founder of Muna, specializing in code generation for AI inference workloads. He previously co-founded a real estate technology startup, backed by First Round Capital and Bessemer, which was later acquired. He holds patents in computer vision and augmented reality, powering augmented reality experiences used by millions of users. Yusuf holds a B.A. in computer science from Dartmouth College and is an alumnus of South Park Commons.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/olokobayusuf/\n- X (Twitter): https://x.com/olokobayusuf\n- GitHub: https://github.com/olokobayusuf\n- Company: Muna (https://muna.ai)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT17M36S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2171",
+      "likeCount": "71",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

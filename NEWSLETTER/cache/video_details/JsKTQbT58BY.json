@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.9577851,
+  "cache_type": "video_details",
+  "key": "JsKTQbT58BY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "4Y6zejuzcfWv0Nqi0PWHB5igFt8",
+    "id": "JsKTQbT58BY",
+    "snippet": {
+      "publishedAt": "2025-11-24T20:16:36Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "The Cure for the Vibe Coding Hangover — Corey J. Gallon, Rexmore",
+      "description": "Download the slides, soundtrack and other resources from this talk at: https://vibecodinghangover.com\n\nInspiration strikes! You fire up your favorite AI coding agent and tell it \"Build me an app that...\" The agent grinds away, furiously, and spits back a torrent of code and it works! You’re a masterful rebel in the AI revolution!\n\nBut, then, you want to change something. You want to add a feature. You want to evolve it to production software; or, perhaps you come back to it a week later. You realize you don't understand it, can't maintain it, and have to throw most or all of it all away.\n\n\"Vibe Coding\" is the low-spec, zero-planning approach to AI accelerated development that feels productive but results in brittle, unmaintainable demoware. The hangover is the resulting despair when you try to build maintainable, understandable software this way. The cure is building software with AI coding agents by applying this framework.\n\nYou’ll love this talk if:\n\n- You value programming as a daily learning experience.\n- You want to understand and own this software as you do all of the other software that you write.\n- You want to be the boss of the coding agents, not their confused intern.\n- Working with AI coding agents makes you feel like a prompt jockey, no longer an AI engineer.\n- You're sick of throwing away code, burning time and tokens.\n- You want to use coding agents to build production applications that do real work.\n\nWe'll walk through a practical framework - comprising a set of Principles, a Process, and Tools - that enables AI engineers to build, own, and maintain complex, real-world software applications using AI coding agents. This is not a conceptual framework, it is applied. It has been distilled and simplified from years of engineering work in the trenches of building software with AI coding agents. This framework has been taught and implemented across many teams, and has transformed the productivity of AI engineers in companies from solo shops to Fortune 500. We'll focus on the first crucial phase of software development: \"Make it Work,” with clear ties to apply the framework to the remaining phases of “Make it Right” and “Make it Fast”.\n\n00:00 The Vibe Coding Hangover\n01:24 Introduction\n03:31 The Framework - Overview\n04:52 Principles\n16:46 Process - Overview\n17:28 Process - Planning\n38:26 Process - Implementation\n48:29 Tools\n56:10 The Morning After\n\nCorey J. Gallon is Head of an AI-native holding company and a battle-hardened AI engineer with a focus on building real, scaled software with AI coding agents. He is an AI coding agents OG, building coding agents since 2022 and one of the most significant contributors to GPT-Engineer (evolved into the startup Lovable). He was formerly Chief Innovation Officer, designer and leader of development of a large consulting firm's enterprise-scale AI coding agents platform. Corey is founding faculty of a university graduate AI & ML program, an artisan of specialty coffee, and a pickleball fanatic.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/coreygallon\n- X (Twitter): https://x.com/coreygallon\n- GitHub: https://github.com/captivus\n- Website: https://gallon.me\n- Company: Rexmore (https://rexmore.ai)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JsKTQbT58BY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JsKTQbT58BY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JsKTQbT58BY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JsKTQbT58BY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JsKTQbT58BY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "The Cure for the Vibe Coding Hangover — Corey J. Gallon, Rexmore",
+        "description": "Download the slides, soundtrack and other resources from this talk at: https://vibecodinghangover.com\n\nInspiration strikes! You fire up your favorite AI coding agent and tell it \"Build me an app that...\" The agent grinds away, furiously, and spits back a torrent of code and it works! You’re a masterful rebel in the AI revolution!\n\nBut, then, you want to change something. You want to add a feature. You want to evolve it to production software; or, perhaps you come back to it a week later. You realize you don't understand it, can't maintain it, and have to throw most or all of it all away.\n\n\"Vibe Coding\" is the low-spec, zero-planning approach to AI accelerated development that feels productive but results in brittle, unmaintainable demoware. The hangover is the resulting despair when you try to build maintainable, understandable software this way. The cure is building software with AI coding agents by applying this framework.\n\nYou’ll love this talk if:\n\n- You value programming as a daily learning experience.\n- You want to understand and own this software as you do all of the other software that you write.\n- You want to be the boss of the coding agents, not their confused intern.\n- Working with AI coding agents makes you feel like a prompt jockey, no longer an AI engineer.\n- You're sick of throwing away code, burning time and tokens.\n- You want to use coding agents to build production applications that do real work.\n\nWe'll walk through a practical framework - comprising a set of Principles, a Process, and Tools - that enables AI engineers to build, own, and maintain complex, real-world software applications using AI coding agents. This is not a conceptual framework, it is applied. It has been distilled and simplified from years of engineering work in the trenches of building software with AI coding agents. This framework has been taught and implemented across many teams, and has transformed the productivity of AI engineers in companies from solo shops to Fortune 500. We'll focus on the first crucial phase of software development: \"Make it Work,” with clear ties to apply the framework to the remaining phases of “Make it Right” and “Make it Fast”.\n\n00:00 The Vibe Coding Hangover\n01:24 Introduction\n03:31 The Framework - Overview\n04:52 Principles\n16:46 Process - Overview\n17:28 Process - Planning\n38:26 Process - Implementation\n48:29 Tools\n56:10 The Morning After\n\nCorey J. Gallon is Head of an AI-native holding company and a battle-hardened AI engineer with a focus on building real, scaled software with AI coding agents. He is an AI coding agents OG, building coding agents since 2022 and one of the most significant contributors to GPT-Engineer (evolved into the startup Lovable). He was formerly Chief Innovation Officer, designer and leader of development of a large consulting firm's enterprise-scale AI coding agents platform. Corey is founding faculty of a university graduate AI & ML program, an artisan of specialty coffee, and a pickleball fanatic.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/coreygallon\n- X (Twitter): https://x.com/coreygallon\n- GitHub: https://github.com/captivus\n- Website: https://gallon.me\n- Company: Rexmore (https://rexmore.ai)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT57M2S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "963",
+      "likeCount": "37",
+      "favoriteCount": "0",
+      "commentCount": "7"
+    }
+  }
+}

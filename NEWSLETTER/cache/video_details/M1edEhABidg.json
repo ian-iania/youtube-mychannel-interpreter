@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285746.041099,
+  "cache_type": "video_details",
+  "key": "M1edEhABidg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "YzeYhN3cAdfuSg_Negl1NciNBRQ",
+    "id": "M1edEhABidg",
+    "snippet": {
+      "publishedAt": "2025-11-27T12:31:41Z",
+      "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+      "title": "GitHub Trending Weekly #12: AlohaMini, ZAPI, cgpu, Z-Image, F1 Race Replay, s&box, corner-shape",
+      "description": "Today we’re diving into GitHub Trending Weekly #12, where we’re exploring 24 of the hottest open source projects that are taking the GitHub community by storm this week.\n\n00:00 - Introduction\n00:13 - AlohaMini https://github.com/liyiteng/AlohaMini\n00:40 - ZAPI https://github.com/adoptai/zapi\n01:08 - cgpu https://github.com/RohanAdwankar/cgpu\n01:31 - Z-Image https://github.com/Tongyi-MAI/Z-Image\n01:56 - F1 Race Replay https://github.com/IAmTomShaw/f1-race-replay\n02:23 - UptimeKit https://github.com/abhixdd/UptimeKit-CLI\n02:50 - corner-shape https://github.com/toolwind/corner-shape\n03:15 - History https://github.com/yorkeccak/history\n03:47 - FLUX.2 https://github.com/black-forest-labs/flux2\n04:15 - s&box https://github.com/Facepunch/sbox-public\n04:40 - smartcommit https://github.com/arpxspace/smartcommit\n05:05 - Infidex https://github.com/lofcz/Infidex\n05:30 - EGGROLL in C https://github.com/d0rc/egg.c\n05:56 - Agent SOP https://github.com/strands-agents/agent-sop\n06:20 - Person Tracker Card https://github.com/djdevil/person-tracker-card\n06:46 - Tabular Review for Lawyers https://github.com/jamietso/Tabular_Review\n07:14 - Foliox https://github.com/KartikLabhshetwar/foliox\n07:39 - splintr https://github.com/farhan-syah/splintr\n08:06 - CC-Switch CLI https://github.com/SaladDay/cc-switch-cli\n08:27 - PDF Stitcher & Stamp https://github.com/cclank/NLM2Img\n08:50 - warelay https://github.com/steipete/warelay\n09:11 - Agent Sandbox Skill https://github.com/disler/agent-sandbox-skill\n09:32 - Whole-Body MPC for Loco-Manipulation https://github.com/lukasmolnar/wb-mpc-locoman\n09:55 - Blueprint MCP https://github.com/ArcadeAI/blueprint-mcp\n\nhttps://githubawesome.com/github-trending-weekly-12-alohamini-zapi-cgpu-z-image-f1-race-replay-s-box-corner-shape/\n\nThank you so much for watching. Please like the video and subscribe to our channel. \n\n#github #ai #opensource",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/M1edEhABidg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/M1edEhABidg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/M1edEhABidg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/M1edEhABidg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/M1edEhABidg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Github Awesome",
+      "tags": [
+        "GitHub",
+        "GitHub Repositories",
+        "Trending GitHub",
+        "Trending",
+        "GitHub Open Source Projects",
+        "GitHub Trending",
+        "gitHub trending"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "GitHub Trending Weekly #12: AlohaMini, ZAPI, cgpu, Z-Image, F1 Race Replay, s&box, corner-shape",
+        "description": "Today we’re diving into GitHub Trending Weekly #12, where we’re exploring 24 of the hottest open source projects that are taking the GitHub community by storm this week.\n\n00:00 - Introduction\n00:13 - AlohaMini https://github.com/liyiteng/AlohaMini\n00:40 - ZAPI https://github.com/adoptai/zapi\n01:08 - cgpu https://github.com/RohanAdwankar/cgpu\n01:31 - Z-Image https://github.com/Tongyi-MAI/Z-Image\n01:56 - F1 Race Replay https://github.com/IAmTomShaw/f1-race-replay\n02:23 - UptimeKit https://github.com/abhixdd/UptimeKit-CLI\n02:50 - corner-shape https://github.com/toolwind/corner-shape\n03:15 - History https://github.com/yorkeccak/history\n03:47 - FLUX.2 https://github.com/black-forest-labs/flux2\n04:15 - s&box https://github.com/Facepunch/sbox-public\n04:40 - smartcommit https://github.com/arpxspace/smartcommit\n05:05 - Infidex https://github.com/lofcz/Infidex\n05:30 - EGGROLL in C https://github.com/d0rc/egg.c\n05:56 - Agent SOP https://github.com/strands-agents/agent-sop\n06:20 - Person Tracker Card https://github.com/djdevil/person-tracker-card\n06:46 - Tabular Review for Lawyers https://github.com/jamietso/Tabular_Review\n07:14 - Foliox https://github.com/KartikLabhshetwar/foliox\n07:39 - splintr https://github.com/farhan-syah/splintr\n08:06 - CC-Switch CLI https://github.com/SaladDay/cc-switch-cli\n08:27 - PDF Stitcher & Stamp https://github.com/cclank/NLM2Img\n08:50 - warelay https://github.com/steipete/warelay\n09:11 - Agent Sandbox Skill https://github.com/disler/agent-sandbox-skill\n09:32 - Whole-Body MPC for Loco-Manipulation https://github.com/lukasmolnar/wb-mpc-locoman\n09:55 - Blueprint MCP https://github.com/ArcadeAI/blueprint-mcp\n\nhttps://githubawesome.com/github-trending-weekly-12-alohamini-zapi-cgpu-z-image-f1-race-replay-s-box-corner-shape/\n\nThank you so much for watching. Please like the video and subscribe to our channel. \n\n#github #ai #opensource"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT10M21S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2244",
+      "likeCount": "87",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

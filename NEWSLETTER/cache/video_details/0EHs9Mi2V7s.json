@@ -1,0 +1,92 @@
+{
+  "cached_at": 1764285742.177331,
+  "cache_type": "video_details",
+  "key": "0EHs9Mi2V7s",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "76cwKsAsnhoAbe69mSdAI4Nezq4",
+    "id": "0EHs9Mi2V7s",
+    "snippet": {
+      "publishedAt": "2025-11-22T09:03:50Z",
+      "channelId": "UCOXRjenlq9PmlTqd_JhAbMQ",
+      "title": "Google Antigravity vs. Cursor: 3 Features That Changed My Workflow",
+      "description": "Google Antigravity just released, and it might change how we code forever.\n\nIn this video, I walk you through exactly how to set up Google Antigravity on your local machine and break down the three major features you need to know to master \"vibe coding\". We dive deep into the Agent Manager to orchestrate multiple AI agents, use the Agentic Browser to test UI changes in real-time, and swap between models like Gemini 3, Claude, and GPT.\n\nI also show you a full development workflow: from generating a plan and building the app to verifying it with the browser agent and generating AI commit messages.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔗 RESOURCES & LINKS\n\n🚀 Get a special discount on your TestSprite subscription with my affiliate link!\nhttps://www.testsprite.com/?via=eric\n\n💬 Free Community & Support\nJoin our Discord: https://discord.com/invite/erictech\n\n📅 Work With Me\n- New Projects - Free Strategy Call: https://calendar.app.google/sB9KrJP6e8j3EPmd9\n- Technical Consultation (Paid 1:1): https://calendar.app.google/BU9D589X3KNxnTeg6\n\n🤝 Let's Connect\nLinkedIn: https://www.linkedin.com/in/ericwtech/\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n⏱️ Timestamps:\n\n00:00 - Intro\n01:34 - Installation & Onboarding Setup \n02:14 - Feature 1: The Agent Manager (Orchestrator) \n04:43 - Feature 2: Agentic Browser & UI Validation \n05:32 - Multi-agents Dev Workflow\n08:01 - Feature 3: Using Multi-Models (Claude, GPT, Gemini 3) \n10:37 - TestSprite MCP\n11:39 - AI Generated Commit Messages\n12:25 - Wrap up\n\n#GoogleAntigravity #AICoding #SoftwareDevelopment",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0EHs9Mi2V7s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0EHs9Mi2V7s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0EHs9Mi2V7s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0EHs9Mi2V7s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0EHs9Mi2V7s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Eric Tech",
+      "tags": [
+        "google gemini 3",
+        "Google Antigravity",
+        "Google Antigravity vs Cursor",
+        "AI Code Editor",
+        "Agent Manager Antigravity",
+        "Gemini 3 Pro",
+        "Vibe Coding",
+        "Antigravity Tutorial",
+        "Agentic Browser",
+        "Google Antigravity Review",
+        "TestSprite",
+        "AI Agents for Coding",
+        "Claude in Antigravity",
+        "Best AI IDE 2025",
+        "Software Testing AI",
+        "automated coding workflow",
+        "Antigravity install guide",
+        "multi-model code editor",
+        "Gemini Code Assist",
+        "Google IDE",
+        "coding agent orchestration",
+        "gemini 3 benchmarks",
+        "google ai studio"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "Google Antigravity vs. Cursor: 3 Features That Changed My Workflow",
+        "description": "Google Antigravity just released, and it might change how we code forever.\n\nIn this video, I walk you through exactly how to set up Google Antigravity on your local machine and break down the three major features you need to know to master \"vibe coding\". We dive deep into the Agent Manager to orchestrate multiple AI agents, use the Agentic Browser to test UI changes in real-time, and swap between models like Gemini 3, Claude, and GPT.\n\nI also show you a full development workflow: from generating a plan and building the app to verifying it with the browser agent and generating AI commit messages.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔗 RESOURCES & LINKS\n\n🚀 Get a special discount on your TestSprite subscription with my affiliate link!\nhttps://www.testsprite.com/?via=eric\n\n💬 Free Community & Support\nJoin our Discord: https://discord.com/invite/erictech\n\n📅 Work With Me\n- New Projects - Free Strategy Call: https://calendar.app.google/sB9KrJP6e8j3EPmd9\n- Technical Consultation (Paid 1:1): https://calendar.app.google/BU9D589X3KNxnTeg6\n\n🤝 Let's Connect\nLinkedIn: https://www.linkedin.com/in/ericwtech/\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n⏱️ Timestamps:\n\n00:00 - Intro\n01:34 - Installation & Onboarding Setup \n02:14 - Feature 1: The Agent Manager (Orchestrator) \n04:43 - Feature 2: Agentic Browser & UI Validation \n05:32 - Multi-agents Dev Workflow\n08:01 - Feature 3: Using Multi-Models (Claude, GPT, Gemini 3) \n10:37 - TestSprite MCP\n11:39 - AI Generated Commit Messages\n12:25 - Wrap up\n\n#GoogleAntigravity #AICoding #SoftwareDevelopment"
+      },
+      "defaultAudioLanguage": "en-CA"
+    },
+    "contentDetails": {
+      "duration": "PT14M4S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "30904",
+      "likeCount": "529",
+      "favoriteCount": "0",
+      "commentCount": "65"
+    }
+  }
+}

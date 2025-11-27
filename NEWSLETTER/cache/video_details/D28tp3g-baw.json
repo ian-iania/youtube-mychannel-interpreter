@@ -1,0 +1,72 @@
+{
+  "cached_at": 1764285746.4981818,
+  "cache_type": "video_details",
+  "key": "D28tp3g-baw",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "MX-6yTejikxfjUPig_1BlEEXOmY",
+    "id": "D28tp3g-baw",
+    "snippet": {
+      "publishedAt": "2025-11-24T17:00:31Z",
+      "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "title": "Video avatar agent | The Agent Factory Podcast",
+      "description": "Gemini 3 is finally here! Gemini 3 Pro can bring any idea to life with its state of the art reasoning and multimodal capabilities.\n\nIt tops the LMArena leaderboard with a breakthrough score of 1501 Elo. It demonstrates PhD level reasoning with top scores on Humanity’s Last Exam (37.5% without the usage of any tools) and GPQA Diamond (91.9%). It also sets a new standard for frontier models in mathematics, achieving a new state of the art of 23.4% on MathArena Apex.\n\nSpeakers: Vlad Kolesnikov\nProducts Mentioned: Gemini, Antigravity, Gemini CLI",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D28tp3g-baw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D28tp3g-baw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D28tp3g-baw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/D28tp3g-baw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/D28tp3g-baw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Cloud Tech",
+      "tags": [
+        "AI Agents",
+        "Gemini 3",
+        "Veo 3"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Video avatar agent | The Agent Factory Podcast",
+        "description": "Gemini 3 is finally here! Gemini 3 Pro can bring any idea to life with its state of the art reasoning and multimodal capabilities.\n\nIt tops the LMArena leaderboard with a breakthrough score of 1501 Elo. It demonstrates PhD level reasoning with top scores on Humanity’s Last Exam (37.5% without the usage of any tools) and GPQA Diamond (91.9%). It also sets a new standard for frontier models in mathematics, achieving a new state of the art of 23.4% on MathArena Apex.\n\nSpeakers: Vlad Kolesnikov\nProducts Mentioned: Gemini, Antigravity, Gemini CLI"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT2M44S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "10423",
+      "likeCount": "73",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

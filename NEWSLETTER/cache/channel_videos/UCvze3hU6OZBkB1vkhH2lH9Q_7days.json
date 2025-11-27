@@ -1,0 +1,41 @@
+{
+  "cached_at": 1764285761.4034638,
+  "cache_type": "channel_videos",
+  "key": "UCvze3hU6OZBkB1vkhH2lH9Q_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x3BR9VJKYuOrFxs6FSJtLcsZee8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WoT4yzWve_8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T08:27:40Z",
+        "channelId": "UCvze3hU6OZBkB1vkhH2lH9Q",
+        "title": "Discover Neo4j AuraDB - S02E08",
+        "description": "We're bringing back Discover Neo4j AuraDB to showcase all the powerful new features added to Aura! Whether you're a longtime ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WoT4yzWve_8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WoT4yzWve_8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WoT4yzWve_8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Neo4j",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2025-11-26T08:27:40Z"
+      }
+    }
+  ]
+}

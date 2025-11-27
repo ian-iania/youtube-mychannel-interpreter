@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285731.976757,
+  "cache_type": "video_details",
+  "key": "0S9G9mGLB1U",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "JLwxL_yrO1rTLNxhmpZ30E5dNxg",
+    "id": "0S9G9mGLB1U",
+    "snippet": {
+      "publishedAt": "2025-11-22T09:15:00Z",
+      "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+      "title": "Traycer YOLO MODE: Plan, Sit & LET YOUR AGENT CODE! The REAL AGENTIC CODING!",
+      "description": "Visit Traycer: https://traycer.ai/\n\nIn this video, I'll be showing you Traycer's massive new update called \"YOLO Mode\" which completely changes how you interact with AI coding tools. I will guide you through setting up fully autonomous loops using Custom CLI Agents and Claude Code, allowing you to step away while the AI plans, codes, verifies, and fixes bugs all on its own.\n\n--\nKey Takeaways:\n\n🚀 Traycer’s new YOLO Mode creates a fully autonomous loop for planning, coding, verifying, and fixing without manual input.  \n🛑 The update solves the \"babysitting\" problem, eliminating the need to click \"Execute\" or \"Verify\" after every single step.  \n⚙️ Custom CLI Agents allow you to wrap tools like Claude Code with specific flags like `--dangerously-skip-permissions` for true automation.  \n📂 You can set agents to \"Workspace Scope\" to share configurations via GitHub, solving \"works on my machine\" issues for teams.  \n✅ Granular Verification Handoff settings let you define strict exit criteria based on Critical, Major, or Minor issues.  \n🏗️ The workflow shifts your role from an \"operator\" clicking buttons to an \"architect\" defining phases and quality standards.  \n💡 Essential pro-tips included: Prevent your computer from sleeping during loops and monitor your Artifact Slot usage.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0S9G9mGLB1U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0S9G9mGLB1U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0S9G9mGLB1U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0S9G9mGLB1U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0S9G9mGLB1U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AICodeKing",
+      "tags": [
+        "traycer",
+        "traycer yolo mode",
+        "ai coding agent",
+        "autonomous coding",
+        "claude code",
+        "anthropic claude",
+        "custom cli agents"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Traycer YOLO MODE: Plan, Sit & LET YOUR AGENT CODE! The REAL AGENTIC CODING!",
+        "description": "Visit Traycer: https://traycer.ai/\n\nIn this video, I'll be showing you Traycer's massive new update called \"YOLO Mode\" which completely changes how you interact with AI coding tools. I will guide you through setting up fully autonomous loops using Custom CLI Agents and Claude Code, allowing you to step away while the AI plans, codes, verifies, and fixes bugs all on its own.\n\n--\nKey Takeaways:\n\n🚀 Traycer’s new YOLO Mode creates a fully autonomous loop for planning, coding, verifying, and fixing without manual input.  \n🛑 The update solves the \"babysitting\" problem, eliminating the need to click \"Execute\" or \"Verify\" after every single step.  \n⚙️ Custom CLI Agents allow you to wrap tools like Claude Code with specific flags like `--dangerously-skip-permissions` for true automation.  \n📂 You can set agents to \"Workspace Scope\" to share configurations via GitHub, solving \"works on my machine\" issues for teams.  \n✅ Granular Verification Handoff settings let you define strict exit criteria based on Critical, Major, or Minor issues.  \n🏗️ The workflow shifts your role from an \"operator\" clicking buttons to an \"architect\" defining phases and quality standards.  \n💡 Essential pro-tips included: Prevent your computer from sleeping during loops and monitor your Artifact Slot usage."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT11M28S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "5656",
+      "likeCount": "158",
+      "favoriteCount": "0",
+      "commentCount": "21"
+    }
+  }
+}

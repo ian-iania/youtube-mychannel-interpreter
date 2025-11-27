@@ -1,0 +1,77 @@
+{
+  "cached_at": 1764285754.981251,
+  "cache_type": "video_details",
+  "key": "YTasnlXXBkI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "oGf1W7h3Y1_Mt-rBqBtNrbMUeAg",
+    "id": "YTasnlXXBkI",
+    "snippet": {
+      "publishedAt": "2025-11-27T01:08:35Z",
+      "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+      "title": "Who is the Champion? | Judges doing Deliberation",
+      "description": "A glimpse of judges discussing who the champion shall be!\n\nFinancial AI Hackathon Championship\nA championship for builders to showcase their passion for Financial Services and AI, bringing both together using powerful technologies like LandingAI's Agentic Document Extraction for Document AI and AWS for infrastructure development.\n\nThis championship lasted more than two weeks, from October 29 to November 15, and concluded with a Champion declared on November 15 in New York after 22 teams competed for the top spot.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YTasnlXXBkI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YTasnlXXBkI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YTasnlXXBkI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YTasnlXXBkI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YTasnlXXBkI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LandingAI",
+      "tags": [
+        "Hackathon",
+        "Financial Services",
+        "Document AI",
+        "Doc AI",
+        "IDP",
+        "Intelligent Document Processing",
+        "OCR",
+        "Community"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Who is the Champion? | Judges doing Deliberation",
+        "description": "A glimpse of judges discussing who the champion shall be!\n\nFinancial AI Hackathon Championship\nA championship for builders to showcase their passion for Financial Services and AI, bringing both together using powerful technologies like LandingAI's Agentic Document Extraction for Document AI and AWS for infrastructure development.\n\nThis championship lasted more than two weeks, from October 29 to November 15, and concluded with a Champion declared on November 15 in New York after 22 teams competed for the top spot."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT31S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "19",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

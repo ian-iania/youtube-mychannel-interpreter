@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285747.444033,
+  "cache_type": "video_details",
+  "key": "fXtna7UrL44",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "HZaa7zM_JY_BI5KT4bYoyGIP6us",
+    "id": "fXtna7UrL44",
+    "snippet": {
+      "publishedAt": "2025-11-24T22:37:26Z",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "Koray Kavukcuoglu: “This Is How We Are Going to Build AGI”",
+      "description": "Join Logan Kilpatrick and Koray Kavukcuoglu, CTO of Google DeepMind and Chief AI Architect of Google, as they discuss Gemini 3 and the state of AI! \n\nTheir conversation includes the reception of Gemini 3, the ongoing advancements in AI research, and the role of benchmarks in pushing new frontiers. They explore critical areas for Gemini's focus, emphasizing instruction following, tool calls, and internationalization, alongside Google's collaborative approach to AI development.\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nChapters:\n0:00 - Intro \n2:00 - Gemini 3 launch reception\n4:16 - Continuous progress and innovation\n6:47 - Key areas for Gemini improvement\n11:45 - Product scaffolding for model improvement\n13:56 - Chief AI architect role\n17:04 - Engineering mindset and collaboration\n18:37 - Future growth areas for Gemini\n20:33 - From research to engineering mindset\n23:22 - The rise of generative media\n27:22 - Nano Banana Pro capabilities\n29:31 - Towards unified model checkpoints\n36:26 - Organizing for AI success\n38:26 - Balancing exploration and scaling\n41:40 - DeepMind's collaborative culture\n45:21 - Innovating at Google\n48:37 - Closing\n\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Koray Kavukcuoglu\nProducts Mentioned:  Google AI, Gemini",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fXtna7UrL44/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fXtna7UrL44/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fXtna7UrL44/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fXtna7UrL44/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fXtna7UrL44/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google for Developers",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: AI DevRel (fka Core ML);",
+        "Purpose: Learn;",
+        "Video Type:Podcast;",
+        "gds:Yes;",
+        "ct: AIG;"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Koray Kavukcuoglu: “This Is How We Are Going to Build AGI”",
+        "description": "Join Logan Kilpatrick and Koray Kavukcuoglu, CTO of Google DeepMind and Chief AI Architect of Google, as they discuss Gemini 3 and the state of AI! \n\nTheir conversation includes the reception of Gemini 3, the ongoing advancements in AI research, and the role of benchmarks in pushing new frontiers. They explore critical areas for Gemini's focus, emphasizing instruction following, tool calls, and internationalization, alongside Google's collaborative approach to AI development.\n\nListen to this podcast: \nApple Podcasts → https://goo.gle/3Bm7QzQ \nSpotify → https://goo.gle/3ZL3ADl \n\nChapters:\n0:00 - Intro \n2:00 - Gemini 3 launch reception\n4:16 - Continuous progress and innovation\n6:47 - Key areas for Gemini improvement\n11:45 - Product scaffolding for model improvement\n13:56 - Chief AI architect role\n17:04 - Engineering mindset and collaboration\n18:37 - Future growth areas for Gemini\n20:33 - From research to engineering mindset\n23:22 - The rise of generative media\n27:22 - Nano Banana Pro capabilities\n29:31 - Towards unified model checkpoints\n36:26 - Organizing for AI success\n38:26 - Balancing exploration and scaling\n41:40 - DeepMind's collaborative culture\n45:21 - Innovating at Google\n48:37 - Closing\n\n\nWatch more Release Notes → https://goo.gle/4njokfg \nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Logan Kilpatrick, Koray Kavukcuoglu\nProducts Mentioned:  Google AI, Gemini"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT48M45S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "13342",
+      "likeCount": "353",
+      "favoriteCount": "0",
+      "commentCount": "39"
+    }
+  }
+}

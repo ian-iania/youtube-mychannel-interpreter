@@ -1,0 +1,77 @@
+{
+  "cached_at": 1764285754.980302,
+  "cache_type": "video_details",
+  "key": "h5asl7q7CXc",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "L9Ehtq05OktR-9k4JJQ3Uk25G4A",
+    "id": "h5asl7q7CXc",
+    "snippet": {
+      "publishedAt": "2025-11-27T01:13:26Z",
+      "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+      "title": "AI Financial Hackathon reel 1",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/h5asl7q7CXc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/h5asl7q7CXc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/h5asl7q7CXc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/h5asl7q7CXc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/h5asl7q7CXc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LandingAI",
+      "tags": [
+        "Hackathon",
+        "Financial Services",
+        "Document AI",
+        "Doc AI",
+        "IDP",
+        "Intelligent Document Processing",
+        "OCR",
+        "Community"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "AI Financial Hackathon reel 1",
+        "description": ""
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT57S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "44",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "cached_at": 1764285731.505425,
+  "cache_type": "video_details",
+  "key": "R6bFj4eq_fs",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "RpsYFkS2Jw25H-73O0jnIQERyYg",
+    "id": "R6bFj4eq_fs",
+    "snippet": {
+      "publishedAt": "2025-11-25T12:45:06Z",
+      "channelId": "UCwvRf1alwULB0UOJD2mgnxA",
+      "title": "New NotebookLM Upgrade Is Insane! Full Deep Research to Visuals Workflow.",
+      "description": "In this video, I walk you through a complete workflow starting with Fast Research, moving into the new Deep Research feature, and ending with fully generated visuals like infographics and mind maps.\n\nWe’ll explore how Deep Research builds a full research plan, scans hundreds of credible sources, and returns a structured, citation-rich report you can import directly into your project. Then we’ll combine those findings with a our own dataset, analyse everything side-by-side, and turn the insights into clean, ready-to-use visuals.\n#NotebookLM, #DeepResearch, #AIResearchTools, #GoogleAI, #AIWorkflow, #ResearchWorkflow, #DataAnalysis, #Infographics, #MindMap, #StudyTech, #AIinEducation, #ProductivityTools, #FutureOfWork, #Skills2030, #AIUpdates",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R6bFj4eq_fs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R6bFj4eq_fs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R6bFj4eq_fs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/R6bFj4eq_fs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/R6bFj4eq_fs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI and Tech for Education",
+      "tags": [
+        "NotebookLM upgrade",
+        "NotebookLM deep research",
+        "Google AI tools",
+        "AI research workflow",
+        "Deep research tutorial",
+        "Fast research vs deep research",
+        "NotebookLM visuals",
+        "AI mind map tool",
+        "AI infographic tool",
+        "Research with AI",
+        "Data analysis with AI",
+        "Labour market trends 2030",
+        "Workforce skills 2030",
+        "AI in education",
+        "Study tech",
+        "Productivity tools",
+        "Google NotebookLM tutorial",
+        "AI for students",
+        "AI for researchers"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "New NotebookLM Upgrade Is Insane! Full Deep Research to Visuals Workflow.",
+        "description": "In this video, I walk you through a complete workflow starting with Fast Research, moving into the new Deep Research feature, and ending with fully generated visuals like infographics and mind maps.\n\nWe’ll explore how Deep Research builds a full research plan, scans hundreds of credible sources, and returns a structured, citation-rich report you can import directly into your project. Then we’ll combine those findings with a our own dataset, analyse everything side-by-side, and turn the insights into clean, ready-to-use visuals.\n#NotebookLM, #DeepResearch, #AIResearchTools, #GoogleAI, #AIWorkflow, #ResearchWorkflow, #DataAnalysis, #Infographics, #MindMap, #StudyTech, #AIinEducation, #ProductivityTools, #FutureOfWork, #Skills2030, #AIUpdates"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT6M15S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "5886",
+      "likeCount": "173",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

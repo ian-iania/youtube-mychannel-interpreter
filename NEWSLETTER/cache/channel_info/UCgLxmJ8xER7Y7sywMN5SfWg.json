@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285773.0679412,
+  "cache_type": "channel_info",
+  "key": "UCgLxmJ8xER7Y7sywMN5SfWg",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "qj1c2ryJdz8W2w6Cxj5JTlHH-PY",
+    "id": "UCgLxmJ8xER7Y7sywMN5SfWg",
+    "snippet": {
+      "title": "Underfitted",
+      "description": "I tell stories about Artificial Intelligence.\n",
+      "customUrl": "@underfitted",
+      "publishedAt": "2011-02-11T20:43:36Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/qZEI9A5hmIH_Nz9NhUBKQpqD_VFAw3cssCS6n_L_1m43FOD1Pzwy8xt0CMu2fAIDM5xkQNFcXrg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/qZEI9A5hmIH_Nz9NhUBKQpqD_VFAw3cssCS6n_L_1m43FOD1Pzwy8xt0CMu2fAIDM5xkQNFcXrg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/qZEI9A5hmIH_Nz9NhUBKQpqD_VFAw3cssCS6n_L_1m43FOD1Pzwy8xt0CMu2fAIDM5xkQNFcXrg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Underfitted",
+        "description": "I tell stories about Artificial Intelligence.\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "1533320",
+      "subscriberCount": "60400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "96"
+    }
+  }
+}

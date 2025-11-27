@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285745.4924319,
+  "cache_type": "video_details",
+  "key": "O9s3-VXNi94",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "LMu7ffbNEr4-FLcyjUj7oZTNJmY",
+    "id": "O9s3-VXNi94",
+    "snippet": {
+      "publishedAt": "2025-11-26T17:27:49Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "[ptBR]🇧🇷✨ Open Source Friday Brazil  com Priscila Gutierres & Guinevere Larser",
+      "description": "O Open Source Friday desta sexta vai ser um pouco diferente!\nEm vez de receber pessoas brasileiras que criaram seus próprios projetos, vamos conversar com duas brasileiras,  Priscila Gutierres & Guinevere Larser, que mantêm projetos globais gigantes: Fedora e GDB. 🔥\n\nUma edição especial para mostrar como a comunidade brasileira está presente  no coração do Open Source mundial. 🌍💚\n\nVem com a gente!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/O9s3-VXNi94/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/O9s3-VXNi94/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/O9s3-VXNi94/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/O9s3-VXNi94/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/O9s3-VXNi94/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "categoryId": "28",
+      "liveBroadcastContent": "upcoming",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "[ptBR]🇧🇷✨ Open Source Friday Brazil  com Priscila Gutierres & Guinevere Larser",
+        "description": "O Open Source Friday desta sexta vai ser um pouco diferente!\nEm vez de receber pessoas brasileiras que criaram seus próprios projetos, vamos conversar com duas brasileiras,  Priscila Gutierres & Guinevere Larser, que mantêm projetos globais gigantes: Fedora e GDB. 🔥\n\nUma edição especial para mostrar como a comunidade brasileira está presente  no coração do Open Source mundial. 🌍💚\n\nVem com a gente!"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "P0D",
+      "dimension": "2d",
+      "definition": "sd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "0",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

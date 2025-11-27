@@ -1,0 +1,79 @@
+{
+  "cached_at": 1764285758.333865,
+  "cache_type": "video_details",
+  "key": "z7PCDGJztDk",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "HpAnVRkfyqcI6s6LGHHRe0y71VY",
+    "id": "z7PCDGJztDk",
+    "snippet": {
+      "publishedAt": "2025-11-21T19:03:18Z",
+      "channelId": "UChpleBmo18P08aKCIgti38g",
+      "title": "Customizing My Mac With AI",
+      "description": "I just used AI to completely customize my MacBook.\n\nIt helped me:\n🧹Clear up space\n📋Organize my files and folders\n🖼️Even change my wallpaper\n\nAnd I did it all inside my terminal with @warpdotdev .\n\nThis isn’t your typical “AI coding” tool. Warp can do so much more because it works IN your computer to help you actually get stuff done quickly and efficiently.\n\nYou can try Warp Code for 🆓at https://go.warp.dev/wolfeytagents\n\n#ai #aitools",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z7PCDGJztDk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z7PCDGJztDk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z7PCDGJztDk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/z7PCDGJztDk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/z7PCDGJztDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Matt Wolfe",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "FutureTools",
+        "Futurism",
+        "Machine Learning",
+        "Deep Learning",
+        "Future Tools",
+        "Matt Wolfe",
+        "AI News",
+        "AI Tools"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "Customizing My Mac With AI",
+        "description": "I just used AI to completely customize my MacBook.\n\nIt helped me:\n🧹Clear up space\n📋Organize my files and folders\n🖼️Even change my wallpaper\n\nAnd I did it all inside my terminal with @warpdotdev .\n\nThis isn’t your typical “AI coding” tool. Warp can do so much more because it works IN your computer to help you actually get stuff done quickly and efficiently.\n\nYou can try Warp Code for 🆓at https://go.warp.dev/wolfeytagents\n\n#ai #aitools"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M25S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "17733",
+      "likeCount": "639",
+      "favoriteCount": "0",
+      "commentCount": "19"
+    }
+  }
+}

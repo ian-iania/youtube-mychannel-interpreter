@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285771.6624691,
+  "cache_type": "channel_info",
+  "key": "UC9Ryt3XOGYBoAJVsBHNGDzA",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "e4Nr18J8hrUOXn-nFq_KuVd2dWg",
+    "id": "UC9Ryt3XOGYBoAJVsBHNGDzA",
+    "snippet": {
+      "title": "Theoretically Media",
+      "description": "Welcome to Theoretically Media, I'm Tim! \n\nFor Sponsor/Partner Inquires: tim@smoothmedia.co \nAnything Else: theoreticallymedia@gmail.com\n",
+      "customUrl": "@theoreticallymedia",
+      "publishedAt": "2022-06-11T18:57:21.423514Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/U4AE38fpp0B35ULJQlb8XP1NnIL0Y6NmBiniM9z7qiaGA_Vg4qD_tAldiNq2_nxWv-LygmOOJQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/U4AE38fpp0B35ULJQlb8XP1NnIL0Y6NmBiniM9z7qiaGA_Vg4qD_tAldiNq2_nxWv-LygmOOJQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/U4AE38fpp0B35ULJQlb8XP1NnIL0Y6NmBiniM9z7qiaGA_Vg4qD_tAldiNq2_nxWv-LygmOOJQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Theoretically Media",
+        "description": "Welcome to Theoretically Media, I'm Tim! \n\nFor Sponsor/Partner Inquires: tim@smoothmedia.co \nAnything Else: theoreticallymedia@gmail.com\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "16578476",
+      "subscriberCount": "173000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "327"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "cached_at": 1764285760.9432309,
+  "cache_type": "video_details",
+  "key": "Re1YgQU54iI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "5yasktvS8MIm9rS-K7T9H-pjRaM",
+    "id": "Re1YgQU54iI",
+    "snippet": {
+      "publishedAt": "2025-11-25T20:21:01Z",
+      "channelId": "UCgc3NEslE8oISOEawhcpMCA",
+      "title": "Keeping it Real with Power Platform coming soon!",
+      "description": "We're almost ready to drop our brand-new weekly series - Keeping it Real with Power Platform! \n\nHosted by Vice President of Microsoft Power Platform Core, Leon Welicki, this series will showcase Microsoft Community makers creating high-impact solutions. \n\nFeaturing the likes of James Connelly, Krzysztof Borkowski, Lukas Pavelka, JP Espeña, and many more, the first episode drops at 9am PST on Thursday 4th December. \n\nKeep your eye on our socials if you're ready to start Keeping it Real with Power Platform!\n\n#PowerPlatform #MicrosoftCommunity #Microsoft",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Re1YgQU54iI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Re1YgQU54iI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Re1YgQU54iI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Re1YgQU54iI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Re1YgQU54iI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Power Platform",
+      "tags": [
+        "PowerApps"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Keeping it Real with Power Platform coming soon!",
+        "description": "We're almost ready to drop our brand-new weekly series - Keeping it Real with Power Platform! \n\nHosted by Vice President of Microsoft Power Platform Core, Leon Welicki, this series will showcase Microsoft Community makers creating high-impact solutions. \n\nFeaturing the likes of James Connelly, Krzysztof Borkowski, Lukas Pavelka, JP Espeña, and many more, the first episode drops at 9am PST on Thursday 4th December. \n\nKeep your eye on our socials if you're ready to start Keeping it Real with Power Platform!\n\n#PowerPlatform #MicrosoftCommunity #Microsoft"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT25S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "309",
+      "likeCount": "20",
+      "favoriteCount": "0"
+    }
+  }
+}

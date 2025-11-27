@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285760.078818,
+  "cache_type": "channel_info",
+  "key": "UC0m-80FnNY2Qb7obvTL_2fA",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "kPGRB3z69B-amdTfOm0e-jgViE8",
+    "id": "UC0m-80FnNY2Qb7obvTL_2fA",
+    "snippet": {
+      "title": "Microsoft Azure",
+      "description": "Welcome to the official Microsoft Azure channel. Subscribe and be the first to learn about the latest solutions, watch training demos, and be empowered to deliver limitless innovation. \n\nMicrosoft YouTube Community Guidelines:  \n1. Avoid explicit and inflammatory language.  \n2. Do not post repetitively nor spam our comment section. \n3. Avoid posting personal information, such as email, physical address, personal phone number, credit card information, or your site password. \n4. Please report posts that violate community guidelines using the spam button or YouTube’s Reporting and Enforcement Center. \n",
+      "customUrl": "@microsoftazure",
+      "publishedAt": "2008-11-21T07:09:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_l8GoEoWMkKqGCa_0B96CSMPM88jfgIkhNnt-XMd1tgmJo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_l8GoEoWMkKqGCa_0B96CSMPM88jfgIkhNnt-XMd1tgmJo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_l8GoEoWMkKqGCa_0B96CSMPM88jfgIkhNnt-XMd1tgmJo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Microsoft Azure",
+        "description": "Welcome to the official Microsoft Azure channel. Subscribe and be the first to learn about the latest solutions, watch training demos, and be empowered to deliver limitless innovation. \n\nMicrosoft YouTube Community Guidelines:  \n1. Avoid explicit and inflammatory language.  \n2. Do not post repetitively nor spam our comment section. \n3. Avoid posting personal information, such as email, physical address, personal phone number, credit card information, or your site password. \n4. Please report posts that violate community guidelines using the spam button or YouTube’s Reporting and Enforcement Center. \n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "39784999",
+      "subscriberCount": "351000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1391"
+    }
+  }
+}

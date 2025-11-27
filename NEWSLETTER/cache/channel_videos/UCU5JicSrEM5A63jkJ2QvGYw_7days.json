@@ -1,0 +1,75 @@
+{
+  "cached_at": 1764285743.211427,
+  "cache_type": "channel_videos",
+  "key": "UCU5JicSrEM5A63jkJ2QvGYw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kTYj4m7AB9h6n6kA5XAq9Ej1c_s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hA3b7qRMryk"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T19:23:07Z",
+        "channelId": "UCU5JicSrEM5A63jkJ2QvGYw",
+        "title": "VOCÊ DENTRO DA LIVE 😍",
+        "description": "Entrar dentro da transmissão: https://curso.dev/participar ✓ Whatsapp do curso.dev: https://curso.dev/whatsapp Ou então: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hA3b7qRMryk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hA3b7qRMryk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hA3b7qRMryk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Filipe Deschamps",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T19:23:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "01PaTotZRzTjilx5hp0tw_cdMzk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kDcxI5lZHME"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T00:39:52Z",
+        "channelId": "UCU5JicSrEM5A63jkJ2QvGYw",
+        "title": "VOCÊ DENTRO DA LIVE 😍",
+        "description": "Entrar dentro da live: https://curso.dev/participar ✓ Whatsapp do curso.dev: https://curso.dev/whatsapp Ou então: ✓ Jogue ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kDcxI5lZHME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kDcxI5lZHME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kDcxI5lZHME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Filipe Deschamps",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T00:39:52Z"
+      }
+    }
+  ]
+}

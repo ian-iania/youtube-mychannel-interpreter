@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285745.4947672,
+  "cache_type": "video_details",
+  "key": "xoe4GCMaRPY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "b6DofjK1iN1oDJbuDX4aIuA0-Ig",
+    "id": "xoe4GCMaRPY",
+    "snippet": {
+      "publishedAt": "2025-11-22T05:01:24Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "[pt-BR] 🇧🇷 Open Source Friday Brasil com Gui Santos",
+      "description": "Open Source Friday Brasil 💚\nToda sexta-feira, ao vivo no canal GitHub Brasil, exploramos projetos Open Source brasileiros e conversamos com suas pessoas mantenedoras! 🚀\n\nNesta semana, recebemos Gui Santos, criador do Career Topologies, um framework Open Source que ajuda empresas de tecnologia a estruturarem trilhas de carreira mais sustentáveis e justas. 🌱\n\nO projeto disponibiliza conceitos, práticas, ferramentas e referências para apoiar a criação de planos de carreira mais claros e equilibrados. ✨",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xoe4GCMaRPY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xoe4GCMaRPY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xoe4GCMaRPY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xoe4GCMaRPY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xoe4GCMaRPY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "[pt-BR] 🇧🇷 Open Source Friday Brasil com Gui Santos",
+        "description": "Open Source Friday Brasil 💚\nToda sexta-feira, ao vivo no canal GitHub Brasil, exploramos projetos Open Source brasileiros e conversamos com suas pessoas mantenedoras! 🚀\n\nNesta semana, recebemos Gui Santos, criador do Career Topologies, um framework Open Source que ajuda empresas de tecnologia a estruturarem trilhas de carreira mais sustentáveis e justas. 🌱\n\nO projeto disponibiliza conceitos, práticas, ferramentas e referências para apoiar a criação de planos de carreira mais claros e equilibrados. ✨"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT57M28S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "548",
+      "likeCount": "40",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

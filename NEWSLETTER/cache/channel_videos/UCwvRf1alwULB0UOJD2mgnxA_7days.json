@@ -1,0 +1,41 @@
+{
+  "cached_at": 1764285731.428638,
+  "cache_type": "channel_videos",
+  "key": "UCwvRf1alwULB0UOJD2mgnxA_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NzI7cr97v8OVsRHdOi6XhZ7Fk7M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R6bFj4eq_fs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T12:45:06Z",
+        "channelId": "UCwvRf1alwULB0UOJD2mgnxA",
+        "title": "New NotebookLM Upgrade Is Insane! Full Deep Research to Visuals Workflow.",
+        "description": "In this video, I walk you through a complete workflow starting with Fast Research, moving into the new Deep Research feature, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R6bFj4eq_fs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R6bFj4eq_fs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R6bFj4eq_fs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AI and Tech for Education",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T12:45:06Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285765.637009,
+  "cache_type": "video_details",
+  "key": "dzFUOQUSiEI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "8WyYG9vwgZ67UpHmzMJzxC4Thgc",
+    "id": "dzFUOQUSiEI",
+    "snippet": {
+      "publishedAt": "2025-11-22T21:53:37Z",
+      "channelId": "UCMcoud_ZW7cfxeIugBflSBw",
+      "title": "Gemini 3 Gives You Superpowers: Here’s How to Unlock Them",
+      "description": "In this video, I cover how Google has finally caught up with OpenAI by launching two groundbreaking AI models, Gemini 3 and Nano Banana.  These models excel in creating advanced viual outputs, multi-modal understand, both things that make them an invaluable tool for content creators, entrepreneurs, and marketers.\n\nIf you enjoyed this video, the best way to support the continuation of more videos is by liking, sharing and subscribing to my channel.  \n\nI really appreciate the support and I'll see you for the next one!\n\nHave an app idea but don't know where to begin or have limited time? \n\nI highly recommend trying out Vibecode App.  Me and my cofounders have been working hard on this tool for most of 2025 and we want to enable 1M people to build software without writing a single line of code.\n\nTry building your first mobile app completely for free here: https://vibecode.go.link/fNyxn\n ➡️use promo code GOOGLE to get your first app build for free!\n\nMy Socials:\nhttps://x.com/rileybrown\nhttps://www.linkedin.com/in/riley-brown-7441b1101/\nhttps://www.instagram.com/realrileybrown/\n\nTIME STAMPS\n00:00 Introduction\n01:05 Deep Dive into Gemini 3\n01:50 Real World Examples of Gemini 3\n04:33 Step by Step For Creating with Gemini 3\n06:33 Building a Landing Page with Gemini 3\n09:17 Using Gemini 3 in Cursor\n10:47 Interactive Water Cycle Simulation\n12:30 Exploring Google Gemini's Capabilities\n13:53 Introduction to Nano Banana\n15:37 Creating Infographics with Nano Banana\n19:08 Everything You Need to Know About Krea Nodes\n23:41 Future of AI Models",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/dzFUOQUSiEI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/dzFUOQUSiEI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/dzFUOQUSiEI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/dzFUOQUSiEI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/dzFUOQUSiEI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Riley Brown",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Gemini 3 Gives You Superpowers: Here’s How to Unlock Them",
+        "description": "In this video, I cover how Google has finally caught up with OpenAI by launching two groundbreaking AI models, Gemini 3 and Nano Banana.  These models excel in creating advanced viual outputs, multi-modal understand, both things that make them an invaluable tool for content creators, entrepreneurs, and marketers.\n\nIf you enjoyed this video, the best way to support the continuation of more videos is by liking, sharing and subscribing to my channel.  \n\nI really appreciate the support and I'll see you for the next one!\n\nHave an app idea but don't know where to begin or have limited time? \n\nI highly recommend trying out Vibecode App.  Me and my cofounders have been working hard on this tool for most of 2025 and we want to enable 1M people to build software without writing a single line of code.\n\nTry building your first mobile app completely for free here: https://vibecode.go.link/fNyxn\n ➡️use promo code GOOGLE to get your first app build for free!\n\nMy Socials:\nhttps://x.com/rileybrown\nhttps://www.linkedin.com/in/riley-brown-7441b1101/\nhttps://www.instagram.com/realrileybrown/\n\nTIME STAMPS\n00:00 Introduction\n01:05 Deep Dive into Gemini 3\n01:50 Real World Examples of Gemini 3\n04:33 Step by Step For Creating with Gemini 3\n06:33 Building a Landing Page with Gemini 3\n09:17 Using Gemini 3 in Cursor\n10:47 Interactive Water Cycle Simulation\n12:30 Exploring Google Gemini's Capabilities\n13:53 Introduction to Nano Banana\n15:37 Creating Infographics with Nano Banana\n19:08 Everything You Need to Know About Krea Nodes\n23:41 Future of AI Models"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT25M15S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "82233",
+      "likeCount": "2065",
+      "favoriteCount": "0",
+      "commentCount": "96"
+    }
+  }
+}

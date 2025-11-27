@@ -1,0 +1,41 @@
+{
+  "cached_at": 1764285734.194304,
+  "cache_type": "channel_videos",
+  "key": "UCSv4qL8vmoSH7GaPjuqRiCQ_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VrYO2LgTMs8Ia_eE_Z0I2QfsN9M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X4NjNCSiqjs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T19:30:02Z",
+        "channelId": "UCSv4qL8vmoSH7GaPjuqRiCQ",
+        "title": "I Built This AI UGC Ad Agent From a $2.5M Playbook",
+        "description": "Learn how to create your own powerful vertical agents like this: https://youtu.be/azsAC5ZtZNE Deploy this ad agency from our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X4NjNCSiqjs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X4NjNCSiqjs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X4NjNCSiqjs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Arseny Shatokhin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T19:30:02Z"
+      }
+    }
+  ]
+}

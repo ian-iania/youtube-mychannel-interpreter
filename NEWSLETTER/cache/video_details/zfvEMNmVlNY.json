@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.957364,
+  "cache_type": "video_details",
+  "key": "zfvEMNmVlNY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "huw_MdmucyNEqCxKowJEFAx_dwk",
+    "id": "zfvEMNmVlNY",
+    "snippet": {
+      "publishedAt": "2025-11-24T20:16:38Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "The Unbearable Lightness of Agent Optimization — Alberto Romero, Jointly",
+      "description": "This talk introduces Meta-ACE, a learned meta-optimization framework that dynamically orchestrates multiple strategies (context evolution, adaptive compute, hierarchical verification, structured memory, and selective test-time parameter adaptation) to maximize task performance under real-world constraints. Rather than relying on uniform prompt refinement, Meta-ACE profiles each task (complexity, verifiability, feedback quality) and selects an optimal strategy bundle via a lightweight meta-controller.\n\nAlberto is a seasoned AI and ML leader with over 20 years of experience at the intersection of AI and data. A hands-on engineer, Alberto has designed and built low-latency, mission-critical ML systems, and has specialized in systematic optimization of AI pipelines and agents using custom built evaluation techniques. He is an exited co-founder having sold his previous startup, Humn.ai, to Aon in 2023, which delivered real-time, ML-powered risk prediction for mobility. Alberto is the Co-founder and CTO at Jointly, specializing in self-optimizing AI agents for regulated industries.\n\nHe holds an MSc in AI and Machine Learning and speaks at global AI conferences, including ODSC and AIAI.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/albertoromero-uk/\n- GitHub: https://github.com/a-romero\n- Company: Jointly (https://getjointly.ai)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zfvEMNmVlNY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zfvEMNmVlNY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zfvEMNmVlNY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zfvEMNmVlNY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zfvEMNmVlNY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "The Unbearable Lightness of Agent Optimization — Alberto Romero, Jointly",
+        "description": "This talk introduces Meta-ACE, a learned meta-optimization framework that dynamically orchestrates multiple strategies (context evolution, adaptive compute, hierarchical verification, structured memory, and selective test-time parameter adaptation) to maximize task performance under real-world constraints. Rather than relying on uniform prompt refinement, Meta-ACE profiles each task (complexity, verifiability, feedback quality) and selects an optimal strategy bundle via a lightweight meta-controller.\n\nAlberto is a seasoned AI and ML leader with over 20 years of experience at the intersection of AI and data. A hands-on engineer, Alberto has designed and built low-latency, mission-critical ML systems, and has specialized in systematic optimization of AI pipelines and agents using custom built evaluation techniques. He is an exited co-founder having sold his previous startup, Humn.ai, to Aon in 2023, which delivered real-time, ML-powered risk prediction for mobility. Alberto is the Co-founder and CTO at Jointly, specializing in self-optimizing AI agents for regulated industries.\n\nHe holds an MSc in AI and Machine Learning and speaks at global AI conferences, including ODSC and AIAI.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/albertoromero-uk/\n- GitHub: https://github.com/a-romero\n- Company: Jointly (https://getjointly.ai)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT17M58S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1015",
+      "likeCount": "23",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

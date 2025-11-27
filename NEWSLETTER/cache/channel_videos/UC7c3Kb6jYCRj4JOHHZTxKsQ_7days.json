@@ -1,0 +1,619 @@
+{
+  "cached_at": 1764285745.269011,
+  "cache_type": "channel_videos",
+  "key": "UC7c3Kb6jYCRj4JOHHZTxKsQ_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IiOa3IpopuFkiDvDmLst_DQHb1g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l37u8FrdhY0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T16:48:43Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "How to use GitHub Copilot coding agent in Slack",
+        "description": "You can now use the GitHub app for Slack to collaborate with GitHub Copilot right inside your Slack conversations. This initial ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l37u8FrdhY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l37u8FrdhY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l37u8FrdhY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T16:48:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sdErueBcJ0F0whsXtvAUj1pUTgI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z90tRzk84RM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T16:01:01Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "New GitHub feature: the PR overview button",
+        "description": "There's a new feature in GitHub pull requests that saves you from constant context switching. In the \"new experience\" view, you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z90tRzk84RM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z90tRzk84RM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z90tRzk84RM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T16:01:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QvSw2zFEVkBXjX0GerM6Enf3gXQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O9s3-VXNi94"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T17:27:49Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "[ptBR]🇧🇷✨ Open Source Friday Brazil  com Priscila Gutierres &amp; Guinevere Larser",
+        "description": "O Open Source Friday desta sexta vai ser um pouco diferente! Em vez de receber pessoas brasileiras que criaram seus próprios ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O9s3-VXNi94/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O9s3-VXNi94/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O9s3-VXNi94/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2025-11-26T17:27:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OiefBZsri0Q-FdAqdf_T1ZOV2go",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5ALgu0n4R5s"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T17:00:20Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "The moment a Log4j maintainer realized the true scale of the crisis",
+        "description": "What happens when a bug in your project is so big you consider quitting open source altogether? Christian Grobmeier, a Log4j ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5ALgu0n4R5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5ALgu0n4R5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5ALgu0n4R5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T17:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B7ArnVmdCEjqMJpaLPp-5IumgaQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2p1D29zJdBI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T15:00:05Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "5 ways to automate everyday workflows with GitHub Actions",
+        "description": "GitHub Actions has revolutionized the way developers automate workflows, streamline processes, and supercharge their ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2p1D29zJdBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2p1D29zJdBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2p1D29zJdBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T15:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KqcOp1Gqn3BOLoA5v-gL6z6V-pw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QXE5rEVlu20"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T15:00:58Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "Why Python is the language of AI: insights from Guido van Rossum (creator of Python)",
+        "description": "We sat down with Guido van Rossum, the creator of Python, to discuss the origins of the language and its incredible trajectory in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QXE5rEVlu20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QXE5rEVlu20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QXE5rEVlu20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T15:00:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WPWdEC4WUFUVcmct1Fmur86Y2tw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-eRjenGV2OM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T08:44:19Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "Rubber Duck Thursdays - Let&#39;s build with custom agents",
+        "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects. In this episode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-eRjenGV2OM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-eRjenGV2OM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-eRjenGV2OM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T08:44:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cOM-qiKVAcznb3HamGZt5YBkSvg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L5BJGEZnLv8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T17:00:29Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "Meet Vert: the open source file converter that stays local",
+        "description": "Tired of upload limits and privacy concerns when converting files? Meet Vert, an open source file converter that runs entirely on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L5BJGEZnLv8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L5BJGEZnLv8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L5BJGEZnLv8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T17:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PTtCHxdfJROS6NRmF6oB56aZsPI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w2WRT2eXISU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T15:01:54Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "CVS Health&#39;s journey from legacy tools to seamless developer experience | GitHub",
+        "description": "What happens when you migrate 150000 repositories from a tangled web of legacy CI/CD tools to GitHub? CVS Health found out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w2WRT2eXISU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w2WRT2eXISU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w2WRT2eXISU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T15:01:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wFzoHphDriBylsTm86ZE3dvXqeI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1fkKwbUd40I"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T16:19:16Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "Event in Spanish: Jueves de Quack con Carlos Azaustre",
+        "description": "Acompáñanos en esta nueva edición de Jueves de Quack donde @CarlosAzaustre y @acolombiadev discutirán las ultimas ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1fkKwbUd40I/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1fkKwbUd40I/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1fkKwbUd40I/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2025-11-22T16:19:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NHwKPDz4DY-bSOZC0zVpsmz1za0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P3Xht3YJUrs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T15:00:46Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "Try Google&#39;s most powerful AI model Gemini 3 Pro in Copilot today",
+        "description": "Google just shook up the leaderboard with Gemini 3 Pro, their most powerful AI model yet. It's built not just to pass tests, but to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P3Xht3YJUrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P3Xht3YJUrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P3Xht3YJUrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T15:00:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_KifrBDhKtpl8oUEUyP_zfzOLjU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Hio_cJjrR-Y"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T06:55:11Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "Open Source Friday with Cilium",
+        "description": "On this week's Open Source Friday, we highlight Cilium, an open source project that provides modern networking, security, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hio_cJjrR-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hio_cJjrR-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hio_cJjrR-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T06:55:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NIA9X-DwDSOe0NVWIEEMtQy_Qcw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xoe4GCMaRPY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T05:01:24Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "[pt-BR] 🇧🇷 Open Source Friday Brasil com Gui Santos",
+        "description": "Open Source Friday Brasil Toda sexta-feira, ao vivo no canal GitHub Brasil, exploramos projetos Open Source brasileiros e ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xoe4GCMaRPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xoe4GCMaRPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xoe4GCMaRPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T05:01:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IvtA7V2FdCB9WomTdWdjxlv0s3s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wc2y1HS2a4I"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T18:18:02Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "The Download: Git 2.52, Gemini 3, a private file converter &amp; more",
+        "description": "This week on The Download, Cassidy covers the release of Git 2.52 and its new \"jetpack\" feature for checking file history. We also ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wc2y1HS2a4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wc2y1HS2a4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wc2y1HS2a4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T18:18:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VozDh10DPVF4MWBm28d87EevOr8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MoVjtpSPwIo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T08:05:14Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "It&#39;s Rubber Duck Thursday! Come with your questions about open source, and let&#39;s cowork!",
+        "description": "WANT TO LEARN MORE? ▭▭▭▭▭▭ ▭▭▭▭▭▭ TIMESTAMPS ⌚ ▭▭▭▭▭▭ Stay up-to-date on all things GitHub by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MoVjtpSPwIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MoVjtpSPwIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MoVjtpSPwIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T08:05:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k7ecROTIqDtlwJ7sFSVOzPGJmmU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E6rCexhEwBA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T05:16:37Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "[pt-BR]🇧🇷  Quinta do Patinho! - Construindo nosso MCP",
+        "description": "A Quinta do Patinho é um stream semanal apresentado por Pachi Parra, onde fazemos live coding, exploramos ferramentas, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E6rCexhEwBA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E6rCexhEwBA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E6rCexhEwBA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T05:16:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tCfTH7Nq-HnG0zA2OT3qZ4qIxjo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yUA47dQczE8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T04:21:31Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "Event in Spanish: Jueves de Quack con Gisela Torres",
+        "description": "Acompáñanos en esta nueva edición de Jueves de Quack donde Gisela Torres @returngis y Andrea Griffiths @acolombiadev ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yUA47dQczE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yUA47dQczE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yUA47dQczE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T04:21:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EWcedaGDPKTse1MsvHw4niIdfKw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DEXo7X3YXbE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T00:09:50Z",
+        "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+        "title": "Rubber Duck Thursdays - Let&#39;s build",
+        "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DEXo7X3YXbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DEXo7X3YXbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DEXo7X3YXbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GitHub",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T00:09:50Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "cached_at": 1764285756.239052,
+  "cache_type": "channel_videos",
+  "key": "UCtevzRsHEKhs-RK8pAqwSyQ_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8kGGqq9-3_Bonq1lUPI-CgN9BBQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "va1cKqcwhlk"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T10:40:45Z",
+        "channelId": "UCtevzRsHEKhs-RK8pAqwSyQ",
+        "title": "Build ANYTHING with Nano Banana Pro and n8n",
+        "description": "How to Use Nano Banana Pro in n8n (Complete Guide) Get Hostinger VPS (use code LEON for 10% off): ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/va1cKqcwhlk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/va1cKqcwhlk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/va1cKqcwhlk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Leon van Zyl",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T10:40:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ptZrtEWNZ3tC7MiFXBlJS_zAVLE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E_dKWAq5M7w"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T12:00:35Z",
+        "channelId": "UCtevzRsHEKhs-RK8pAqwSyQ",
+        "title": "Forget Stripe: The Easiest Way to Add Payments",
+        "description": "How to Add Payments to Your SaaS with Claude Code Access ALL video resources & get personalized help in my community: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E_dKWAq5M7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E_dKWAq5M7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E_dKWAq5M7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Leon van Zyl",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T12:00:35Z"
+      }
+    }
+  ]
+}

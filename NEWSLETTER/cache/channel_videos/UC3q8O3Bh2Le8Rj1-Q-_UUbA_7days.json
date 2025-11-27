@@ -1,0 +1,245 @@
+{
+  "cached_at": 1764285739.400758,
+  "cache_type": "channel_videos",
+  "key": "UC3q8O3Bh2Le8Rj1-Q-_UUbA_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TbG7rCfjlwMVih0BOI_dVCY9Ot4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j_yfuLDbyN4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T18:30:02Z",
+        "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+        "title": "Unity Catalog: Setting Up Volumes",
+        "description": "Explore the capabilities of Unity Catalog Volumes with Shreel Shah, a Scale Solutions Engineer at Databricks. Learn how to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j_yfuLDbyN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j_yfuLDbyN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j_yfuLDbyN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Databricks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T18:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p95YmJ76OVm-XwMhr8MPdFpDJZ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NIzfIMYRSJ8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T16:00:30Z",
+        "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+        "title": "How to Drive Data &amp; AI Platform Adoption at Scale",
+        "description": "Unlock AI value: The enterprise guide to AI readiness Download free eBook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NIzfIMYRSJ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NIzfIMYRSJ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NIzfIMYRSJ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Databricks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T16:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6lVxTWcvBoOV7aJeguKGuILYMvc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L96ATojqO5E"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T19:33:01Z",
+        "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+        "title": "Bringing Data Intelligence to the Microsoft Ecosystem with Agent Bricks + Agent 365",
+        "description": "Databricks CEO, Ali Ghodsi, and Microsoft EVP, Cloud and AI, Scott Guthrie, explain a new way to connect governed data and AI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L96ATojqO5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L96ATojqO5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L96ATojqO5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Databricks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T19:33:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s5j8uAaRXQq0ghk9m45sFATa0MU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l0SrINT1cww"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T19:14:13Z",
+        "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+        "title": "What&#39;s New in Azure Databricks: OneLake + Unity Catalog | Announcements from Microsoft Ignite 2025",
+        "description": "What's New in Azure Databricks: - We are expanding support for OneLake in Unity Catalog - All data managed by Azure ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l0SrINT1cww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l0SrINT1cww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l0SrINT1cww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Databricks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T19:14:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4Qc4-4tfsGU-2u3GgwP-mg0ctD8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4A_bDr7AVLc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T17:26:47Z",
+        "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+        "title": "Integration between Databricks and Microsoft | Govern, secure and integrate your data",
+        "description": "Databricks CEO, Ali Ghodsi, and EVP of Cloud and AI at Microsoft, Scott Guthrie, on the Databricks x Microsoft partnership and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4A_bDr7AVLc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4A_bDr7AVLc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4A_bDr7AVLc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Databricks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T17:26:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jz7vG_o76RIDLfgQb0XArgogNw4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m8t-lGFf7Ks"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T17:13:47Z",
+        "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+        "title": "How Azure Databricks works with Microsoft | Databricks CEO Ali Ghodsi at Microsoft Ignite 2025",
+        "description": "How Databricks integrates with Microsoft products. How Azure Databricks works within a Microsoft ecosystem. Databricks ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m8t-lGFf7Ks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m8t-lGFf7Ks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m8t-lGFf7Ks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Databricks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T17:13:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B-1SoHPVkO206u9ZsCM-0cvqTuE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Kw1Qt8I_64"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T16:58:51Z",
+        "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+        "title": "Databricks CEO at Microsoft Ignite 2025 Partner Keynote",
+        "description": "Databricks Co-founder and CEO Ali Ghodsi explains what Databricks does during the Microsoft Ignite 2025 Partner Keynote.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Kw1Qt8I_64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Kw1Qt8I_64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Kw1Qt8I_64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Databricks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T16:58:51Z"
+      }
+    }
+  ]
+}

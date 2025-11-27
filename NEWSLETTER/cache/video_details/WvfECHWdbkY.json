@@ -1,0 +1,84 @@
+{
+  "cached_at": 1764285731.976993,
+  "cache_type": "video_details",
+  "key": "WvfECHWdbkY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "h1Wi4aaWf2eIIGfYxszvcsFz1HQ",
+    "id": "WvfECHWdbkY",
+    "snippet": {
+      "publishedAt": "2025-11-21T11:38:26Z",
+      "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+      "title": "Google Stitch 4.0 (Upgraded): Google's Gemini-3 & Nano Banana Pro Designer is ACTUALLY INSANE!",
+      "description": "Visit Augment Code: https://www.augmentcode.com/\n\nIn this video, I'll be breaking down the relentless updates from Google regarding the Gemini ecosystem and Stitch. They just dropped the hilariously named Nano Banana Pro model and a massive integration with AI Studio that changes how we design and build software.\n\n--\nKey Takeaways:\n\n🍌 Google’s new \"Nano Banana Pro\" model is vision-optimized for UI decomposition and reconstruction.  \n🖼️ The workflow has shifted from text-to-design to image-to-design, allowing for easier iterations.  \n✨ You can now redesign cluttered dashboards or apply specific themes (like Western or Gen Z) instantly.  \n🔗 Stitch now integrates directly with Google's AI Studio to turn static designs into functional code.  \n🧠 Developers can add logic, event handling, and API integrations using just natural language.  \n🛠️ The update bridges the gap between \"no-code\" design shells and \"pro-code\" working environments.  \n🚀 This solves the \"Blank Page Problem\" by allowing you to remix and \"borrow\" inspiration from screenshots.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WvfECHWdbkY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WvfECHWdbkY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WvfECHWdbkY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WvfECHWdbkY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WvfECHWdbkY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AICodeKing",
+      "tags": [
+        "google stitch",
+        "nano banana pro",
+        "gemini ecosystem",
+        "new google stitch ai coder",
+        "google stitch ai designer",
+        "ai studio integration",
+        "ui design ai",
+        "image to design",
+        "google gemini update",
+        "frontend development",
+        "ai prototyping",
+        "web design ai",
+        "google stitch tutorial",
+        "coding assistant",
+        "no code to pro code"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Google Stitch 4.0 (Upgraded): Google's Gemini-3 & Nano Banana Pro Designer is ACTUALLY INSANE!",
+        "description": "Visit Augment Code: https://www.augmentcode.com/\n\nIn this video, I'll be breaking down the relentless updates from Google regarding the Gemini ecosystem and Stitch. They just dropped the hilariously named Nano Banana Pro model and a massive integration with AI Studio that changes how we design and build software.\n\n--\nKey Takeaways:\n\n🍌 Google’s new \"Nano Banana Pro\" model is vision-optimized for UI decomposition and reconstruction.  \n🖼️ The workflow has shifted from text-to-design to image-to-design, allowing for easier iterations.  \n✨ You can now redesign cluttered dashboards or apply specific themes (like Western or Gen Z) instantly.  \n🔗 Stitch now integrates directly with Google's AI Studio to turn static designs into functional code.  \n🧠 Developers can add logic, event handling, and API integrations using just natural language.  \n🛠️ The update bridges the gap between \"no-code\" design shells and \"pro-code\" working environments.  \n🚀 This solves the \"Blank Page Problem\" by allowing you to remix and \"borrow\" inspiration from screenshots."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT10M19S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "18747",
+      "likeCount": "583",
+      "favoriteCount": "0",
+      "commentCount": "30"
+    }
+  }
+}

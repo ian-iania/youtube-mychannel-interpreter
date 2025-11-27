@@ -1,0 +1,109 @@
+{
+  "cached_at": 1764285747.841867,
+  "cache_type": "channel_videos",
+  "key": "UCPjNBjflYl0-HQtUvOx0Ibw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mLTcJs48x08epSZi19-ffuidaAU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vyZX0oQozzc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T01:15:45Z",
+        "channelId": "UCPjNBjflYl0-HQtUvOx0Ibw",
+        "title": "Reviewing Claude Opus 4.5",
+        "description": "I sat down with James, the Boring Marketer, to stress-test Claude 4.5 Opus against Gemini 3 Pro for real-world coding and design ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vyZX0oQozzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vyZX0oQozzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vyZX0oQozzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Greg Isenberg",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T01:15:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "duuWEOPbAfoyWOWdLjyjAWFx8to",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jSWuepkuFrU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T19:30:09Z",
+        "channelId": "UCPjNBjflYl0-HQtUvOx0Ibw",
+        "title": "How I Design Apps 10x Better (Free Course)",
+        "description": "On this episode I sit down with indie app builder and designer Chris Raroque to break down how solo developers can make apps ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jSWuepkuFrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jSWuepkuFrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jSWuepkuFrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Greg Isenberg",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T19:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X6Agemw-RtaMvqtxHYUvY8rQuRI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QNh4SUQuts4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T18:20:01Z",
+        "channelId": "UCPjNBjflYl0-HQtUvOx0Ibw",
+        "title": "I Tested Gemini 3 as a Designer. It’s Terrifyingly Good.",
+        "description": "On today's episode I stress-test Gemini 3.0 in Google AI Studio to see how good it really is as a designer, not just a code generator ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QNh4SUQuts4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QNh4SUQuts4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QNh4SUQuts4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Greg Isenberg",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T18:20:01Z"
+      }
+    }
+  ]
+}

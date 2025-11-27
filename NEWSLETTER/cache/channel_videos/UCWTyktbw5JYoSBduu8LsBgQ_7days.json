@@ -1,0 +1,143 @@
+{
+  "cached_at": 1764285759.4796429,
+  "cache_type": "channel_videos",
+  "key": "UCWTyktbw5JYoSBduu8LsBgQ_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-mQBuFDvS00pLdkx5MRt57EAyOY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eusia1OHgi8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T19:04:42Z",
+        "channelId": "UCWTyktbw5JYoSBduu8LsBgQ",
+        "title": "Filmora 15: Edit Videos 10x Faster with These AI Features (Full Guide)",
+        "description": "Filmora 15 AI Video Editor - Complete Feature Tutorial Discover the power of AI-driven video editing with Filmora 15!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eusia1OHgi8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eusia1OHgi8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eusia1OHgi8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mervin Praison",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T19:04:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IxNpQ-si68kO9V8HqnSehJw9aLU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KXcXASBW6_M"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T14:00:27Z",
+        "channelId": "UCWTyktbw5JYoSBduu8LsBgQ",
+        "title": "AI Analysed 55 Sources, Created Slides &amp; Podcast in 10 Minutes",
+        "description": "Visit: https://skywork.ai/p/gWho5T Special Offer: Get 20% off Discover how to transform AI research into professional ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KXcXASBW6_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KXcXASBW6_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KXcXASBW6_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mervin Praison",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T14:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kzzg0Y-Jh9XJDQZlb3KrOkK7qZY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5Io6H7elHfs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T10:24:16Z",
+        "channelId": "UCWTyktbw5JYoSBduu8LsBgQ",
+        "title": "Nano Banana Pro Demo: Create Infographics in Seconds!",
+        "description": "Discover how to create stunning infographics, comics, and visual content in seconds with Google's Nano Banana Pro! This tutorial ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Io6H7elHfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Io6H7elHfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Io6H7elHfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mervin Praison",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T10:24:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i2G4wXgoT6ZDU5Ll0whfVqRlLxM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R0BRJTDZiCU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T15:00:54Z",
+        "channelId": "UCWTyktbw5JYoSBduu8LsBgQ",
+        "title": "Rtrvr AI: LinkedIn Job Hunting Just Got 10x Easier With AI! ",
+        "description": "Discover Retriever AI - the ultimate browser-based AI agent that automates your online tasks! This isn't just another chatbot - it's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R0BRJTDZiCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R0BRJTDZiCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R0BRJTDZiCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mervin Praison",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T15:00:54Z"
+      }
+    }
+  ]
+}

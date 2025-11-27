@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285760.461065,
+  "cache_type": "video_details",
+  "key": "2raGD8wS3ZU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "w6fZ1ZERd2sqllDeUsVwwt7Zi1E",
+    "id": "2raGD8wS3ZU",
+    "snippet": {
+      "publishedAt": "2025-11-22T01:38:27Z",
+      "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+      "title": "Microsoft Azure Hardware Security Module (HSM): Helping you with data security and sovereignty",
+      "description": "Microsoft Azure Key Vault Managed HSM helps keep your data away from those that aren't entitled to access it, including Microsoft.  See what Azure HSM and Key Vault Premium can enable in your organization's security posture.  \n\nLearn more about Azure Key Vault and HSM: https://msft.it/6056trDAw\n\n#Microsoft #MicrosoftAzure #HardwareSecurityModule",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2raGD8wS3ZU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2raGD8wS3ZU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2raGD8wS3ZU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2raGD8wS3ZU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Microsoft Azure",
+      "tags": [
+        "Azure",
+        "HSM",
+        "Hardware Security Module"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Microsoft Azure Hardware Security Module (HSM): Helping you with data security and sovereignty",
+        "description": "Microsoft Azure Key Vault Managed HSM helps keep your data away from those that aren't entitled to access it, including Microsoft.  See what Azure HSM and Key Vault Premium can enable in your organization's security posture.  \n\nLearn more about Azure Key Vault and HSM: https://msft.it/6056trDAw\n\n#Microsoft #MicrosoftAzure #HardwareSecurityModule"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT3M5S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "734",
+      "likeCount": "28",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

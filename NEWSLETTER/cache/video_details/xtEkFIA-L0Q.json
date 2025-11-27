@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285746.042166,
+  "cache_type": "video_details",
+  "key": "xtEkFIA-L0Q",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "hzZYlk4oR2m6_-LMl34SVvVtqMM",
+    "id": "xtEkFIA-L0Q",
+    "snippet": {
+      "publishedAt": "2025-11-26T01:03:51Z",
+      "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+      "title": "History: An interactive 3D globe that lets you explore the history of any location on the planet.",
+      "description": "THIS is for everyone who doomscrolls Google Maps at 2am clicking on random islands asking, ‘What even IS this place?’ — because someone finally built the tool we all needed. It’s called History, and it lets you click anywhere on a 3D globe — any island, mountain, tiny Arctic village with like 9 people — and it will actually research the entire history of that location for you. Actual research across historical archives, academic papers, and the modern web — for up to 10 minutes. \n\n#github #opensource \n\nhttps://github.com/yorkeccak/history",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xtEkFIA-L0Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xtEkFIA-L0Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xtEkFIA-L0Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xtEkFIA-L0Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xtEkFIA-L0Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Github Awesome",
+      "tags": [
+        "GitHub",
+        "GitHub Repositories",
+        "Trending GitHub",
+        "Trending",
+        "GitHub Open Source Projects",
+        "GitHub Trending",
+        "gitHub trending"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "History: An interactive 3D globe that lets you explore the history of any location on the planet.",
+        "description": "THIS is for everyone who doomscrolls Google Maps at 2am clicking on random islands asking, ‘What even IS this place?’ — because someone finally built the tool we all needed. It’s called History, and it lets you click anywhere on a 3D globe — any island, mountain, tiny Arctic village with like 9 people — and it will actually research the entire history of that location for you. Actual research across historical archives, academic papers, and the modern web — for up to 10 minutes. \n\n#github #opensource \n\nhttps://github.com/yorkeccak/history"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT28S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "16770",
+      "likeCount": "461",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

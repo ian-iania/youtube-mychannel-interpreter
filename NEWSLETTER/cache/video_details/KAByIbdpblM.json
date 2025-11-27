@@ -1,0 +1,125 @@
+{
+  "cached_at": 1764285770.96753,
+  "cache_type": "video_details",
+  "key": "KAByIbdpblM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "FmbXIs5bLAKgN3SmvcSxXLrMjkg",
+    "id": "KAByIbdpblM",
+    "snippet": {
+      "publishedAt": "2025-11-27T19:11:46Z",
+      "channelId": "UCdmGjywrxeOPfC7vDllmSgQ",
+      "title": "ELE FEZ A ARMADURA EXOESQUELETO MAIS INCRÍVEL DA INTERNET!",
+      "description": "Um estudante universitário chinês de 21 anos, Huang Yanjun, construiu uma armadura de exoesqueleto controlada por voz com inteligência artificial, inspirada no filme \"Homem de Ferro\". O projeto foi criado em apenas dois meses durante as férias de verão e rapidamente viralizou nas redes sociais.\n\nO exoesqueleto é uma construção completa com painéis que se abrem e fecham automaticamente, ativada por comandos de voz que imitam o assistente de IA \"Jarvis\" dos filmes. Para construir o traje, Huang utilizou a tecnologia de impressão 3D, montando os componentes em uma única peça.\n\nHuang, que estuda Design Mecânico, Manufatura e Automação, demonstrou desde cedo interesse por eletrônicos e inovações. Ele transformava peças de aparelhos antigos em novos itens e já havia criado um robô assistivo de caminhada, para o qual buscou patentear.\n\nO traje não é apenas estático; ele se move suavemente e pode ser equipado com efeitos de fumaça e laser para demonstrações. A criação destaca o alto nível de engenharia e criatividade do estudante chinês, misturando tecnologia de ponta com paixão por ficção científica.\n\nLeia mais no #TecMundo.\n#exoesqueleto #ia #robótica #china #tecnologia #homemdeferro #armadura #impressão3d #estudante #invenção #viral #engenharia #automação #futurista #cosplay",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KAByIbdpblM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KAByIbdpblM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KAByIbdpblM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KAByIbdpblM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KAByIbdpblM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "TecMundo",
+      "tags": [
+        "exoesqueleto",
+        "ia",
+        "china",
+        "robótica",
+        "armadura",
+        "cosplay",
+        "tecnologia",
+        "estudante",
+        "universitário",
+        "invenção",
+        "engenharia",
+        "impressão",
+        "3d",
+        "futurista",
+        "inteligência",
+        "artificial",
+        "jarvis",
+        "homem",
+        "de",
+        "ferro",
+        "viral",
+        "redes",
+        "sociais",
+        "criatividade",
+        "automação",
+        "mecânica",
+        "design",
+        "eletrônica",
+        "ciência",
+        "projeto",
+        "protótipo",
+        "circuito",
+        "placa",
+        "patente",
+        "inovação",
+        "asiática",
+        "gadget",
+        "geek",
+        "simulador",
+        "movimento",
+        "controle",
+        "voz",
+        "display",
+        "realidade",
+        "aumentada",
+        "wearable",
+        "sensor",
+        "eletrônicos",
+        "customização",
+        "software",
+        "hardware",
+        "robô",
+        "assistivo",
+        "residência",
+        "ficção",
+        "científica"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "ELE FEZ A ARMADURA EXOESQUELETO MAIS INCRÍVEL DA INTERNET!",
+        "description": "Um estudante universitário chinês de 21 anos, Huang Yanjun, construiu uma armadura de exoesqueleto controlada por voz com inteligência artificial, inspirada no filme \"Homem de Ferro\". O projeto foi criado em apenas dois meses durante as férias de verão e rapidamente viralizou nas redes sociais.\n\nO exoesqueleto é uma construção completa com painéis que se abrem e fecham automaticamente, ativada por comandos de voz que imitam o assistente de IA \"Jarvis\" dos filmes. Para construir o traje, Huang utilizou a tecnologia de impressão 3D, montando os componentes em uma única peça.\n\nHuang, que estuda Design Mecânico, Manufatura e Automação, demonstrou desde cedo interesse por eletrônicos e inovações. Ele transformava peças de aparelhos antigos em novos itens e já havia criado um robô assistivo de caminhada, para o qual buscou patentear.\n\nO traje não é apenas estático; ele se move suavemente e pode ser equipado com efeitos de fumaça e laser para demonstrações. A criação destaca o alto nível de engenharia e criatividade do estudante chinês, misturando tecnologia de ponta com paixão por ficção científica.\n\nLeia mais no #TecMundo.\n#exoesqueleto #ia #robótica #china #tecnologia #homemdeferro #armadura #impressão3d #estudante #invenção #viral #engenharia #automação #futurista #cosplay"
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT39S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1901",
+      "likeCount": "140",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

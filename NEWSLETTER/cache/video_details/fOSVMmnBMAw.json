@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285744.8402371,
+  "cache_type": "video_details",
+  "key": "fOSVMmnBMAw",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "ydp48mk2ZidRWoxlI01MDnhLCg8",
+    "id": "fOSVMmnBMAw",
+    "snippet": {
+      "publishedAt": "2025-11-21T06:59:03Z",
+      "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+      "title": "Genspark AI Inbox | 여러분의 수신함을 자동으로 관리하세요",
+      "description": "런칭 이벤트를 계획하는 데 21일….가능할까요?\n\n저희 이벤트 매니저 Mariana는 젠스파크 *AI 수신함과 함께** 해냈습니다. 🚀*\n\n이메일 첨부파일 어딘가에 숨어있는 공급업체 계약서? 젠스파크가 찾아내고, 여러 공급업체의 계약서를 나란히 비교하며, 협상 이메일 초안까지 작성합니다. 여러 이메일 더미에 흩어진 업무 스케줄 업데이트? 예약된 에이전트가 모든 것을 자동으로 추적하고, 일일 대시보드에 요약을 진행합니다.\n\n한 줄의 프롬프트로 작업을 완료하고, 여러분의 수신함을 자동으로 관리하세요 ✨\n\n지금 바로 사용해보기: https://www.genspark.ai/ai_inbox",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fOSVMmnBMAw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fOSVMmnBMAw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fOSVMmnBMAw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fOSVMmnBMAw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fOSVMmnBMAw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Genspark",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "Genspark AI Inbox | 여러분의 수신함을 자동으로 관리하세요",
+        "description": "런칭 이벤트를 계획하는 데 21일….가능할까요?\n\n저희 이벤트 매니저 Mariana는 젠스파크 *AI 수신함과 함께** 해냈습니다. 🚀*\n\n이메일 첨부파일 어딘가에 숨어있는 공급업체 계약서? 젠스파크가 찾아내고, 여러 공급업체의 계약서를 나란히 비교하며, 협상 이메일 초안까지 작성합니다. 여러 이메일 더미에 흩어진 업무 스케줄 업데이트? 예약된 에이전트가 모든 것을 자동으로 추적하고, 일일 대시보드에 요약을 진행합니다.\n\n한 줄의 프롬프트로 작업을 완료하고, 여러분의 수신함을 자동으로 관리하세요 ✨\n\n지금 바로 사용해보기: https://www.genspark.ai/ai_inbox"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M50S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "320",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

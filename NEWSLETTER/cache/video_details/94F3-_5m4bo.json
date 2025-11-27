@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285765.2190669,
+  "cache_type": "video_details",
+  "key": "94F3-_5m4bo",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "J4B4Kuar8J0sybR0dqeIMoJZoqk",
+    "id": "94F3-_5m4bo",
+    "snippet": {
+      "publishedAt": "2025-11-27T01:41:27Z",
+      "channelId": "UCgoJjdR6-7AMu9fDitb6nVw",
+      "title": "Fast Mode is free right now?? Go. GO. 🏃💨",
+      "description": "Don’t miss out on our Black Friday deal:  \n✅ Publish & share your first website for free \n✅ Get a free .com domain when you subscribe to Replit Core    \n \nBuild your site in minutes with Design Mode, share for free, then upgrade to put it on a custom .com domain!    \n \nStart now: https://Replit.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/94F3-_5m4bo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/94F3-_5m4bo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/94F3-_5m4bo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/94F3-_5m4bo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/94F3-_5m4bo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Replit",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Fast Mode is free right now?? Go. GO. 🏃💨",
+        "description": "Don’t miss out on our Black Friday deal:  \n✅ Publish & share your first website for free \n✅ Get a free .com domain when you subscribe to Replit Core    \n \nBuild your site in minutes with Design Mode, share for free, then upgrade to put it on a custom .com domain!    \n \nStart now: https://Replit.com"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT59S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "11744",
+      "likeCount": "31",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

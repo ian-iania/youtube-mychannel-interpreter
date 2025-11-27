@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285734.8526201,
+  "cache_type": "channel_info",
+  "key": "UCxXL5491Db9U8Rhfs-2LVFg",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "DI6WBB2EKriJpOytRvxuXyfAJrQ",
+    "id": "UCxXL5491Db9U8Rhfs-2LVFg",
+    "snippet": {
+      "title": "Asimov Academy",
+      "description": "📊 Domine Python, Inteligência Artificial, automações com n8n e muito mais!\n",
+      "customUrl": "@asimovacademy",
+      "publishedAt": "2017-02-16T23:44:21Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/JlxNvkE931r5QP87KKR9YUsYuBwYgMcoyLvmsjymNnVoC0yXb14AqTGCmM0p4m5S9QXoS95EQQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/JlxNvkE931r5QP87KKR9YUsYuBwYgMcoyLvmsjymNnVoC0yXb14AqTGCmM0p4m5S9QXoS95EQQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/JlxNvkE931r5QP87KKR9YUsYuBwYgMcoyLvmsjymNnVoC0yXb14AqTGCmM0p4m5S9QXoS95EQQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Asimov Academy",
+        "description": "📊 Domine Python, Inteligência Artificial, automações com n8n e muito mais!\n"
+      },
+      "country": "BR"
+    },
+    "statistics": {
+      "viewCount": "9164749",
+      "subscriberCount": "143000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "227"
+    }
+  }
+}

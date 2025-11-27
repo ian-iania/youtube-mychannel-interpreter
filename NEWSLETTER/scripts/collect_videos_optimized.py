@@ -407,7 +407,15 @@ def main():
     with open(channels_file, 'r') as f:
         data = json.load(f)
     
-    channel_ids = list(data['channels'].keys())
+    # Suportar ambos os formatos: dict ou list
+    channels_data = data.get('channels', data) if isinstance(data, dict) else data
+    
+    if isinstance(channels_data, dict):
+        # Formato dict {channel_id: channel_data}
+        channel_ids = list(channels_data.keys())
+    else:
+        # Formato list [{channel_id: ..., ...}]
+        channel_ids = [c['channel_id'] for c in channels_data]
     
     # Criar coletor
     collector = OptimizedVideoCollector(

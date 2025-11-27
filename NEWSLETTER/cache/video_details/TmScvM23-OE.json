@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285754.979902,
+  "cache_type": "video_details",
+  "key": "TmScvM23-OE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "lCZs4gu3XOkQ3dC_JJxaFrKus64",
+    "id": "TmScvM23-OE",
+    "snippet": {
+      "publishedAt": "2025-11-27T17:24:13Z",
+      "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+      "title": "Will It Extract | Episode 2 - 2025 Thanksgiving Turkey",
+      "description": "In Episode 2, Ava, our Growth Engineer, takes a complex document and applies Agentic Document Extraction (ADE) to see if it can successfully extract structured data from it.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TmScvM23-OE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TmScvM23-OE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TmScvM23-OE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TmScvM23-OE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TmScvM23-OE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LandingAI",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Will It Extract | Episode 2 - 2025 Thanksgiving Turkey",
+        "description": "In Episode 2, Ava, our Growth Engineer, takes a complex document and applies Agentic Document Extraction (ADE) to see if it can successfully extract structured data from it."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M13S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "14",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

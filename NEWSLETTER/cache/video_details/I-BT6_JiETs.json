@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285776.886561,
+  "cache_type": "video_details",
+  "key": "I-BT6_JiETs",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "zeOvltZDmBC9nPsdvc113UTOmGU",
+    "id": "I-BT6_JiETs",
+    "snippet": {
+      "publishedAt": "2025-11-24T17:10:27Z",
+      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+      "title": "Leilão da Ferrogrão acontecerá no 1º semestre de 2026",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/I-BT6_JiETs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/I-BT6_JiETs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/I-BT6_JiETs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/I-BT6_JiETs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/I-BT6_JiETs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "exame",
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Leilão da Ferrogrão acontecerá no 1º semestre de 2026",
+        "description": ""
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT2M48S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "952",
+      "likeCount": "7",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

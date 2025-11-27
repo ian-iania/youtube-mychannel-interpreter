@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285755.503144,
+  "cache_type": "channel_info",
+  "key": "UCn2bInQrjdDYKEEmbpwblLQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "K2gOscpGPae-zcHC4xPqS9JPsMw",
+    "id": "UCn2bInQrjdDYKEEmbpwblLQ",
+    "snippet": {
+      "title": "Langflow",
+      "description": "Langflow is a low-code app builder for multi-agent AI, prompting, and RAG\n",
+      "customUrl": "@langflow",
+      "publishedAt": "2023-03-06T21:49:25.676882Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/qwJwtNMTHOotZ9_Kv1tWLlOQsUwero5ksd4AEo_przGEuZlFzUXhDH5Aeo6gwgDx7KyV6FNF=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/qwJwtNMTHOotZ9_Kv1tWLlOQsUwero5ksd4AEo_przGEuZlFzUXhDH5Aeo6gwgDx7KyV6FNF=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/qwJwtNMTHOotZ9_Kv1tWLlOQsUwero5ksd4AEo_przGEuZlFzUXhDH5Aeo6gwgDx7KyV6FNF=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Langflow",
+        "description": "Langflow is a low-code app builder for multi-agent AI, prompting, and RAG\n"
+      },
+      "country": "BR"
+    },
+    "statistics": {
+      "viewCount": "559325",
+      "subscriberCount": "14700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "175"
+    }
+  }
+}

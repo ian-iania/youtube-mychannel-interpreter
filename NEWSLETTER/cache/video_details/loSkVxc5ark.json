@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285776.888936,
+  "cache_type": "video_details",
+  "key": "loSkVxc5ark",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "ugnSl8WgkFEf73as3HHKT_-z5jY",
+    "id": "loSkVxc5ark",
+    "snippet": {
+      "publishedAt": "2025-11-22T19:00:02Z",
+      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+      "title": "Tecnologia, Sustentabilidade e COP30: O Papel da Inovação na Transição Verde | Fábio Neves",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/loSkVxc5ark/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/loSkVxc5ark/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/loSkVxc5ark/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/loSkVxc5ark/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/loSkVxc5ark/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "exame",
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Tecnologia, Sustentabilidade e COP30: O Papel da Inovação na Transição Verde | Fábio Neves",
+        "description": ""
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT1M26S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1064",
+      "likeCount": "14",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

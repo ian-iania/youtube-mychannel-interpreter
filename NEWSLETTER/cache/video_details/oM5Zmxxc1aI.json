@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285765.2202659,
+  "cache_type": "video_details",
+  "key": "oM5Zmxxc1aI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "m05m_ocW_etv5_CnEGv-tsvuDd0",
+    "id": "oM5Zmxxc1aI",
+    "snippet": {
+      "publishedAt": "2025-11-20T21:47:52Z",
+      "channelId": "UCgoJjdR6-7AMu9fDitb6nVw",
+      "title": "Build Your First App with AI (Live Workshop)",
+      "description": "We're hosting a live workshop to teach you the most important skill for your career right now: building with AI.\n\nWhat We're Covering:\n\n→ Build your first custom application from scratch (live, together)\n→ Learn what Vibe Coding is and why it matters\n→ Go from idea to working software in minutes\n→ See practical examples: apps, workflows, automations\n→ Get your questions answered in real-time\n\nWhy This Matters:\n\nThe divide between \"technical\" and \"non-technical\" is disappearing. Sales pros are building prospecting tools. Marketers are creating custom funnels. HR is designing recruiting workflows.\n\nRight now, this is a competitive advantage. In 2-3 years, it'll be table stakes.\n\nPerfect for:\n→ Complete beginners (zero coding background needed)\n→ Professionals looking to differentiate themselves\n→ Anyone curious about building with AI\n\n90 minutes. Live build. No slides, just building.\n\nRSVP → https://luma.com/xpjudc04",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/oM5Zmxxc1aI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/oM5Zmxxc1aI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/oM5Zmxxc1aI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/oM5Zmxxc1aI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/oM5Zmxxc1aI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Replit",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Build Your First App with AI (Live Workshop)",
+        "description": "We're hosting a live workshop to teach you the most important skill for your career right now: building with AI.\n\nWhat We're Covering:\n\n→ Build your first custom application from scratch (live, together)\n→ Learn what Vibe Coding is and why it matters\n→ Go from idea to working software in minutes\n→ See practical examples: apps, workflows, automations\n→ Get your questions answered in real-time\n\nWhy This Matters:\n\nThe divide between \"technical\" and \"non-technical\" is disappearing. Sales pros are building prospecting tools. Marketers are creating custom funnels. HR is designing recruiting workflows.\n\nRight now, this is a competitive advantage. In 2-3 years, it'll be table stakes.\n\nPerfect for:\n→ Complete beginners (zero coding background needed)\n→ Professionals looking to differentiate themselves\n→ Anyone curious about building with AI\n\n90 minutes. Live build. No slides, just building.\n\nRSVP → https://luma.com/xpjudc04"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1H41M54S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4235",
+      "likeCount": "190",
+      "favoriteCount": "0",
+      "commentCount": "28"
+    }
+  }
+}

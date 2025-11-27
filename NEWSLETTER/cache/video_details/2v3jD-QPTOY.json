@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285735.209284,
+  "cache_type": "video_details",
+  "key": "2v3jD-QPTOY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "3DqqkXGZRIO_gng64IhKD9TCmo4",
+    "id": "2v3jD-QPTOY",
+    "snippet": {
+      "publishedAt": "2025-11-27T19:44:16Z",
+      "channelId": "UCxXL5491Db9U8Rhfs-2LVFg",
+      "title": "O 4 caminhos na IA",
+      "description": "Antes de começar a estudar IA, é imprescindível que você entenda os 4 caminhos.... e qual faz mais sentido para você.\n\nO primeiro caminho é o dos criadores de modelos de IA.\nÉ a galera que lê papers, estuda arquiteturas, pesquisa novas técnicas e empurra o estado da arte.\nÉ profundo, matemático, e voltado para quem quer pesquisa, inovação pesada e big techs.\n\nO segundo é o da IA não-generativa, o machine learning clássico.\nAqui você trabalha com modelos tradicionais para previsão, recomendação, churn, detecção de fraude, manutenção preditiva…\nÉ o que domina bancos, indústrias e empresas consolidadas.\n\nO terceiro — e o que mais cresce hoje — é o de quem cria aplicações usando modelos já existentes.\nGente que usa GPT, Claude, Gemini, Mistral para construir produtos reais: copilots, chatbots, agentes, RAG, automações inteligentes, startups inteiras.\nÉ onde está a maior demanda prática e a maior velocidade de crescimento.\n\nE o quarto caminho é o do no-code avançado, usando ferramentas como n8n, Make e Zapier para montar sistemas completos sem programar.\nÉ rápido, eficiente e perfeito para quem quer resultados imediatos.\n\nE o melhor de tudo é que na Asimov Academy nós já montamos trilhas que te ensinam 3 dos 4 caminhos que te apresentei:\nA trilha Data Science e Machine Learning para o caminho da IA não generativa;\nA formação engenheiro de agentes de IA para o caminho da criação de aplicações com IA;\nE a Trilha Automatizando tudo com n8n para o caminho das automações no-code.\n\nSe quiser conhecer melhor cada uma delas, confere o link da bio.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/2v3jD-QPTOY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/2v3jD-QPTOY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/2v3jD-QPTOY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/2v3jD-QPTOY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/2v3jD-QPTOY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Asimov Academy",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "O 4 caminhos na IA",
+        "description": "Antes de começar a estudar IA, é imprescindível que você entenda os 4 caminhos.... e qual faz mais sentido para você.\n\nO primeiro caminho é o dos criadores de modelos de IA.\nÉ a galera que lê papers, estuda arquiteturas, pesquisa novas técnicas e empurra o estado da arte.\nÉ profundo, matemático, e voltado para quem quer pesquisa, inovação pesada e big techs.\n\nO segundo é o da IA não-generativa, o machine learning clássico.\nAqui você trabalha com modelos tradicionais para previsão, recomendação, churn, detecção de fraude, manutenção preditiva…\nÉ o que domina bancos, indústrias e empresas consolidadas.\n\nO terceiro — e o que mais cresce hoje — é o de quem cria aplicações usando modelos já existentes.\nGente que usa GPT, Claude, Gemini, Mistral para construir produtos reais: copilots, chatbots, agentes, RAG, automações inteligentes, startups inteiras.\nÉ onde está a maior demanda prática e a maior velocidade de crescimento.\n\nE o quarto caminho é o do no-code avançado, usando ferramentas como n8n, Make e Zapier para montar sistemas completos sem programar.\nÉ rápido, eficiente e perfeito para quem quer resultados imediatos.\n\nE o melhor de tudo é que na Asimov Academy nós já montamos trilhas que te ensinam 3 dos 4 caminhos que te apresentei:\nA trilha Data Science e Machine Learning para o caminho da IA não generativa;\nA formação engenheiro de agentes de IA para o caminho da criação de aplicações com IA;\nE a Trilha Automatizando tudo com n8n para o caminho das automações no-code.\n\nSe quiser conhecer melhor cada uma delas, confere o link da bio."
+      },
+      "defaultAudioLanguage": "gu"
+    },
+    "contentDetails": {
+      "duration": "PT1M30S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "474",
+      "likeCount": "56",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285731.592677,
+  "cache_type": "channel_info",
+  "key": "UC0m81bQuthaQZmFbXEY9QSw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "a6UUfvBhvmlsgsalprw2V9dyao4",
+    "id": "UC0m81bQuthaQZmFbXEY9QSw",
+    "snippet": {
+      "title": "AICodeKing",
+      "description": "Facing the future with AI! \n\nHere you'll find content about multiple AI Tools that are actually useful and sometimes free.\n\nFor Ads / Sponsorship : Comment on any of my videos and I'll reach back on how you can contact me.\n",
+      "customUrl": "@aicodeking",
+      "publishedAt": "2024-03-27T09:20:04.536666Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/nV61H0crb2n8eLYtWF2EkYksD6AVInPAtC6aNxWwX2dhTpnHWcTEgnEmmrNSvd0NMj-eChQu=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/nV61H0crb2n8eLYtWF2EkYksD6AVInPAtC6aNxWwX2dhTpnHWcTEgnEmmrNSvd0NMj-eChQu=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/nV61H0crb2n8eLYtWF2EkYksD6AVInPAtC6aNxWwX2dhTpnHWcTEgnEmmrNSvd0NMj-eChQu=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "AICodeKing",
+        "description": "Facing the future with AI! \n\nHere you'll find content about multiple AI Tools that are actually useful and sometimes free.\n\nFor Ads / Sponsorship : Comment on any of my videos and I'll reach back on how you can contact me.\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "11382175",
+      "subscriberCount": "115000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "707"
+    }
+  }
+}

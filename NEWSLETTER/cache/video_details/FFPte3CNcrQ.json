@@ -1,0 +1,85 @@
+{
+  "cached_at": 1764285763.74209,
+  "cache_type": "video_details",
+  "key": "FFPte3CNcrQ",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "0doC241OL7jjF-z7AdSApvGK0Gg",
+    "id": "FFPte3CNcrQ",
+    "snippet": {
+      "publishedAt": "2025-11-20T20:47:28Z",
+      "channelId": "UCX6c6hTIqcphjMsXbeanJ1g",
+      "title": "BRO… KIMI K2 JUST FRIED MY BRAIN 💀🔥",
+      "description": "Sponsor Runpod: https://get.runpod.io/pe48\n\nMeet Kimi K2 Thinking Mode — the new reasoning breakthrough from Moonshot AI that’s shaking the AI world. In this video, I break down how Kimi K2 is able to plan, think, reflect, revise, and solve complex problems step-by-step using a powerful new cognitive-loop architecture.\n\nYou’ll learn:\nWhat makes K2’s “Thinking” mode different from normal LLMs\nHow its Plan → Think → Recall → Revise pipeline works\nWhy K2 can handle extremely long contexts\nHow it compares to GPT-5.1 and other frontier models\nReal examples from the Kimi K2 documentation\nWhat this means for the future of reasoning AI and agentic systems\n\nIf you’re a developer, researcher, or AI enthusiast — this one is packed with insights.\nLet me know in the comments: Is K2 the next big step after GPT-5.1?\n\nLink:\nhttps://moonshotai.github.io/Kimi-K2/thinking.html\n\n\nCHANNEL LINKS: \n🕵️‍♀️ Join my Patreon for keeping up with the updates: https://www.patreon.com/PromptEngineer975\n☕ Buy me a coffee: https://ko-fi.com/promptengineer\n📞 Get on a Call with me at Calendly: https://calendly.com/prompt-engineer48/call\n💀 GitHub Profile: https://github.com/PromptEngineer48\n🔖 Twitter Profile: https://twitter.com/prompt48\n\nHastag:\n\n#KimiK2, #KimiAI, #MoonshotAI, #KimiThinkingMode, #AIReasoning, #GPT51, #GPT5, #AIplanning, #DeepLearning, #ArtificialIntelligence, #AGI, #AIresearch, #TechNews, #AIBreakthrough, #LLMs, #AIcomparison",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/FFPte3CNcrQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/FFPte3CNcrQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/FFPte3CNcrQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/FFPte3CNcrQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/FFPte3CNcrQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Prompt Engineer",
+      "tags": [
+        "#KimiK2",
+        "#KimiAI",
+        "#MoonshotAI",
+        "#KimiThinkingMode",
+        "#AIReasoning",
+        "#GPT51",
+        "#GPT5",
+        "#AIplanning",
+        "#DeepLearning",
+        "#ArtificialIntelligence",
+        "#AGI",
+        "#AIresearch",
+        "#TechNews",
+        "#AIBreakthrough",
+        "#LLMs",
+        "#AIcomparison"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "BRO… KIMI K2 JUST FRIED MY BRAIN 💀🔥",
+        "description": "Sponsor Runpod: https://get.runpod.io/pe48\n\nMeet Kimi K2 Thinking Mode — the new reasoning breakthrough from Moonshot AI that’s shaking the AI world. In this video, I break down how Kimi K2 is able to plan, think, reflect, revise, and solve complex problems step-by-step using a powerful new cognitive-loop architecture.\n\nYou’ll learn:\nWhat makes K2’s “Thinking” mode different from normal LLMs\nHow its Plan → Think → Recall → Revise pipeline works\nWhy K2 can handle extremely long contexts\nHow it compares to GPT-5.1 and other frontier models\nReal examples from the Kimi K2 documentation\nWhat this means for the future of reasoning AI and agentic systems\n\nIf you’re a developer, researcher, or AI enthusiast — this one is packed with insights.\nLet me know in the comments: Is K2 the next big step after GPT-5.1?\n\nLink:\nhttps://moonshotai.github.io/Kimi-K2/thinking.html\n\n\nCHANNEL LINKS: \n🕵️‍♀️ Join my Patreon for keeping up with the updates: https://www.patreon.com/PromptEngineer975\n☕ Buy me a coffee: https://ko-fi.com/promptengineer\n📞 Get on a Call with me at Calendly: https://calendly.com/prompt-engineer48/call\n💀 GitHub Profile: https://github.com/PromptEngineer48\n🔖 Twitter Profile: https://twitter.com/prompt48\n\nHastag:\n\n#KimiK2, #KimiAI, #MoonshotAI, #KimiThinkingMode, #AIReasoning, #GPT51, #GPT5, #AIplanning, #DeepLearning, #ArtificialIntelligence, #AGI, #AIresearch, #TechNews, #AIBreakthrough, #LLMs, #AIcomparison"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M52S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "346",
+      "likeCount": "16",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285751.036609,
+  "cache_type": "video_details",
+  "key": "SdvQyKB-kDs",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "fDON3h7VsD5F-wiMoccvhLfeGhw",
+    "id": "SdvQyKB-kDs",
+    "snippet": {
+      "publishedAt": "2025-11-23T23:43:21Z",
+      "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+      "title": "NotebookLM: Como uma IA transforma pesquisa em relatórios profissionais",
+      "description": "🔍 NotebookLM: Como uma IA transforma pesquisa em relatórios profissionais\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nImagina só: você faz uma pergunta para uma IA e ela não só responde, como monta um relatório completo com fontes, detalhes e permite que você trabalhe em cima de tudo isso de forma interativa. Parece ficção? Não é. É o NotebookLM em ação.\n\nA gente saiu de um modelo simples de pergunta-resposta para algo muito mais robusto. O NotebookLM não apenas gera conteúdo: ele documenta o caminho, mostrando exatamente de onde vieram as informações. Isso é game-changer para quem trabalha com pesquisa, análise de dados ou precisa justificar decisões.\n\nO melhor? Você consegue interagir com essas fontes em tempo real. Quer remover uma fonte? Adicionar outra? Aprofundar em um detalhe específico? Tudo acontece dentro da mesma plataforma, sem aquele trabalho manual de copiar, colar e reorganizar informações.\n\nEstamos vendo a IA evoluir de \"assistente que responde\" para \"parceira que documenta\". Isso reduz drasticamente o tempo de pesquisa e aumenta a confiabilidade do trabalho. É menos sobre automação cega e mais sobre inteligência aumentada.\n\nE você? Já testou o NotebookLM ou ferramentas similares? Comente aqui qual foi sua experiência! 👇 #shorts",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SdvQyKB-kDs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SdvQyKB-kDs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SdvQyKB-kDs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SdvQyKB-kDs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SdvQyKB-kDs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Inteligencia Artificial para advogados",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "NotebookLM: Como uma IA transforma pesquisa em relatórios profissionais",
+        "description": "🔍 NotebookLM: Como uma IA transforma pesquisa em relatórios profissionais\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nImagina só: você faz uma pergunta para uma IA e ela não só responde, como monta um relatório completo com fontes, detalhes e permite que você trabalhe em cima de tudo isso de forma interativa. Parece ficção? Não é. É o NotebookLM em ação.\n\nA gente saiu de um modelo simples de pergunta-resposta para algo muito mais robusto. O NotebookLM não apenas gera conteúdo: ele documenta o caminho, mostrando exatamente de onde vieram as informações. Isso é game-changer para quem trabalha com pesquisa, análise de dados ou precisa justificar decisões.\n\nO melhor? Você consegue interagir com essas fontes em tempo real. Quer remover uma fonte? Adicionar outra? Aprofundar em um detalhe específico? Tudo acontece dentro da mesma plataforma, sem aquele trabalho manual de copiar, colar e reorganizar informações.\n\nEstamos vendo a IA evoluir de \"assistente que responde\" para \"parceira que documenta\". Isso reduz drasticamente o tempo de pesquisa e aumenta a confiabilidade do trabalho. É menos sobre automação cega e mais sobre inteligência aumentada.\n\nE você? Já testou o NotebookLM ou ferramentas similares? Comente aqui qual foi sua experiência! 👇 #shorts"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT42S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "163",
+      "likeCount": "6",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

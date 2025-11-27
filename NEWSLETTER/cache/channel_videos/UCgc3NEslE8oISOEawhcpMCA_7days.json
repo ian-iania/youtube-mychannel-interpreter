@@ -1,0 +1,211 @@
+{
+  "cached_at": 1764285760.855211,
+  "cache_type": "channel_videos",
+  "key": "UCgc3NEslE8oISOEawhcpMCA_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YI_pRJ3QVGgqQCox_yVhS7w4GWs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zpct8UbP9Ag"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T18:30:13Z",
+        "channelId": "UCgc3NEslE8oISOEawhcpMCA",
+        "title": "Building Agents in Copilot Studio 101",
+        "description": "In the “Building Agents in Copilot Studio 101” webinar, we demonstrate agent creation, integration of tools and knowledge, use of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zpct8UbP9Ag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zpct8UbP9Ag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zpct8UbP9Ag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Power Platform",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T18:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SFg-1GbcnUW0Pl_jZljdu_pGYPI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3g57RDaXUuU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T17:22:32Z",
+        "channelId": "UCgc3NEslE8oISOEawhcpMCA",
+        "title": "Prompt Gallery | EP13 | Power Up Minute",
+        "description": "Discover how to access and use the M365 Copilot Prompt Gallery, including filtering prompts by task, agent, and saving your own ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3g57RDaXUuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3g57RDaXUuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3g57RDaXUuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Power Platform",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T17:22:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7ScK2N5h0248XMcFY-StP1qz8Hs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Re1YgQU54iI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T20:21:01Z",
+        "channelId": "UCgc3NEslE8oISOEawhcpMCA",
+        "title": "Keeping it Real with Power Platform coming soon!",
+        "description": "We're almost ready to drop our brand-new weekly series - Keeping it Real with Power Platform! Hosted by Vice President of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Re1YgQU54iI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Re1YgQU54iI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Re1YgQU54iI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Power Platform",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T20:21:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gp81fpQ2pwDGl97kPlRkXQmC0WI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ablgxVCJtlQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T18:51:55Z",
+        "channelId": "UCgc3NEslE8oISOEawhcpMCA",
+        "title": "Understanding Microsoft Agents | EP05",
+        "description": "In this session, you'll learn how the Employee Self-Service Agent in M365 Copilot serves as your single front door for HR and IT ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ablgxVCJtlQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ablgxVCJtlQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ablgxVCJtlQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Power Platform",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T18:51:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U8ceeB3luHEVSBftkYz3OqCy60w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M-pBZItg7Ys"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T17:00:52Z",
+        "channelId": "UCgc3NEslE8oISOEawhcpMCA",
+        "title": "Who’s Using Copilot? Virgin Money Leads the Way in AI Innovation",
+        "description": "Virgin Money is redefining banking with Microsoft Copilot and Copilot Studio. By integrating AI-powered tools like Power BI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M-pBZItg7Ys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M-pBZItg7Ys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M-pBZItg7Ys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Power Platform",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T17:00:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LfHsJoNIlQyx_IwLFWsMxH3IdXY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WPv1NEAvraY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T21:07:23Z",
+        "channelId": "UCgc3NEslE8oISOEawhcpMCA",
+        "title": "Saving Prompts | EP12 | Power Up Minute",
+        "description": "Learn how to save, reuse, and share your favorite prompts in this quick Power Up Minute. Discover prompt bookmarking, gallery ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WPv1NEAvraY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WPv1NEAvraY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WPv1NEAvraY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Microsoft Power Platform",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T21:07:23Z"
+      }
+    }
+  ]
+}

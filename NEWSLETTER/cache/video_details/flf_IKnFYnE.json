@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.957578,
+  "cache_type": "video_details",
+  "key": "flf_IKnFYnE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "1-4NlYU6s7O0A97aSb1kEbX8Kpc",
+    "id": "flf_IKnFYnE",
+    "snippet": {
+      "publishedAt": "2025-11-24T20:16:36Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "From Stateless Nightmares to Durable Agents — Samuel Colvin, Pydantic",
+      "description": "Building production AI agents reveals a harsh truth: stateless architectures that work for simple demos become impossibly painful at scale. When long-running workflows fail, you lose all compute, progress, and user trust.\nThis is why companies like OpenAI use Temporal for products like Deep Research—to build durable agents that recover from failures instead of forcing users to start over.\n\nIn this talk, you'll learn how to:\n- Build resilient AI agents that survive crashes and resume from checkpoints\n- Implement durable execution with PydanticAI and Temporal\n- Gain production-grade observability with Pydantic Logfire and Evals\n- Compose multi-agent systems that handle failures gracefully\n- Stop burning money on failed agent runs that restart from scratch\n\nWe'll walk through real code examples, including a Deep Research implementation that demonstrates how proper architecture turns fragile prototypes into production-ready systems.\n\nLinks:\n- Demo code on GitHub: https://github.com/pydantic/pydantic-stack-demo/tree/main/durable-exec\n- Pydantic AI Documentation: https://ai.pydantic.dev/\n- Temporal Integration Guide: https://ai.pydantic.dev/durable_execution/temporal/\n- Pydantic Logfire Docs: https://logfire.pydantic.dev/docs/\n\nSamuel Colvin is a Python and Rust expert. His work has redefined data validation and observability for developers. His Pydantic library powers 350M+ downloads every month, serving as a core dependency for OpenAI SDK, Anthropic SDK, LangChain, LlamaIndex, and countless other GenAI projects.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/company/pydantic/\n- X (Twitter): https://x.com/pydantic\n- GitHub: https://github.com/pydantic\n- Website: NA\n- Company: Pydantic (https://pydantic.dev)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/flf_IKnFYnE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/flf_IKnFYnE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/flf_IKnFYnE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/flf_IKnFYnE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/flf_IKnFYnE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "From Stateless Nightmares to Durable Agents — Samuel Colvin, Pydantic",
+        "description": "Building production AI agents reveals a harsh truth: stateless architectures that work for simple demos become impossibly painful at scale. When long-running workflows fail, you lose all compute, progress, and user trust.\nThis is why companies like OpenAI use Temporal for products like Deep Research—to build durable agents that recover from failures instead of forcing users to start over.\n\nIn this talk, you'll learn how to:\n- Build resilient AI agents that survive crashes and resume from checkpoints\n- Implement durable execution with PydanticAI and Temporal\n- Gain production-grade observability with Pydantic Logfire and Evals\n- Compose multi-agent systems that handle failures gracefully\n- Stop burning money on failed agent runs that restart from scratch\n\nWe'll walk through real code examples, including a Deep Research implementation that demonstrates how proper architecture turns fragile prototypes into production-ready systems.\n\nLinks:\n- Demo code on GitHub: https://github.com/pydantic/pydantic-stack-demo/tree/main/durable-exec\n- Pydantic AI Documentation: https://ai.pydantic.dev/\n- Temporal Integration Guide: https://ai.pydantic.dev/durable_execution/temporal/\n- Pydantic Logfire Docs: https://logfire.pydantic.dev/docs/\n\nSamuel Colvin is a Python and Rust expert. His work has redefined data validation and observability for developers. His Pydantic library powers 350M+ downloads every month, serving as a core dependency for OpenAI SDK, Anthropic SDK, LangChain, LlamaIndex, and countless other GenAI projects.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/company/pydantic/\n- X (Twitter): https://x.com/pydantic\n- GitHub: https://github.com/pydantic\n- Website: NA\n- Company: Pydantic (https://pydantic.dev)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT22M13S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "3059",
+      "likeCount": "71",
+      "favoriteCount": "0",
+      "commentCount": "5"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "cached_at": 1764285764.153868,
+  "cache_type": "video_details",
+  "key": "r4abIemObmQ",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Ic0W0mKIsaakONjaV70IPhOQeJY",
+    "id": "r4abIemObmQ",
+    "snippet": {
+      "publishedAt": "2025-11-23T13:45:06Z",
+      "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+      "title": "Meta is Back! Segment Anything 3 is Here (Open Weight)",
+      "description": "Meta release segment anything model 3 along with SAM 3D, a unified model for detection, segmentation, and tracking of objects in images and video using text, exemplar, and visual prompts.\n\nhttps://ai.meta.com/blog/segment-anything-model-3/\nhttps://www.aidemos.meta.com/segment-anything/gallery\nhttps://github.com/facebookresearch/sam3\nhttps://ai.meta.com/sam3d/\nhttps://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-images-with-segment-anything-3.ipynb\nhttps://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-videos-with-segment-anything-3.ipynb\n \n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Basics Course:\nhttps://prompt-s-site.thinkific.com/courses/rag\n\nLet's Connect: \n🦾 Discord: https://discord.com/invite/t4eYQRUcXB\n☕ Buy me a Coffee: https://ko-fi.com/promptengineering\n|🔴 Patreon: https://www.patreon.com/PromptEngineering\n💼Consulting: https://calendly.com/engineerprompt/consulting-call\n📧 Business Contact: engineerprompt@gmail.com\nBecome Member: http://tinyurl.com/y5h28s6h\n\n💻 Pre-configured localGPT VM: https://bit.ly/localGPT (use Code: PromptEngineering for 50% off).  \n\nSignup for Newsletter, localgpt:\nhttps://tally.so/r/3y9bb0",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/r4abIemObmQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/r4abIemObmQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/r4abIemObmQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/r4abIemObmQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/r4abIemObmQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Prompt Engineering",
+      "tags": [
+        "prompt engineering",
+        "Prompt Engineer",
+        "LLMs",
+        "AI",
+        "artificial Intelligence",
+        "Llama",
+        "GPT-4",
+        "fine-tuning LLMs"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Meta is Back! Segment Anything 3 is Here (Open Weight)",
+        "description": "Meta release segment anything model 3 along with SAM 3D, a unified model for detection, segmentation, and tracking of objects in images and video using text, exemplar, and visual prompts.\n\nhttps://ai.meta.com/blog/segment-anything-model-3/\nhttps://www.aidemos.meta.com/segment-anything/gallery\nhttps://github.com/facebookresearch/sam3\nhttps://ai.meta.com/sam3d/\nhttps://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-images-with-segment-anything-3.ipynb\nhttps://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-videos-with-segment-anything-3.ipynb\n \n\nMy voice to text App: whryte.com\nWebsite: https://engineerprompt.ai/\nRAG Beyond Basics Course:\nhttps://prompt-s-site.thinkific.com/courses/rag\n\nLet's Connect: \n🦾 Discord: https://discord.com/invite/t4eYQRUcXB\n☕ Buy me a Coffee: https://ko-fi.com/promptengineering\n|🔴 Patreon: https://www.patreon.com/PromptEngineering\n💼Consulting: https://calendly.com/engineerprompt/consulting-call\n📧 Business Contact: engineerprompt@gmail.com\nBecome Member: http://tinyurl.com/y5h28s6h\n\n💻 Pre-configured localGPT VM: https://bit.ly/localGPT (use Code: PromptEngineering for 50% off).  \n\nSignup for Newsletter, localgpt:\nhttps://tally.so/r/3y9bb0"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT10M59S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "5959",
+      "likeCount": "181",
+      "favoriteCount": "0",
+      "commentCount": "9"
+    }
+  }
+}

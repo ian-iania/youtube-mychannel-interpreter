@@ -1,0 +1,245 @@
+{
+  "cached_at": 1764285765.98877,
+  "cache_type": "channel_videos",
+  "key": "UC0FBv8ckxw1hrZxbUm3G7hA_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a-eTi_e4A5UzEp2Uw0-Rcu6aBGI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GAzVZTtWa4E"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T17:04:38Z",
+        "channelId": "UC0FBv8ckxw1hrZxbUm3G7hA",
+        "title": "I Built An Agent AI App WITHOUT Coding (No Code App Building Tutorial)",
+        "description": "This video is brought to you by Agentplace. Start building your own AI website and use code ROBTHEAIGUY100 to get $100 off ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GAzVZTtWa4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GAzVZTtWa4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GAzVZTtWa4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rob The AI Guy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T17:04:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OfOIlvOrwv-wDt9g5TnrXEC4vWQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p-MDqOLp3IE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T17:51:35Z",
+        "channelId": "UC0FBv8ckxw1hrZxbUm3G7hA",
+        "title": "Google’s NotebookLM Released 5 NEW Features That Are INSANE 🤯 (NEW USE CASES)",
+        "description": "Join AI Automation School (Learn To Automate Your Work & Make $ With AI) https://www.skool.com/ai-automation-school/about ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p-MDqOLp3IE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p-MDqOLp3IE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p-MDqOLp3IE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rob The AI Guy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T17:51:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JKiGcS2YquXwGO3dh_6T6hkz4ic",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c0NgRrqF65w"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T22:16:05Z",
+        "channelId": "UC0FBv8ckxw1hrZxbUm3G7hA",
+        "title": "This NEW AI Tool Makes SEO Optimized Websites in Minutes! (AI Website Builder)",
+        "description": "Create SEO Optimized Website in Minutes with Hostinger Horizons (Use Code ROB10 for 10% off): https://bit.ly/48f4ZF1 This ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c0NgRrqF65w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c0NgRrqF65w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c0NgRrqF65w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rob The AI Guy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T22:16:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wtKIEFU2ezW_xaCQjZ_umdUFUAY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LLLVOsS5MIs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T16:27:21Z",
+        "channelId": "UC0FBv8ckxw1hrZxbUm3G7hA",
+        "title": "Google Gemini 3 Pro’s NEW AI Agent Upgrades Are INSANE! (Automate Anything With Google)",
+        "description": "Try The Automation I Built For Free: https://bit.ly/4p1pjRC This video shows you how to build AI agents to automate tasks with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LLLVOsS5MIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LLLVOsS5MIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LLLVOsS5MIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rob The AI Guy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T16:27:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cOJoTHV_s0LvPOac-trNTICgR5g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "58eV12TQpU8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T18:53:56Z",
+        "channelId": "UC0FBv8ckxw1hrZxbUm3G7hA",
+        "title": "The MOST Powerful AI Tool I’ve Ever Used Just Got Even BETTER 👀 (Custom AI Workflows)",
+        "description": "Use DeepAgent to Build Custom AI Workflows To Automate Any Task: https://deepagent.abacus.ai/rqm This video shows you how ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/58eV12TQpU8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/58eV12TQpU8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/58eV12TQpU8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rob The AI Guy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T18:53:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W2_E16WWVER2ginfKmrwJ-1rtAc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8x4ZCDeTGaE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T15:27:36Z",
+        "channelId": "UC0FBv8ckxw1hrZxbUm3G7hA",
+        "title": "HeyGen’s NEW Video Agent Tool Just K*LLED Video Editors! (HeyGen Tutorial)",
+        "description": "Start Creating AI Generated Videos with HeyGen For FREE: https://www.heygen.com/?sid=rewardful&via=robtheaiguy Thanks to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8x4ZCDeTGaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8x4ZCDeTGaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8x4ZCDeTGaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rob The AI Guy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T15:27:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "59Z0C1q0RxQ7QEzDajDM5c5Y3aw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BEY1WHckABU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T22:37:48Z",
+        "channelId": "UC0FBv8ckxw1hrZxbUm3G7hA",
+        "title": "Google’s NEW Nano Banana Pro Image Tool is INSANE 👀 (GET FREE ACCESS)",
+        "description": "Get Unlimited Free Access to Nano Banana 2 By Using inVideo: https://invideo.io/i/robtheaiguy This video shows you how to get ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BEY1WHckABU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BEY1WHckABU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BEY1WHckABU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rob The AI Guy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T22:37:48Z"
+      }
+    }
+  ]
+}

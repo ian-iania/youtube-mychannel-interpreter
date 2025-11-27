@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285742.8733718,
+  "cache_type": "video_details",
+  "key": "CIqV8z_fmVE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "V35gXtP0bBBrPgT0K0bYKkKj1gM",
+    "id": "CIqV8z_fmVE",
+    "snippet": {
+      "publishedAt": "2025-11-23T10:00:15Z",
+      "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+      "title": "How-To Install TensorRT Locally to Optimize and Serve Any Model",
+      "description": "This video installs TensorRT locally and tests it. TensorRT delivers blazing-fast GPU inference by optimizing kernels.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#tensorrt \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://github.com/NVIDIA/TensorRT\n\nAll rights reserved © Fahd Mirza",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CIqV8z_fmVE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CIqV8z_fmVE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CIqV8z_fmVE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CIqV8z_fmVE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CIqV8z_fmVE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Fahd Mirza",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "How-To Install TensorRT Locally to Optimize and Serve Any Model",
+        "description": "This video installs TensorRT locally and tests it. TensorRT delivers blazing-fast GPU inference by optimizing kernels.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#tensorrt \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://github.com/NVIDIA/TensorRT\n\nAll rights reserved © Fahd Mirza"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT8M38S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1304",
+      "likeCount": "63",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

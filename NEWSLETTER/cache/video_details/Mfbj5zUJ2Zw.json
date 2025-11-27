@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285765.219761,
+  "cache_type": "video_details",
+  "key": "Mfbj5zUJ2Zw",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "RrNNUU7xI9AGA2wNHCWGNfPJYV8",
+    "id": "Mfbj5zUJ2Zw",
+    "snippet": {
+      "publishedAt": "2025-11-21T08:00:23Z",
+      "channelId": "UCgoJjdR6-7AMu9fDitb6nVw",
+      "title": "Designing for AI with Zade Kaylani",
+      "description": "https://landle.world?utm_source=Matt&utm_medium=youtube&utm_campaign=replit-builders\nhttps://replit.com?utm_source=Matt&utm_medium=youtube&utm_campaign=replit-builders\n\nReplit designer Zade reveals how to design agentic AI experiences and use AI tools without losing your creative edge\n\nKey Points:\n00:28 Meet Zade: From astronautical engineering to designing Replit Agent\n05:11 Building Landl: Creating internal tools with AI to solve design problems\n12:00 Finding creative inspiration in traffic lights, Minecraft, and SpongeBob\n19:00 Why chat interfaces aren't always the right model for AI agents\n23:00 Simplification without dumbing down: Designing for power and accessibility\n28:25 Essential tip: Don't outsource the human touch to AI\n\n#AI #Design #Replit #ProductDesign #UserExperience #AIAgents #VibeCoding #TechCareers #CreativeTech #DeveloperTools\n\nHow do you balance using AI tools to accelerate your workflow while preserving your unique creative perspective? Share your experiences in the comments.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Mfbj5zUJ2Zw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Mfbj5zUJ2Zw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Mfbj5zUJ2Zw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Mfbj5zUJ2Zw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Mfbj5zUJ2Zw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Replit",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Designing for AI with Zade Kaylani",
+        "description": "https://landle.world?utm_source=Matt&utm_medium=youtube&utm_campaign=replit-builders\nhttps://replit.com?utm_source=Matt&utm_medium=youtube&utm_campaign=replit-builders\n\nReplit designer Zade reveals how to design agentic AI experiences and use AI tools without losing your creative edge\n\nKey Points:\n00:28 Meet Zade: From astronautical engineering to designing Replit Agent\n05:11 Building Landl: Creating internal tools with AI to solve design problems\n12:00 Finding creative inspiration in traffic lights, Minecraft, and SpongeBob\n19:00 Why chat interfaces aren't always the right model for AI agents\n23:00 Simplification without dumbing down: Designing for power and accessibility\n28:25 Essential tip: Don't outsource the human touch to AI\n\n#AI #Design #Replit #ProductDesign #UserExperience #AIAgents #VibeCoding #TechCareers #CreativeTech #DeveloperTools\n\nHow do you balance using AI tools to accelerate your workflow while preserving your unique creative perspective? Share your experiences in the comments."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT30M2S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1076",
+      "likeCount": "23",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

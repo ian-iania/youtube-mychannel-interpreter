@@ -1,0 +1,83 @@
+{
+  "cached_at": 1764285760.460022,
+  "cache_type": "video_details",
+  "key": "MjLAirBuGY4",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "8N1FGsxMeg7LDetdoErDYjokvNU",
+    "id": "MjLAirBuGY4",
+    "snippet": {
+      "publishedAt": "2025-11-22T02:46:42Z",
+      "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+      "title": "Orderfox: AI Powered Supply Chains at Scale With Microsoft Foundry",
+      "description": "Orderfox uses AI and Microsoft Foundry to power efficient, data-driven supply chains, connecting buyers and suppliers, enabling rapid innovation, and delivering instant insights for smarter business decisions.\n\nLearn more: https://msft.it/AIFoundry\n\n#MicrosoftAzure #MicrosoftFoundry",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MjLAirBuGY4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MjLAirBuGY4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MjLAirBuGY4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MjLAirBuGY4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Microsoft Azure",
+      "tags": [
+        "Orderfox",
+        "AI supply chain",
+        "Microsoft Foundry",
+        "B2B solutions",
+        "manufacturing database",
+        "supply chain innovation",
+        "Microsoft",
+        "digital transformation",
+        "rapid prototyping",
+        "feedback loop",
+        "buyer-supplier connection",
+        "enterprise AI",
+        "supply chain analytics",
+        "business intelligence",
+        "manufacturing tech",
+        "smart decisions",
+        "user experience",
+        "product innovation",
+        "supply chain mapping"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Orderfox: AI Powered Supply Chains at Scale With Microsoft Foundry",
+        "description": "Orderfox uses AI and Microsoft Foundry to power efficient, data-driven supply chains, connecting buyers and suppliers, enabling rapid innovation, and delivering instant insights for smarter business decisions.\n\nLearn more: https://msft.it/AIFoundry\n\n#MicrosoftAzure #MicrosoftFoundry"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M50S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "303",
+      "likeCount": "9",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

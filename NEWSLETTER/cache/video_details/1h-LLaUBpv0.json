@@ -1,0 +1,78 @@
+{
+  "cached_at": 1764285764.75549,
+  "cache_type": "video_details",
+  "key": "1h-LLaUBpv0",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "36tcSNEeUZrY8Oj8gNkTwiaVldE",
+    "id": "1h-LLaUBpv0",
+    "snippet": {
+      "publishedAt": "2025-11-21T12:49:14Z",
+      "channelId": "UCNaV-3aAm3_tuLXVaH-HeHQ",
+      "title": "7 Step RAG Workflow | Rakesh Gohel",
+      "description": "AI Agents to retrieve efficiently, your RAG must be flawless\n\nHere are the exact 7 steps that power the Foundation... \n\nIf you want to build an enterprise Agentic RAG system, not having the foundational knowledge can be Catastrophic. \n\nEvery RAG was built and improved upon these 7 integral steps.\n\nUnderstanding each stage is the difference between a basic chatbot and a powerful retrieval system.\n\n📌 Here's the complete breakdown:\n\n1. Data Ingestion\n- Collecting documents and converting them into a processable format\n- Accepts user prompts, multimedia content, structured data, semi-structured data, and unstructured data\n\nFoundation for everything that follows\n\n2. Split into Chunks\n- Fixed-size token chunks with overlap\n- Semantic chunks via embedding similarity\n- Page-level chunks preserving layout\n\nBest strategy depends on your data structure\n\n3. Embed Chunks\n- Open Source Models: Qwen3-Emb-8B, Gemma 300M\n- Proprietary Models: text-emb-3, Cohere Embed v3\n\nConverts text into dense vector representations for semantic search\n\n4. Store in DB before Indexing\n- Vector DBs: Pinecone, Supabase, Chroma\n- Knowledge Graphs: Weaviate, Neo4j\n\nEnables fast retrieval at scale\n\n5. Augment Data\n- Performing semantic search\n- Pulling the top-k most relevant chunks\n- Combining the user query with retrieved context\n\nThis is where retrieved knowledge meets the user's question\n\n6. Generate\n- Open Source Models: Llama 4, GPT-OSS\n- Proprietary Models: GPT-5.1, Claude 4.5\n\nLLM processes augmented input to produce final response\n\n7. Evaluate Output\n- Open Source Frameworks: Langfuse, Opik\n- Proprietary: Galileo, LangSmith\n\nMeasures response quality, relevance, and factuality\n\n📌 The full flow:\n\nUser Input → Ingest → Split → Embed → Store → Augment → Generate → Evaluate\n\nEach stage compounds the quality of your final output. \n\nMiss one, and your RAG system deteriorates rapidly.\n\nThis systematic approach is what separates production RAG systems from POC projects.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1h-LLaUBpv0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1h-LLaUBpv0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1h-LLaUBpv0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1h-LLaUBpv0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1h-LLaUBpv0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Rakesh Gohel",
+      "tags": [
+        "aiagents",
+        "llm",
+        "genai",
+        "elonmusk",
+        "samaltman",
+        "google",
+        "nanobanana",
+        "nanobananapro",
+        "sundarpichai"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "7 Step RAG Workflow | Rakesh Gohel",
+        "description": "AI Agents to retrieve efficiently, your RAG must be flawless\n\nHere are the exact 7 steps that power the Foundation... \n\nIf you want to build an enterprise Agentic RAG system, not having the foundational knowledge can be Catastrophic. \n\nEvery RAG was built and improved upon these 7 integral steps.\n\nUnderstanding each stage is the difference between a basic chatbot and a powerful retrieval system.\n\n📌 Here's the complete breakdown:\n\n1. Data Ingestion\n- Collecting documents and converting them into a processable format\n- Accepts user prompts, multimedia content, structured data, semi-structured data, and unstructured data\n\nFoundation for everything that follows\n\n2. Split into Chunks\n- Fixed-size token chunks with overlap\n- Semantic chunks via embedding similarity\n- Page-level chunks preserving layout\n\nBest strategy depends on your data structure\n\n3. Embed Chunks\n- Open Source Models: Qwen3-Emb-8B, Gemma 300M\n- Proprietary Models: text-emb-3, Cohere Embed v3\n\nConverts text into dense vector representations for semantic search\n\n4. Store in DB before Indexing\n- Vector DBs: Pinecone, Supabase, Chroma\n- Knowledge Graphs: Weaviate, Neo4j\n\nEnables fast retrieval at scale\n\n5. Augment Data\n- Performing semantic search\n- Pulling the top-k most relevant chunks\n- Combining the user query with retrieved context\n\nThis is where retrieved knowledge meets the user's question\n\n6. Generate\n- Open Source Models: Llama 4, GPT-OSS\n- Proprietary Models: GPT-5.1, Claude 4.5\n\nLLM processes augmented input to produce final response\n\n7. Evaluate Output\n- Open Source Frameworks: Langfuse, Opik\n- Proprietary: Galileo, LangSmith\n\nMeasures response quality, relevance, and factuality\n\n📌 The full flow:\n\nUser Input → Ingest → Split → Embed → Store → Augment → Generate → Evaluate\n\nEach stage compounds the quality of your final output. \n\nMiss one, and your RAG system deteriorates rapidly.\n\nThis systematic approach is what separates production RAG systems from POC projects."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT11S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1565",
+      "likeCount": "33",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

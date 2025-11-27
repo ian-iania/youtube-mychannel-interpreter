@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285733.411699,
+  "cache_type": "video_details",
+  "key": "fOxC44g8vig",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "JrwDdlmNI4NKc-WDtWN3o7Xlh9s",
+    "id": "fOxC44g8vig",
+    "snippet": {
+      "publishedAt": "2025-11-26T22:09:15Z",
+      "channelId": "UCrDwWp7EBBv4NwvScIpBDOA",
+      "title": "Claude Agent Skills Explained",
+      "description": "Agent Skills are organized folders that package expertise that Claude can automatically invoke when relevant to the task at hand.\n\nJoin the Claude Developer Discord - https://anthropic.com/discord\nLearn more about Agent Skills - https://www.claude.com/blog/skills\n\n00:06 Introducing Agent Skills\n00:30 How Agent Skills work\n01:08 Agent Skills vs Claude.md\n01:42 Agent Skills vs MCP Servers\n02:05 Agent Skills vs Subagents\n02:33 Putting it all together\n02:48 Summary",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fOxC44g8vig/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fOxC44g8vig/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fOxC44g8vig/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fOxC44g8vig/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fOxC44g8vig/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Anthropic",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Claude Agent Skills Explained",
+        "description": "Agent Skills are organized folders that package expertise that Claude can automatically invoke when relevant to the task at hand.\n\nJoin the Claude Developer Discord - https://anthropic.com/discord\nLearn more about Agent Skills - https://www.claude.com/blog/skills\n\n00:06 Introducing Agent Skills\n00:30 How Agent Skills work\n01:08 Agent Skills vs Claude.md\n01:42 Agent Skills vs MCP Servers\n02:05 Agent Skills vs Subagents\n02:33 Putting it all together\n02:48 Summary"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT3M15S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "26969",
+      "likeCount": "1147",
+      "favoriteCount": "0",
+      "commentCount": "82"
+    }
+  }
+}

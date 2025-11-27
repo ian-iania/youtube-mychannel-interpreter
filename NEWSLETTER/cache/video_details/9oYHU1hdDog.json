@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285747.445458,
+  "cache_type": "video_details",
+  "key": "9oYHU1hdDog",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "4o1h4J4m_UyvOddHGwAapYN_bUk",
+    "id": "9oYHU1hdDog",
+    "snippet": {
+      "publishedAt": "2025-11-21T00:00:10Z",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "Agents, AI & The Next Wave: Mike Clark on Vertex AI at DevFest Silicon Valley",
+      "description": "AI just reset the developer playbook. In this DevFest Silicon Valley sit-down, Mike Clark (Google's Director of Product Management, AI Agents) sits down with Frank (Puf) Van Puffelen (Google Developer Expert and Engineer), sharing how agents are moving from demos to production with Vertex AI Agent Builder, Agent Engine, and the open-source Agent Developer Kit (SDK). They also discuss what “build → scale → govern” means for real teams.\n\nIn this video we cover: \n* Why AI is finally accessible (and why community matters) \n* “Outcomes over lines of code” and the new definition of quality \n* Citizen developers, vibe coding, and what pros should build next \n* Continuous PRs, observability, OpenTelemetry, and open agent protocols (A2A, A2UI) \n* Practical entry points, prebuilt agents, and deployment choices (Cloud Run, GKE, etc.)\n\nTL;DR: Stay curious. Start small. Ship agents with guardrails.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nEvent: DevFest 2025 \n\nProducts Mentioned: Google AI",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9oYHU1hdDog/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9oYHU1hdDog/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9oYHU1hdDog/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9oYHU1hdDog/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9oYHU1hdDog/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google for Developers",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google Developer Groups;",
+        "Purpose: Learn;",
+        "Video Type:Interview;",
+        "ct: ;",
+        "gds:N/A;"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Agents, AI & The Next Wave: Mike Clark on Vertex AI at DevFest Silicon Valley",
+        "description": "AI just reset the developer playbook. In this DevFest Silicon Valley sit-down, Mike Clark (Google's Director of Product Management, AI Agents) sits down with Frank (Puf) Van Puffelen (Google Developer Expert and Engineer), sharing how agents are moving from demos to production with Vertex AI Agent Builder, Agent Engine, and the open-source Agent Developer Kit (SDK). They also discuss what “build → scale → govern” means for real teams.\n\nIn this video we cover: \n* Why AI is finally accessible (and why community matters) \n* “Outcomes over lines of code” and the new definition of quality \n* Citizen developers, vibe coding, and what pros should build next \n* Continuous PRs, observability, OpenTelemetry, and open agent protocols (A2A, A2UI) \n* Practical entry points, prebuilt agents, and deployment choices (Cloud Run, GKE, etc.)\n\nTL;DR: Stay curious. Start small. Ship agents with guardrails.\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nEvent: DevFest 2025 \n\nProducts Mentioned: Google AI"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT26M42S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2065",
+      "likeCount": "52",
+      "favoriteCount": "0",
+      "commentCount": "14"
+    }
+  }
+}

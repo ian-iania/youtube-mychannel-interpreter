@@ -1,0 +1,77 @@
+{
+  "cached_at": 1764285754.981111,
+  "cache_type": "video_details",
+  "key": "CuVA_GF0ZWc",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Zu83qQS3CO_lqPuEWvXmpmQCtnA",
+    "id": "CuVA_GF0ZWc",
+    "snippet": {
+      "publishedAt": "2025-11-27T01:11:10Z",
+      "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+      "title": "Andrew Ng Keynote - Financial AI Hackathon Championship",
+      "description": "A glimpse of Andrew Ng's Keynote - Financial AI Hackathon Championship Nov 15, 2025",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/CuVA_GF0ZWc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/CuVA_GF0ZWc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/CuVA_GF0ZWc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/CuVA_GF0ZWc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/CuVA_GF0ZWc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LandingAI",
+      "tags": [
+        "Hackathon",
+        "Financial Services",
+        "Document AI",
+        "Doc AI",
+        "IDP",
+        "Intelligent Document Processing",
+        "OCR",
+        "Community"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Andrew Ng Keynote - Financial AI Hackathon Championship",
+        "description": "A glimpse of Andrew Ng's Keynote - Financial AI Hackathon Championship Nov 15, 2025"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT47S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "25",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

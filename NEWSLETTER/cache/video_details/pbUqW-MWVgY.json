@@ -1,0 +1,78 @@
+{
+  "cached_at": 1764285731.976224,
+  "cache_type": "video_details",
+  "key": "pbUqW-MWVgY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Fwxo2mIZw2q6QFadyoBzEfx4tNQ",
+    "id": "pbUqW-MWVgY",
+    "snippet": {
+      "publishedAt": "2025-11-24T09:15:07Z",
+      "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+      "title": "Google Gemini 3 Build Mode: This FULLY FREE Gemini-3 AI Coder is ACTUALLY INSANE!",
+      "description": "Visit Augment Code: https://www.augmentcode.com/\n\nIn this video, I'll be walking you through the massive update to Google AI Studio's Build page, which now natively integrates Gemini 3 and the new reasoning-based image model, Nano Banana Pro, making it a powerhouse for \"vibe coding.\"\n\n--\nKey Takeaways:\n\n🚀 Google AI Studio Build page now supports Gemini 3 for significantly improved logic and coding.\n🍌 Nano Banana Pro is integrated, allowing for reasoning-based image generation that plans composition before rendering.\n🛠️ You can now specifically select which Gemini APIs your app leverages directly in the builder.\n📱 The platform supports voice prompting, file uploads, and full tech stack selection (React/Angular).\n💻 I demonstrate building a \"Visual Storyboard Generator\" to test the reasoning capabilities of the new models.\n☁️ New deployment options include direct GitHub syncing and one-click Google Cloud hosting.\n⚠️ While powerful for prototyping, the tool currently lacks a built-in database solution like Postgres.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/pbUqW-MWVgY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/pbUqW-MWVgY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/pbUqW-MWVgY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/pbUqW-MWVgY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/pbUqW-MWVgY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AICodeKing",
+      "tags": [
+        "google ai studio",
+        "gemini 3",
+        "nano banana pro",
+        "vibe coding",
+        "ai app builder",
+        "react app builder",
+        "google gemini update",
+        "lovable alternative",
+        "new gemini 3 ai coder"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Google Gemini 3 Build Mode: This FULLY FREE Gemini-3 AI Coder is ACTUALLY INSANE!",
+        "description": "Visit Augment Code: https://www.augmentcode.com/\n\nIn this video, I'll be walking you through the massive update to Google AI Studio's Build page, which now natively integrates Gemini 3 and the new reasoning-based image model, Nano Banana Pro, making it a powerhouse for \"vibe coding.\"\n\n--\nKey Takeaways:\n\n🚀 Google AI Studio Build page now supports Gemini 3 for significantly improved logic and coding.\n🍌 Nano Banana Pro is integrated, allowing for reasoning-based image generation that plans composition before rendering.\n🛠️ You can now specifically select which Gemini APIs your app leverages directly in the builder.\n📱 The platform supports voice prompting, file uploads, and full tech stack selection (React/Angular).\n💻 I demonstrate building a \"Visual Storyboard Generator\" to test the reasoning capabilities of the new models.\n☁️ New deployment options include direct GitHub syncing and one-click Google Cloud hosting.\n⚠️ While powerful for prototyping, the tool currently lacks a built-in database solution like Postgres."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT12M13S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "15296",
+      "likeCount": "391",
+      "favoriteCount": "0",
+      "commentCount": "38"
+    }
+  }
+}

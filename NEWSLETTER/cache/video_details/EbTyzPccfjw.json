@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285761.911627,
+  "cache_type": "video_details",
+  "key": "EbTyzPccfjw",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "jXoGozZREmB115ptAxw_FvE4D0M",
+    "id": "EbTyzPccfjw",
+    "snippet": {
+      "publishedAt": "2025-11-26T18:32:47Z",
+      "channelId": "UCYx10jQ_0QeqkV7gWiUE5yw",
+      "title": "4 Erros que Travam Seus Prompts — e Como Corrigir Agora",
+      "description": "Quer respostas melhores da IA? 🧠✨\n\nDescubra 4 dicas práticas para melhorar seus prompts: contexto, modelos, variedade e divisão de tarefas.\n\nAplique hoje e veja a diferença nas suas entregas!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EbTyzPccfjw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EbTyzPccfjw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EbTyzPccfjw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EbTyzPccfjw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EbTyzPccfjw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "NoCode StartUp",
+      "tags": [
+        "prompt ia",
+        "prompt",
+        "como criar um prompt",
+        "ia",
+        "programar com ia",
+        "apps com ia",
+        "no code startup"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "4 Erros que Travam Seus Prompts — e Como Corrigir Agora",
+        "description": "Quer respostas melhores da IA? 🧠✨\n\nDescubra 4 dicas práticas para melhorar seus prompts: contexto, modelos, variedade e divisão de tarefas.\n\nAplique hoje e veja a diferença nas suas entregas!"
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT35S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1093",
+      "likeCount": "13",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

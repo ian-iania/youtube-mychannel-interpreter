@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285756.0019882,
+  "cache_type": "channel_info",
+  "key": "UCtevzRsHEKhs-RK8pAqwSyQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "aoIp9MRYNRQkKbQWXGqf9-GbSxI",
+    "id": "UCtevzRsHEKhs-RK8pAqwSyQ",
+    "snippet": {
+      "title": "Leon van Zyl",
+      "description": "Welcome to my Youtube channel! Here, you'll find a range of programming tutorials and discussions on the latest technology and trends in the full stack development space. I create content for both experienced developers and those just starting out in the field, with a focus on helping you improve your skills and stay up-to-date with the latest advancements in the industry. Tune in for step-by-step guides, advice on best practices, and insights into the most popular technologies and frameworks. Whether you're a seasoned pro or a newcomer to the world of full stack development, there's something for everyone on my channel. Thanks for stopping by, and I hope you enjoy the content!",
+      "customUrl": "@leonvanzyl",
+      "publishedAt": "2010-06-03T06:00:57Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/oEcQWn4A0VwyuxAP2DsAmZn2ErFEyqD5BKYVrC-gBAwLF5gb5QqzDwXWIAu9SU1zXPXa9fZN5Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/oEcQWn4A0VwyuxAP2DsAmZn2ErFEyqD5BKYVrC-gBAwLF5gb5QqzDwXWIAu9SU1zXPXa9fZN5Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/oEcQWn4A0VwyuxAP2DsAmZn2ErFEyqD5BKYVrC-gBAwLF5gb5QqzDwXWIAu9SU1zXPXa9fZN5Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Leon van Zyl",
+        "description": "Welcome to my Youtube channel! Here, you'll find a range of programming tutorials and discussions on the latest technology and trends in the full stack development space. I create content for both experienced developers and those just starting out in the field, with a focus on helping you improve your skills and stay up-to-date with the latest advancements in the industry. Tune in for step-by-step guides, advice on best practices, and insights into the most popular technologies and frameworks. Whether you're a seasoned pro or a newcomer to the world of full stack development, there's something for everyone on my channel. Thanks for stopping by, and I hope you enjoy the content!"
+      },
+      "country": "ZA"
+    },
+    "statistics": {
+      "viewCount": "5825839",
+      "subscriberCount": "76900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "291"
+    }
+  }
+}

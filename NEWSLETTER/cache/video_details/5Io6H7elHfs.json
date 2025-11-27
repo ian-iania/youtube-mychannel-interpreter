@@ -1,0 +1,81 @@
+{
+  "cached_at": 1764285759.584429,
+  "cache_type": "video_details",
+  "key": "5Io6H7elHfs",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "4M8-Q53_sfvqV3Nrd1uZI6RD5KQ",
+    "id": "5Io6H7elHfs",
+    "snippet": {
+      "publishedAt": "2025-11-25T10:24:16Z",
+      "channelId": "UCWTyktbw5JYoSBduu8LsBgQ",
+      "title": "Nano Banana Pro Demo: Create Infographics in Seconds!",
+      "description": "Discover how to create stunning infographics, comics, and visual content in seconds with Google's Nano Banana Pro! This tutorial walks you through the most powerful features of this advanced AI image generation tool, from creating educational infographics to generating orthographic blueprints and fashion collages.\n\n## What You'll Learn:\n\nTransform any image into professional infographics instantly\nCreate comic strips with consistent character design\nGenerate technical diagrams and architectural blueprints\nDesign logos and brand assets for startups\nVisualize complex concepts like Kubernetes pods and fluid dynamics\nEdit and modify images with simple text prompts\nCreate fashion product collages and mood boards\n\n## Key Features Covered:\n\n✓ Text-to-image generation with AI thinking process\n✓ Image-to-infographic conversion\n✓ Comic creation with character consistency\n✓ Orthographic blueprint generation\n✓ Physics and technical concept visualization\n✓ Grounding with Google Search for accurate results\n✓ 2K and 4K resolution options\n✓ Object replacement and image editing\n\n## COMIC CREATION PROMPTS:\n\n### Basic Comic Prompt:\n```\nCreate a three-panel sequential comic based on this image of two samurai standing face-to-face. In the first panel, they draw their swords. In the second panel, they clash in mid-air with sparks flying. In the third panel, one samurai lands a decisive strike while the other reacts. Keep consistent character design and a dramatic manga-style action aesthetic.\n```\n\n### Storyboard/Comic with Character Consistency:\n```\nUsing the photo I've uploaded, create a short 6–8 frame storyboard featuring me as the main character. Keep the style fun, cinematic, and easy to follow. Use my appearance accurately in each frame and place me in different everyday scenes that flow together as a simple visual story. Add brief captions for each frame to describe what's happening.\n```\n\n## FASHION COLLAGE PROMPTS:\n\n### Fashion Product Collage (Corkboard Style):\n```\nCreate a fashion product collage on a brown corkboard based on this outfit.\n```\n\n### Detailed Fashion Mood Board:\n```\nA fashion mood board collage. Surround a portrait with cutouts of the individual items the model is wearing. Add handwritten notes and sketches in a playful, marker-style font, and include the brand name and source of each item in English. The overall aesthetic should be creative and cute.\n```\n\n### Editorial Fashion Grid:\n```\nCreate a grid of 4 editorial fashion images focused on [Brand Name], [2 x macro, 2 x dynamic action] that follow the same style and colour palette as the uploaded image. Make each of the new shots unique.\n```\n\n## PROMPTS FROM VIDEO:\n\n### 1. Comic Creation\n```\nCreate comic [CONCEPT]\n```\n\n### 2. Comic with Character Addition\n```\nContinue this comic by incorporating Mervin Praison who teaches about AI\n```\n\n### 3. AI Chatbot Infographic\n```\nHow to create a chatbot infographics\n```\n\n### 4. Plant Infographic (with uploaded image)\n```\nExplain this plant using infographics\n```\n\n### 5. Kubernetes Infographic\n```\nKubernetes pods explained with infographics\n```\n\n### 6. Startup Branding\n```\nShow me different logos and brand swag ideas for my startup called [Your Startup Name]\n```\n\n### 7. Orthographic Blueprint (with uploaded image)\n```\nCreate an orthographic blueprint that describes this building in plan, elevation and section\n```\n\n### 8. Physics Explainer (with uploaded image)\n```\nCreate an illustrated explainer detailing the physics of the fluid dynamics that are caught in this image and what happens next\n```\n\n### 9. Fashion Collage (with uploaded image)\n```\nCreate a fashion product collage on a brown corkboard based on this outfit\n```\n\n### 10. Object Replacement\n```\nChange the item to flowers\n```\n\n---\n\n**Note:** These prompts demonstrate Nano Banana Pro's capabilities for creating infographics, comics with character consistency, technical diagrams, and image-to-visual transformations directly from simple text instructions.\n\n## Timestamps:\n\n0:00 - Introduction & Overview\n0:41 - Getting Started with Nano Banana Pro\n1:14 - Creating Comics with Character Consistency\n1:40 - AI Chatbot Infographics Tutorial\n2:38 - Plant Care Guide Infographic\n3:03 - Kubernetes Pods Explained Visually\n3:32 - Startup Logo & Brand Design\n3:57 - Architectural Blueprint Generation\n4:18 - Physics & Fluid Dynamics Visualization\n4:46 - Fashion Product Collage Creation\n5:00 - Image Editing & Object Replacement\n\n## Access Nano Banana Pro:\n\n🔗 AI Studio: aitudio.google.com\n🔗 Gemini: gemini.google.com\n\n## Perfect For:\n\nContent creators and designers\nEducators and trainers\nStartup founders\nTechnical writers\nMarketing professionals\nAnyone wanting to visualize ideas quickly\n\n#NanoBananaPro #AIImageGeneration #Infographics #GoogleAI #AITools #ContentCreation #DesignAI #TechTutorial #AIArt #VisualContent",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5Io6H7elHfs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5Io6H7elHfs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5Io6H7elHfs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5Io6H7elHfs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5Io6H7elHfs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mervin Praison",
+      "tags": [
+        "gemini flash thinking",
+        "ai",
+        "google ai update",
+        "nano banana",
+        "nano",
+        "nano bana ai",
+        "banana",
+        "nano banana ai",
+        "nano banana pro",
+        "nano banana prompt",
+        "guide",
+        "tutorial"
+      ],
+      "categoryId": "26",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-GB",
+      "localized": {
+        "title": "Nano Banana Pro Demo: Create Infographics in Seconds!",
+        "description": "Discover how to create stunning infographics, comics, and visual content in seconds with Google's Nano Banana Pro! This tutorial walks you through the most powerful features of this advanced AI image generation tool, from creating educational infographics to generating orthographic blueprints and fashion collages.\n\n## What You'll Learn:\n\nTransform any image into professional infographics instantly\nCreate comic strips with consistent character design\nGenerate technical diagrams and architectural blueprints\nDesign logos and brand assets for startups\nVisualize complex concepts like Kubernetes pods and fluid dynamics\nEdit and modify images with simple text prompts\nCreate fashion product collages and mood boards\n\n## Key Features Covered:\n\n✓ Text-to-image generation with AI thinking process\n✓ Image-to-infographic conversion\n✓ Comic creation with character consistency\n✓ Orthographic blueprint generation\n✓ Physics and technical concept visualization\n✓ Grounding with Google Search for accurate results\n✓ 2K and 4K resolution options\n✓ Object replacement and image editing\n\n## COMIC CREATION PROMPTS:\n\n### Basic Comic Prompt:\n```\nCreate a three-panel sequential comic based on this image of two samurai standing face-to-face. In the first panel, they draw their swords. In the second panel, they clash in mid-air with sparks flying. In the third panel, one samurai lands a decisive strike while the other reacts. Keep consistent character design and a dramatic manga-style action aesthetic.\n```\n\n### Storyboard/Comic with Character Consistency:\n```\nUsing the photo I've uploaded, create a short 6–8 frame storyboard featuring me as the main character. Keep the style fun, cinematic, and easy to follow. Use my appearance accurately in each frame and place me in different everyday scenes that flow together as a simple visual story. Add brief captions for each frame to describe what's happening.\n```\n\n## FASHION COLLAGE PROMPTS:\n\n### Fashion Product Collage (Corkboard Style):\n```\nCreate a fashion product collage on a brown corkboard based on this outfit.\n```\n\n### Detailed Fashion Mood Board:\n```\nA fashion mood board collage. Surround a portrait with cutouts of the individual items the model is wearing. Add handwritten notes and sketches in a playful, marker-style font, and include the brand name and source of each item in English. The overall aesthetic should be creative and cute.\n```\n\n### Editorial Fashion Grid:\n```\nCreate a grid of 4 editorial fashion images focused on [Brand Name], [2 x macro, 2 x dynamic action] that follow the same style and colour palette as the uploaded image. Make each of the new shots unique.\n```\n\n## PROMPTS FROM VIDEO:\n\n### 1. Comic Creation\n```\nCreate comic [CONCEPT]\n```\n\n### 2. Comic with Character Addition\n```\nContinue this comic by incorporating Mervin Praison who teaches about AI\n```\n\n### 3. AI Chatbot Infographic\n```\nHow to create a chatbot infographics\n```\n\n### 4. Plant Infographic (with uploaded image)\n```\nExplain this plant using infographics\n```\n\n### 5. Kubernetes Infographic\n```\nKubernetes pods explained with infographics\n```\n\n### 6. Startup Branding\n```\nShow me different logos and brand swag ideas for my startup called [Your Startup Name]\n```\n\n### 7. Orthographic Blueprint (with uploaded image)\n```\nCreate an orthographic blueprint that describes this building in plan, elevation and section\n```\n\n### 8. Physics Explainer (with uploaded image)\n```\nCreate an illustrated explainer detailing the physics of the fluid dynamics that are caught in this image and what happens next\n```\n\n### 9. Fashion Collage (with uploaded image)\n```\nCreate a fashion product collage on a brown corkboard based on this outfit\n```\n\n### 10. Object Replacement\n```\nChange the item to flowers\n```\n\n---\n\n**Note:** These prompts demonstrate Nano Banana Pro's capabilities for creating infographics, comics with character consistency, technical diagrams, and image-to-visual transformations directly from simple text instructions.\n\n## Timestamps:\n\n0:00 - Introduction & Overview\n0:41 - Getting Started with Nano Banana Pro\n1:14 - Creating Comics with Character Consistency\n1:40 - AI Chatbot Infographics Tutorial\n2:38 - Plant Care Guide Infographic\n3:03 - Kubernetes Pods Explained Visually\n3:32 - Startup Logo & Brand Design\n3:57 - Architectural Blueprint Generation\n4:18 - Physics & Fluid Dynamics Visualization\n4:46 - Fashion Product Collage Creation\n5:00 - Image Editing & Object Replacement\n\n## Access Nano Banana Pro:\n\n🔗 AI Studio: aitudio.google.com\n🔗 Gemini: gemini.google.com\n\n## Perfect For:\n\nContent creators and designers\nEducators and trainers\nStartup founders\nTechnical writers\nMarketing professionals\nAnyone wanting to visualize ideas quickly\n\n#NanoBananaPro #AIImageGeneration #Infographics #GoogleAI #AITools #ContentCreation #DesignAI #TechTutorial #AIArt #VisualContent"
+      },
+      "defaultAudioLanguage": "en-GB"
+    },
+    "contentDetails": {
+      "duration": "PT5M14S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1810",
+      "likeCount": "61",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285755.4068322,
+  "cache_type": "video_details",
+  "key": "-gLH_okCcBA",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "JuITJV5W4U_8KrDFU-WYA8LJJYc",
+    "id": "-gLH_okCcBA",
+    "snippet": {
+      "publishedAt": "2025-11-26T18:05:02Z",
+      "channelId": "UCC-lyoTfSrcJzA1ab3APAgw",
+      "title": "AI Agents in Production: Lessons from Rippling and LangChain",
+      "description": "How does a company deploy AI agents across HR, payroll, IT, and finance products used by thousands of companies? Ankur Bhatt, Head of AI at Rippling, shares insights on building production-ready agents with Harrison Chase, CEO of LangChain.\n\nIn this conversation, we'll walk through:\n\n- Evolving from simple AI features to complex agents—and why \"deep agent\" paradigms that leverage LLM reasoning outperform rigid workflow-based approaches\n\n- Getting agents to production: using LangSmith to trace production behavior and debug agent execution, combined with real production data and rapid user feedback loops\n\n- Scaling AI development: managing 150+ hack week projects while balancing bottom-up innovation with strategic product priorities\n\n🔗 Resources mentioned:\n\nLangChain: https://www.langchain.com\nLangSmith: https://smith.langchain.com\nLangGraph: https://langchain-ai.github.io/langgraph/\nRippling: https://www.rippling.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-gLH_okCcBA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-gLH_okCcBA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-gLH_okCcBA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-gLH_okCcBA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-gLH_okCcBA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LangChain",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "AI Agents in Production: Lessons from Rippling and LangChain",
+        "description": "How does a company deploy AI agents across HR, payroll, IT, and finance products used by thousands of companies? Ankur Bhatt, Head of AI at Rippling, shares insights on building production-ready agents with Harrison Chase, CEO of LangChain.\n\nIn this conversation, we'll walk through:\n\n- Evolving from simple AI features to complex agents—and why \"deep agent\" paradigms that leverage LLM reasoning outperform rigid workflow-based approaches\n\n- Getting agents to production: using LangSmith to trace production behavior and debug agent execution, combined with real production data and rapid user feedback loops\n\n- Scaling AI development: managing 150+ hack week projects while balancing bottom-up innovation with strategic product priorities\n\n🔗 Resources mentioned:\n\nLangChain: https://www.langchain.com\nLangSmith: https://smith.langchain.com\nLangGraph: https://langchain-ai.github.io/langgraph/\nRippling: https://www.rippling.com"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT43M39S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2177",
+      "likeCount": "59",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

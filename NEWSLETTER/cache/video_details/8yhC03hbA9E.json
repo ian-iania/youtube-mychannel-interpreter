@@ -1,0 +1,85 @@
+{
+  "cached_at": 1764285763.7415261,
+  "cache_type": "video_details",
+  "key": "8yhC03hbA9E",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "VyIwU_-kLBaEqA6U3JK2zlduDtw",
+    "id": "8yhC03hbA9E",
+    "snippet": {
+      "publishedAt": "2025-11-25T21:01:11Z",
+      "channelId": "UCX6c6hTIqcphjMsXbeanJ1g",
+      "title": "I Created a Perfect AI Girlfriend… Using RunPod + ComfyUI 😳🔥 (Consistent Face Tutorial!)",
+      "description": "GPU Runpod: https://get.runpod.io/pe48\n\nPaypal Link: https://www.paypal.com/\nPayoneer Payment: http://payoneer.com/\nSkydo Payment: https://join.skydo.com/anujyoti\n\nModel used in the video: https://civitai.com/models/408483?modelVersionId=1970318\nLora used in the video: https://civitai.com/models/1750662/photorealistic-ai-influencer-woman877-character-lora-sd15-or-sdxl-or-flux\n\nCompyUI Workflow Json: https://github.com/PromptEngineer48/ComfyUI_Workflow.git\n\nWant to create consistent AI influencer images using RunPod + SDXL + ComfyUI?\nIn this step-by-step tutorial, I’ll show you exactly how to generate a stable, realistic face across multiple photos — perfect for building your own AI model, character, or influencer identity for platforms like Instagram, TikTok, YouTube, and more.\n\nEven if you’ve NEVER used ComfyUI or RunPod before… don’t worry.\nI explain everything from scratch — setting up GPU on RunPod, loading the required model & LoRA, importing the JSON workflow, and finally generating stunning, consistent portraits.\n\n⭐ What You’ll Learn in This Video\n\n✔ How to set up a GPU on RunPod\n✔ How to run ComfyUI properly\n✔ Best SDXL models for consistent faces\n✔ How to use the LoRA for stable identity\n✔ How to import the workflow (JSON)\n✔ Generate beautiful, photorealistic images\n✔ Build an AI Influencer (step-by-step)\n\n\nCHANNEL LINKS: \n🕵️‍♀️ Join my Patreon for keeping up with the updates: https://www.patreon.com/PromptEngineer975\n☕ Buy me a coffee: https://ko-fi.com/promptengineer\n📞 Get on a Call with me at Calendly: https://calendly.com/prompt-engineer48/call\n💀 GitHub Profile: https://github.com/PromptEngineer48\n🔖 Twitter Profile: https://twitter.com/prompt48\n\nHastag:\n#ai, #aiart, #comfyui, #runpod, #sdxl, #lora, #civitai, #aiinfluencer, #aigirl, #consistentface, #aestheticai, #tutorial, #stablediffusion, #aiphotography, #aicontent, #aiworkflow \n\nTimeLine:\n\n0:00 Intro\n0:43 Use Case\n1:10 ComfyUI\n1:51 CivitAI\n3:22 Start the Setup\n3:40 Google Drive\n4:17 Runpod GPU Features\n5:37 Crash Course\n7:00 GPU selection\n7:40 Logs of Runpod\n8:09 Connection to ComfyUI and Jupyter Notebook\n8:34 Jupyter Notebook\n9:48 Google Drive Usage\n11:56 Workflow ComfyUI\n12:05 Workflow Json & Settings\n14:57 Run the Workflow\n15:29 Outputs\n16:10 API\n16:53 Shutdown Runpod\n17:08 Summary",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8yhC03hbA9E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8yhC03hbA9E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8yhC03hbA9E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8yhC03hbA9E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8yhC03hbA9E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Prompt Engineer",
+      "tags": [
+        "#ai",
+        "#aiart",
+        "#comfyui",
+        "#runpod",
+        "#sdxl",
+        "#lora",
+        "#civitai",
+        "#aiinfluencer",
+        "#aigirl",
+        "#consistentface",
+        "#aestheticai",
+        "#tutorial",
+        "#stablediffusion",
+        "#aiphotography",
+        "#aicontent",
+        "#aiworkflow"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "I Created a Perfect AI Girlfriend… Using RunPod + ComfyUI 😳🔥 (Consistent Face Tutorial!)",
+        "description": "GPU Runpod: https://get.runpod.io/pe48\n\nPaypal Link: https://www.paypal.com/\nPayoneer Payment: http://payoneer.com/\nSkydo Payment: https://join.skydo.com/anujyoti\n\nModel used in the video: https://civitai.com/models/408483?modelVersionId=1970318\nLora used in the video: https://civitai.com/models/1750662/photorealistic-ai-influencer-woman877-character-lora-sd15-or-sdxl-or-flux\n\nCompyUI Workflow Json: https://github.com/PromptEngineer48/ComfyUI_Workflow.git\n\nWant to create consistent AI influencer images using RunPod + SDXL + ComfyUI?\nIn this step-by-step tutorial, I’ll show you exactly how to generate a stable, realistic face across multiple photos — perfect for building your own AI model, character, or influencer identity for platforms like Instagram, TikTok, YouTube, and more.\n\nEven if you’ve NEVER used ComfyUI or RunPod before… don’t worry.\nI explain everything from scratch — setting up GPU on RunPod, loading the required model & LoRA, importing the JSON workflow, and finally generating stunning, consistent portraits.\n\n⭐ What You’ll Learn in This Video\n\n✔ How to set up a GPU on RunPod\n✔ How to run ComfyUI properly\n✔ Best SDXL models for consistent faces\n✔ How to use the LoRA for stable identity\n✔ How to import the workflow (JSON)\n✔ Generate beautiful, photorealistic images\n✔ Build an AI Influencer (step-by-step)\n\n\nCHANNEL LINKS: \n🕵️‍♀️ Join my Patreon for keeping up with the updates: https://www.patreon.com/PromptEngineer975\n☕ Buy me a coffee: https://ko-fi.com/promptengineer\n📞 Get on a Call with me at Calendly: https://calendly.com/prompt-engineer48/call\n💀 GitHub Profile: https://github.com/PromptEngineer48\n🔖 Twitter Profile: https://twitter.com/prompt48\n\nHastag:\n#ai, #aiart, #comfyui, #runpod, #sdxl, #lora, #civitai, #aiinfluencer, #aigirl, #consistentface, #aestheticai, #tutorial, #stablediffusion, #aiphotography, #aicontent, #aiworkflow \n\nTimeLine:\n\n0:00 Intro\n0:43 Use Case\n1:10 ComfyUI\n1:51 CivitAI\n3:22 Start the Setup\n3:40 Google Drive\n4:17 Runpod GPU Features\n5:37 Crash Course\n7:00 GPU selection\n7:40 Logs of Runpod\n8:09 Connection to ComfyUI and Jupyter Notebook\n8:34 Jupyter Notebook\n9:48 Google Drive Usage\n11:56 Workflow ComfyUI\n12:05 Workflow Json & Settings\n14:57 Run the Workflow\n15:29 Outputs\n16:10 API\n16:53 Shutdown Runpod\n17:08 Summary"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT19M4S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "587",
+      "likeCount": "20",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

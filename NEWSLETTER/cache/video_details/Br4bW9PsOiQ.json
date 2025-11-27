@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285746.0434592,
+  "cache_type": "video_details",
+  "key": "Br4bW9PsOiQ",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "FY-BHqDrmYrKbBJcoSxbx4R-TVE",
+    "id": "Br4bW9PsOiQ",
+    "snippet": {
+      "publishedAt": "2025-11-23T04:11:29Z",
+      "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+      "title": "LLM Council: a project that basically turns your favorite AI models into a panel of experts #github",
+      "description": "LLM Council — a project that basically turns your favorite AI models into a panel of experts. Instead of asking just one LLM for an answer, this tool sends your question to multiple models at once through OpenRouter, lets them respond individually, then has them critique and rank each other, all before a designated Chairman LLM pieces everything together into one final, refined answer.\n#github #opensource",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Br4bW9PsOiQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Br4bW9PsOiQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Br4bW9PsOiQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Br4bW9PsOiQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Br4bW9PsOiQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Github Awesome",
+      "tags": [
+        "GitHub",
+        "GitHub Repositories",
+        "Trending GitHub",
+        "Trending",
+        "GitHub Open Source Projects",
+        "GitHub Trending",
+        "gitHub trending"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "LLM Council: a project that basically turns your favorite AI models into a panel of experts #github",
+        "description": "LLM Council — a project that basically turns your favorite AI models into a panel of experts. Instead of asking just one LLM for an answer, this tool sends your question to multiple models at once through OpenRouter, lets them respond individually, then has them critique and rank each other, all before a designated Chairman LLM pieces everything together into one final, refined answer.\n#github #opensource"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT26S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "17196",
+      "likeCount": "691",
+      "favoriteCount": "0",
+      "commentCount": "13"
+    }
+  }
+}

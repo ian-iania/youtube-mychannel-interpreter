@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285752.143604,
+  "cache_type": "channel_info",
+  "key": "UCv83tO5cePwHMt1952IVVHw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "YOH7dW762wgtt9tzCpAO37wRWS0",
+    "id": "UCv83tO5cePwHMt1952IVVHw",
+    "snippet": {
+      "title": "James Briggs",
+      "description": "Founder at Aurelio AI and startup advisor.\nhttps://aurelio.ai\n",
+      "customUrl": "@jamesbriggs",
+      "publishedAt": "2016-07-27T21:45:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/gaeEI0t2mkmULsmLdY5RDiDn3SDPZ9WRVR_CYqynrzwucDKJuKRPljQU_62wI3mXVP6F7Zjk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/gaeEI0t2mkmULsmLdY5RDiDn3SDPZ9WRVR_CYqynrzwucDKJuKRPljQU_62wI3mXVP6F7Zjk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/gaeEI0t2mkmULsmLdY5RDiDn3SDPZ9WRVR_CYqynrzwucDKJuKRPljQU_62wI3mXVP6F7Zjk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "James Briggs",
+        "description": "Founder at Aurelio AI and startup advisor.\nhttps://aurelio.ai\n"
+      },
+      "country": "GB"
+    },
+    "statistics": {
+      "viewCount": "4704866",
+      "subscriberCount": "79100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "238"
+    }
+  }
+}

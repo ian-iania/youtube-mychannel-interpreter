@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285776.885515,
+  "cache_type": "video_details",
+  "key": "51Zcs0CVU4E",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "LL6zZCeDxz6-zBEAfPovDttvF8M",
+    "id": "51Zcs0CVU4E",
+    "snippet": {
+      "publishedAt": "2025-11-25T15:30:01Z",
+      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+      "title": "Rodrigo Santoro fala sobre seu personagem em “O Filho de Mil Homens”",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/51Zcs0CVU4E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/51Zcs0CVU4E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/51Zcs0CVU4E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/51Zcs0CVU4E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/51Zcs0CVU4E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "exame",
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Rodrigo Santoro fala sobre seu personagem em “O Filho de Mil Homens”",
+        "description": ""
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT1M38S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1692",
+      "likeCount": "144",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

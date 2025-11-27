@@ -1,0 +1,89 @@
+{
+  "cached_at": 1764285774.243505,
+  "cache_type": "video_details",
+  "key": "OwLhD0hVKJc",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "LRLlCIrDmEvjcD0-fYoOZpZZ-hI",
+    "id": "OwLhD0hVKJc",
+    "snippet": {
+      "publishedAt": "2025-11-26T00:00:25Z",
+      "channelId": "UCYwLV1gDwzGbg7jXQ52bVnQ",
+      "title": "Claude Opus 4.5 VS Gemini 3.0!",
+      "description": "Claude Opus 4.5 and Gemini 3 Pro just dropped within days of each other, so I put them head-to-head in a quick side-by-side test. Both models claim major gains in coding, reasoning, and agent-style tasks — but they perform very differently.\n\nIn this video, I run the same prompt through both models to see which one actually comes out on top.\n\nThis channel covers fast, clear updates on the biggest moves in AI, with breakdowns you can actually understand.\n\nFor hands-on demos, tools, workflows, and dev-focused content, check out World of AI, our channel dedicated to building with these models:  ‪‪@intheworldofai \n\n🔗 My Links:\n📩 Sponsor a Video or Feature Your Product: intheuniverseofaiz@gmail.com\n🔥 Become a Patron (Private Discord): /worldofai\n🧠 Follow me on Twitter: /intheworldofai\n🌐 Website: https://www.worldzofai.com\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n\n0:00 - Intro\n0:32 - What's New\n1:05 - Benchmark Results \n3:13 - Opus 4.5 VS Gemini 3.0 Pro\n7:04 - Tool Search Tool \n8:36 - Outro\n\n#Opus45\n#Gemini3Pro\n#ClaudeAI\n#Anthropic\n#GoogleAI\n#AIupdate\n#AIcomparison\n#FrontierModels\n\nclaude opus 4, claude opus, claude opus 4.5, claude opus 4.1, claude 4 opus, claude opus 4.5 demo, claude opus 4.5 test, claude opus 4.5 review, claude opus coding, claude opus 4.5 coding, claude opus pricing, opus vs claude, gemini 3 pro, opus 4.5 vs gemini 3, claude opus 4.5 model, claude opus 4.5 2025, claude opus review, claude opus 4.5 app build, claude 4.5 vs opus 4.1, claude 4.5 vs opus",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OwLhD0hVKJc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OwLhD0hVKJc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OwLhD0hVKJc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OwLhD0hVKJc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OwLhD0hVKJc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Universe of AI",
+      "tags": [
+        "claude opus 4",
+        "claude opus",
+        "claude opus 4.5",
+        "claude opus 4.1",
+        "claude 4 opus",
+        "claude opus 4.5 demo",
+        "claude opus 4.5 test",
+        "claude opus 4.5 review",
+        "claude opus coding",
+        "claude opus 4.5 coding",
+        "claude opus pricing",
+        "opus vs claude",
+        "gemini 3 pro",
+        "opus 4.5 vs gemini 3",
+        "claude opus 4.5 model",
+        "claude opus 4.5 2025",
+        "claude opus review",
+        "claude opus 4.5 app build",
+        "claude 4.5 vs opus 4.1",
+        "claude 4.5 vs opus"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Claude Opus 4.5 VS Gemini 3.0!",
+        "description": "Claude Opus 4.5 and Gemini 3 Pro just dropped within days of each other, so I put them head-to-head in a quick side-by-side test. Both models claim major gains in coding, reasoning, and agent-style tasks — but they perform very differently.\n\nIn this video, I run the same prompt through both models to see which one actually comes out on top.\n\nThis channel covers fast, clear updates on the biggest moves in AI, with breakdowns you can actually understand.\n\nFor hands-on demos, tools, workflows, and dev-focused content, check out World of AI, our channel dedicated to building with these models:  ‪‪@intheworldofai \n\n🔗 My Links:\n📩 Sponsor a Video or Feature Your Product: intheuniverseofaiz@gmail.com\n🔥 Become a Patron (Private Discord): /worldofai\n🧠 Follow me on Twitter: /intheworldofai\n🌐 Website: https://www.worldzofai.com\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n\n0:00 - Intro\n0:32 - What's New\n1:05 - Benchmark Results \n3:13 - Opus 4.5 VS Gemini 3.0 Pro\n7:04 - Tool Search Tool \n8:36 - Outro\n\n#Opus45\n#Gemini3Pro\n#ClaudeAI\n#Anthropic\n#GoogleAI\n#AIupdate\n#AIcomparison\n#FrontierModels\n\nclaude opus 4, claude opus, claude opus 4.5, claude opus 4.1, claude 4 opus, claude opus 4.5 demo, claude opus 4.5 test, claude opus 4.5 review, claude opus coding, claude opus 4.5 coding, claude opus pricing, opus vs claude, gemini 3 pro, opus 4.5 vs gemini 3, claude opus 4.5 model, claude opus 4.5 2025, claude opus review, claude opus 4.5 app build, claude 4.5 vs opus 4.1, claude 4.5 vs opus"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT9M3S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1563",
+      "likeCount": "44",
+      "favoriteCount": "0",
+      "commentCount": "8"
+    }
+  }
+}

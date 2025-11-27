@@ -1,0 +1,88 @@
+{
+  "cached_at": 1764285766.098998,
+  "cache_type": "video_details",
+  "key": "c0NgRrqF65w",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "gyfyuDYbFJQU4eijeSQrHOPrzXM",
+    "id": "c0NgRrqF65w",
+    "snippet": {
+      "publishedAt": "2025-11-24T22:16:05Z",
+      "channelId": "UC0FBv8ckxw1hrZxbUm3G7hA",
+      "title": "This NEW AI Tool Makes SEO Optimized Websites in Minutes! (AI Website Builder)",
+      "description": "Create SEO Optimized Website in Minutes with Hostinger Horizons (Use Code ROB10 for 10% off): https://bit.ly/48f4ZF1\n\nThis video shows you a new AI tool that makes SEO optimized websites in minutes with AI. If you’re looking for a website builder that builds websites and pages that are correctly optimized for SEO this tool is for you. \n\nJoin AI Automation School (Learn To Automate Your Work & Make $ With AI) 👉 https://www.skool.com/ai-automation-school/about",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/c0NgRrqF65w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/c0NgRrqF65w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/c0NgRrqF65w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/c0NgRrqF65w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/c0NgRrqF65w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Rob The AI Guy",
+      "tags": [
+        "search engine optimization",
+        "ai seo tools",
+        "create seo optimized websites",
+        "how to make seo optimized websites",
+        "how to make seo optimized websites with ai",
+        "how to generate seo optimized websites",
+        "seo basics",
+        "ai seo",
+        "search engine optimization tutorial for beginners",
+        "search engine",
+        "seo tutorial for beginners",
+        "what is seo",
+        "ai website generator",
+        "ai website builder",
+        "ai website builder wordpress",
+        "ai website creator",
+        "ai website builders",
+        "on page seo",
+        "how search engines work"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "This NEW AI Tool Makes SEO Optimized Websites in Minutes! (AI Website Builder)",
+        "description": "Create SEO Optimized Website in Minutes with Hostinger Horizons (Use Code ROB10 for 10% off): https://bit.ly/48f4ZF1\n\nThis video shows you a new AI tool that makes SEO optimized websites in minutes with AI. If you’re looking for a website builder that builds websites and pages that are correctly optimized for SEO this tool is for you. \n\nJoin AI Automation School (Learn To Automate Your Work & Make $ With AI) 👉 https://www.skool.com/ai-automation-school/about"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT10M14S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1203",
+      "likeCount": "53",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

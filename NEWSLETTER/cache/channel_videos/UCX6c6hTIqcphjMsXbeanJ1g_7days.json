@@ -1,0 +1,109 @@
+{
+  "cached_at": 1764285763.64478,
+  "cache_type": "channel_videos",
+  "key": "UCX6c6hTIqcphjMsXbeanJ1g_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "16q4pVXunQ9r2mC8dHC0dqT3kNk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9bVRyT0FtUM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T03:53:05Z",
+        "channelId": "UCX6c6hTIqcphjMsXbeanJ1g",
+        "title": "FLUX.2 Dev Model Review — RunPod GPU Test",
+        "description": "GPU Runpod: https://get.runpod.io/pe48 Flux 2 is Here: https://flux2.io/flux-2-0-is-finally-here/ Flux Annoucement: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9bVRyT0FtUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9bVRyT0FtUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9bVRyT0FtUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Prompt Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T03:53:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CXs_xhZnZ2NjiCtQPYvGNLx9ku0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8yhC03hbA9E"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T21:01:11Z",
+        "channelId": "UCX6c6hTIqcphjMsXbeanJ1g",
+        "title": "I Created a Perfect AI Girlfriend… Using RunPod + ComfyUI 😳🔥 (Consistent Face Tutorial!)",
+        "description": "GPU Runpod: https://get.runpod.io/pe48 Paypal Link: https://www.paypal.com/ Payoneer Payment: http://payoneer.com/ Skydo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8yhC03hbA9E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8yhC03hbA9E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8yhC03hbA9E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Prompt Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T21:01:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LQ2Y-PN9a4OIuziCOLqHpPUjVug",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FFPte3CNcrQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T20:47:28Z",
+        "channelId": "UCX6c6hTIqcphjMsXbeanJ1g",
+        "title": "BRO… KIMI K2 JUST FRIED MY BRAIN 💀🔥",
+        "description": "Sponsor Runpod: https://get.runpod.io/pe48 Meet Kimi K2 Thinking Mode — the new reasoning breakthrough from Moonshot AI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FFPte3CNcrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FFPte3CNcrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FFPte3CNcrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Prompt Engineer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T20:47:28Z"
+      }
+    }
+  ]
+}

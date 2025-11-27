@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285745.4941928,
+  "cache_type": "video_details",
+  "key": "1fkKwbUd40I",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "kSJKEJLL0Pdl4iErD4V8JCXy8Aw",
+    "id": "1fkKwbUd40I",
+    "snippet": {
+      "publishedAt": "2025-11-22T16:19:16Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "Event in Spanish: Jueves de Quack con Carlos Azaustre",
+      "description": "Acompáñanos en esta nueva edición de Jueves de Quack donde @CarlosAzaustre  y  @acolombiadev  discutirán las ultimas novedades en tech, explorando https://github.com/github/spec-kit.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1fkKwbUd40I/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1fkKwbUd40I/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1fkKwbUd40I/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1fkKwbUd40I/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1fkKwbUd40I/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "categoryId": "28",
+      "liveBroadcastContent": "upcoming",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Event in Spanish: Jueves de Quack con Carlos Azaustre",
+        "description": "Acompáñanos en esta nueva edición de Jueves de Quack donde @CarlosAzaustre  y  @acolombiadev  discutirán las ultimas novedades en tech, explorando https://github.com/github/spec-kit."
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "P0D",
+      "dimension": "2d",
+      "definition": "sd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "0",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

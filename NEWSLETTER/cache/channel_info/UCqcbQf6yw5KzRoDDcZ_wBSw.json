@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285775.241584,
+  "cache_type": "channel_info",
+  "key": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "q_kM6H8DvT7HDeCbWYBE46h1A1Y",
+    "id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
+    "snippet": {
+      "title": "Wes Roth",
+      "description": "Artificial Intelligence, AI, Machine Learning, Google DeepMind, OpenAI, ChatGPT, Anthropic, Tech, Coding, AI News, Large Language Models and... (most importantly)... optimism. \n\nAGI rolls around only once. Let's make the best of it.\n\nOn this channel, my goal is to help everyone understand AI and it's implications better. To prepare for what's coming next.\n\nThe most important rule is \"Don't Panic\".\n\nThe second rule is keep learning.\n\nThank you for joining me for this ride.\n\n-Wes Roth\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n",
+      "customUrl": "@wesroth",
+      "publishedAt": "2020-06-01T02:05:16.642779Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/DBBVMr7VodH_Y5y67c6X7apjoJLNxCHWXCHfjAHy2bep29hgM-Q_oDVkEururWHDii_S8S8l=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/DBBVMr7VodH_Y5y67c6X7apjoJLNxCHWXCHfjAHy2bep29hgM-Q_oDVkEururWHDii_S8S8l=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/DBBVMr7VodH_Y5y67c6X7apjoJLNxCHWXCHfjAHy2bep29hgM-Q_oDVkEururWHDii_S8S8l=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Wes Roth",
+        "description": "Artificial Intelligence, AI, Machine Learning, Google DeepMind, OpenAI, ChatGPT, Anthropic, Tech, Coding, AI News, Large Language Models and... (most importantly)... optimism. \n\nAGI rolls around only once. Let's make the best of it.\n\nOn this channel, my goal is to help everyone understand AI and it's implications better. To prepare for what's coming next.\n\nThe most important rule is \"Don't Panic\".\n\nThe second rule is keep learning.\n\nThank you for joining me for this ride.\n\n-Wes Roth\n\nWant to work with me?\nBrand, sponsorship & business inquiries: wesroth@smoothmedia.co\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "46844307",
+      "subscriberCount": "303000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "695"
+    }
+  }
+}

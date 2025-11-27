@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285744.838494,
+  "cache_type": "video_details",
+  "key": "4y9_XM86BDc",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "5Z5xkNBQP1TZPnf6ZOIkb5sLEC0",
+    "id": "4y9_XM86BDc",
+    "snippet": {
+      "publishedAt": "2025-11-21T06:59:20Z",
+      "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+      "title": "Genspark Teams ｜一緒に構築し、より速く提供",
+      "description": "「final_final_v3」という資料名の悪夢から解放されませんか? Genspark Teams なら、チーム全員がリアルタイムでAIと共に作業できます。\n\nAI SlidesとSuper Agentで共同作業。チームメンバーとチャットし、AIともチャット、すべて同じ場所で。もうSlackで「どのバージョンを使っているの?」とスクリーンショットを送る必要はありません。\n\nあなたのチーム + AI が1つのワークスペースに。一緒に構築し、より速く提供。\n\nお試しはこちら: https://www.genspark.ai/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4y9_XM86BDc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4y9_XM86BDc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4y9_XM86BDc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4y9_XM86BDc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4y9_XM86BDc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Genspark",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "ja",
+      "localized": {
+        "title": "Genspark Teams ｜一緒に構築し、より速く提供",
+        "description": "「final_final_v3」という資料名の悪夢から解放されませんか? Genspark Teams なら、チーム全員がリアルタイムでAIと共に作業できます。\n\nAI SlidesとSuper Agentで共同作業。チームメンバーとチャットし、AIともチャット、すべて同じ場所で。もうSlackで「どのバージョンを使っているの?」とスクリーンショットを送る必要はありません。\n\nあなたのチーム + AI が1つのワークスペースに。一緒に構築し、より速く提供。\n\nお試しはこちら: https://www.genspark.ai/"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M40S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "484",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

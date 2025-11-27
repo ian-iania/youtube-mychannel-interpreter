@@ -1,0 +1,61 @@
+{
+  "cached_at": 1764285762.990693,
+  "cache_type": "video_details",
+  "key": "0luMwmnvRuQ",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "YWTJKIfoZ8a5jhrTUft6O0aWGxg",
+    "id": "0luMwmnvRuQ",
+    "snippet": {
+      "publishedAt": "2025-11-21T01:43:32Z",
+      "channelId": "UCXZCJLdBC09xxGZ6gcdrc6A",
+      "title": "Scania accelerates operations across its global workforce with ChatGPT",
+      "description": "Scania builds the trucks, buses, and transport systems that keep the world moving. With AI in their engineering-led organisation, they're evolving from vehicle maker to sustainable transport ecosystem leader. Read more: https://openai.com/index/scania/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0luMwmnvRuQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0luMwmnvRuQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0luMwmnvRuQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0luMwmnvRuQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "OpenAI",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Scania accelerates operations across its global workforce with ChatGPT",
+        "description": "Scania builds the trucks, buses, and transport systems that keep the world moving. With AI in their engineering-led organisation, they're evolving from vehicle maker to sustainable transport ecosystem leader. Read more: https://openai.com/index/scania/"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M49S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "8878",
+      "likeCount": "160",
+      "favoriteCount": "0"
+    }
+  }
+}

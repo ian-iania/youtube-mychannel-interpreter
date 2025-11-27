@@ -1,0 +1,87 @@
+{
+  "cached_at": 1764285756.323117,
+  "cache_type": "video_details",
+  "key": "va1cKqcwhlk",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "HdGsLAeXolgr85JUOuVUBFHxkp4",
+    "id": "va1cKqcwhlk",
+    "snippet": {
+      "publishedAt": "2025-11-25T10:40:45Z",
+      "channelId": "UCtevzRsHEKhs-RK8pAqwSyQ",
+      "title": "Build ANYTHING with Nano Banana Pro and n8n",
+      "description": "How to Use Nano Banana Pro in n8n (Complete Guide)\n\n🚀 Get Hostinger VPS (use code LEON for 10% off): https://hostinger.com/leon \n🚀 Start building with n8n (use my link to support my channel ❤️): https://n8n.partnerlinks.io/f7f19w3vrhin\n💬 My AI voice-to-text software (Wispr Flow): https://wisprflow.ai/r?LEON114\n☕ Buy me a coffee: https://www.buymeacoffee.com/leonvanzyl\n💵 Donate using PayPal: https://www.paypal.com/ncp/payment/EKRQ8QSGV6CWW\n\n📚 Access ALL video resources & get personalized help in my community: https://www.skool.com/agentic-labs-1244/about?ref=3fd61190e13d426dbf4f3b38adc7de69\n\nLearn how to integrate the NEW Nano Banana Pro model into your N8N workflows to generate stunning high resolution images with consistent characters, perfect text rendering, and accurate physics. This complete tutorial covers everything from getting your Google AI Studio API key to building advanced N8N workflows for image generation, image editing, and combining multiple images into one.\n\n⏰ TIMESTAMPS:\n00:00 - Nano Banana Pro capabilities demo\n02:24 - Getting Google AI Studio API key\n03:16 - Creating Google Cloud project setup\n04:30 - Building N8N workflow with HTTP nodes\n06:00 - Creating web form for image generation\n08:30 - Simple image generation with prompts\n10:30 - Image editing workflow with consistent characters\n12:20 - Converting images to base64 format\n13:30 - Combining multiple images into one generation\n15:30 - Testing multiple image workflow results\n\n#n8n #nanobananapro",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/va1cKqcwhlk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/va1cKqcwhlk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/va1cKqcwhlk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/va1cKqcwhlk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/va1cKqcwhlk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Leon van Zyl",
+      "tags": [
+        "nano banana pro n8n integration",
+        "nano banana pro tutorial",
+        "how to use nano banana pro",
+        "n8n image generation",
+        "nano banana pro api setup",
+        "google ai studio api",
+        "consistent character ai images",
+        "n8n workflow automation",
+        "ai image generation tutorial",
+        "nano banana pro workflow",
+        "image editing with ai",
+        "4k ai image generation",
+        "nano banana pro google",
+        "n8n automation tutorial",
+        "ai character consistency",
+        "product photography ai",
+        "youtube thumbnail ai",
+        "nano banana pro api key"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Build ANYTHING with Nano Banana Pro and n8n",
+        "description": "How to Use Nano Banana Pro in n8n (Complete Guide)\n\n🚀 Get Hostinger VPS (use code LEON for 10% off): https://hostinger.com/leon \n🚀 Start building with n8n (use my link to support my channel ❤️): https://n8n.partnerlinks.io/f7f19w3vrhin\n💬 My AI voice-to-text software (Wispr Flow): https://wisprflow.ai/r?LEON114\n☕ Buy me a coffee: https://www.buymeacoffee.com/leonvanzyl\n💵 Donate using PayPal: https://www.paypal.com/ncp/payment/EKRQ8QSGV6CWW\n\n📚 Access ALL video resources & get personalized help in my community: https://www.skool.com/agentic-labs-1244/about?ref=3fd61190e13d426dbf4f3b38adc7de69\n\nLearn how to integrate the NEW Nano Banana Pro model into your N8N workflows to generate stunning high resolution images with consistent characters, perfect text rendering, and accurate physics. This complete tutorial covers everything from getting your Google AI Studio API key to building advanced N8N workflows for image generation, image editing, and combining multiple images into one.\n\n⏰ TIMESTAMPS:\n00:00 - Nano Banana Pro capabilities demo\n02:24 - Getting Google AI Studio API key\n03:16 - Creating Google Cloud project setup\n04:30 - Building N8N workflow with HTTP nodes\n06:00 - Creating web form for image generation\n08:30 - Simple image generation with prompts\n10:30 - Image editing workflow with consistent characters\n12:20 - Converting images to base64 format\n13:30 - Combining multiple images into one generation\n15:30 - Testing multiple image workflow results\n\n#n8n #nanobananapro"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT16M38S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2885",
+      "likeCount": "131",
+      "favoriteCount": "0",
+      "commentCount": "45"
+    }
+  }
+}

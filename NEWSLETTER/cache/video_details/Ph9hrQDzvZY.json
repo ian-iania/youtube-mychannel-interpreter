@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285754.296971,
+  "cache_type": "video_details",
+  "key": "Ph9hrQDzvZY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "uOeOEU5NfE3gvjuGx4Q1gvJgJgM",
+    "id": "Ph9hrQDzvZY",
+    "snippet": {
+      "publishedAt": "2025-11-20T21:00:41Z",
+      "channelId": "UCXouiHXUN8mba_K-jn1gqVg",
+      "title": "Global Steering",
+      "description": "🔁 How many times have you told your AI the same thing?\n\n • Functional React components\n • Prettier with semicolons\n • Tests go in _tests\n\nEvery new project starts from zero.\n\n💡 Global Steering fixes that: \n\n • Write your AI context once and Kiro applies it everywhere\n • Keep your style, tests, and standards consistent across all projects automatically \n\nLearn more on how global steering is the AI context layer you've been missing 👉 http://spr.ly/60517i239\n \n#BuildwithKiro #Kiro #AICoding #GlobalSteering",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ph9hrQDzvZY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ph9hrQDzvZY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ph9hrQDzvZY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ph9hrQDzvZY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ph9hrQDzvZY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Kiro",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Global Steering",
+        "description": "🔁 How many times have you told your AI the same thing?\n\n • Functional React components\n • Prettier with semicolons\n • Tests go in _tests\n\nEvery new project starts from zero.\n\n💡 Global Steering fixes that: \n\n • Write your AI context once and Kiro applies it everywhere\n • Keep your style, tests, and standards consistent across all projects automatically \n\nLearn more on how global steering is the AI context layer you've been missing 👉 http://spr.ly/60517i239\n \n#BuildwithKiro #Kiro #AICoding #GlobalSteering"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M19S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "387",
+      "likeCount": "22",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

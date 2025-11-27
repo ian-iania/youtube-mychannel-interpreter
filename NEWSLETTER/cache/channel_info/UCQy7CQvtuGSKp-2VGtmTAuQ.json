@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285751.117973,
+  "cache_type": "channel_info",
+  "key": "UCQy7CQvtuGSKp-2VGtmTAuQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "86XfUjEIH98T1pMuYBbA_gLes2M",
+    "id": "UCQy7CQvtuGSKp-2VGtmTAuQ",
+    "snippet": {
+      "title": "Inteligência Mil Grau",
+      "description": "Canal especializado em Inteligência Artificial. Aprendizado, inteligência, consciência, inteligência artificial. Ao mesmo tempo que aborda aspectos conceituais, também explora a inteligência artificial criada pelo ser humano!",
+      "customUrl": "@inteligenciamilgrau",
+      "publishedAt": "2018-10-22T00:01:58Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ZcbeO9jisFy1wlL-uDoVfV7K7cmxkcHJ8gHyR5314Z4uTHCK9tACzuDaC9qb5E6hgZ1RgcQh=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ZcbeO9jisFy1wlL-uDoVfV7K7cmxkcHJ8gHyR5314Z4uTHCK9tACzuDaC9qb5E6hgZ1RgcQh=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ZcbeO9jisFy1wlL-uDoVfV7K7cmxkcHJ8gHyR5314Z4uTHCK9tACzuDaC9qb5E6hgZ1RgcQh=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Inteligência Mil Grau",
+        "description": "Canal especializado em Inteligência Artificial. Aprendizado, inteligência, consciência, inteligência artificial. Ao mesmo tempo que aborda aspectos conceituais, também explora a inteligência artificial criada pelo ser humano!"
+      },
+      "country": "BR"
+    },
+    "statistics": {
+      "viewCount": "4841012",
+      "subscriberCount": "61900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "785"
+    }
+  }
+}

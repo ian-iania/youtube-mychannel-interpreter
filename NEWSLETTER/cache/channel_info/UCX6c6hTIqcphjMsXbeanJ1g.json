@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285763.391367,
+  "cache_type": "channel_info",
+  "key": "UCX6c6hTIqcphjMsXbeanJ1g",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "d0aStMVRKNWnrkAxMRWIHbEc6_M",
+    "id": "UCX6c6hTIqcphjMsXbeanJ1g",
+    "snippet": {
+      "title": "Prompt Engineer",
+      "description": "Join the AI, AGI, ASI Revolution !\n\nStay updated with all the latest advancements in the world of Artificial Intelligence. This channel is your ultimate destination for the most recent developments and insights, all at your fingertips.\n\nJoin us to keep a vigilant eye on the cutting-edge of technology and be part of the AI revolution!\n\nTopics: Latest Trends on AI, LLMs, OpenAI, Anthroic, Google, Coding, Python, AutoGen, MemGPT, AutoGPT, API Integration, RunPoDs, Devika, Salad GPU, Microsoft Azure and much more.\n\n",
+      "customUrl": "@promptengineer48",
+      "publishedAt": "2023-04-15T16:48:36.354087Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/73rZ-gXiIokCYehJhmR1ceRxwTY4s1hnPjy8MairpcZIRXNid50zmeXtbhg2uA3O4qdcDtqj-A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/73rZ-gXiIokCYehJhmR1ceRxwTY4s1hnPjy8MairpcZIRXNid50zmeXtbhg2uA3O4qdcDtqj-A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/73rZ-gXiIokCYehJhmR1ceRxwTY4s1hnPjy8MairpcZIRXNid50zmeXtbhg2uA3O4qdcDtqj-A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Prompt Engineer",
+        "description": "Join the AI, AGI, ASI Revolution !\n\nStay updated with all the latest advancements in the world of Artificial Intelligence. This channel is your ultimate destination for the most recent developments and insights, all at your fingertips.\n\nJoin us to keep a vigilant eye on the cutting-edge of technology and be part of the AI revolution!\n\nTopics: Latest Trends on AI, LLMs, OpenAI, Anthroic, Google, Coding, Python, AutoGen, MemGPT, AutoGPT, API Integration, RunPoDs, Devika, Salad GPU, Microsoft Azure and much more.\n\n"
+      },
+      "country": "IN"
+    },
+    "statistics": {
+      "viewCount": "1163224",
+      "subscriberCount": "19200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "388"
+    }
+  }
+}

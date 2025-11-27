@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285773.769824,
+  "cache_type": "channel_info",
+  "key": "UCYwLV1gDwzGbg7jXQ52bVnQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "OEvpsTv-UaDyZ0yFrAarIeydHyw",
+    "id": "UCYwLV1gDwzGbg7jXQ52bVnQ",
+    "snippet": {
+      "title": "Universe of AI",
+      "description": "At Universe of AI, we cover cutting-edge advancements in artificial intelligence, from new model releases to major industry updates. \n\nStay ahead of the curve with in-depth insights, analysis, and updates on the rapidly evolving AI landscape. If you're passionate about AI and want to stay informed, make sure to subscribe now! 🚀",
+      "customUrl": "@universeofaiz",
+      "publishedAt": "2025-03-27T06:15:10.585168Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/RPKYS-qcbzN9lHugcfuEa37pXVo5NdUzL512hpfWkk2k8gwnUPit-P9dE-EJ1GmrBbEkn5xWylI=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/RPKYS-qcbzN9lHugcfuEa37pXVo5NdUzL512hpfWkk2k8gwnUPit-P9dE-EJ1GmrBbEkn5xWylI=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/RPKYS-qcbzN9lHugcfuEa37pXVo5NdUzL512hpfWkk2k8gwnUPit-P9dE-EJ1GmrBbEkn5xWylI=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Universe of AI",
+        "description": "At Universe of AI, we cover cutting-edge advancements in artificial intelligence, from new model releases to major industry updates. \n\nStay ahead of the curve with in-depth insights, analysis, and updates on the rapidly evolving AI landscape. If you're passionate about AI and want to stay informed, make sure to subscribe now! 🚀"
+      },
+      "country": "CA"
+    },
+    "statistics": {
+      "viewCount": "409027",
+      "subscriberCount": "10800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "61"
+    }
+  }
+}

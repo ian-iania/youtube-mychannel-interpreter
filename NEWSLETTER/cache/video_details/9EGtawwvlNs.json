@@ -1,0 +1,66 @@
+{
+  "cached_at": 1764285747.44574,
+  "cache_type": "video_details",
+  "key": "9EGtawwvlNs",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "bKEpWmSafgUh-28RQigm3zjbsVE",
+    "id": "9EGtawwvlNs",
+    "snippet": {
+      "publishedAt": "2025-11-20T21:45:49Z",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "Build an AI Agent with Gemini 3",
+      "description": "Gemini 3 is our most intelligent model yet that helps you bring any idea to life. In this video, you’ll learn how to build an AI Agent with Gemini 3 Pro and the Agent Development Kit (ADK). You’ll explore how to build a single agent with access to Google Search as its tool, and interact with it using a web UI. We will also learn how Gemini 3 Pro uses Thought Signatures and we will explore its chain of thought when the agent receives a prompt. \n\n\nResources:\nGetting started with uv →  https://goo.gle/4a7M7KG \nADK Google Search Tool docs → https://goo.gle/3LGFKUR \nGithub Repo for the AI Agent built with Gemini 3 Pro → \nhttps://goo.gle/4pq0pep \n\nTimestamps:\n0:00 - Introduction to Gemini 3 Pro\n0:32 - Initializing the Project & Installing ADK and GenAI libraries \n1:25 - Setting up Google AI Studio’s API Key & Creating Agent Scaffolding with ADK Create\n2:00 - Implementing the Google Search Tool \n2:33 - Configuring the Gemini 3 Pro Model \n3:14 - Deploying the Agent to ADK Web \n4:29 - Testing the Agent\n5:24 - Thought Signatures and Analyzing Chain of Thought\n6:40 - Conclusion\n\nSpeaker: Smitha Kolan \nProducts Mentioned: Gemini, Google AI, Agent Development Kit (ADK)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9EGtawwvlNs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9EGtawwvlNs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9EGtawwvlNs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Google for Developers",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: AI DevRel (fka Core ML);",
+        "Purpose: Learn;",
+        "Video Type:DevByte;",
+        "ct: ;",
+        "gds:N/A;"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Build an AI Agent with Gemini 3",
+        "description": "Gemini 3 is our most intelligent model yet that helps you bring any idea to life. In this video, you’ll learn how to build an AI Agent with Gemini 3 Pro and the Agent Development Kit (ADK). You’ll explore how to build a single agent with access to Google Search as its tool, and interact with it using a web UI. We will also learn how Gemini 3 Pro uses Thought Signatures and we will explore its chain of thought when the agent receives a prompt. \n\n\nResources:\nGetting started with uv →  https://goo.gle/4a7M7KG \nADK Google Search Tool docs → https://goo.gle/3LGFKUR \nGithub Repo for the AI Agent built with Gemini 3 Pro → \nhttps://goo.gle/4pq0pep \n\nTimestamps:\n0:00 - Introduction to Gemini 3 Pro\n0:32 - Initializing the Project & Installing ADK and GenAI libraries \n1:25 - Setting up Google AI Studio’s API Key & Creating Agent Scaffolding with ADK Create\n2:00 - Implementing the Google Search Tool \n2:33 - Configuring the Gemini 3 Pro Model \n3:14 - Deploying the Agent to ADK Web \n4:29 - Testing the Agent\n5:24 - Thought Signatures and Analyzing Chain of Thought\n6:40 - Conclusion\n\nSpeaker: Smitha Kolan \nProducts Mentioned: Gemini, Google AI, Agent Development Kit (ADK)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT6M23S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "79969",
+      "likeCount": "2298",
+      "favoriteCount": "0",
+      "commentCount": "106"
+    }
+  }
+}

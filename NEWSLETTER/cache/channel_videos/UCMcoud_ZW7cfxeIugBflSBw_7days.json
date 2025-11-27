@@ -1,0 +1,109 @@
+{
+  "cached_at": 1764285765.54929,
+  "cache_type": "channel_videos",
+  "key": "UCMcoud_ZW7cfxeIugBflSBw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DTUMZI_d-BDoHrf3Qy-F9W7YH0k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mKNGlDbl0-c"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T00:01:50Z",
+        "channelId": "UCMcoud_ZW7cfxeIugBflSBw",
+        "title": "Add payments in 3 clicks in any iOS app (No Coding)",
+        "description": "Download the Vibecode App https://apps.apple.com/us/app/vibecode-ai-app-builder/id6742912146 Then, use code \"revenue\" ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mKNGlDbl0-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mKNGlDbl0-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mKNGlDbl0-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Riley Brown",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T00:01:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vqh1ixMCrzqdjfgfWRxk5BLUlCQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dzFUOQUSiEI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T21:53:37Z",
+        "channelId": "UCMcoud_ZW7cfxeIugBflSBw",
+        "title": "Gemini 3 Gives You Superpowers: Here’s How to Unlock Them",
+        "description": "In this video, I cover how Google has finally caught up with OpenAI by launching two groundbreaking AI models, Gemini 3 and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dzFUOQUSiEI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dzFUOQUSiEI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dzFUOQUSiEI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Riley Brown",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T21:53:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z4XgTELbIrmdHlaN2f_Y9gr5ZgY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KOLcaJ0Hpmw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T21:51:16Z",
+        "channelId": "UCMcoud_ZW7cfxeIugBflSBw",
+        "title": "You’re Not Behind (Yet): What I Would Learn Before the 2026 AI Shift",
+        "description": "In this video, I cover 10 of my own predictions for AI in the year 2026. This video will prepare you and teach you how to position ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KOLcaJ0Hpmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KOLcaJ0Hpmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KOLcaJ0Hpmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Riley Brown",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T21:51:16Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "cached_at": 1764285746.497174,
+  "cache_type": "video_details",
+  "key": "5NlXA7A8IKg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "HcvmAFvn9HgMKm8kyxx6zHtv9x0",
+    "id": "5NlXA7A8IKg",
+    "snippet": {
+      "publishedAt": "2025-11-27T00:07:19Z",
+      "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+      "title": "Bringing ideas to life: An intro to AI video generation",
+      "description": "Discover the exciting world of AI video generation, focusing on how you can bring your creative ideas to life with Google Cloud's Veo model. This video explains the core technology behind high-quality video synthesis from text prompts, highlighting Veo's strengths in physics, realism, and native audio generation. We also explore prompt optimization techniques using Gemini and demonstrate how to generate videos from starting images, covering popular use cases like creative prototyping and marketing assets.\n\n\nChapters:\n0:00 - Introduction to AI Video Generation\n0:51 - What is AI Video Generation? (Veo Model)\n1:18 - Optimizing Text Prompts for Video\n2:16 - Configurable Parameters for Video Generation\n3:01 - Image-to-Video Generation with Veo\n4:04 - Popular Use Cases for AI Video\n4:17 - Conclusion and Next Steps\n\n\nResources:\nVeo documentation → https://goo.gle/44rlWuV \nGetting started code → https://goo.gle/484TcKX \nVertex AI Studio → https://goo.gle/43PpvLh \n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#GoogleCloud #Veo #AIVideoGeneration #Gemini\n\nSpeakers: Katie Nguyen, Asrar Khan\nProducts Mentioned: Gemini, Veo, Vertex AI",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5NlXA7A8IKg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5NlXA7A8IKg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5NlXA7A8IKg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5NlXA7A8IKg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5NlXA7A8IKg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google Cloud Tech",
+      "tags": [
+        "Pr_pr: Google Cloud Tech;",
+        "Campaign: ITPUP;",
+        "ct: AIG;",
+        "gds:Yes;",
+        "Type: DevByte;"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Bringing ideas to life: An intro to AI video generation",
+        "description": "Discover the exciting world of AI video generation, focusing on how you can bring your creative ideas to life with Google Cloud's Veo model. This video explains the core technology behind high-quality video synthesis from text prompts, highlighting Veo's strengths in physics, realism, and native audio generation. We also explore prompt optimization techniques using Gemini and demonstrate how to generate videos from starting images, covering popular use cases like creative prototyping and marketing assets.\n\n\nChapters:\n0:00 - Introduction to AI Video Generation\n0:51 - What is AI Video Generation? (Veo Model)\n1:18 - Optimizing Text Prompts for Video\n2:16 - Configurable Parameters for Video Generation\n3:01 - Image-to-Video Generation with Veo\n4:04 - Popular Use Cases for AI Video\n4:17 - Conclusion and Next Steps\n\n\nResources:\nVeo documentation → https://goo.gle/44rlWuV \nGetting started code → https://goo.gle/484TcKX \nVertex AI Studio → https://goo.gle/43PpvLh \n\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#GoogleCloud #Veo #AIVideoGeneration #Gemini\n\nSpeakers: Katie Nguyen, Asrar Khan\nProducts Mentioned: Gemini, Veo, Vertex AI"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT4M42S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1882",
+      "likeCount": "99",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

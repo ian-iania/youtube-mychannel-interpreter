@@ -1,0 +1,106 @@
+{
+  "cached_at": 1764285736.975942,
+  "cache_type": "video_details",
+  "key": "DdUTkTsmqy8",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "0OWCMmljF2vFruLd0fILxbz_7mA",
+    "id": "DdUTkTsmqy8",
+    "snippet": {
+      "publishedAt": "2025-11-26T18:00:30Z",
+      "channelId": "UC_bXJnsgwOqEPA_-6N6faKw",
+      "title": "A Philco está com promoções o mês inteiro e esse é o melhor momento pra garantir seus favoritos!",
+      "description": "Smart TV 4K, caixa de som, micro-ondas, liquidificador e geladeira, todos já com desconto no nosso link na bio ;) Aproveite agora e fique de olho nas próximas promos!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DdUTkTsmqy8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DdUTkTsmqy8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DdUTkTsmqy8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DdUTkTsmqy8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DdUTkTsmqy8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Canaltech",
+      "tags": [
+        "Canaltech",
+        "Tecnologia",
+        "Tech",
+        "Brasil",
+        "Português",
+        "PTBR",
+        "Notícias de Tecnologia",
+        "Adriano Ponte",
+        "Pedro Cipoli",
+        "Amanda Abreu",
+        "Novidades de Tecnologia",
+        "Ciência",
+        "Tutorial",
+        "Comparativo",
+        "Análise",
+        "Resenha",
+        "Review",
+        "Podcast",
+        "Eletrônico",
+        "Jornal",
+        "Canal Tech",
+        "Guia de Compra",
+        "Informativo",
+        "Melhor",
+        "Aula",
+        "Curso",
+        "Informática",
+        "Software",
+        "Programa",
+        "Dica",
+        "Melhores Vídeos",
+        "Como Ser",
+        "Como Fazer",
+        "O que é",
+        "How To",
+        "Kickstarter",
+        "Indiegogo"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "A Philco está com promoções o mês inteiro e esse é o melhor momento pra garantir seus favoritos!",
+        "description": "Smart TV 4K, caixa de som, micro-ondas, liquidificador e geladeira, todos já com desconto no nosso link na bio ;) Aproveite agora e fique de olho nas próximas promos!"
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT1M36S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4042",
+      "likeCount": "65",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

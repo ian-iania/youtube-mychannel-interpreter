@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285776.317419,
+  "cache_type": "channel_info",
+  "key": "UCauE-yGwb8bJ55BswgrGxAg",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "_shyBuBlMNp7Rh02BOdlmyKgzHY",
+    "id": "UCauE-yGwb8bJ55BswgrGxAg",
+    "snippet": {
+      "title": "exame",
+      "description": "\n📱 Siga as nossas redes sociais:\n INSTAGRAM: \nExame:  @exame\nFaculdade Exame: @faculdadeexame\nExame AI: @exameai \nExame ESG: @exameesg\nCasual Exame: @casualexame\n \nLINKEDIN: \nExame:   / exame-com  \nFaculdade Exame:   / faculdadeexame  \n \nTWITTER: \nExame:   / exame  \nFaculdade Exame:   / faculdadeexame  \n \nFACEBOOK: \nExame:   / exame   \nFaculdade Exame:   / faculdadeexame  \n \nTIKTOK: \nExame: @exame\n \nCANAIS:\nTelegram: https://invest.exame.com \nWhatsApp: https://bit.ly/491F83f\n",
+      "customUrl": "@exame",
+      "publishedAt": "2008-07-31T18:40:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lpK3ufO8AZLhHNxHgiMcPrhNyKbe9i8riQYLiY5pHWlEQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lpK3ufO8AZLhHNxHgiMcPrhNyKbe9i8riQYLiY5pHWlEQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lpK3ufO8AZLhHNxHgiMcPrhNyKbe9i8riQYLiY5pHWlEQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "exame",
+        "description": "\n📱 Siga as nossas redes sociais:\n INSTAGRAM: \nExame:  @exame\nFaculdade Exame: @faculdadeexame\nExame AI: @exameai \nExame ESG: @exameesg\nCasual Exame: @casualexame\n \nLINKEDIN: \nExame:   / exame-com  \nFaculdade Exame:   / faculdadeexame  \n \nTWITTER: \nExame:   / exame  \nFaculdade Exame:   / faculdadeexame  \n \nFACEBOOK: \nExame:   / exame   \nFaculdade Exame:   / faculdadeexame  \n \nTIKTOK: \nExame: @exame\n \nCANAIS:\nTelegram: https://invest.exame.com \nWhatsApp: https://bit.ly/491F83f\n"
+      },
+      "country": "BR"
+    },
+    "statistics": {
+      "viewCount": "82819716",
+      "subscriberCount": "636000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "11766"
+    }
+  }
+}

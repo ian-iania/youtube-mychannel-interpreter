@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285744.8396668,
+  "cache_type": "video_details",
+  "key": "q1PjRXPuj1s",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Du15ZbL1DX2GbFa_hibm_mlPKZs",
+    "id": "q1PjRXPuj1s",
+    "snippet": {
+      "publishedAt": "2025-11-21T06:59:31Z",
+      "channelId": "UC0SWcHpA_TA00XUN9qZUn8w",
+      "title": "🚀 Genspark Teams｜Build together, ship faster",
+      "description": "*Done with the \"final_final_v3\" deck nightmare?* Genspark Teams lets your whole team build with AI in real-time.\n\nWork together in AI Slides and Super Agent. Chat with your team, chat with AI, all in the same place. No more screenshots in Slack asking \"which version are we using?\"\n\nYour team + AI in one workspace. Build together, ship faster.\n\nTry it: https://www.genspark.ai/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/q1PjRXPuj1s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/q1PjRXPuj1s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/q1PjRXPuj1s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/q1PjRXPuj1s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/q1PjRXPuj1s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Genspark",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "🚀 Genspark Teams｜Build together, ship faster",
+        "description": "*Done with the \"final_final_v3\" deck nightmare?* Genspark Teams lets your whole team build with AI in real-time.\n\nWork together in AI Slides and Super Agent. Chat with your team, chat with AI, all in the same place. No more screenshots in Slack asking \"which version are we using?\"\n\nYour team + AI in one workspace. Build together, ship faster.\n\nTry it: https://www.genspark.ai/"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M40S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "885",
+      "likeCount": "15",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285732.466954,
+  "cache_type": "channel_info",
+  "key": "UCXUPKJO5MZQN11PqgIvyuvQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "Ay7Wt0R2dPG2rXMde3v17Zyu97Q",
+    "id": "UCXUPKJO5MZQN11PqgIvyuvQ",
+    "snippet": {
+      "title": "Andrej Karpathy",
+      "description": "\n",
+      "customUrl": "@andrejkarpathy",
+      "publishedAt": "2013-09-07T08:21:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Andrej Karpathy",
+        "description": "\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "23688658",
+      "subscriberCount": "1140000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "17"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "cached_at": 1764285752.052704,
+  "cache_type": "video_details",
+  "key": "WPE48AIjBgU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "_qMSuuGmwqSXupxxb8wPFONIaqo",
+    "id": "WPE48AIjBgU",
+    "snippet": {
+      "publishedAt": "2025-11-22T20:00:35Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "Mototáxi: recomeça a briga em São Paulo",
+      "description": "A Uber e a 99 já avisaram que devem retomar o serviço de mototáxi em São Paulo e a Prefeitura, por sua vez, diz que vai tentar barrar (de novo) a operação. Mais um capítulo dessa guerra.\n\n#uber #99 #moto",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WPE48AIjBgU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WPE48AIjBgU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WPE48AIjBgU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WPE48AIjBgU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WPE48AIjBgU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "tags": [
+        "99",
+        "moto",
+        "motoboy",
+        "mototáxi",
+        "são paulo",
+        "uber"
+      ],
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Mototáxi: recomeça a briga em São Paulo",
+        "description": "A Uber e a 99 já avisaram que devem retomar o serviço de mototáxi em São Paulo e a Prefeitura, por sua vez, diz que vai tentar barrar (de novo) a operação. Mais um capítulo dessa guerra.\n\n#uber #99 #moto"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT2M26S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4566",
+      "likeCount": "384",
+      "favoriteCount": "0",
+      "commentCount": "16"
+    }
+  }
+}

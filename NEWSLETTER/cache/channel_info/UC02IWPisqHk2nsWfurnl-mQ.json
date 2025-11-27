@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285763.0832598,
+  "cache_type": "channel_info",
+  "key": "UC02IWPisqHk2nsWfurnl-mQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "tK1mjsXECu0aZw6w-Ruy_eTOj7k",
+    "id": "UC02IWPisqHk2nsWfurnl-mQ",
+    "snippet": {
+      "title": "Pinecone",
+      "description": "Pinecone is the leading vector database for building accurate and performant AI applications at scale in production. Pinecone’s mission is to make AI knowledgeable.\n",
+      "customUrl": "@pinecone-io",
+      "publishedAt": "2020-05-26T15:37:26.884273Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ZpQ4PtFVdQw6I1bEGBzWlhyYRDllFjvRBOSwqR1yl-kmZxPlzIgZtPetxeDliRDmZ_4T6krG=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ZpQ4PtFVdQw6I1bEGBzWlhyYRDllFjvRBOSwqR1yl-kmZxPlzIgZtPetxeDliRDmZ_4T6krG=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ZpQ4PtFVdQw6I1bEGBzWlhyYRDllFjvRBOSwqR1yl-kmZxPlzIgZtPetxeDliRDmZ_4T6krG=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Pinecone",
+        "description": "Pinecone is the leading vector database for building accurate and performant AI applications at scale in production. Pinecone’s mission is to make AI knowledgeable.\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "594127",
+      "subscriberCount": "12600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "140"
+    }
+  }
+}

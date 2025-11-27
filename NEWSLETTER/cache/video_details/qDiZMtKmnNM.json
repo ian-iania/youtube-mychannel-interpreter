@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285751.530188,
+  "cache_type": "video_details",
+  "key": "qDiZMtKmnNM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "xFZWX9-pV9cHGlRYJfSDfa6kbNg",
+    "id": "qDiZMtKmnNM",
+    "snippet": {
+      "publishedAt": "2025-11-26T20:53:00Z",
+      "channelId": "UCQy7CQvtuGSKp-2VGtmTAuQ",
+      "title": "Qual a Melhor iA: ChatGPT vs Claude vs Gemini no Desafio do Simulador de Cidade GTA",
+      "description": "Aprenda Inteligência Artificial! \n\n▸ Aprenda Agentes iA: https://www.youtube.com/playlist?list=PLYAGaVIlnsYYwZrQdUFFSb2dCpNWByG55\n▸ Seja MEMBRO: https://www.youtube.com/@inteligenciamilgrau/join\n▸ https://www.inteligenciamilgrau.com\n▸ Instagram: https://www.instagram.com/inteligenciamilgrau/ @inteligenciamilgrau\n▸ Facebook: https://www.facebook.com/inteligenciamilgrau\n▸ GitHub: https://github.com/inteligenciamilgrau\n\nMaximiza iA - Agentes Inteligentes para Empresas\nhttps://forms.gle/nokGjeYF8QhxVZ1s6\n\nPrompt Usado (mudar entre ThreeJS e VOXEL ART):\n\nFaça um jogo em uma cidade 3D usando ThreeJS em um único arquivo.\nO jogo deve ter:\n1) Uma cidade simulada em 3D\n2) Pessoas andando na cidade\n3) Carros andando pelas ruas\n4) Semáforos controlando o trânsito e os pedestres.\n5) Uma pessoa no mapa contem um objeto que o jogador precisa buscar\n6) Ao pegar o objeto o jogador deve levar para outra pessoa\n7) Cada objeto entregue ganha 10 pontos\n8) O jogador tem um tempo limite para entregar o objeto\n9) Se o jogador apertar espaço quando estiver perto de um carro, ele entra ou sai do carro, podendo controlar o carro\n10) Coloque um HUD com o mapa indicando onde está o ponto de coleta e de entrega. O HUD deve girar junto com o jogador\n11) Os controles precisam ser com o Mouse para visão e WASD para o jogador como em um jogo em terceira pessoa\n12) O Scroll do mouse deve controlar o ZOOM\n13) Faça o jogo alternar entre dia e noite\n14) O jogo deve ser em terceira pessoa\n\n00:00 Intro\n01:06 Disputa entre GPT-5.1 vs Gemini 3 vs Claude Opus 4.5\n02:18 O Prompt Utilizado\n04:47 Testando o GPT 5.1 Versão ThreeJS\n06:47 Testando o GPT 5.1 Versão Voxel\n08:24 Testando Gemini 3 Versão ThreeJS\n10:53 Testando Gemini 3 Versão Voxel\n12:18 Testando Claude Opus 4.5 Versão ThreeJS\n13:58 Testando Claude Opus 4.5 Versão Voxel\n15:42 Qual dos 3 é Melhor?\n22:18 Todas as Gerações Usaram Pensamento Extendido",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qDiZMtKmnNM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qDiZMtKmnNM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qDiZMtKmnNM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qDiZMtKmnNM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qDiZMtKmnNM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Inteligência Mil Grau",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt",
+      "localized": {
+        "title": "Qual a Melhor iA: ChatGPT vs Claude vs Gemini no Desafio do Simulador de Cidade GTA",
+        "description": "Aprenda Inteligência Artificial! \n\n▸ Aprenda Agentes iA: https://www.youtube.com/playlist?list=PLYAGaVIlnsYYwZrQdUFFSb2dCpNWByG55\n▸ Seja MEMBRO: https://www.youtube.com/@inteligenciamilgrau/join\n▸ https://www.inteligenciamilgrau.com\n▸ Instagram: https://www.instagram.com/inteligenciamilgrau/ @inteligenciamilgrau\n▸ Facebook: https://www.facebook.com/inteligenciamilgrau\n▸ GitHub: https://github.com/inteligenciamilgrau\n\nMaximiza iA - Agentes Inteligentes para Empresas\nhttps://forms.gle/nokGjeYF8QhxVZ1s6\n\nPrompt Usado (mudar entre ThreeJS e VOXEL ART):\n\nFaça um jogo em uma cidade 3D usando ThreeJS em um único arquivo.\nO jogo deve ter:\n1) Uma cidade simulada em 3D\n2) Pessoas andando na cidade\n3) Carros andando pelas ruas\n4) Semáforos controlando o trânsito e os pedestres.\n5) Uma pessoa no mapa contem um objeto que o jogador precisa buscar\n6) Ao pegar o objeto o jogador deve levar para outra pessoa\n7) Cada objeto entregue ganha 10 pontos\n8) O jogador tem um tempo limite para entregar o objeto\n9) Se o jogador apertar espaço quando estiver perto de um carro, ele entra ou sai do carro, podendo controlar o carro\n10) Coloque um HUD com o mapa indicando onde está o ponto de coleta e de entrega. O HUD deve girar junto com o jogador\n11) Os controles precisam ser com o Mouse para visão e WASD para o jogador como em um jogo em terceira pessoa\n12) O Scroll do mouse deve controlar o ZOOM\n13) Faça o jogo alternar entre dia e noite\n14) O jogo deve ser em terceira pessoa\n\n00:00 Intro\n01:06 Disputa entre GPT-5.1 vs Gemini 3 vs Claude Opus 4.5\n02:18 O Prompt Utilizado\n04:47 Testando o GPT 5.1 Versão ThreeJS\n06:47 Testando o GPT 5.1 Versão Voxel\n08:24 Testando Gemini 3 Versão ThreeJS\n10:53 Testando Gemini 3 Versão Voxel\n12:18 Testando Claude Opus 4.5 Versão ThreeJS\n13:58 Testando Claude Opus 4.5 Versão Voxel\n15:42 Qual dos 3 é Melhor?\n22:18 Todas as Gerações Usaram Pensamento Extendido"
+      },
+      "defaultAudioLanguage": "pt"
+    },
+    "contentDetails": {
+      "duration": "PT22M6S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4514",
+      "likeCount": "363",
+      "favoriteCount": "0",
+      "commentCount": "40"
+    }
+  }
+}

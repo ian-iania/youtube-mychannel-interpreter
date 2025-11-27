@@ -1,0 +1,78 @@
+{
+  "cached_at": 1764285764.754694,
+  "cache_type": "video_details",
+  "key": "rAhCop4CB80",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Qg1kSlQbFFjwn3_noRwgVRn78O0",
+    "id": "rAhCop4CB80",
+    "snippet": {
+      "publishedAt": "2025-11-26T16:17:49Z",
+      "channelId": "UCNaV-3aAm3_tuLXVaH-HeHQ",
+      "title": "8-Types of RAGs and their Use Cases | Rakesh Gohel",
+      "description": "If you want to learn about how to utilize RAG to the fullest and how to build a capable Agentic RAG systems. \n\nMake sure to join, AI Agent Engineering course, where you'll learn to design RAG-powered agents with an enterprise mindset.\n\n📗 Enroll here: https://lnkd.in/gA3zhcfm\n\n1\\. Naive RAG\n\n- Direct retrieval with no sophisticated filtering or feedback\n- Example: Customer support chatbots answering FAQs from documentation\n\n2\\. Agentic RAG\n\n- Autonomous planning, tool use, and dynamic retrieval strategies\n- Example: Competitive intelligence analysts who autonomously monitor and analyze competitor data\n\n3\\. HyDE (Hypothetical Document Embeddings)\n\n- Generates \"hypothetical\" documents for better retrieval matching\n- Example: Adaptive Technical search where users describe problems differently than usual\n\n4\\. Graph RAG\n\n- Structures data as knowledge graphs for richer contextual reasoning\n- Example: Medical support systems generating hypothetical patient cases based on symptom relationships\n\n5\\. Corrective RAG\n\n- Iterative self-correction to improve retrieval accuracy\n- Example: Financial report analysis that self-corrects when retrieving across multiple data sources\n\n6\\. Contextual RAG\n\n- Adapts retrieval by interpreting broader conversational context\n- Example: Meeting assistants understanding strategic discussions across multiple sessions\n\n7\\. Modular RAG\n\n- Composable, plug-and-play modules for custom workflows\n- Example: Custom workflows combining multiple retrieval processes and specialized tools\n\n8\\. Hybrid RAG\n\n- Mixes semantic search and embedding-based retrieval\n- Example: Legal research combining exact statutory citations with semantic principle matching\n\n📌 Quick Selection Guide:\n\n- Naive RAG → Simple knowledge base Q&A\n- Agentic RAG → Complex autonomous workflows with tool integration\n- HyDE → Query-document vocabulary mismatch scenarios\n- Graph RAG → Interconnected data requiring relationship reasoning\n- Corrective RAG → High-accuracy requirements with verification needs\n- Contextual RAG → Multi-turn conversations needing memory\n- Modular RAG → Custom enterprise pipelines with multiple retrieval steps\n- Hybrid RAG → Mixed semantic understanding and exact retrieval",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/rAhCop4CB80/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/rAhCop4CB80/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/rAhCop4CB80/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/rAhCop4CB80/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/rAhCop4CB80/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Rakesh Gohel",
+      "tags": [
+        "RAG",
+        "AIAgents",
+        "LLM",
+        "genai",
+        "aiagents",
+        "elonmusk",
+        "sam altman",
+        "sundar pichai",
+        "google"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "8-Types of RAGs and their Use Cases | Rakesh Gohel",
+        "description": "If you want to learn about how to utilize RAG to the fullest and how to build a capable Agentic RAG systems. \n\nMake sure to join, AI Agent Engineering course, where you'll learn to design RAG-powered agents with an enterprise mindset.\n\n📗 Enroll here: https://lnkd.in/gA3zhcfm\n\n1\\. Naive RAG\n\n- Direct retrieval with no sophisticated filtering or feedback\n- Example: Customer support chatbots answering FAQs from documentation\n\n2\\. Agentic RAG\n\n- Autonomous planning, tool use, and dynamic retrieval strategies\n- Example: Competitive intelligence analysts who autonomously monitor and analyze competitor data\n\n3\\. HyDE (Hypothetical Document Embeddings)\n\n- Generates \"hypothetical\" documents for better retrieval matching\n- Example: Adaptive Technical search where users describe problems differently than usual\n\n4\\. Graph RAG\n\n- Structures data as knowledge graphs for richer contextual reasoning\n- Example: Medical support systems generating hypothetical patient cases based on symptom relationships\n\n5\\. Corrective RAG\n\n- Iterative self-correction to improve retrieval accuracy\n- Example: Financial report analysis that self-corrects when retrieving across multiple data sources\n\n6\\. Contextual RAG\n\n- Adapts retrieval by interpreting broader conversational context\n- Example: Meeting assistants understanding strategic discussions across multiple sessions\n\n7\\. Modular RAG\n\n- Composable, plug-and-play modules for custom workflows\n- Example: Custom workflows combining multiple retrieval processes and specialized tools\n\n8\\. Hybrid RAG\n\n- Mixes semantic search and embedding-based retrieval\n- Example: Legal research combining exact statutory citations with semantic principle matching\n\n📌 Quick Selection Guide:\n\n- Naive RAG → Simple knowledge base Q&A\n- Agentic RAG → Complex autonomous workflows with tool integration\n- HyDE → Query-document vocabulary mismatch scenarios\n- Graph RAG → Interconnected data requiring relationship reasoning\n- Corrective RAG → High-accuracy requirements with verification needs\n- Contextual RAG → Multi-turn conversations needing memory\n- Modular RAG → Custom enterprise pipelines with multiple retrieval steps\n- Hybrid RAG → Mixed semantic understanding and exact retrieval"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT11S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2281",
+      "likeCount": "32",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

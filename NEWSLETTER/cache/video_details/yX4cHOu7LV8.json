@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285746.0427032,
+  "cache_type": "video_details",
+  "key": "yX4cHOu7LV8",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "BqyBQXk0Z-qpkEhLVNJYeUtswpo",
+    "id": "yX4cHOu7LV8",
+    "snippet": {
+      "publishedAt": "2025-11-24T03:52:40Z",
+      "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+      "title": "Twitter Account Location Flag Chrome Extension  #github",
+      "description": "Here’s a Chrome extension you didn’t know you needed until right now. It adds country flags next to every Twitter — sorry, X — username… automatically. As you scroll, it quietly pulls each account’s public location through Twitter’s GraphQL API, figures out the country, and drops a clean little flag emoji right next to the handle. \n\nhttps://github.com/RhysSullivan/twitter-account-location-in-username\n\n#github #opensource",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yX4cHOu7LV8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yX4cHOu7LV8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yX4cHOu7LV8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yX4cHOu7LV8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yX4cHOu7LV8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Github Awesome",
+      "tags": [
+        "GitHub",
+        "GitHub Repositories",
+        "Trending GitHub",
+        "Trending",
+        "GitHub Open Source Projects",
+        "GitHub Trending",
+        "gitHub trending"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Twitter Account Location Flag Chrome Extension  #github",
+        "description": "Here’s a Chrome extension you didn’t know you needed until right now. It adds country flags next to every Twitter — sorry, X — username… automatically. As you scroll, it quietly pulls each account’s public location through Twitter’s GraphQL API, figures out the country, and drops a clean little flag emoji right next to the handle. \n\nhttps://github.com/RhysSullivan/twitter-account-location-in-username\n\n#github #opensource"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT24S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "10220",
+      "likeCount": "208",
+      "favoriteCount": "0",
+      "commentCount": "11"
+    }
+  }
+}

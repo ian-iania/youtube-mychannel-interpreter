@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.9593961,
+  "cache_type": "video_details",
+  "key": "m6MF1OR_9kM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "3AE9bh5SesHygOQI1mofuEckqlI",
+    "id": "m6MF1OR_9kM",
+    "snippet": {
+      "publishedAt": "2025-11-22T15:00:06Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "Z.ai GLM 4.6: What We Learned From 100 Million Open Source Downloads — Yuxuan Zhang, Z.ai",
+      "description": "GLM 4.6 is the only open-source model currently tied for #1 on the LMSYS Chatbot Arena, standing shoulder-to-shoulder with GPT-4o and Claude 3.5 Sonnet. In this talk, Zhang Yuxuan from zAI breaks down the technical roadmap that led to over 100 million downloads across the GLM family.\n\nZhang deep dives into the specific training recipes behind GLM 4.6, including their move to single-stage Reinforcement Learning (RL), the \"SLIME\" RL framework for handling complex agent trajectories, and how they structured 15 trillion tokens of pre-training data. If you are building AI Agents or training LLMs, this breakdown offers a rare look inside the architecture of a frontier-class open-source model.\n\nIn this video, we cover:\n\nThe Data Recipe: How zAI filters 15T tokens, moves to repo-level code contexts, and integrates agentic reasoning data.\n\nSLIME Framework: A look at the hybrid synchronous/asynchronous architecture used to train agents without bottlenecking GPU clusters.\n\nRL Lessons: Why zAI abandoned multi-stage RL in favor of single-stage training to preserve long-context capabilities.\n\nGLM 4.5V: How native resolution processing improves UI navigation and video understanding.\n\nTimestamps:\n0:00 - Introduction & The GLM Ecosystem\n0:55 - 100 Million Downloads & Open Source Roadmap\n03:22 - Tying GPT-4o on LMSYS Arena\n05:04 - The Training Pipeline: From Pre-training to Long Context\n07:54 - Introducing SLIME: Efficient RL for Agents\n11:08 - The \"Two-Stage\" Curriculum Strategy\n11:57 - Why Single-Stage RL beats Multi-Stage RL\n12:55 - Token-Weighted Loss for Coding\n14:13 - GLM 4.5V: Multimodal & Video Understanding\n16:07 - Deployment: vLLM, SGLang, and Hugging Face\n18:06 - Coding Assistants & Future Plans\n\nZhang Yuxuan has recently started a PhD at the University of Liverpool and is currently working at Z.ai. zR (Zhang) is passionate about open-source initiatives and strives for deeper exploration in this realm. Their primary activities include the following: Engaged in research on models such as GLM-4.5 (https://arxiv.org/abs/2508.06471), GLM-4.5V (https://arxiv.org/abs/2507.01006), CogVideoX (https://arxiv.org/abs/2408.06072), CogAgent (https://arxiv.org/abs/2312.08914); researching the capabilities of model Agents and the integration with Agent frameworks such as langchain-chatchat (https://github.com/chatchat-space/Langchain-Chatchat), chatpdf (https://github.com/CosmosShadow/gptpdf); participated in several national competitions, such as RoboMaster and National Students' SmartCar Competition, and achieved some results, including national awards. These competitions have been truly fascinating. Enjoys hackathon competitions and welcomes teaming up for these events.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/yuxuan-zhang-86a124282/\n- X (Twitter): https://x.com/zRdianjiao\n- GitHub: https://github.com/zRzRzRzRzRzRzR\n- Website: https://huggingface.co/ZHANGYUXUAN-zR\n- Company: Z.ai (https://z.ai)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/m6MF1OR_9kM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/m6MF1OR_9kM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/m6MF1OR_9kM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/m6MF1OR_9kM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/m6MF1OR_9kM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Z.ai GLM 4.6: What We Learned From 100 Million Open Source Downloads — Yuxuan Zhang, Z.ai",
+        "description": "GLM 4.6 is the only open-source model currently tied for #1 on the LMSYS Chatbot Arena, standing shoulder-to-shoulder with GPT-4o and Claude 3.5 Sonnet. In this talk, Zhang Yuxuan from zAI breaks down the technical roadmap that led to over 100 million downloads across the GLM family.\n\nZhang deep dives into the specific training recipes behind GLM 4.6, including their move to single-stage Reinforcement Learning (RL), the \"SLIME\" RL framework for handling complex agent trajectories, and how they structured 15 trillion tokens of pre-training data. If you are building AI Agents or training LLMs, this breakdown offers a rare look inside the architecture of a frontier-class open-source model.\n\nIn this video, we cover:\n\nThe Data Recipe: How zAI filters 15T tokens, moves to repo-level code contexts, and integrates agentic reasoning data.\n\nSLIME Framework: A look at the hybrid synchronous/asynchronous architecture used to train agents without bottlenecking GPU clusters.\n\nRL Lessons: Why zAI abandoned multi-stage RL in favor of single-stage training to preserve long-context capabilities.\n\nGLM 4.5V: How native resolution processing improves UI navigation and video understanding.\n\nTimestamps:\n0:00 - Introduction & The GLM Ecosystem\n0:55 - 100 Million Downloads & Open Source Roadmap\n03:22 - Tying GPT-4o on LMSYS Arena\n05:04 - The Training Pipeline: From Pre-training to Long Context\n07:54 - Introducing SLIME: Efficient RL for Agents\n11:08 - The \"Two-Stage\" Curriculum Strategy\n11:57 - Why Single-Stage RL beats Multi-Stage RL\n12:55 - Token-Weighted Loss for Coding\n14:13 - GLM 4.5V: Multimodal & Video Understanding\n16:07 - Deployment: vLLM, SGLang, and Hugging Face\n18:06 - Coding Assistants & Future Plans\n\nZhang Yuxuan has recently started a PhD at the University of Liverpool and is currently working at Z.ai. zR (Zhang) is passionate about open-source initiatives and strives for deeper exploration in this realm. Their primary activities include the following: Engaged in research on models such as GLM-4.5 (https://arxiv.org/abs/2508.06471), GLM-4.5V (https://arxiv.org/abs/2507.01006), CogVideoX (https://arxiv.org/abs/2408.06072), CogAgent (https://arxiv.org/abs/2312.08914); researching the capabilities of model Agents and the integration with Agent frameworks such as langchain-chatchat (https://github.com/chatchat-space/Langchain-Chatchat), chatpdf (https://github.com/CosmosShadow/gptpdf); participated in several national competitions, such as RoboMaster and National Students' SmartCar Competition, and achieved some results, including national awards. These competitions have been truly fascinating. Enjoys hackathon competitions and welcomes teaming up for these events.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/yuxuan-zhang-86a124282/\n- X (Twitter): https://x.com/zRdianjiao\n- GitHub: https://github.com/zRzRzRzRzRzRzR\n- Website: https://huggingface.co/ZHANGYUXUAN-zR\n- Company: Z.ai (https://z.ai)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT19M39S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4211",
+      "likeCount": "101",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285756.913252,
+  "cache_type": "channel_info",
+  "key": "UCu9_-NMnyN1ltBBG1tKJzJw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "AKHOZm0a9YQN1bz4i9bVgm_EaOM",
+    "id": "UCu9_-NMnyN1ltBBG1tKJzJw",
+    "snippet": {
+      "title": "Manual de Inteligência Artificial",
+      "description": "Tudo sobre Inteligência Artificial\n\nO Manual de Inteligência Artificial é o seu guia confiável para explorar o vasto mundo da inteligência artificial (IA). Neste canal, mergulhe em conteúdos informativos, tutoriais práticos e análises especializadas, projetados para ajudar tanto iniciantes quanto entusiastas experientes a compreenderem e dominarem os conceitos fundamentais e avançados da IA.\n\nDescubra como a IA está transformando diversos setores, desde a medicina até o entretenimento, e aprenda a aplicar técnicas de aprendizado de máquina e algoritmos inteligentes em seus próprios projetos. Compartilhe conosco essa jornada emocionante rumo ao futuro da tecnologia!\n\nFalamos sobre as ferramentas como leonardo.ai, haiper, midjourney, criação de imagens por inteligência artificial, criação de vídeo por inteligência artificial, ou seja tudo relacionado a inteligência artificial.\n",
+      "customUrl": "@manualdeia",
+      "publishedAt": "2024-05-01T16:37:34.195626Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/V-P2yVyqc8GDVQDDHniVEyvDsQrsuzrqYIljhF2Ypo8jVppKcCdSaHsEw-wta0cxrW47iKGLjw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/V-P2yVyqc8GDVQDDHniVEyvDsQrsuzrqYIljhF2Ypo8jVppKcCdSaHsEw-wta0cxrW47iKGLjw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/V-P2yVyqc8GDVQDDHniVEyvDsQrsuzrqYIljhF2Ypo8jVppKcCdSaHsEw-wta0cxrW47iKGLjw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Manual de Inteligência Artificial",
+        "description": "Tudo sobre Inteligência Artificial\n\nO Manual de Inteligência Artificial é o seu guia confiável para explorar o vasto mundo da inteligência artificial (IA). Neste canal, mergulhe em conteúdos informativos, tutoriais práticos e análises especializadas, projetados para ajudar tanto iniciantes quanto entusiastas experientes a compreenderem e dominarem os conceitos fundamentais e avançados da IA.\n\nDescubra como a IA está transformando diversos setores, desde a medicina até o entretenimento, e aprenda a aplicar técnicas de aprendizado de máquina e algoritmos inteligentes em seus próprios projetos. Compartilhe conosco essa jornada emocionante rumo ao futuro da tecnologia!\n\nFalamos sobre as ferramentas como leonardo.ai, haiper, midjourney, criação de imagens por inteligência artificial, criação de vídeo por inteligência artificial, ou seja tudo relacionado a inteligência artificial.\n"
+      },
+      "country": "BR"
+    },
+    "statistics": {
+      "viewCount": "1814586",
+      "subscriberCount": "36500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "199"
+    }
+  }
+}

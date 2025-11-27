@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285767.759514,
+  "cache_type": "channel_info",
+  "key": "UCbTE8vfz5zuEK5uRnc2yjrw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "PkyAVPjs2IJLGu58gxQg3Fni9D8",
+    "id": "UCbTE8vfz5zuEK5uRnc2yjrw",
+    "snippet": {
+      "title": "SingularityNET",
+      "description": "SingularityNET is the first and only platform that allows AIs to cooperate and coordinate at scale. No longer must AIs exist in silos, only capable of operating within a specific company, infrastructure, or industry.\n\nThe future of AI is here. We hope you’ll join us. \n\nPlatform:  https://beta.singularitynet.io\nWebsite:   http://singularitynet.io\non Telegram:  http://t.me/singularitynet",
+      "customUrl": "@singularitynet",
+      "publishedAt": "2017-10-31T16:05:38Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/U-n-QCPickdHyaNfGaDEKk4HOlY11TiwLa0BA7aatQ5A3UUMW_XvAu8H26q1OLXDcuDfuae_Sg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/U-n-QCPickdHyaNfGaDEKk4HOlY11TiwLa0BA7aatQ5A3UUMW_XvAu8H26q1OLXDcuDfuae_Sg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/U-n-QCPickdHyaNfGaDEKk4HOlY11TiwLa0BA7aatQ5A3UUMW_XvAu8H26q1OLXDcuDfuae_Sg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "SingularityNET",
+        "description": "SingularityNET is the first and only platform that allows AIs to cooperate and coordinate at scale. No longer must AIs exist in silos, only capable of operating within a specific company, infrastructure, or industry.\n\nThe future of AI is here. We hope you’ll join us. \n\nPlatform:  https://beta.singularitynet.io\nWebsite:   http://singularitynet.io\non Telegram:  http://t.me/singularitynet"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "1631861",
+      "subscriberCount": "31500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "719"
+    }
+  }
+}

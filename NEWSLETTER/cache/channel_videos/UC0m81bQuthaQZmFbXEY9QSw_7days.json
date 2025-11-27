@@ -1,0 +1,245 @@
+{
+  "cached_at": 1764285731.850532,
+  "cache_type": "channel_videos",
+  "key": "UC0m81bQuthaQZmFbXEY9QSw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pz6z5x5CHzQSawd_IEiumGhKh5I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x9bIWL-nwFw"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T09:15:10Z",
+        "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+        "title": "Readdy AI: This AI Builder can BUILD WEBSITES &amp; APPS that CAN SPEAK TO CUSTOMERS!",
+        "description": "Visit Readdy AI: https://bit.ly/Readdy_izak In this video, I build a live SmartPaws landing page with Readdy AI and show how its ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x9bIWL-nwFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x9bIWL-nwFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x9bIWL-nwFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AICodeKing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T09:15:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CZSsF0LGgh3X3r6UuaLsPZ8TcZU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J7e2n-BMtYQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T09:15:01Z",
+        "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+        "title": "Bind AI IDE: This AI Coder FIXES Vibe-Coding for EVERYONE!",
+        "description": "Visit Bind AI: https://app.getbind.co/vibe-coder-lifetime-credits In this video, I'm covering a massive Bind AI update that includes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J7e2n-BMtYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J7e2n-BMtYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J7e2n-BMtYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AICodeKing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T09:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w4J4J0Beuj0JGIccWk1g-yK7Elw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I60MFVKFMlc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T11:36:28Z",
+        "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+        "title": "Claude Opus 4.5 (Fully Tested): Anthropic REALLY COOKED with this model! #1 on my Agentic Tests!",
+        "description": "Visit Augment Code: https://www.augmentcode.com/ In this video, I'll be telling you about the new Claude Opus 4.5 from Anthropic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I60MFVKFMlc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I60MFVKFMlc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I60MFVKFMlc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AICodeKing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T11:36:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ymjcFZPJPcIsQ86O-KET9SFPO6I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pbUqW-MWVgY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T09:15:07Z",
+        "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+        "title": "Google Gemini 3 Build Mode: This FULLY FREE Gemini-3 AI Coder is ACTUALLY INSANE!",
+        "description": "Visit Augment Code: https://www.augmentcode.com/ In this video, I'll be walking you through the massive update to Google AI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pbUqW-MWVgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pbUqW-MWVgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pbUqW-MWVgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AICodeKing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T09:15:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WEDydFN-xcEYfzzN05_YK4CpWlM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0Mjd8TbKzxc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T09:15:00Z",
+        "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+        "title": "Gemini CLI 6.0: Google JUST INTEGRATED Gemini-3 into Gemini CLI &amp; IT&#39;S INSANE!",
+        "description": "Visit Augment Code: https://www.augmentcode.com/ In this video, I'll be telling you about the new Gemini 3 integration in Gemini ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Mjd8TbKzxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Mjd8TbKzxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Mjd8TbKzxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AICodeKing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T09:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8XE6wCPcwxEyXgme0TgsgaK2IcU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0S9G9mGLB1U"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T09:15:00Z",
+        "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+        "title": "Traycer YOLO MODE: Plan, Sit &amp; LET YOUR AGENT CODE! The REAL AGENTIC CODING!",
+        "description": "Visit Traycer: https://traycer.ai/ In this video, I'll be showing you Traycer's massive new update called \"YOLO Mode\" which ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0S9G9mGLB1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0S9G9mGLB1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0S9G9mGLB1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AICodeKing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T09:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IfBVwwl5924NSTUozzvFKFlQuMo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WvfECHWdbkY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T11:38:26Z",
+        "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+        "title": "Google Stitch 4.0 (Upgraded): Google&#39;s Gemini-3 &amp; Nano Banana Pro Designer is ACTUALLY INSANE!",
+        "description": "Visit Augment Code: https://www.augmentcode.com/ In this video, I'll be breaking down the relentless updates from Google ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WvfECHWdbkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WvfECHWdbkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WvfECHWdbkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AICodeKing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T11:38:26Z"
+      }
+    }
+  ]
+}

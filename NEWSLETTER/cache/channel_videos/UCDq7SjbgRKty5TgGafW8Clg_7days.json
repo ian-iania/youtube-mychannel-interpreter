@@ -1,0 +1,75 @@
+{
+  "cached_at": 1764285764.0707042,
+  "cache_type": "channel_videos",
+  "key": "UCDq7SjbgRKty5TgGafW8Clg_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z0ph4eM3FQ56vymLLbz6kQG3nc0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O-4mAhw19ho"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T14:00:11Z",
+        "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+        "title": "Meet Junie: Your Autonomous Coding Partner in JetBrains IDEs",
+        "description": "Checkout Junie for JetBrains' IDEs: https://jb.gg/Junie-Engineer Junie takes a completely different approach to coding assistance ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O-4mAhw19ho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O-4mAhw19ho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O-4mAhw19ho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Prompt Engineering",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T14:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HVkW0U4kldAKv0PYKSm9qNYHc_U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r4abIemObmQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T13:45:06Z",
+        "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+        "title": "Meta is Back! Segment Anything 3 is Here (Open Weight)",
+        "description": "Meta release segment anything model 3 along with SAM 3D, a unified model for detection, segmentation, and tracking of objects ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r4abIemObmQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r4abIemObmQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r4abIemObmQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Prompt Engineering",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T13:45:06Z"
+      }
+    }
+  ]
+}

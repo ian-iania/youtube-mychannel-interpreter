@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285729.262989,
+  "cache_type": "video_details",
+  "key": "Y0Aqc174FMM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "m1a3y2-2nJ3_npFbtP4nfllDaFQ",
+    "id": "Y0Aqc174FMM",
+    "snippet": {
+      "publishedAt": "2025-11-24T16:30:21Z",
+      "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+      "title": "The most absurd product I've made",
+      "description": "Because why not make a pi creature neck pillow?\nAvailable at 3b1b.co/store",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Y0Aqc174FMM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Y0Aqc174FMM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Y0Aqc174FMM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Y0Aqc174FMM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Y0Aqc174FMM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "3Blue1Brown",
+      "tags": [
+        "Mathematics",
+        "three blue one brown",
+        "3 blue 1 brown",
+        "3b1b",
+        "3brown1blue",
+        "3 brown 1 blue",
+        "three brown one blue"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "The most absurd product I've made",
+        "description": "Because why not make a pi creature neck pillow?\nAvailable at 3b1b.co/store"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M25S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "96384",
+      "likeCount": "2342",
+      "favoriteCount": "0",
+      "commentCount": "61"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "cached_at": 1764285729.153894,
+  "cache_type": "channel_videos",
+  "key": "UCYO_jab_esuFRV4b17AJtAw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XTZEG5Bs19OyDZjU0PmsG09Ed9M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y0Aqc174FMM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T16:30:21Z",
+        "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+        "title": "The most absurd product I&#39;ve made",
+        "description": "Because why not make a pi creature neck pillow? Available at 3b1b.co/store.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y0Aqc174FMM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y0Aqc174FMM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y0Aqc174FMM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "3Blue1Brown",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T16:30:21Z"
+      }
+    }
+  ]
+}

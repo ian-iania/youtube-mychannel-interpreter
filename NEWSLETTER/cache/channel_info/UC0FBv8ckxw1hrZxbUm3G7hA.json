@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285765.7259352,
+  "cache_type": "channel_info",
+  "key": "UC0FBv8ckxw1hrZxbUm3G7hA",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "m91wBGxyllyDC4S-VcgMAgD5iEA",
+    "id": "UC0FBv8ckxw1hrZxbUm3G7hA",
+    "snippet": {
+      "title": "Rob The AI Guy",
+      "description": "On this channel I'll be teaching you how to use AI to increase your productivity, to make more money online and overall to improve your life. If you want to stay up to date on the latest AI news, trends or learn how to use ChatGPT better this channel is for you!\n\nFacebook: Rob The AI Guy \nInstagram: robtheaiguy\n",
+      "customUrl": "@realrobtheaiguy",
+      "publishedAt": "2024-11-16T18:23:21.874766Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/EIPTj5uy4_ap4KavUrzcTA56yDgRFh4ZEZ3_CWbJ6bpZVM0ibboGEV4ALdgwHnlFeSle3SJdsA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/EIPTj5uy4_ap4KavUrzcTA56yDgRFh4ZEZ3_CWbJ6bpZVM0ibboGEV4ALdgwHnlFeSle3SJdsA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/EIPTj5uy4_ap4KavUrzcTA56yDgRFh4ZEZ3_CWbJ6bpZVM0ibboGEV4ALdgwHnlFeSle3SJdsA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Rob The AI Guy",
+        "description": "On this channel I'll be teaching you how to use AI to increase your productivity, to make more money online and overall to improve your life. If you want to stay up to date on the latest AI news, trends or learn how to use ChatGPT better this channel is for you!\n\nFacebook: Rob The AI Guy \nInstagram: robtheaiguy\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "4274952",
+      "subscriberCount": "81400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "255"
+    }
+  }
+}

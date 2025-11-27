@@ -1,0 +1,75 @@
+{
+  "cached_at": 1764285744.128897,
+  "cache_type": "channel_videos",
+  "key": "UC_RovKmk0OCbuZjA8f08opw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vxrSTA2mzxU0NvbwG-RksEi3e-U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dSUAfo81poo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T15:10:14Z",
+        "channelId": "UC_RovKmk0OCbuZjA8f08opw",
+        "title": "13 New AI Tools I’m Actually Using",
+        "description": "Huge Black Friday sale right now to self host n8n with Hostinger - http://hostinger.com/futurepedian8n Use the promo code ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dSUAfo81poo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dSUAfo81poo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dSUAfo81poo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Futurepedia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T15:10:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cB2YKAxKD0-HLQ5EEZP4N4zLSQM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UvjE8qbnI-c"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T23:15:47Z",
+        "channelId": "UC_RovKmk0OCbuZjA8f08opw",
+        "title": "Nano Banana 2 is WILD - 50+ Use Cases",
+        "description": "Download the free AI Content Creation Checklist: https://clickhubspot.com/32b2d5 More from Futurepedia: Join the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UvjE8qbnI-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UvjE8qbnI-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UvjE8qbnI-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Futurepedia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T23:15:47Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764285747.442088,
+  "cache_type": "video_details",
+  "key": "V8COJv2dG2g",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "P9vm2_AiFbp2SQ7fA87eGVyEUuk",
+    "id": "V8COJv2dG2g",
+    "snippet": {
+      "publishedAt": "2025-11-27T00:00:40Z",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "That \"quick question\" at 4:59 PM always hits different. 😅",
+      "description": "We know the question won’t be quick. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Crystal Endless",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/V8COJv2dG2g/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/V8COJv2dG2g/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/V8COJv2dG2g/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/V8COJv2dG2g/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/V8COJv2dG2g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google for Developers",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google for Developers;",
+        "Purpose: Learn;",
+        "Campaign: Video Type:G4D SV: Comedic skits;",
+        "ct: AIG;",
+        "gds:Yes;"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "That \"quick question\" at 4:59 PM always hits different. 😅",
+        "description": "We know the question won’t be quick. \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nSpeaker: Crystal Endless"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT5S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "7079",
+      "likeCount": "71",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

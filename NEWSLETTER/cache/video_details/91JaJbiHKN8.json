@@ -1,0 +1,98 @@
+{
+  "cached_at": 1764285752.0506408,
+  "cache_type": "video_details",
+  "key": "91JaJbiHKN8",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "LNmie2AjU1gEdMQm_GM-0_ZUulU",
+    "id": "91JaJbiHKN8",
+    "snippet": {
+      "publishedAt": "2025-11-27T21:00:07Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "Plaud: A ferramenta de IA que transforma reuniões e ligações em resumos e tarefas",
+      "description": "Ferramentas de IA como Tactiq, Supernormal, e até apps do Teams e Zoom já fazem atas e transcrições de reuniões automaticamente. Mas, e quando o encontro é presencial ou uma ligação? \n\nNeste episódio de IA: Modo de Usar, analisamos se vale a pena usar o gravador de bolso Plaud com inteligência artificial para terceirizar as partes chatas de encontros, como criar atas, delegar tarefas e resumir conversas, e discutimos os cuidados essenciais com privacidade e compliance.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/91JaJbiHKN8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/91JaJbiHKN8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/91JaJbiHKN8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/91JaJbiHKN8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/91JaJbiHKN8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "tags": [
+        "Investnews",
+        "investimentos",
+        "economia",
+        "finanças",
+        "investnewsbr",
+        "mercado financeiro",
+        "bolsa de valores",
+        "notícias",
+        "jornalismo econômico",
+        "negócios",
+        "Inteligência Artificial",
+        "IA",
+        "Plaud",
+        "gravador com IA",
+        "gravação de reuniões",
+        "transcrição de áudio",
+        "ata automática",
+        "produtividade",
+        "Tactiq",
+        "Supernormal",
+        "Fireflies",
+        "Granola",
+        "Otter",
+        "reunião",
+        "InvestNewsBR",
+        "IA Modo de Usar",
+        "tecnologia",
+        "compliance",
+        "privacidade de dados"
+      ],
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Plaud: A ferramenta de IA que transforma reuniões e ligações em resumos e tarefas",
+        "description": "Ferramentas de IA como Tactiq, Supernormal, e até apps do Teams e Zoom já fazem atas e transcrições de reuniões automaticamente. Mas, e quando o encontro é presencial ou uma ligação? \n\nNeste episódio de IA: Modo de Usar, analisamos se vale a pena usar o gravador de bolso Plaud com inteligência artificial para terceirizar as partes chatas de encontros, como criar atas, delegar tarefas e resumir conversas, e discutimos os cuidados essenciais com privacidade e compliance."
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT5M28S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "567",
+      "likeCount": "73",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

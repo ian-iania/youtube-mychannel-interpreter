@@ -1,0 +1,70 @@
+{
+  "cached_at": 1764285760.94291,
+  "cache_type": "video_details",
+  "key": "3g57RDaXUuU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "5M9OZHpN6nac4XtCD4GtFHqRv6U",
+    "id": "3g57RDaXUuU",
+    "snippet": {
+      "publishedAt": "2025-11-26T17:22:32Z",
+      "channelId": "UCgc3NEslE8oISOEawhcpMCA",
+      "title": "Prompt Gallery | EP13 | Power Up Minute",
+      "description": "Discover how to access and use the M365 Copilot Prompt Gallery, including filtering prompts by task, agent, and saving your own for easy collaboration.\n\nLearn quick tips to enhance productivity with Copilot in your Microsoft 365 tenant. Click the link below to join the Power Up cohort and be part of the growing community:\n \nhttps://aka.ms/PowerUp_Ref_Min\n \nAnd don't forget to connect with peers on the Power Up LinkedIn Group below:\n \nhttps://aka.ms/PowerUpProgram/LI\n \n#PowerUp #PowerUpMinute #Microsoft365 #Copilot #M365Copilot #ChatTools #ProductivityTips #Prompts #PromptGallery",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3g57RDaXUuU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3g57RDaXUuU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3g57RDaXUuU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3g57RDaXUuU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Microsoft Power Platform",
+      "tags": [
+        "Power Up Minute",
+        "Microsoft 365 Copilot",
+        "M365 Copilot",
+        "Chat Tools",
+        "Productivity Tips",
+        "Prompts",
+        "Prompt Gallery"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Prompt Gallery | EP13 | Power Up Minute",
+        "description": "Discover how to access and use the M365 Copilot Prompt Gallery, including filtering prompts by task, agent, and saving your own for easy collaboration.\n\nLearn quick tips to enhance productivity with Copilot in your Microsoft 365 tenant. Click the link below to join the Power Up cohort and be part of the growing community:\n \nhttps://aka.ms/PowerUp_Ref_Min\n \nAnd don't forget to connect with peers on the Power Up LinkedIn Group below:\n \nhttps://aka.ms/PowerUpProgram/LI\n \n#PowerUp #PowerUpMinute #Microsoft365 #Copilot #M365Copilot #ChatTools #ProductivityTips #Prompts #PromptGallery"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M6S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "217",
+      "likeCount": "14",
+      "favoriteCount": "0"
+    }
+  }
+}

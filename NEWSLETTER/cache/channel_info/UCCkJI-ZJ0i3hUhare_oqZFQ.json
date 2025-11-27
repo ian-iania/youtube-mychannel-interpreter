@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285734.3659022,
+  "cache_type": "channel_info",
+  "key": "UCCkJI-ZJ0i3hUhare_oqZFQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "fVDq7TCj90vJEq82-zyzHFurtS4",
+    "id": "UCCkJI-ZJ0i3hUhare_oqZFQ",
+    "snippet": {
+      "title": "Arxiv Papers",
+      "description": "Running out of time to catch up with new arXiv papers? We take the most impactful papers and present them as convenient podcasts. If you're a visual learner, we offer these papers in an engaging video format. Our service fills the gap between overly brief paper summaries and time-consuming full paper reads. You gain academic insights in a time-efficient, digestible format.\n",
+      "customUrl": "@arxivpapers",
+      "publishedAt": "2023-06-01T18:55:57.963222Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_meYAh6NPkc3qZ9RQbztfozX2jknUqc69hcasQTLZa7CCWY6MHmzRI1I6I59gYFhEiQXA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_meYAh6NPkc3qZ9RQbztfozX2jknUqc69hcasQTLZa7CCWY6MHmzRI1I6I59gYFhEiQXA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_meYAh6NPkc3qZ9RQbztfozX2jknUqc69hcasQTLZa7CCWY6MHmzRI1I6I59gYFhEiQXA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Arxiv Papers",
+        "description": "Running out of time to catch up with new arXiv papers? We take the most impactful papers and present them as convenient podcasts. If you're a visual learner, we offer these papers in an engaging video format. Our service fills the gap between overly brief paper summaries and time-consuming full paper reads. You gain academic insights in a time-efficient, digestible format.\n"
+      }
+    },
+    "statistics": {
+      "viewCount": "379660",
+      "subscriberCount": "10100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2641"
+    }
+  }
+}

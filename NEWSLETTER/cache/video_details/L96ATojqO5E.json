@@ -1,0 +1,69 @@
+{
+  "cached_at": 1764285739.487346,
+  "cache_type": "video_details",
+  "key": "L96ATojqO5E",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "0THRLziIPbDsOl-DjI2zJZD3jCQ",
+    "id": "L96ATojqO5E",
+    "snippet": {
+      "publishedAt": "2025-11-21T19:33:01Z",
+      "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+      "title": "Bringing Data Intelligence to the Microsoft Ecosystem with Agent Bricks + Agent 365",
+      "description": "Databricks CEO, Ali Ghodsi, and Microsoft EVP, Cloud and AI, Scott Guthrie, explain a new way to connect governed data and AI inside Microsoft 365 during the partner keynote at Microsoft Ignite 2025. \n\n00:00:20 Agent365 + Databricks Genie\n00:01:00 Demo: Databricks Unity Catalog to centrally govern your data\n00:01:30 Demo: SAP ERP data also centrally governed in Unity Catalog \n00:01:55 Demo: Ask questions about your data with Databricks Genie\n\nHow It Works\nAgent 365 provides a secure environment for first-party and third-party agents to collaborate with users across Microsoft 365. Each agent has an Entra ID identity and operates under your organization’s existing Microsoft Purview and Defender controls.\n\nWhen connected to Azure Databricks, a Databricks Agent can retrieve data and insights directly from Unity Catalog. It can summarize metrics and even provide reasoning behind its answers. Every interaction respects enterprise governance and is traceable back to the original data source.\n\nFor users, it feels like working with a knowledgeable teammate who always has access to the most current, trustworthy data.\n\nTo learn more, read the announcement blog: https://www.databricks.com/blog/bring-data-intelligence-microsoft-ecosystem-agent-bricks-agent-365",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L96ATojqO5E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L96ATojqO5E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L96ATojqO5E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/L96ATojqO5E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/L96ATojqO5E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Databricks",
+      "tags": [
+        "Databricks"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Bringing Data Intelligence to the Microsoft Ecosystem with Agent Bricks + Agent 365",
+        "description": "Databricks CEO, Ali Ghodsi, and Microsoft EVP, Cloud and AI, Scott Guthrie, explain a new way to connect governed data and AI inside Microsoft 365 during the partner keynote at Microsoft Ignite 2025. \n\n00:00:20 Agent365 + Databricks Genie\n00:01:00 Demo: Databricks Unity Catalog to centrally govern your data\n00:01:30 Demo: SAP ERP data also centrally governed in Unity Catalog \n00:01:55 Demo: Ask questions about your data with Databricks Genie\n\nHow It Works\nAgent 365 provides a secure environment for first-party and third-party agents to collaborate with users across Microsoft 365. Each agent has an Entra ID identity and operates under your organization’s existing Microsoft Purview and Defender controls.\n\nWhen connected to Azure Databricks, a Databricks Agent can retrieve data and insights directly from Unity Catalog. It can summarize metrics and even provide reasoning behind its answers. Every interaction respects enterprise governance and is traceable back to the original data source.\n\nFor users, it feels like working with a knowledgeable teammate who always has access to the most current, trustworthy data.\n\nTo learn more, read the announcement blog: https://www.databricks.com/blog/bring-data-intelligence-microsoft-ecosystem-agent-bricks-agent-365"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT6M17S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "570",
+      "likeCount": "8",
+      "favoriteCount": "0"
+    }
+  }
+}

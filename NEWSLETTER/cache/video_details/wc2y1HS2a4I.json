@@ -1,0 +1,95 @@
+{
+  "cached_at": 1764285745.4949179,
+  "cache_type": "video_details",
+  "key": "wc2y1HS2a4I",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "vSivPS1V5FZ2IOuKVJDIFdz3hFc",
+    "id": "wc2y1HS2a4I",
+    "snippet": {
+      "publishedAt": "2025-11-21T18:18:02Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "The Download: Git 2.52, Gemini 3, a private file converter & more",
+      "description": "This week on The Download, Cassidy covers the release of Git 2.52 and its new \"jetpack\" feature for checking file history. We also dive into the launch of Google's Gemini 3 Pro model in GitHub Copilot and Microsoft's new Agent 365 for the enterprise. Plus, we spotlight VERT, a privacy-focused open source file converter.\n\n#Git #GitHub #Gemini #OpenSource\n\n— CHAPTERS — \n\n00:00 Welcome to The Download\n00:25 Git 2.52 and the new last-modified command\n01:09 Gemini 3 Pro lands in Copilot\n01:38 Microsoft announces Agent 365\n02:01 Project spotlight: VERT file converter\n02:32 This week's news recap\n\n---\n\nLinks:\n\nGit 2.52 is here:\nhttps://github.blog/open-source/git/highlights-from-git-2-52/\n\nGemini 3 Pro:\nhttps://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and\n\nMicrosoft Agent 365:\nhttps://learn.microsoft.com/en-us/microsoft-agent-365/overview\nhttps://www.youtube.com/watch?v=SzxwdNeSnKs\n\nOpen source project:\nhttps://github.com/VERT-sh/VERT\n\n---\n\nStay up-to-date on all things GitHub by subscribing and following us at:\nYouTube: http://bit.ly/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\nFacebook: https://www.facebook.com/GitHub/\n\nAbout GitHub:\nIt’s where over 100 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wc2y1HS2a4I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wc2y1HS2a4I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wc2y1HS2a4I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wc2y1HS2a4I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wc2y1HS2a4I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "tags": [
+        "GitHub",
+        "git",
+        "git and GitHub",
+        "GitHub tutorial",
+        "how to use GitHub",
+        "Git 2.52",
+        "Git update",
+        "git last modified",
+        "Gemini",
+        "Google Gemini",
+        "Gemini 3",
+        "Google Gemini 3",
+        "Gemini in Copilot",
+        "Gemini 3 pro",
+        "GitHub Copilot",
+        "Microsoft Ignite",
+        "Agent 365",
+        "Microsoft Agent 365",
+        "VERT",
+        "VERT file converter",
+        "WebAssembly tools",
+        "open source",
+        "open source news",
+        "developer news",
+        "The Download",
+        "Cassidy Williams"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "The Download: Git 2.52, Gemini 3, a private file converter & more",
+        "description": "This week on The Download, Cassidy covers the release of Git 2.52 and its new \"jetpack\" feature for checking file history. We also dive into the launch of Google's Gemini 3 Pro model in GitHub Copilot and Microsoft's new Agent 365 for the enterprise. Plus, we spotlight VERT, a privacy-focused open source file converter.\n\n#Git #GitHub #Gemini #OpenSource\n\n— CHAPTERS — \n\n00:00 Welcome to The Download\n00:25 Git 2.52 and the new last-modified command\n01:09 Gemini 3 Pro lands in Copilot\n01:38 Microsoft announces Agent 365\n02:01 Project spotlight: VERT file converter\n02:32 This week's news recap\n\n---\n\nLinks:\n\nGit 2.52 is here:\nhttps://github.blog/open-source/git/highlights-from-git-2-52/\n\nGemini 3 Pro:\nhttps://venturebeat.com/ai/google-unveils-gemini-3-claiming-the-lead-in-math-science-multimodal-and\n\nMicrosoft Agent 365:\nhttps://learn.microsoft.com/en-us/microsoft-agent-365/overview\nhttps://www.youtube.com/watch?v=SzxwdNeSnKs\n\nOpen source project:\nhttps://github.com/VERT-sh/VERT\n\n---\n\nStay up-to-date on all things GitHub by subscribing and following us at:\nYouTube: http://bit.ly/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\nFacebook: https://www.facebook.com/GitHub/\n\nAbout GitHub:\nIt’s where over 100 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT2M57S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "8552",
+      "likeCount": "222",
+      "favoriteCount": "0",
+      "commentCount": "16"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "cached_at": 1764285742.874978,
+  "cache_type": "video_details",
+  "key": "0Zb_C2PfnDE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "hHYzUrM97iz5g43mCm0wK-ba11A",
+    "id": "0Zb_C2PfnDE",
+    "snippet": {
+      "publishedAt": "2025-11-22T02:00:01Z",
+      "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+      "title": "HunyuanVideo-1.5: A Lightweight Video Generation Model: Run on 14G of VRAM",
+      "description": "This video locally installs Tencent HunyuanVideo-1.5 model which smoothly runs on consumer-grade GPUs.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#hunyuanvideo \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://huggingface.co/tencent/HunyuanVideo-1.5\n\nAll rights reserved © Fahd Mirza",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0Zb_C2PfnDE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0Zb_C2PfnDE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0Zb_C2PfnDE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0Zb_C2PfnDE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Fahd Mirza",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "HunyuanVideo-1.5: A Lightweight Video Generation Model: Run on 14G of VRAM",
+        "description": "This video locally installs Tencent HunyuanVideo-1.5 model which smoothly runs on consumer-grade GPUs.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#hunyuanvideo \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://huggingface.co/tencent/HunyuanVideo-1.5\n\nAll rights reserved © Fahd Mirza"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT11M55S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1892",
+      "likeCount": "59",
+      "favoriteCount": "0",
+      "commentCount": "7"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "cached_at": 1764285761.913234,
+  "cache_type": "video_details",
+  "key": "hus1M6ru4xk",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "X8Z4Tm-XPniiCpEHybOkLh7SiDQ",
+    "id": "hus1M6ru4xk",
+    "snippet": {
+      "publishedAt": "2025-11-22T14:01:22Z",
+      "channelId": "UCYx10jQ_0QeqkV7gWiUE5yw",
+      "title": "3 Maneiras Práticas de Usar o N8n Para Automatizar Tudo",
+      "description": "Descubra 3 maneiras práticas de usar o N8n para automatizar tarefas, integrar ferramentas e enviar mensagens automáticas em qualquer canal.\n\nCom IA + automações, você economiza tempo, cria processos reais e ainda pode vender esses serviços no mercado.\n\n🔥 Aproveite a Black IA na Veia e aprenda IA aplicada com o menor preço do ano!\n👉 https://bit.ly/44kVBi1",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/hus1M6ru4xk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/hus1M6ru4xk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/hus1M6ru4xk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/hus1M6ru4xk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/hus1M6ru4xk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "NoCode StartUp",
+      "tags": [
+        "n8n",
+        "n8n agente de ia",
+        "formação n8n",
+        "curso n8n",
+        "IA",
+        "automações"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "3 Maneiras Práticas de Usar o N8n Para Automatizar Tudo",
+        "description": "Descubra 3 maneiras práticas de usar o N8n para automatizar tarefas, integrar ferramentas e enviar mensagens automáticas em qualquer canal.\n\nCom IA + automações, você economiza tempo, cria processos reais e ainda pode vender esses serviços no mercado.\n\n🔥 Aproveite a Black IA na Veia e aprenda IA aplicada com o menor preço do ano!\n👉 https://bit.ly/44kVBi1"
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT57S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "988",
+      "likeCount": "24",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

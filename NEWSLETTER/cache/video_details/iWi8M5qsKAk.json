@@ -1,0 +1,74 @@
+{
+  "cached_at": 1764285760.4594429,
+  "cache_type": "video_details",
+  "key": "iWi8M5qsKAk",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "8pFLp2Q9FrT-oXOArjo-FAPXd4A",
+    "id": "iWi8M5qsKAk",
+    "snippet": {
+      "publishedAt": "2025-11-24T16:01:15Z",
+      "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+      "title": "Future of Cloud: Language of Nature",
+      "description": "In this episode of Future of Cloud: Language of Nature, we trace how the logic of living systems is shaping the next era of computing. At the Met Office, HPC and AI work in tandem to model the atmosphere with unprecedented precision. \n\nAcross the supply chain, partners like Mondra use cloud-scale intelligence to measure and reduce environmental impact with the fidelity of an ecosystem. And at the Chelsea Flower Show, innovators are using AI to listen to plant systems — translating electrical signals, stress responses, hydration patterns, and growth rhythms into insights humans can understand.\n\nThe result is a new blueprint for the cloud: one inspired by biological communication, accelerated by AI, and capable of reshaping everything from climate modelling to sustainable logistics. This is where nature’s language becomes the future of infrastructure — and where the next frontier begins.\n\nLearn more: https://msft.it/6058tPlGK\n\n#Microsoft #MicrosoftAzure #AiEcosystemIntelligence",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/iWi8M5qsKAk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/iWi8M5qsKAk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/iWi8M5qsKAk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/iWi8M5qsKAk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Microsoft Azure",
+      "tags": [
+        "ai cloud scale intelligence",
+        "ai ecosystem intelligence",
+        "ai environmental impact ai and nature bio-inspired infrastructure frontier cloud systems",
+        "ai modelling atmosphere plant signal translation ai",
+        "ai mondra supply chain sustainable supply chain",
+        "ai plant communication chelsea flower show",
+        "ai sustainability tech",
+        "future of cloud language of nature",
+        "hpc weather simulation ai climate modelling",
+        "nature inspired computing biological computing met office"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Future of Cloud: Language of Nature",
+        "description": "In this episode of Future of Cloud: Language of Nature, we trace how the logic of living systems is shaping the next era of computing. At the Met Office, HPC and AI work in tandem to model the atmosphere with unprecedented precision. \n\nAcross the supply chain, partners like Mondra use cloud-scale intelligence to measure and reduce environmental impact with the fidelity of an ecosystem. And at the Chelsea Flower Show, innovators are using AI to listen to plant systems — translating electrical signals, stress responses, hydration patterns, and growth rhythms into insights humans can understand.\n\nThe result is a new blueprint for the cloud: one inspired by biological communication, accelerated by AI, and capable of reshaping everything from climate modelling to sustainable logistics. This is where nature’s language becomes the future of infrastructure — and where the next frontier begins.\n\nLearn more: https://msft.it/6058tPlGK\n\n#Microsoft #MicrosoftAzure #AiEcosystemIntelligence"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT15M47S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "659",
+      "likeCount": "25",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

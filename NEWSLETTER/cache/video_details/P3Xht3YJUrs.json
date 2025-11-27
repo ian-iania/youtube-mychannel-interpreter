@@ -1,0 +1,98 @@
+{
+  "cached_at": 1764285745.494344,
+  "cache_type": "video_details",
+  "key": "P3Xht3YJUrs",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "h99KHK6YsUchz5escRvfHfSKy5c",
+    "id": "P3Xht3YJUrs",
+    "snippet": {
+      "publishedAt": "2025-11-22T15:00:46Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "Try Google's most powerful AI model Gemini 3 Pro in Copilot today",
+      "description": "Google just shook up the leaderboard with Gemini 3 Pro, their most powerful AI model yet. It's built not just to pass tests, but to plan, act, and orchestrate multi-step tasks. And the best part? You can try it today directly within GitHub Copilot with your Pro subscription.\n\n#Google #Gemini #Copilot\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt’s where over 180 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/P3Xht3YJUrs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/P3Xht3YJUrs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/P3Xht3YJUrs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/P3Xht3YJUrs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/P3Xht3YJUrs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "tags": [
+        "github",
+        "git",
+        "git and github",
+        "github tutorial",
+        "how to use github",
+        "github for beginners",
+        "code",
+        "coding",
+        "programming",
+        "developer",
+        "software",
+        "software development",
+        "Gemini",
+        "Google Gemini",
+        "Gemini 3",
+        "Gemini 3 Pro",
+        "Google Gemini 3",
+        "GitHub Copilot",
+        "AI coding assistant",
+        "Gemini in Copilot",
+        "multi-step tasks",
+        "AI orchestration",
+        "Google AI",
+        "Copilot Pro",
+        "VS Code",
+        "developer tools",
+        "AI model",
+        "large language model",
+        "coding automation"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Try Google's most powerful AI model Gemini 3 Pro in Copilot today",
+        "description": "Google just shook up the leaderboard with Gemini 3 Pro, their most powerful AI model yet. It's built not just to pass tests, but to plan, act, and orchestrate multi-step tasks. And the best part? You can try it today directly within GitHub Copilot with your Pro subscription.\n\n#Google #Gemini #Copilot\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt’s where over 180 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT19S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "14032",
+      "likeCount": "237",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

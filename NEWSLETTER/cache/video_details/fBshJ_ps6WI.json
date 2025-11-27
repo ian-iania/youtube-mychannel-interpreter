@@ -1,0 +1,79 @@
+{
+  "cached_at": 1764285747.4433,
+  "cache_type": "video_details",
+  "key": "fBshJ_ps6WI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "C7V1d1I0DcqI1hKjHMrgkrqfzt0",
+    "id": "fBshJ_ps6WI",
+    "snippet": {
+      "publishedAt": "2025-11-25T17:01:15Z",
+      "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+      "title": "How to build reliable AI Agents?",
+      "description": "Join Ivan and Aparna Dhinakaran, CPO of Arize AI, as they discuss the challenges of moving AI agents from prototype to production. This tutorial demonstrates how to integrate the Google's Agent Development Kit (ADK) with Arize Phoenix to enable deep observability, tracing, and evaluation for your agents. Learn how to instrument your ADK agent with OpenTelemetry standards, visualize live traces to debug logic errors, and run evaluations to ensure your agent is reliable at scale.\n\nChapters:\n0:00 - Introduction\n0:40 - Why observability matters for agents\n1:35 - Callbacks in ADK\n2:05 - Arize Phoenix\n2:45 - The Financial Advisor agent\n3:16 - Installation and setup\n4:30 - Demo: Live tracing\n5:20 - Error analysis and debugging\n7:09 - Scaling debug with evaluations\n8:46 - Wrap up\n\nResources:\nLearn more about the Agent Development Kit → https://google.github.io/adk-docs/\nCheck out the ADK Samples repo → https://github.com/google/adk-samples\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Google ADK, Google AI",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fBshJ_ps6WI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fBshJ_ps6WI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fBshJ_ps6WI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fBshJ_ps6WI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fBshJ_ps6WI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Google for Developers",
+      "tags": [
+        "Google",
+        "developers",
+        "Google ADK",
+        "Arize Phoenix",
+        "AI Agents",
+        "LLM Observability",
+        "OpenTelemetry",
+        "Python",
+        "Agent Development Kit",
+        "Arize AI"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "How to build reliable AI Agents?",
+        "description": "Join Ivan and Aparna Dhinakaran, CPO of Arize AI, as they discuss the challenges of moving AI agents from prototype to production. This tutorial demonstrates how to integrate the Google's Agent Development Kit (ADK) with Arize Phoenix to enable deep observability, tracing, and evaluation for your agents. Learn how to instrument your ADK agent with OpenTelemetry standards, visualize live traces to debug logic errors, and run evaluations to ensure your agent is reliable at scale.\n\nChapters:\n0:00 - Introduction\n0:40 - Why observability matters for agents\n1:35 - Callbacks in ADK\n2:05 - Arize Phoenix\n2:45 - The Financial Advisor agent\n3:16 - Installation and setup\n4:30 - Demo: Live tracing\n5:20 - Error analysis and debugging\n7:09 - Scaling debug with evaluations\n8:46 - Wrap up\n\nResources:\nLearn more about the Agent Development Kit → https://google.github.io/adk-docs/\nCheck out the ADK Samples repo → https://github.com/google/adk-samples\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\nProducts Mentioned: Google ADK, Google AI"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT10M22S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2441",
+      "likeCount": "110",
+      "favoriteCount": "0",
+      "commentCount": "5"
+    }
+  }
+}

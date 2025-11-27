@@ -1,0 +1,89 @@
+{
+  "cached_at": 1764285745.4882839,
+  "cache_type": "video_details",
+  "key": "l37u8FrdhY0",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "98J5zsXA3KCxodEvEUwyFmeeYQE",
+    "id": "l37u8FrdhY0",
+    "snippet": {
+      "publishedAt": "2025-11-27T16:48:43Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "How to use GitHub Copilot coding agent in Slack",
+      "description": "You can now use the GitHub app for Slack to collaborate with GitHub Copilot right inside your Slack conversations. This initial release introduces the Copilot coding agent, built to translate conversations into code and pull requests. It’s the first step toward bringing the full power of GitHub Copilot into Slack.\n\n#GitHub #Slack #GitHubCopilot\n\nStay up-to-date on all things GitHub by subscribing and following us at:\nYouTube: http://bit.ly/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\nFacebook: https://www.facebook.com/GitHub/\n\nAbout GitHub:\nIt’s where over 100 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l37u8FrdhY0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l37u8FrdhY0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l37u8FrdhY0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/l37u8FrdhY0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/l37u8FrdhY0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "tags": [
+        "Github",
+        "git",
+        "git and github",
+        "how to use github",
+        "github tutorial",
+        "GitHub Copilot",
+        "Copilot coding agent",
+        "Slack",
+        "slack integration",
+        "GitHub app for slack",
+        "GitHub in slack",
+        "conversation to code",
+        "chatops",
+        "AI bug fixing",
+        "automated pull request",
+        "developer workflow",
+        "workflow automation",
+        "AI coding assistant",
+        "GitHub actions",
+        "branch protection"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "How to use GitHub Copilot coding agent in Slack",
+        "description": "You can now use the GitHub app for Slack to collaborate with GitHub Copilot right inside your Slack conversations. This initial release introduces the Copilot coding agent, built to translate conversations into code and pull requests. It’s the first step toward bringing the full power of GitHub Copilot into Slack.\n\n#GitHub #Slack #GitHubCopilot\n\nStay up-to-date on all things GitHub by subscribing and following us at:\nYouTube: http://bit.ly/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\nFacebook: https://www.facebook.com/GitHub/\n\nAbout GitHub:\nIt’s where over 100 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "475",
+      "likeCount": "28",
+      "favoriteCount": "0",
+      "commentCount": "5"
+    }
+  }
+}

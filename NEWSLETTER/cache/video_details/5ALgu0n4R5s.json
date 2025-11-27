@@ -1,0 +1,95 @@
+{
+  "cached_at": 1764285745.4927502,
+  "cache_type": "video_details",
+  "key": "5ALgu0n4R5s",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Id1xJJLCpZllF8vhMZUvikQLZ1g",
+    "id": "5ALgu0n4R5s",
+    "snippet": {
+      "publishedAt": "2025-11-26T17:00:20Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "The moment a Log4j maintainer realized the true scale of the crisis",
+      "description": "What happens when a bug in your project is so big you consider quitting open source altogether? Christian Grobmeier, a Log4j maintainer, recounts the dawning realization that the Log4Shell flaw could affect millions, if not billions, of applications worldwide.\n\n#Log4j #Log4Shell #OpenSource\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt’s where over 100 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5ALgu0n4R5s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5ALgu0n4R5s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5ALgu0n4R5s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5ALgu0n4R5s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5ALgu0n4R5s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "tags": [
+        "github",
+        "git",
+        "git and github",
+        "github tutorial",
+        "how to use github",
+        "github for beginners",
+        "code",
+        "coding",
+        "programming",
+        "developer",
+        "software",
+        "software development",
+        "Log4Shell",
+        "Log4j vulnerability",
+        "Christian Grobmeier",
+        "maintainer story",
+        "open source security",
+        "developer burnout",
+        "overwhelmed developer",
+        "software supply chain",
+        "global crisis",
+        "Java applications",
+        "bug impact",
+        "developer story",
+        "cybersecurity",
+        "Log4j"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "The moment a Log4j maintainer realized the true scale of the crisis",
+        "description": "What happens when a bug in your project is so big you consider quitting open source altogether? Christian Grobmeier, a Log4j maintainer, recounts the dawning realization that the Log4Shell flaw could affect millions, if not billions, of applications worldwide.\n\n#Log4j #Log4Shell #OpenSource\n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt’s where over 100 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT48S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4294",
+      "likeCount": "71",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

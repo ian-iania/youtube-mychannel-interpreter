@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285740.984957,
+  "cache_type": "video_details",
+  "key": "EsLOLK0B_CU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "0hK4QV9k2zL6Ghb8CoTBKC2bNPo",
+    "id": "EsLOLK0B_CU",
+    "snippet": {
+      "publishedAt": "2025-11-25T11:19:49Z",
+      "channelId": "UCta1sF9e9YzzNG4OlQgIlXw",
+      "title": "Não seja HACKEADO!",
+      "description": "🔒 Seu app vibe coded está VULNERÁVEL! Neste vídeo eu revelo os 5 erros de segurança mais comuns que deixam apps hackeáveis - e como você pode evitar cada um deles. Se você tem medo de ser invadido, este vídeo é OBRIGATÓRIO!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EsLOLK0B_CU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EsLOLK0B_CU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EsLOLK0B_CU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EsLOLK0B_CU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EsLOLK0B_CU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Deborah Folloni",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Não seja HACKEADO!",
+        "description": "🔒 Seu app vibe coded está VULNERÁVEL! Neste vídeo eu revelo os 5 erros de segurança mais comuns que deixam apps hackeáveis - e como você pode evitar cada um deles. Se você tem medo de ser invadido, este vídeo é OBRIGATÓRIO!"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT59S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1269",
+      "likeCount": "67",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "cached_at": 1764285759.99452,
+  "cache_type": "video_details",
+  "key": "fKnk37l7CFE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "GOgFrrtcB1cLBlZvsvvAOj1XbUU",
+    "id": "fKnk37l7CFE",
+    "snippet": {
+      "publishedAt": "2025-11-21T20:49:14Z",
+      "channelId": "UCFtEEv80fQVKkD4h1PF-Xqw",
+      "title": "NFL's tech revolution - from chalkboards to tablets #nfl #microsoft",
+      "description": "Ed Policy, president and CEO of the Green Bay Packers, explains the shift from old-school chalkboards to cutting-edge tablets—and what it means for the future of football.\n\n#nfl #microsoft #tech #greenbaypackers",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fKnk37l7CFE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fKnk37l7CFE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fKnk37l7CFE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fKnk37l7CFE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fKnk37l7CFE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft",
+      "tags": [
+        "microsoft"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "NFL's tech revolution - from chalkboards to tablets #nfl #microsoft",
+        "description": "Ed Policy, president and CEO of the Green Bay Packers, explains the shift from old-school chalkboards to cutting-edge tablets—and what it means for the future of football.\n\n#nfl #microsoft #tech #greenbaypackers"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT48S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "3478",
+      "likeCount": "27",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

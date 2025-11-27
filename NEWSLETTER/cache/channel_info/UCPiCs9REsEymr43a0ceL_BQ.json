@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285766.479763,
+  "cache_type": "channel_info",
+  "key": "UCPiCs9REsEymr43a0ceL_BQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "4ML9eDIkzRugXIOFzVwN3mJ0flE",
+    "id": "UCPiCs9REsEymr43a0ceL_BQ",
+    "snippet": {
+      "title": "Ronnald Hawk",
+      "description": "\nChega de Agentes de IA do mundo da fantasia e Automações engessadas.\n\nAqui você encontra tecnologia real que pode impulsionar sua vida e seu negócios.\n\nSe você está cansado do Hype e quer de fato aproveitar a onda de IA Generativa para construir e lucrar, não existe melhor lugar do que esse canal\n\nPara mais conteúdo conheça a rhawk.pro",
+      "customUrl": "@ronnaldhawk",
+      "publishedAt": "2024-08-28T17:49:16.288401Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/oklbSsCJCuJfp21kUKcO6nwU4TQhWImWODYzqwyvv5_qc8Y0PQL0eHxSp0MzRShadzm8auHrDg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/oklbSsCJCuJfp21kUKcO6nwU4TQhWImWODYzqwyvv5_qc8Y0PQL0eHxSp0MzRShadzm8auHrDg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/oklbSsCJCuJfp21kUKcO6nwU4TQhWImWODYzqwyvv5_qc8Y0PQL0eHxSp0MzRShadzm8auHrDg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Ronnald Hawk",
+        "description": "\nChega de Agentes de IA do mundo da fantasia e Automações engessadas.\n\nAqui você encontra tecnologia real que pode impulsionar sua vida e seu negócios.\n\nSe você está cansado do Hype e quer de fato aproveitar a onda de IA Generativa para construir e lucrar, não existe melhor lugar do que esse canal\n\nPara mais conteúdo conheça a rhawk.pro"
+      },
+      "country": "BR"
+    },
+    "statistics": {
+      "viewCount": "286682",
+      "subscriberCount": "13300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "36"
+    }
+  }
+}

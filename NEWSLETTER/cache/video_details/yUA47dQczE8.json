@@ -1,0 +1,79 @@
+{
+  "cached_at": 1764285745.495473,
+  "cache_type": "video_details",
+  "key": "yUA47dQczE8",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "yQiVQuRpLT_WUwtlMYJRWvI__us",
+    "id": "yUA47dQczE8",
+    "snippet": {
+      "publishedAt": "2025-11-21T04:21:31Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "Event in Spanish: Jueves de Quack con Gisela Torres",
+      "description": "Acompáñanos en esta nueva edición de Jueves de Quack donde Gisela Torres @returngis  y Andrea Griffiths @acolombiadev discutirán las ultimas novedades de GitHub universe 2025.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yUA47dQczE8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yUA47dQczE8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yUA47dQczE8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yUA47dQczE8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yUA47dQczE8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "tags": [
+        "github",
+        "universe",
+        "git",
+        "developer",
+        "technology",
+        "devex",
+        "ai",
+        "llm",
+        "agent",
+        "copilot"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Event in Spanish: Jueves de Quack con Gisela Torres",
+        "description": "Acompáñanos en esta nueva edición de Jueves de Quack donde Gisela Torres @returngis  y Andrea Griffiths @acolombiadev discutirán las ultimas novedades de GitHub universe 2025."
+      },
+      "defaultAudioLanguage": "es-419"
+    },
+    "contentDetails": {
+      "duration": "PT1H14M36S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "555",
+      "likeCount": "35",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

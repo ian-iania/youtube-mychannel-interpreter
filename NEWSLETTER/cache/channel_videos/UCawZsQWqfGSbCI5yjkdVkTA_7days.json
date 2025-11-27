@@ -1,0 +1,211 @@
+{
+  "cached_at": 1764285758.868802,
+  "cache_type": "channel_videos",
+  "key": "UCawZsQWqfGSbCI5yjkdVkTA_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dIEhYdqcVGx_ZEkYVI90SEWPYp0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "64T7EXN1j_A"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T20:00:00Z",
+        "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+        "title": "Figure Robotics FIRED Their Head of Safety (Lawsuit)",
+        "description": "Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/dell-ai-factory-with-nvidia Download The Subtle ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/64T7EXN1j_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/64T7EXN1j_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/64T7EXN1j_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matthew Berman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T20:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S_8S56vCOLdckWBpGK3MKQTq22k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B_zYJkWf2SI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T23:56:44Z",
+        "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+        "title": "Gemini 3 Shook OpenAI To Its Core",
+        "description": "Check out the Dell Pro Max Workstation with the NVIDIA RTX PRO! https://bit.ly/dell-ai-factory-with-nvidia Download The Subtle ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B_zYJkWf2SI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B_zYJkWf2SI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B_zYJkWf2SI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matthew Berman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T23:56:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Oyhah7BlrxXPkcuMc44TWTrfcxM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VhuUcVhwqi8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T22:52:58Z",
+        "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+        "title": "Anthropic just dropped Opus 4.5...",
+        "description": "Warp is free to try but for a limited time, try Warp Pro free for 7 days with 2500 Al credits-no card required. Use my link ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VhuUcVhwqi8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VhuUcVhwqi8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VhuUcVhwqi8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matthew Berman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T22:52:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MjyJkwlNiYcTms7Ex5S_OyH5-tU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MHMLi7M5GkI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T20:20:34Z",
+        "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+        "title": "Gemini 3 is nuts...",
+        "description": "Automate your workflow with Zapier Copilot: https://bit.ly/3JbB6xa Download the Gemini 3 Edition of Humanities Last Prompt ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MHMLi7M5GkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MHMLi7M5GkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MHMLi7M5GkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matthew Berman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T20:20:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DUa7Pu_M0lr94l10l4JLGO2_Z-Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2CQc_CJ5MQg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T08:05:46Z",
+        "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+        "title": "Forward Future Live | 11/21/25",
+        "description": "Download Humanities Last Prompt Engineering Guide (free) https://bit.ly/4kFhajz Download The Matthew Berman Vibe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2CQc_CJ5MQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2CQc_CJ5MQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2CQc_CJ5MQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matthew Berman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T08:05:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iyvUoYkcaftEQUSi1QaRFH097_w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0Yv9wSph9hY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T18:44:07Z",
+        "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+        "title": "Forward Future Live | 11/21/25",
+        "description": "Download Humanities Last Prompt Engineering Guide (free) https://bit.ly/4kFhajz Download The Matthew Berman Vibe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Yv9wSph9hY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Yv9wSph9hY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Yv9wSph9hY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matthew Berman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T18:44:07Z"
+      }
+    }
+  ]
+}

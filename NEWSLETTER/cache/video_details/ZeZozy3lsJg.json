@@ -1,0 +1,71 @@
+{
+  "cached_at": 1764285750.048815,
+  "cache_type": "video_details",
+  "key": "ZeZozy3lsJg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "KWMMGc2wVu_uz-nC4OCYNpoqNlM",
+    "id": "ZeZozy3lsJg",
+    "snippet": {
+      "publishedAt": "2025-11-24T12:01:18Z",
+      "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "title": "Is this the YEAR or DECADE of AI Agents & Agentic AI?",
+      "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam → https://ibm.biz/BdbGFD\n\nLearn more about AI Agents here → https://ibm.biz/BdbGFR\n\nIs this the year or decade of AI agents? 🤖 Martin Keen explores how agentic AI is reshaping coding, automation, and decision‑making. Discover why today’s AI agents thrive in structured tasks but need time to tackle real‑world complexity.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdbGFF\n\n#aiagents #agenticai #ai",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZeZozy3lsJg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZeZozy3lsJg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZeZozy3lsJg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZeZozy3lsJg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZeZozy3lsJg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "IBM Technology",
+      "tags": [
+        "IBM",
+        "IBM Cloud"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Is this the YEAR or DECADE of AI Agents & Agentic AI?",
+        "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam → https://ibm.biz/BdbGFD\n\nLearn more about AI Agents here → https://ibm.biz/BdbGFR\n\nIs this the year or decade of AI agents? 🤖 Martin Keen explores how agentic AI is reshaping coding, automation, and decision‑making. Discover why today’s AI agents thrive in structured tasks but need time to tackle real‑world complexity.\n\nAI news moves fast. Sign up for a monthly newsletter for AI updates from IBM → https://ibm.biz/BdbGFF\n\n#aiagents #agenticai #ai"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT13M25S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "16101",
+      "likeCount": "571",
+      "favoriteCount": "0",
+      "commentCount": "34"
+    }
+  }
+}

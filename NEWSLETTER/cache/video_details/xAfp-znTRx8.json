@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.95566,
+  "cache_type": "video_details",
+  "key": "xAfp-znTRx8",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "GyW0HjO_VsUfitQQpMYra39SxeY",
+    "id": "xAfp-znTRx8",
+    "snippet": {
+      "publishedAt": "2025-11-27T18:32:08Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "Music from AIE Code Summit - Instrumentals",
+      "description": "By popular demand, we are releasing our music from the livestream + venue stage -- the instrumental tracks. Comment below if you want to see the vocal tracks released!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xAfp-znTRx8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xAfp-znTRx8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xAfp-znTRx8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xAfp-znTRx8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xAfp-znTRx8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Music from AIE Code Summit - Instrumentals",
+        "description": "By popular demand, we are releasing our music from the livestream + venue stage -- the instrumental tracks. Comment below if you want to see the vocal tracks released!"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1H5M41S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "198",
+      "likeCount": "14",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

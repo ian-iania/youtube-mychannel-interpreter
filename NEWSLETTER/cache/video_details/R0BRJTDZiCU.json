@@ -1,0 +1,89 @@
+{
+  "cached_at": 1764285759.584907,
+  "cache_type": "video_details",
+  "key": "R0BRJTDZiCU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "XkwYlhj8sdB300ZWyOEO6Nqy1YA",
+    "id": "R0BRJTDZiCU",
+    "snippet": {
+      "publishedAt": "2025-11-21T15:00:54Z",
+      "channelId": "UCWTyktbw5JYoSBduu8LsBgQ",
+      "title": "Rtrvr AI: LinkedIn Job Hunting Just Got 10x Easier With AI! ",
+      "description": "Discover Retriever AI - the ultimate browser-based AI agent that automates your online tasks! This isn't just another chatbot - it's an intelligent agent that can control your browser, fill forms automatically, scrape data, and handle repetitive tasks while you focus on what matters.\n\nhttp://rtrvr.ai/\n\nIn this video, I demonstrate how Retriever AI can search LinkedIn for machine learning engineer positions, automatically scrape job details including titles, company names, and locations, then compile everything into a neat Excel sheet. But that's just the beginning - you can even ask it to research each company and add summaries to your spreadsheet, all without lifting a finger!\nKey Features Covered:\n\nBrowser extension functionality for automated web tasks\nLinkedIn job scraping and data collection\nAmazon product search and comparison\nCloud version for internet-wide searches\nMCP (Model Context Protocol) integration with Claude\nWhatsApp integration for on-the-go automation\nYouTube data extraction and analysis\nIntegration with development tools like Windsurf and Cursor\n\nWhether you're job hunting, doing market research, or testing web applications, Retriever AI can save you hours of manual work. The MCP integration is particularly powerful for developers, allowing seamless connection between Claude, your browser, and your coding environment.\nGet started with Retriever AI: http://rtrvr.ai/\nPerfect for:\n\nJob seekers automating their search\nResearchers collecting data\nDevelopers testing applications\nAnyone tired of repetitive online tasks\n\nDrop a comment below and let me know what tasks you'd automate with Retriever AI!\nDon't forget to like, share, and subscribe for more AI tools and automation tips!\n\nHere are the key timestamps for your video:\n\n0:00 - Introduction to Retriever AI\n0:21 - LinkedIn Job Scraping Demo\n0:50 - Automatic Company Research Feature\n1:43 - Getting Started & Installation\n2:06 - Amazon Product Search Demo\n2:37 - Cloud Version Overview\n2:48 - MCP Integration Introduction\n3:04 - Claude Integration Demo\n3:47 - Setting Up MCP Connector\n4:14 - Available Tools Overview\n4:32 - Windsurf & Cursor Integration\n4:55 - WhatsApp Integration Setup\n5:07 - AI News Search via WhatsApp\n5:31 - Final Thoughts & Wrap-up",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/R0BRJTDZiCU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/R0BRJTDZiCU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/R0BRJTDZiCU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/R0BRJTDZiCU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/R0BRJTDZiCU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mervin Praison",
+      "tags": [
+        "rtrvr tutorial",
+        "new fully free ai agent",
+        "new browser ai agent",
+        "ai agent",
+        "new rtrvr ai coder",
+        "ai agents",
+        "rtrvr ai setup tutorial",
+        "browser use agent",
+        "browser use ai",
+        "new ai agentic workflow",
+        "open source ai",
+        "ai automation",
+        "automate tasks",
+        "ai web automation",
+        "ai coder fully free",
+        "new ai stagehand",
+        "ai-powered automation",
+        "opensource ai stage hand",
+        "browser ai agent",
+        "how to make money with ai agent"
+      ],
+      "categoryId": "26",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-GB",
+      "localized": {
+        "title": "Rtrvr AI: LinkedIn Job Hunting Just Got 10x Easier With AI! ",
+        "description": "Discover Retriever AI - the ultimate browser-based AI agent that automates your online tasks! This isn't just another chatbot - it's an intelligent agent that can control your browser, fill forms automatically, scrape data, and handle repetitive tasks while you focus on what matters.\n\nhttp://rtrvr.ai/\n\nIn this video, I demonstrate how Retriever AI can search LinkedIn for machine learning engineer positions, automatically scrape job details including titles, company names, and locations, then compile everything into a neat Excel sheet. But that's just the beginning - you can even ask it to research each company and add summaries to your spreadsheet, all without lifting a finger!\nKey Features Covered:\n\nBrowser extension functionality for automated web tasks\nLinkedIn job scraping and data collection\nAmazon product search and comparison\nCloud version for internet-wide searches\nMCP (Model Context Protocol) integration with Claude\nWhatsApp integration for on-the-go automation\nYouTube data extraction and analysis\nIntegration with development tools like Windsurf and Cursor\n\nWhether you're job hunting, doing market research, or testing web applications, Retriever AI can save you hours of manual work. The MCP integration is particularly powerful for developers, allowing seamless connection between Claude, your browser, and your coding environment.\nGet started with Retriever AI: http://rtrvr.ai/\nPerfect for:\n\nJob seekers automating their search\nResearchers collecting data\nDevelopers testing applications\nAnyone tired of repetitive online tasks\n\nDrop a comment below and let me know what tasks you'd automate with Retriever AI!\nDon't forget to like, share, and subscribe for more AI tools and automation tips!\n\nHere are the key timestamps for your video:\n\n0:00 - Introduction to Retriever AI\n0:21 - LinkedIn Job Scraping Demo\n0:50 - Automatic Company Research Feature\n1:43 - Getting Started & Installation\n2:06 - Amazon Product Search Demo\n2:37 - Cloud Version Overview\n2:48 - MCP Integration Introduction\n3:04 - Claude Integration Demo\n3:47 - Setting Up MCP Connector\n4:14 - Available Tools Overview\n4:32 - Windsurf & Cursor Integration\n4:55 - WhatsApp Integration Setup\n5:07 - AI News Search via WhatsApp\n5:31 - Final Thoughts & Wrap-up"
+      },
+      "defaultAudioLanguage": "en-GB"
+    },
+    "contentDetails": {
+      "duration": "PT5M50S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1433",
+      "likeCount": "44",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

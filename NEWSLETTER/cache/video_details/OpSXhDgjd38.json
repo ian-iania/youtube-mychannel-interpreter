@@ -1,0 +1,100 @@
+{
+  "cached_at": 1764285752.052552,
+  "cache_type": "video_details",
+  "key": "OpSXhDgjd38",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "-kdiIvppD8FnLm2O9Mtlt0Ii3D4",
+    "id": "OpSXhDgjd38",
+    "snippet": {
+      "publishedAt": "2025-11-22T21:00:25Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "Além do ChatGPT: Por que o Claude, da Anthropic, é a IA que você precisa conhecer",
+      "description": "Enquanto o mercado foca em ChatGPT e Gemini, o Claude, da Anthropic, destaca-se por sua excelência em tarefas profissionais complexas. \n\nNeste episódio de \"IA: Modo de Usar\", analisamos as vantagens do Claude, começando pela qualidade superior de sua escrita: a prosa é mais natural, menos \"robotizada\", e se adapta melhor ao tom e estilo solicitado pelo usuário. Além disso, suas \"skills\" (habilidades personalizadas) permitem criar apresentações (PowerPoint/HTML) e gráficos complexos aplicando automaticamente o brand book da sua marca.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OpSXhDgjd38/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OpSXhDgjd38/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OpSXhDgjd38/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OpSXhDgjd38/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OpSXhDgjd38/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "tags": [
+        "Investnews",
+        "investimentos",
+        "economia",
+        "finanças",
+        "investnewsbr",
+        "mercado financeiro",
+        "bolsa de valores",
+        "notícias",
+        "jornalismo econômico",
+        "negócios",
+        "Claude",
+        "Anthropic",
+        "inteligência artificial",
+        "IA",
+        "chatbot",
+        "ChatGPT",
+        "Gemini",
+        "Copilot",
+        "IA modo de usar",
+        "programação",
+        "desenvolvimento",
+        "código",
+        "IA para texto",
+        "IA para escrita",
+        "IA para apresentações",
+        "IA para gráficos",
+        "produtividade",
+        "tecnologia",
+        "mercado de IA",
+        "investimento em IA",
+        "InvestNews"
+      ],
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Além do ChatGPT: Por que o Claude, da Anthropic, é a IA que você precisa conhecer",
+        "description": "Enquanto o mercado foca em ChatGPT e Gemini, o Claude, da Anthropic, destaca-se por sua excelência em tarefas profissionais complexas. \n\nNeste episódio de \"IA: Modo de Usar\", analisamos as vantagens do Claude, começando pela qualidade superior de sua escrita: a prosa é mais natural, menos \"robotizada\", e se adapta melhor ao tom e estilo solicitado pelo usuário. Além disso, suas \"skills\" (habilidades personalizadas) permitem criar apresentações (PowerPoint/HTML) e gráficos complexos aplicando automaticamente o brand book da sua marca."
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT8M15S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "10006",
+      "likeCount": "870",
+      "favoriteCount": "0",
+      "commentCount": "24"
+    }
+  }
+}

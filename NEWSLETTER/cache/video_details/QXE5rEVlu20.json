@@ -1,0 +1,90 @@
+{
+  "cached_at": 1764285745.4933069,
+  "cache_type": "video_details",
+  "key": "QXE5rEVlu20",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "LXAwEAuF2luJtpmjwdH44Q8kLBA",
+    "id": "QXE5rEVlu20",
+    "snippet": {
+      "publishedAt": "2025-11-25T15:00:58Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "Why Python is the language of AI: insights from Guido van Rossum (creator of Python)",
+      "description": "We sat down with Guido van Rossum, the creator of Python, to discuss the origins of the language and its incredible trajectory in the 2025 Octoverse report. From its surprising name origin to its dominance in the age of AI, Guido shares his perspective on how community and stability have shaped Python into the powerhouse it is today.\n\nLearn more: https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/?utm_source=youtube-van-python-octoverse&utm_medium=social&utm_campaign=universe25post\n\n#Python #AI #Octoverse\n\n— CHAPTERS — \n\n00:00 The creator of Python on its future\n00:16 Why was Python created?\n00:49 How the language was developed\n02:27 The real origin of the name 'Python'\n03:03 How the community embraced the language\n04:43 Balancing stability with new features\n06:11 Why Python, JavaScript and TypeScript are top AI languages\n06:49 Python in the age of AI\n\nStay up-to-date on all things GitHub by subscribing and following us at:\nYouTube: http://bit.ly/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\nFacebook: https://www.facebook.com/GitHub/\n\nAbout GitHub:\nIt’s where over 100 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QXE5rEVlu20/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QXE5rEVlu20/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QXE5rEVlu20/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QXE5rEVlu20/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QXE5rEVlu20/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "tags": [
+        "GitHub",
+        "git",
+        "git and GitHub",
+        "how to use GitHub",
+        "GitHub tutorial",
+        "Guido van Rossum",
+        "Python",
+        "creator of Python",
+        "Octoverse",
+        "GitHub Octoverse",
+        "Octoverse report",
+        "Octoverse 2025",
+        "Python vs TypeScript",
+        "AI programming languages",
+        "future of Python",
+        "software development history",
+        "open source community",
+        "Python for AI",
+        "coding interview",
+        "tech trends",
+        "programming language design"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Why Python is the language of AI: insights from Guido van Rossum (creator of Python)",
+        "description": "We sat down with Guido van Rossum, the creator of Python, to discuss the origins of the language and its incredible trajectory in the 2025 Octoverse report. From its surprising name origin to its dominance in the age of AI, Guido shares his perspective on how community and stability have shaped Python into the powerhouse it is today.\n\nLearn more: https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/?utm_source=youtube-van-python-octoverse&utm_medium=social&utm_campaign=universe25post\n\n#Python #AI #Octoverse\n\n— CHAPTERS — \n\n00:00 The creator of Python on its future\n00:16 Why was Python created?\n00:49 How the language was developed\n02:27 The real origin of the name 'Python'\n03:03 How the community embraced the language\n04:43 Balancing stability with new features\n06:11 Why Python, JavaScript and TypeScript are top AI languages\n06:49 Python in the age of AI\n\nStay up-to-date on all things GitHub by subscribing and following us at:\nYouTube: http://bit.ly/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\nFacebook: https://www.facebook.com/GitHub/\n\nAbout GitHub:\nIt’s where over 100 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT8M7S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "21883",
+      "likeCount": "1096",
+      "favoriteCount": "0",
+      "commentCount": "53"
+    }
+  }
+}

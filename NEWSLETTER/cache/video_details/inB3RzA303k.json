@@ -1,0 +1,95 @@
+{
+  "cached_at": 1764285752.0528588,
+  "cache_type": "video_details",
+  "key": "inB3RzA303k",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "MwVo13rbPA6mau_e8C_Wv3ToBTU",
+    "id": "inB3RzA303k",
+    "snippet": {
+      "publishedAt": "2025-11-21T22:13:07Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "Gigantes estatais chinesas no controle da energia brasileira",
+      "description": "O setor elétrico brasileiro é o principal alvo dos investimentos chineses, atraindo US$ 1,43 bilhão só em 2024, um aumento de 115%. \n\nDesde 2007, 45% do capital chinês no Brasil (cerca de US$ 35 bilhões) foi aplicado em ativos de geração, transmissão e distribuição, tornando o país o maior destino fora da Ásia.\n\nSaiba mais sobre os megainvestimentos chineses em energia no Brasil em mais um vídeo da nossa série especial.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/inB3RzA303k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/inB3RzA303k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/inB3RzA303k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/inB3RzA303k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/inB3RzA303k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "tags": [
+        "Investnews",
+        "investimentos",
+        "economia",
+        "finanças",
+        "investnewsbr",
+        "mercado financeiro",
+        "bolsa de valores",
+        "notícias",
+        "jornalismo econômico",
+        "negócios",
+        "Investimento chinês",
+        "China Brasil",
+        "setor elétrico",
+        "energia elétrica",
+        "State Grid",
+        "CPFL Energia",
+        "China Three Gorges",
+        "CTG",
+        "SPIC",
+        "megainvestimentos",
+        "BYD",
+        "energia renovável",
+        "transmissão de energia",
+        "distribuição de energia",
+        "política industrial chinesa",
+        "economia Brasil"
+      ],
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Gigantes estatais chinesas no controle da energia brasileira",
+        "description": "O setor elétrico brasileiro é o principal alvo dos investimentos chineses, atraindo US$ 1,43 bilhão só em 2024, um aumento de 115%. \n\nDesde 2007, 45% do capital chinês no Brasil (cerca de US$ 35 bilhões) foi aplicado em ativos de geração, transmissão e distribuição, tornando o país o maior destino fora da Ásia.\n\nSaiba mais sobre os megainvestimentos chineses em energia no Brasil em mais um vídeo da nossa série especial."
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT6M36S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "11729",
+      "likeCount": "791",
+      "favoriteCount": "0",
+      "commentCount": "42"
+    }
+  }
+}

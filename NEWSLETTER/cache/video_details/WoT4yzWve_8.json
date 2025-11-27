@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285761.472943,
+  "cache_type": "video_details",
+  "key": "WoT4yzWve_8",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Pvkw3DkWLeR5bOg3--TkIX4VlIs",
+    "id": "WoT4yzWve_8",
+    "snippet": {
+      "publishedAt": "2025-11-26T08:27:40Z",
+      "channelId": "UCvze3hU6OZBkB1vkhH2lH9Q",
+      "title": "Discover Neo4j AuraDB - S02E08",
+      "description": "We’re bringing back Discover Neo4j AuraDB to showcase all the powerful new features added to Aura! Whether you're a longtime user or just getting started, join us to see what’s new, how Aura makes graph databases easier than ever, and why now is the perfect time to try it out. \n\nMicheal Hunger: https://bsky.app/profile/mesirii.de\nNeo4j AuraDB: https://dev.neo4j.com/discover-aura\nNeo4j GraphAcademy: https://dev.neo4j.com/learn \n\n\nAll previous episodes: https://neo4j.com/video/discover-aura-free-with-fun-datasets/\n\n#neo4j #auradb #graphdatabase",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WoT4yzWve_8/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WoT4yzWve_8/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WoT4yzWve_8/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WoT4yzWve_8/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WoT4yzWve_8/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Neo4j",
+      "categoryId": "24",
+      "liveBroadcastContent": "upcoming",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Discover Neo4j AuraDB - S02E08",
+        "description": "We’re bringing back Discover Neo4j AuraDB to showcase all the powerful new features added to Aura! Whether you're a longtime user or just getting started, join us to see what’s new, how Aura makes graph databases easier than ever, and why now is the perfect time to try it out. \n\nMicheal Hunger: https://bsky.app/profile/mesirii.de\nNeo4j AuraDB: https://dev.neo4j.com/discover-aura\nNeo4j GraphAcademy: https://dev.neo4j.com/learn \n\n\nAll previous episodes: https://neo4j.com/video/discover-aura-free-with-fun-datasets/\n\n#neo4j #auradb #graphdatabase"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "P0D",
+      "dimension": "2d",
+      "definition": "sd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "0",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "cached_at": 1764285761.9109051,
+  "cache_type": "video_details",
+  "key": "kI3QIOA1h9s",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "m4gTfFGTgHNzTfiiHPXxG8egFYk",
+    "id": "kI3QIOA1h9s",
+    "snippet": {
+      "publishedAt": "2025-11-27T14:01:29Z",
+      "channelId": "UCYx10jQ_0QeqkV7gWiUE5yw",
+      "title": "Criei uma Atendente de IA que Vende Sozinha (Do Pedido ao Pix)",
+      "description": "Conheça a Ana, a agente de IA que faz tudo sozinha: atende, monta carrinho, consulta banco de dados, gera link de pagamento e atualiza o pedido automaticamente.\n\nSe você quer aprender a criar agentes assim, segue a Nocode Startup — conteúdo diário para faturar com IA e automações. 🚀🤖",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kI3QIOA1h9s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kI3QIOA1h9s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kI3QIOA1h9s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kI3QIOA1h9s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kI3QIOA1h9s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "NoCode StartUp",
+      "tags": [
+        "agente de ia",
+        "ia",
+        "inteligência artificial",
+        "trabalho com ia",
+        "agente de atendimento",
+        "atendimento com ia"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Criei uma Atendente de IA que Vende Sozinha (Do Pedido ao Pix)",
+        "description": "Conheça a Ana, a agente de IA que faz tudo sozinha: atende, monta carrinho, consulta banco de dados, gera link de pagamento e atualiza o pedido automaticamente.\n\nSe você quer aprender a criar agentes assim, segue a Nocode Startup — conteúdo diário para faturar com IA e automações. 🚀🤖"
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT50S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "303",
+      "likeCount": "8",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

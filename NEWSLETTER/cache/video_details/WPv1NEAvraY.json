@@ -1,0 +1,75 @@
+{
+  "cached_at": 1764285760.9438348,
+  "cache_type": "video_details",
+  "key": "WPv1NEAvraY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "ds_njh6s_sMnwMguY8px62D5Im8",
+    "id": "WPv1NEAvraY",
+    "snippet": {
+      "publishedAt": "2025-11-20T21:07:23Z",
+      "channelId": "UCgc3NEslE8oISOEawhcpMCA",
+      "title": "Saving Prompts | EP12 | Power Up Minute",
+      "description": "Learn how to save, reuse, and share your favorite prompts in this quick Power Up Minute. Discover prompt bookmarking, gallery organization, and team sharing features for enhanced productivity\n\nUnlock new possibilities for collaboration and productivity with Copilot agents. Click the link below to join the Power Up cohort and be part of the growing community:\n \nhttps://aka.ms/PowerUp_Ref_Min\n \nAnd don't forget to connect with peers on the Power Up LinkedIn Group below:\n \nhttps://aka.ms/PowerUpProgram/LI\n \n#PowerUpMinute #Microsoft365Copilot #M365Copilot #ChatTools #ProductivityTips #Prompts #PromptGallery #MicrosoftCommunity",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WPv1NEAvraY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WPv1NEAvraY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WPv1NEAvraY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WPv1NEAvraY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WPv1NEAvraY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Power Platform",
+      "tags": [
+        "Power Up Minute",
+        "Microsoft 365 Copilot",
+        "M365 Copilot",
+        "Chat Tools",
+        "Productivity Tips",
+        "Prompts",
+        "Prompt Gallery"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Saving Prompts | EP12 | Power Up Minute",
+        "description": "Learn how to save, reuse, and share your favorite prompts in this quick Power Up Minute. Discover prompt bookmarking, gallery organization, and team sharing features for enhanced productivity\n\nUnlock new possibilities for collaboration and productivity with Copilot agents. Click the link below to join the Power Up cohort and be part of the growing community:\n \nhttps://aka.ms/PowerUp_Ref_Min\n \nAnd don't forget to connect with peers on the Power Up LinkedIn Group below:\n \nhttps://aka.ms/PowerUpProgram/LI\n \n#PowerUpMinute #Microsoft365Copilot #M365Copilot #ChatTools #ProductivityTips #Prompts #PromptGallery #MicrosoftCommunity"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M1S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "498",
+      "likeCount": "11",
+      "favoriteCount": "0"
+    }
+  }
+}

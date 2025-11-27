@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285741.601969,
+  "cache_type": "channel_info",
+  "key": "UCOXRjenlq9PmlTqd_JhAbMQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "arnlLTfJ98eet-0h7GqQJWaNcNI",
+    "id": "UCOXRjenlq9PmlTqd_JhAbMQ",
+    "snippet": {
+      "title": "Eric Tech",
+      "description": "Eric Tech 🚀 Master AI, Automation & Full-Stack Development.\nTransform your skills with practical, hands-on tutorials. Here's what we build & learn:\n🤖 AI & Automation:\nAI Agents (OpenAI, GPT, n8n, Supabase)\nAI Chatbots & Voice AI\nAutomate: Property Research, Real Estate Leads, Job Search & more.\n💻 Full-Stack & Web Development:\nNext.js, React, Python, Node.js, GraphQL, Prisma\nWeb3, Solidity & Modern Web Architectures.\n☁️ Cloud, DevOps & Career Growth:\nDocker, AWS & System Design\nModel Context Protocol (MCP)\nActionable Software Engineering Career Advice.\n\nIdeal for developers & tech enthusiasts eager to build, automate, and innovate.\n",
+      "customUrl": "@ericwtech",
+      "publishedAt": "2021-11-20T06:29:34.45761Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/-fAZCNoiUQ0xrOaqyCUPXW4MRRTNbJyWSN-KFzFSJlWNrl36J0h5EwfMKJi3GaNY0A5Ml1mLbS0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/-fAZCNoiUQ0xrOaqyCUPXW4MRRTNbJyWSN-KFzFSJlWNrl36J0h5EwfMKJi3GaNY0A5Ml1mLbS0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/-fAZCNoiUQ0xrOaqyCUPXW4MRRTNbJyWSN-KFzFSJlWNrl36J0h5EwfMKJi3GaNY0A5Ml1mLbS0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Eric Tech",
+        "description": "Eric Tech 🚀 Master AI, Automation & Full-Stack Development.\nTransform your skills with practical, hands-on tutorials. Here's what we build & learn:\n🤖 AI & Automation:\nAI Agents (OpenAI, GPT, n8n, Supabase)\nAI Chatbots & Voice AI\nAutomate: Property Research, Real Estate Leads, Job Search & more.\n💻 Full-Stack & Web Development:\nNext.js, React, Python, Node.js, GraphQL, Prisma\nWeb3, Solidity & Modern Web Architectures.\n☁️ Cloud, DevOps & Career Growth:\nDocker, AWS & System Design\nModel Context Protocol (MCP)\nActionable Software Engineering Career Advice.\n\nIdeal for developers & tech enthusiasts eager to build, automate, and innovate.\n"
+      },
+      "country": "CA"
+    },
+    "statistics": {
+      "viewCount": "1436319",
+      "subscriberCount": "28900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "155"
+    }
+  }
+}

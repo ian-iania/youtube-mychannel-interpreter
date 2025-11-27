@@ -1,0 +1,109 @@
+{
+  "cached_at": 1764285735.116041,
+  "cache_type": "channel_videos",
+  "key": "UCxXL5491Db9U8Rhfs-2LVFg_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AIg2NEtavMEYqfqqf-nJLSDymFg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2v3jD-QPTOY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T19:44:16Z",
+        "channelId": "UCxXL5491Db9U8Rhfs-2LVFg",
+        "title": "O 4 caminhos na IA",
+        "description": "Antes de começar a estudar IA, é imprescindível que você entenda os 4 caminhos.... e qual faz mais sentido para você.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2v3jD-QPTOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2v3jD-QPTOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2v3jD-QPTOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Asimov Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T19:44:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ElQcTthm3BYqKkFr0mhjTZ3_kGE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KO6a3QYpZbo"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T22:50:48Z",
+        "channelId": "UCxXL5491Db9U8Rhfs-2LVFg",
+        "title": "É o fim do JSON Prompting? O hype do TOON faz sentido?",
+        "description": "Conheça a Formação Engenheiro de Agentes de IA: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KO6a3QYpZbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KO6a3QYpZbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KO6a3QYpZbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Asimov Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T22:50:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DXE8V51a8R458UPw952mANO-oeI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hOcqE3RgsEI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T22:12:51Z",
+        "channelId": "UCxXL5491Db9U8Rhfs-2LVFg",
+        "title": "Este é o fim do JSON Prompting?",
+        "description": "JSON Prompting é uma estratégia que ficou muito popular especificamente ao utilizar modelos de geração de imagens e vídeos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hOcqE3RgsEI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hOcqE3RgsEI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hOcqE3RgsEI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Asimov Academy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T22:12:51Z"
+      }
+    }
+  ]
+}

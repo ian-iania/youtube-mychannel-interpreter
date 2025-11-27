@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285765.219497,
+  "cache_type": "video_details",
+  "key": "Ef_T3ZytUOM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "8A0EfQ_gufmnLjc2Wh9dm6HysJI",
+    "id": "Ef_T3ZytUOM",
+    "snippet": {
+      "publishedAt": "2025-11-24T08:00:26Z",
+      "channelId": "UCgoJjdR6-7AMu9fDitb6nVw",
+      "title": "How to get the best results with AI",
+      "description": "How to get the best results with AI #design #aiagents #ai",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ef_T3ZytUOM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ef_T3ZytUOM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ef_T3ZytUOM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ef_T3ZytUOM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ef_T3ZytUOM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Replit",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "How to get the best results with AI",
+        "description": "How to get the best results with AI #design #aiagents #ai"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT44S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "755",
+      "likeCount": "16",
+      "favoriteCount": "0",
+      "commentCount": "2"
+    }
+  }
+}

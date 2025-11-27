@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285766.792414,
+  "cache_type": "channel_info",
+  "key": "UCUBqu_z5uP0AZhYtuyFZB3g",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "yFtYWzgxg5KZ14abbZW1d99CUf4",
+    "id": "UCUBqu_z5uP0AZhYtuyFZB3g",
+    "snippet": {
+      "title": "Runway",
+      "description": "Building for the next era of art, entertainment and human creativity.",
+      "customUrl": "@runwayml",
+      "publishedAt": "2019-05-10T22:55:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/3L0xTUADOxZvxzE_7X-o63r2s65XG4z6W9MoGrLZnlodCCJ2C-H57bQB4fM6OnV0UZcEO9dy=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/3L0xTUADOxZvxzE_7X-o63r2s65XG4z6W9MoGrLZnlodCCJ2C-H57bQB4fM6OnV0UZcEO9dy=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/3L0xTUADOxZvxzE_7X-o63r2s65XG4z6W9MoGrLZnlodCCJ2C-H57bQB4fM6OnV0UZcEO9dy=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Runway",
+        "description": "Building for the next era of art, entertainment and human creativity."
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "5377144",
+      "subscriberCount": "121000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "89"
+    }
+  }
+}

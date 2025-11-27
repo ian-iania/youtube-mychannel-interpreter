@@ -1,0 +1,41 @@
+{
+  "cached_at": 1764285757.757248,
+  "cache_type": "channel_videos",
+  "key": "UCHaF9kM2wn8C3CLRwLkC2GQ_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hdJ9wOshCK4aUN-FWNCx-YdkKWY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9XJeQxgp-vE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T11:16:25Z",
+        "channelId": "UCHaF9kM2wn8C3CLRwLkC2GQ",
+        "title": "Matt and Ryan have a chat on November 25, 2025",
+        "description": "My Links Subscribe (free): https://www.youtube.com/technovangelist Join and Support: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9XJeQxgp-vE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9XJeQxgp-vE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9XJeQxgp-vE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matt Williams",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T11:16:25Z"
+      }
+    }
+  ]
+}

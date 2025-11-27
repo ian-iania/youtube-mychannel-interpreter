@@ -1,0 +1,78 @@
+{
+  "cached_at": 1764285760.459827,
+  "cache_type": "video_details",
+  "key": "zjwIw_dHsEo",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "NNeJt9Jip8o9mvx2wGCc3oyWm7Y",
+    "id": "zjwIw_dHsEo",
+    "snippet": {
+      "publishedAt": "2025-11-22T02:47:39Z",
+      "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+      "title": "Designing Proteins with AI at UW With Microsoft Foundry",
+      "description": "See how University of Washington uses  Microsoft Foundry to design new proteins for medicine, technology, and sustainability.\n\nLearn more: https://msft.it/AIFoundry\n\n#MicrosoftAzure #MicrosoftFoundry",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zjwIw_dHsEo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zjwIw_dHsEo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zjwIw_dHsEo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zjwIw_dHsEo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Microsoft Azure",
+      "tags": [
+        "Sierra",
+        "Microsoft Foundry",
+        "Azure OpenAI",
+        "AI agents",
+        "customer experience",
+        "retail AI",
+        "healthcare AI",
+        "financial services AI",
+        "enterprise compliance",
+        "customer service automation",
+        "AI scalability",
+        "digital transformation",
+        "Microsoft",
+        "AI"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Designing Proteins with AI at UW With Microsoft Foundry",
+        "description": "See how University of Washington uses  Microsoft Foundry to design new proteins for medicine, technology, and sustainability.\n\nLearn more: https://msft.it/AIFoundry\n\n#MicrosoftAzure #MicrosoftFoundry"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M24S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "425",
+      "likeCount": "18",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

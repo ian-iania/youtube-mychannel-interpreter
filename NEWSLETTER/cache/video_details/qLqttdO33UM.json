@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.958449,
+  "cache_type": "video_details",
+  "key": "qLqttdO33UM",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "bZEJW9vRW120orcN2xGVJKz4Oes",
+    "id": "qLqttdO33UM",
+    "snippet": {
+      "publishedAt": "2025-11-24T20:16:38Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "Vision: Zero Bugs — Johann Schleier-Smith, Temporal",
+      "description": "Software with zero bugs sounds absurd, or even impossible, in anything but simple situations, but it has been built. For example, NASA's Space Shuttle software achieved near-perfection (1 error per 420,000 lines) using rigorous engineering practices. This feat was achieved decades ago, yet cost prevented the techniques used from becoming mainstream.\n\nThis talk traces seventy years of innovation in software quality and programmer productivity, ranging from structured programming to formal verification. While many of these techniques have been too costly to implement on a large scale, AI changes that. What is more, agentic coding needs them to compensate for its limitations.\n\nWe are on the verge of a world where aerospace-level reliability becomes the practical in a broad range of applications.\n\nJohann Schleier-Smith is Technical Lead for AI at Temporal Technologies, the leading provider of durable execution. He previously founded Crystal DBA, which developed agents to manage cloud infrastructure and was acquired by Temporal. He also co-founded if(we), which built a collection of social networks with over 300 million members and was acquired by The Meet Group (NASDAQ:MEET). Johann serves on the board of Sama, a leading provider of training data for computer vision applications. He holds a Ph.D. in Computer Science from UC Berkeley and an A.B. in Physics and Mathematics from Harvard University.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/jssmith/\n- X (Twitter): https://x.com/jssmith\n- GitHub: https://github.com/jssmith\n- Website: https://johann.schleier-smith.com/\n- Company: Temporal Technologies (https://temporal.io/)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qLqttdO33UM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qLqttdO33UM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qLqttdO33UM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qLqttdO33UM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qLqttdO33UM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Vision: Zero Bugs — Johann Schleier-Smith, Temporal",
+        "description": "Software with zero bugs sounds absurd, or even impossible, in anything but simple situations, but it has been built. For example, NASA's Space Shuttle software achieved near-perfection (1 error per 420,000 lines) using rigorous engineering practices. This feat was achieved decades ago, yet cost prevented the techniques used from becoming mainstream.\n\nThis talk traces seventy years of innovation in software quality and programmer productivity, ranging from structured programming to formal verification. While many of these techniques have been too costly to implement on a large scale, AI changes that. What is more, agentic coding needs them to compensate for its limitations.\n\nWe are on the verge of a world where aerospace-level reliability becomes the practical in a broad range of applications.\n\nJohann Schleier-Smith is Technical Lead for AI at Temporal Technologies, the leading provider of durable execution. He previously founded Crystal DBA, which developed agents to manage cloud infrastructure and was acquired by Temporal. He also co-founded if(we), which built a collection of social networks with over 300 million members and was acquired by The Meet Group (NASDAQ:MEET). Johann serves on the board of Sama, a leading provider of training data for computer vision applications. He holds a Ph.D. in Computer Science from UC Berkeley and an A.B. in Physics and Mathematics from Harvard University.\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/jssmith/\n- X (Twitter): https://x.com/jssmith\n- GitHub: https://github.com/jssmith\n- Website: https://johann.schleier-smith.com/\n- Company: Temporal Technologies (https://temporal.io/)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT36M3S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "713",
+      "likeCount": "12",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

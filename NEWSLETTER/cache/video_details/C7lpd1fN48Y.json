@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285740.984323,
+  "cache_type": "video_details",
+  "key": "C7lpd1fN48Y",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Jyrb2W-MYWDEyP54ZSApIMNwnrw",
+    "id": "C7lpd1fN48Y",
+    "snippet": {
+      "publishedAt": "2025-11-26T20:36:24Z",
+      "channelId": "UCta1sF9e9YzzNG4OlQgIlXw",
+      "title": "Como eu faço designs IRRESISTÍVEIS com IA (design.json)",
+      "description": "🎨 Descobri um SEGREDO que transformou completamente meus designs com IA! Neste vídeo eu revelo um método simples que garante designs consistentes e irresistíveis. São apenas 3 passos que vão mudar seu workflow para sempre!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/C7lpd1fN48Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/C7lpd1fN48Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/C7lpd1fN48Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/C7lpd1fN48Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/C7lpd1fN48Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Deborah Folloni",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Como eu faço designs IRRESISTÍVEIS com IA (design.json)",
+        "description": "🎨 Descobri um SEGREDO que transformou completamente meus designs com IA! Neste vídeo eu revelo um método simples que garante designs consistentes e irresistíveis. São apenas 3 passos que vão mudar seu workflow para sempre!"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT56S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1061",
+      "likeCount": "50",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

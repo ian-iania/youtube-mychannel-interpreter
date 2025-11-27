@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285742.176246,
+  "cache_type": "video_details",
+  "key": "yLtgwE0_S-Q",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "t9nC2JdAH2fpqa_E_4VXLawVoT4",
+    "id": "yLtgwE0_S-Q",
+    "snippet": {
+      "publishedAt": "2025-11-26T16:45:15Z",
+      "channelId": "UCOXRjenlq9PmlTqd_JhAbMQ",
+      "title": "Google Nano Banana Pro Tutorial: Master 5 Hidden Features (Gemini 3)",
+      "description": "Google just dropped Nano Banana Pro, and it’s absolutely INSANE. Powered by Gemini 3, this update is packed with next-level features that are about to change everything for creators and designers.\n\nIn this full guide, I’ll walk you through:\n✅ What’s new in Nano Banana Pro (Gemini 3)\n✅ How to blend up to 14 reference images in a single prompt\n✅ Real-world examples (Magazine covers, Comics, & Infographics)\n✅ How to fix text rendering & character consistency\n✅ Resizing images without losing quality\n\nThis is not just an upgrade, it’s a complete game-changer.\n\n✨ Features covered:\n1. Multi-image blending\n2. Graphic design with perfect text\n3. Consistent character generation\n4. Auto-generated infographics\n5. Aspect ratio control\n\n⏰ Timecodes ⏰\n00:00 Nano Banana Pro Is Here\n01:26 Multi-Image Blending\n03:15 Graphic Design & Text Rendering\n05:00 Consistent Characters (Comics)\n06:30 AI Infographics & Research\n07:59 Resizing & Aspect Ratios\n08:32 Final Verdict\n\n🔗 Mentioned in this Video:\n🍌 Try Nano Banana Pro → https://goto.higgsfield.ai\n• Download Google Nano Banana Pro Prompts: https://discord.com/invite/erictech\n\n💬 Free Community & Support\nJoin our Discord: https://discord.com/invite/erictech\n\n📅 Work With Me\nNew Projects - Free Strategy Call: https://calendar.app.google/sB9KrJP6e8j3EPmd9\nTechnical Consultation (Paid 1:1): https://calendar.app.google/BU9D589X3KNxnTeg6\n\n🤝 Let's Connect\nLinkedIn: https://www.linkedin.com/in/ericwtech/\n\n#NanoBananaPro #HigsfieldAI #GoogleGemini",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/yLtgwE0_S-Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/yLtgwE0_S-Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/yLtgwE0_S-Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/yLtgwE0_S-Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/yLtgwE0_S-Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Eric Tech",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "Google Nano Banana Pro Tutorial: Master 5 Hidden Features (Gemini 3)",
+        "description": "Google just dropped Nano Banana Pro, and it’s absolutely INSANE. Powered by Gemini 3, this update is packed with next-level features that are about to change everything for creators and designers.\n\nIn this full guide, I’ll walk you through:\n✅ What’s new in Nano Banana Pro (Gemini 3)\n✅ How to blend up to 14 reference images in a single prompt\n✅ Real-world examples (Magazine covers, Comics, & Infographics)\n✅ How to fix text rendering & character consistency\n✅ Resizing images without losing quality\n\nThis is not just an upgrade, it’s a complete game-changer.\n\n✨ Features covered:\n1. Multi-image blending\n2. Graphic design with perfect text\n3. Consistent character generation\n4. Auto-generated infographics\n5. Aspect ratio control\n\n⏰ Timecodes ⏰\n00:00 Nano Banana Pro Is Here\n01:26 Multi-Image Blending\n03:15 Graphic Design & Text Rendering\n05:00 Consistent Characters (Comics)\n06:30 AI Infographics & Research\n07:59 Resizing & Aspect Ratios\n08:32 Final Verdict\n\n🔗 Mentioned in this Video:\n🍌 Try Nano Banana Pro → https://goto.higgsfield.ai\n• Download Google Nano Banana Pro Prompts: https://discord.com/invite/erictech\n\n💬 Free Community & Support\nJoin our Discord: https://discord.com/invite/erictech\n\n📅 Work With Me\nNew Projects - Free Strategy Call: https://calendar.app.google/sB9KrJP6e8j3EPmd9\nTechnical Consultation (Paid 1:1): https://calendar.app.google/BU9D589X3KNxnTeg6\n\n🤝 Let's Connect\nLinkedIn: https://www.linkedin.com/in/ericwtech/\n\n#NanoBananaPro #HigsfieldAI #GoogleGemini"
+      },
+      "defaultAudioLanguage": "en-CA"
+    },
+    "contentDetails": {
+      "duration": "PT9M10S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "8168",
+      "likeCount": "160",
+      "favoriteCount": "0",
+      "commentCount": "22"
+    }
+  }
+}

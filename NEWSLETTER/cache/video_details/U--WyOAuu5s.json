@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285776.892972,
+  "cache_type": "video_details",
+  "key": "U--WyOAuu5s",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "8uxk_C_gn9ixdTUnUVeI_nx-bec",
+    "id": "U--WyOAuu5s",
+    "snippet": {
+      "publishedAt": "2025-11-21T19:06:10Z",
+      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+      "title": "Turismo Sustentável, Sociobiodiversidade e o Futuro da Ilha do Combu | Mário Carvalho",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/U--WyOAuu5s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/U--WyOAuu5s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/U--WyOAuu5s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/U--WyOAuu5s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/U--WyOAuu5s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "exame",
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Turismo Sustentável, Sociobiodiversidade e o Futuro da Ilha do Combu | Mário Carvalho",
+        "description": ""
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT38S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "44703",
+      "likeCount": "256",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

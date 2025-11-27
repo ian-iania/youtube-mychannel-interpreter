@@ -1,0 +1,89 @@
+{
+  "cached_at": 1764285742.176977,
+  "cache_type": "video_details",
+  "key": "F2lK9saTS_U",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "ufd0ub3coOg7hlo4qZr8KC-a-Z0",
+    "id": "F2lK9saTS_U",
+    "snippet": {
+      "publishedAt": "2025-11-25T13:00:27Z",
+      "channelId": "UCOXRjenlq9PmlTqd_JhAbMQ",
+      "title": "Stop Paying for n8n Cloud! The Easiest Self-Hosting Guide (2025)",
+      "description": "AWS is powerful, but let's be honest: it's a pain to set up. And n8n Cloud? It gets expensive fast. Today, I’m showing you how to get the best of both worlds. We are setting up a private, self-hosted n8n automation machine on a Hostinger VPS using their new 1-Click installer. You get unlimited workflows, full data ownership, and a flat monthly cost that is cheaper than a Netflix subscription.\n\nIn this step-by-step guide, we will purchase the KVM2 plan, deploy the server in seconds, and run a real-world stress test to prove this setup is stable enough for your business.\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔗RESOURCES & LINKS\n\n💬 Free Community & Support\nJoin our Discord: https://discord.com/invite/erictech\n\n📅 Work With Me\nNew Projects - Free Strategy Call: https://calendar.app.google/sB9KrJP6e8j3EPmd9\nTechnical Consultation (Paid 1:1): https://calendar.app.google/BU9D589X3KNxnTeg6\n\n🤝 Let's Connect\nLinkedIn: https://www.linkedin.com/in/ericwtech/\n\n🔥 Get the Hostinger Black Friday Deal: 👉 https://hostinger.com/erictech 💰 Use Code ERICTECH for an extra 10% OFF!\n\n🔗 Mentioned in this Video:\nMy previous AWS n8n Setup Guide: https://youtu.be/GnckYEpY978?si=XsIpbX-LkEpPgKtn\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n⏱️ Timestamps: \n0:00 Intro - Hostinger KVM2 Plan \n2:36 1-Click n8n Installation & Setup \n3:56 Stability Stress Test (300+ Executions) \n4:30 Server Monitoring & Maintenance\n\n#n8n #Hostinger #Automation",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/F2lK9saTS_U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/F2lK9saTS_U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/F2lK9saTS_U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/F2lK9saTS_U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/F2lK9saTS_U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Eric Tech",
+      "tags": [
+        "n8n",
+        "n8n tutorial",
+        "self-host n8n",
+        "Hostinger n8n setup",
+        "n8n hostinger",
+        "n8n vs zapier",
+        "n8n automation",
+        "hostinger vps review",
+        "n8n docker",
+        "install n8n on vps",
+        "n8n self hosting guide",
+        "hostinger kvm2",
+        "ai automation agency",
+        "n8n workflow tutorial",
+        "automated workflow",
+        "n8n one click install",
+        "cheap vps for n8n",
+        "n8n pricing",
+        "n8n cloud vs self hosted",
+        "Eric Tech"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "Stop Paying for n8n Cloud! The Easiest Self-Hosting Guide (2025)",
+        "description": "AWS is powerful, but let's be honest: it's a pain to set up. And n8n Cloud? It gets expensive fast. Today, I’m showing you how to get the best of both worlds. We are setting up a private, self-hosted n8n automation machine on a Hostinger VPS using their new 1-Click installer. You get unlimited workflows, full data ownership, and a flat monthly cost that is cheaper than a Netflix subscription.\n\nIn this step-by-step guide, we will purchase the KVM2 plan, deploy the server in seconds, and run a real-world stress test to prove this setup is stable enough for your business.\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n🔗RESOURCES & LINKS\n\n💬 Free Community & Support\nJoin our Discord: https://discord.com/invite/erictech\n\n📅 Work With Me\nNew Projects - Free Strategy Call: https://calendar.app.google/sB9KrJP6e8j3EPmd9\nTechnical Consultation (Paid 1:1): https://calendar.app.google/BU9D589X3KNxnTeg6\n\n🤝 Let's Connect\nLinkedIn: https://www.linkedin.com/in/ericwtech/\n\n🔥 Get the Hostinger Black Friday Deal: 👉 https://hostinger.com/erictech 💰 Use Code ERICTECH for an extra 10% OFF!\n\n🔗 Mentioned in this Video:\nMy previous AWS n8n Setup Guide: https://youtu.be/GnckYEpY978?si=XsIpbX-LkEpPgKtn\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n⏱️ Timestamps: \n0:00 Intro - Hostinger KVM2 Plan \n2:36 1-Click n8n Installation & Setup \n3:56 Stability Stress Test (300+ Executions) \n4:30 Server Monitoring & Maintenance\n\n#n8n #Hostinger #Automation"
+      },
+      "defaultAudioLanguage": "en-CA"
+    },
+    "contentDetails": {
+      "duration": "PT6M16S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "267",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

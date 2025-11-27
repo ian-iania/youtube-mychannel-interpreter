@@ -1,0 +1,101 @@
+{
+  "cached_at": 1764285747.928635,
+  "cache_type": "video_details",
+  "key": "QNh4SUQuts4",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "0WqPLrnM5EsbtTG3tcJJTbrYh5Q",
+    "id": "QNh4SUQuts4",
+    "snippet": {
+      "publishedAt": "2025-11-21T18:20:01Z",
+      "channelId": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "title": "I Tested Gemini 3 as a Designer. It’s Terrifyingly Good.",
+      "description": "On today’s episode I stress-test Gemini 3.0 in Google AI Studio to see how good it really is as a designer, not just a code generator. Across the episode, I ask Gemini to redesign my personal website in a Windows XP–inspired style, build a restaurant analytics SaaS dashboard, and create a workout mobile app inspired by the “Brain Rot” app. Along the way, I experiment with prompts, visual annotations, and reference images to see how well Gemini takes feedback. By the end, he’s rating each build.\n\nTimestamps\n00:00 – Intro\n00:54 – Personal Website\n15:48 – SaaS\n21:52 – Mobile App\n26:35 – AntiGravity\n27:17 – Final rating and takeaways\n\nKey Points\n\n* Gemini 3.0 can now generate full, styled web and mobile UIs (not just “purple Tailwind vibe-coded” layouts) when given strong prompts and references. greg-take-02\n* A Windows XP–themed personal site, built from a screenshot and a short prompt, impresses Greg enough that he considers redoing his actual homepage. greg-take-02\n* Visual annotation inside Google AI Studio (drawing on the canvas and commenting) is a powerful way to refine icons, backgrounds, and layout without “speaking designer.” greg-take-02\n* A restaurant analytics SaaS dashboard (“Chef OS”) shows how combining Dribbble shots + Teenage Engineering hardware as references pushes Gemini toward more tactile, “real button” UI. greg-take-02\n* The “Gains” workout app, modeled on the Brain Rot app, demonstrates that AI can remix an existing product pattern into a new behavior-change app with streaks, goals, and a reactive mascot. greg-take-02\n* Greg’s big takeaway: good ideas + taste + references + Gemini 3.0 let non-designers ship highly differentiated experiences, raising their odds of standing out. greg-take-02\n\nSection Summaries\n\n    \n1. RedesigningPersonal Site in a Windows XP Style\n  \n    Starting from a screenshot of gregisenberg.com, Greg prompts Gemini to make it more colorful, fresh, and “a full experience,” then adds the twist: make it feel like Microsoft XP. Gemini generates a full React/Tailwind app with an XP-like desktop: notepad, windows, and app icons for “About Greg,” “Greg’s Letter,” and guides, all wired into a working layout.\n    \n2. Designing a Restaurant Analytics SaaS Dashboard (“Chef OS”)\n    \n    Next, he feeds Gemini a Dribbble SaaS dashboard shot plus a Teenage Engineering product as visual references, asking for a clean, modern analytics-meets-AI app for restaurants with “real-world” button/knob vibes. Gemini returns a dashboard labeled “Chef OS” with an AI analyst panel, active tables, average ticket size, and tactile-feeling controls reminiscent of Teenage Engineering hardware.\n    \n3. Remixing the Brain Rot App into the “Gains” Workout App\n    \n    Finally, Greg copies Brain Rot’s App Store previews—an app his friend Yoni built to fight “brain rot” from social media—and asks Gemini to design an iOS app in that style, but for working out. Gemini outputs “Gains,” with a mascot that reacts to workout habits, a streak and goals view, and an activity calendar. Greg imagines it integrating with Apple Health and, despite minor non-functional parts, scores it 8.3/10 off a single prompt.\n    \n4. Ratings, Takeaways, and the End of the “Vibe-Coded” Era\n    \n    Greg rates the personal site 9/10, the SaaS dashboard 8.5/10, and the Gains app 8.3/10, concluding that Gemini 3.0 is “scary good” when paired with strong references and taste. He argues we’ve exited the era where no-code/vibe-coded tools produced generic, unattractive apps; now you can get to “extremely well designed” experiences without a traditional designer—as long as you bring good ideas and references. He closes by inviting listeners to experiment with Gemini 3.0 themselves and report back in the comments.\n\nWebsites Mentioned:\nLenny's Favorite PRD Templates: https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37\n\nThe #1 tool to find startup ideas/trends - https://www.ideabrowser.com/\n\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/\n\nThe Vibe Marketer - Resources for people into vibe marketing/marketing with AI: thevibemarketer.com\n\nStartup Empire - get your free builders toolkit to build cashflowing business - https://startup-ideas-pod.link/startup-empire-toolkit\nBecome a member - https://startup-ideas-pod.link/startup-empire\n\nFIND ME ON SOCIAL\nX/Twitter: https://twitter.com/gregisenberg\nInstagram: https://instagram.com/gregisenberg/\nLinkedIn: https://www.linkedin.com/in/gisenberg/",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QNh4SUQuts4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QNh4SUQuts4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QNh4SUQuts4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QNh4SUQuts4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QNh4SUQuts4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Greg Isenberg",
+      "tags": [
+        "startup ideas",
+        "sip",
+        "entrepreneur podcast",
+        "business ideas",
+        "business trends",
+        "entrepreneur advice",
+        "business advice",
+        "greg isenberg",
+        "my first million",
+        "a16z",
+        "starter story",
+        "1 million business",
+        "saas startup",
+        "startup advice",
+        "ai startup",
+        "ai business",
+        "ai startup idea",
+        "no code tools",
+        "AI Code",
+        "google ai studio",
+        "google ai",
+        "google gemini",
+        "google ai studio tutorial",
+        "how to use google ai",
+        "ai tech stack",
+        "google labs",
+        "gemini",
+        "google ai demo",
+        "nano banana",
+        "ai",
+        "Google gemini 3",
+        "gemini 3.0"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "I Tested Gemini 3 as a Designer. It’s Terrifyingly Good.",
+        "description": "On today’s episode I stress-test Gemini 3.0 in Google AI Studio to see how good it really is as a designer, not just a code generator. Across the episode, I ask Gemini to redesign my personal website in a Windows XP–inspired style, build a restaurant analytics SaaS dashboard, and create a workout mobile app inspired by the “Brain Rot” app. Along the way, I experiment with prompts, visual annotations, and reference images to see how well Gemini takes feedback. By the end, he’s rating each build.\n\nTimestamps\n00:00 – Intro\n00:54 – Personal Website\n15:48 – SaaS\n21:52 – Mobile App\n26:35 – AntiGravity\n27:17 – Final rating and takeaways\n\nKey Points\n\n* Gemini 3.0 can now generate full, styled web and mobile UIs (not just “purple Tailwind vibe-coded” layouts) when given strong prompts and references. greg-take-02\n* A Windows XP–themed personal site, built from a screenshot and a short prompt, impresses Greg enough that he considers redoing his actual homepage. greg-take-02\n* Visual annotation inside Google AI Studio (drawing on the canvas and commenting) is a powerful way to refine icons, backgrounds, and layout without “speaking designer.” greg-take-02\n* A restaurant analytics SaaS dashboard (“Chef OS”) shows how combining Dribbble shots + Teenage Engineering hardware as references pushes Gemini toward more tactile, “real button” UI. greg-take-02\n* The “Gains” workout app, modeled on the Brain Rot app, demonstrates that AI can remix an existing product pattern into a new behavior-change app with streaks, goals, and a reactive mascot. greg-take-02\n* Greg’s big takeaway: good ideas + taste + references + Gemini 3.0 let non-designers ship highly differentiated experiences, raising their odds of standing out. greg-take-02\n\nSection Summaries\n\n    \n1. RedesigningPersonal Site in a Windows XP Style\n  \n    Starting from a screenshot of gregisenberg.com, Greg prompts Gemini to make it more colorful, fresh, and “a full experience,” then adds the twist: make it feel like Microsoft XP. Gemini generates a full React/Tailwind app with an XP-like desktop: notepad, windows, and app icons for “About Greg,” “Greg’s Letter,” and guides, all wired into a working layout.\n    \n2. Designing a Restaurant Analytics SaaS Dashboard (“Chef OS”)\n    \n    Next, he feeds Gemini a Dribbble SaaS dashboard shot plus a Teenage Engineering product as visual references, asking for a clean, modern analytics-meets-AI app for restaurants with “real-world” button/knob vibes. Gemini returns a dashboard labeled “Chef OS” with an AI analyst panel, active tables, average ticket size, and tactile-feeling controls reminiscent of Teenage Engineering hardware.\n    \n3. Remixing the Brain Rot App into the “Gains” Workout App\n    \n    Finally, Greg copies Brain Rot’s App Store previews—an app his friend Yoni built to fight “brain rot” from social media—and asks Gemini to design an iOS app in that style, but for working out. Gemini outputs “Gains,” with a mascot that reacts to workout habits, a streak and goals view, and an activity calendar. Greg imagines it integrating with Apple Health and, despite minor non-functional parts, scores it 8.3/10 off a single prompt.\n    \n4. Ratings, Takeaways, and the End of the “Vibe-Coded” Era\n    \n    Greg rates the personal site 9/10, the SaaS dashboard 8.5/10, and the Gains app 8.3/10, concluding that Gemini 3.0 is “scary good” when paired with strong references and taste. He argues we’ve exited the era where no-code/vibe-coded tools produced generic, unattractive apps; now you can get to “extremely well designed” experiences without a traditional designer—as long as you bring good ideas and references. He closes by inviting listeners to experiment with Gemini 3.0 themselves and report back in the comments.\n\nWebsites Mentioned:\nLenny's Favorite PRD Templates: https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37\n\nThe #1 tool to find startup ideas/trends - https://www.ideabrowser.com/\n\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/\n\nThe Vibe Marketer - Resources for people into vibe marketing/marketing with AI: thevibemarketer.com\n\nStartup Empire - get your free builders toolkit to build cashflowing business - https://startup-ideas-pod.link/startup-empire-toolkit\nBecome a member - https://startup-ideas-pod.link/startup-empire\n\nFIND ME ON SOCIAL\nX/Twitter: https://twitter.com/gregisenberg\nInstagram: https://instagram.com/gregisenberg/\nLinkedIn: https://www.linkedin.com/in/gisenberg/"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT28M47S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "46770",
+      "likeCount": "985",
+      "favoriteCount": "0",
+      "commentCount": "99"
+    }
+  }
+}

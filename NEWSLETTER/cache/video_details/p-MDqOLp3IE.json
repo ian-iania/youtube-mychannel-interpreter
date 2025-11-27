@@ -1,0 +1,88 @@
+{
+  "cached_at": 1764285766.0987709,
+  "cache_type": "video_details",
+  "key": "p-MDqOLp3IE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "l-n8sYR7CWgNwECFPF2wn8qZGWU",
+    "id": "p-MDqOLp3IE",
+    "snippet": {
+      "publishedAt": "2025-11-25T17:51:35Z",
+      "channelId": "UC0FBv8ckxw1hrZxbUm3G7hA",
+      "title": "Google’s NotebookLM Released 5 NEW Features That Are INSANE 🤯 (NEW USE CASES)",
+      "description": "Join AI Automation School (Learn To Automate Your Work & Make $ With AI) 👉 https://www.skool.com/ai-automation-school/about\n\nThis video covers NotebookLM’s 5 new updates that they just released that let you build slides, infographics and do deep research with NotebookLM. If you want to learn how to use NotebookLM and how to use all of NotebookLM’s new features this video is for you.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/p-MDqOLp3IE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/p-MDqOLp3IE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/p-MDqOLp3IE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/p-MDqOLp3IE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/p-MDqOLp3IE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Rob The AI Guy",
+      "tags": [
+        "Notebook lm",
+        "Notebook lm guide",
+        "Notebook lm tutorial",
+        "how to use Notebook lm",
+        "how to use Notebook lm 2026",
+        "how to create things with Notebook lm",
+        "using Notebook lm for school",
+        "using Notebook lm for work",
+        "NotebookLM",
+        "NotebookLM tutorial",
+        "NotebookLM guide",
+        "how to use NotebookLM",
+        "how to use NotebookLM guide",
+        "NotebookLM video overview",
+        "NotebookLM chat history",
+        "NotebookLM slides",
+        "NotebookLM infographics",
+        "google NotebookLM",
+        "google NotebookLM use cases"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Google’s NotebookLM Released 5 NEW Features That Are INSANE 🤯 (NEW USE CASES)",
+        "description": "Join AI Automation School (Learn To Automate Your Work & Make $ With AI) 👉 https://www.skool.com/ai-automation-school/about\n\nThis video covers NotebookLM’s 5 new updates that they just released that let you build slides, infographics and do deep research with NotebookLM. If you want to learn how to use NotebookLM and how to use all of NotebookLM’s new features this video is for you."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT12M13S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "26681",
+      "likeCount": "825",
+      "favoriteCount": "0",
+      "commentCount": "31"
+    }
+  }
+}

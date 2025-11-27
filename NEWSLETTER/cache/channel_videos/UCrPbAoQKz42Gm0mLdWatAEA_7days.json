@@ -1,0 +1,41 @@
+{
+  "cached_at": 1764285737.939049,
+  "cache_type": "channel_videos",
+  "key": "UCrPbAoQKz42Gm0mLdWatAEA_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TbfgO_dda3QHuhyf1e33zjZuSqE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i0EmLfkAKsY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T19:27:14Z",
+        "channelId": "UCrPbAoQKz42Gm0mLdWatAEA",
+        "title": "WhatsApp + Gemini: Construa Seu Atendente de IA em Minutos! (Código Grátis)",
+        "description": "TODO MATERIAL DE APOIO ESTÁ AQUI ‍   Página de apoio: ➤ https://comunidade.zdg.dev.br/geral/whatsapp-gemini/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i0EmLfkAKsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i0EmLfkAKsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i0EmLfkAKsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Comunidade ZDG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T19:27:14Z"
+      }
+    }
+  ]
+}

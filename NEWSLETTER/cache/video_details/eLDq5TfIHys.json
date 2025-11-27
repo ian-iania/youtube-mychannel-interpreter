@@ -1,0 +1,86 @@
+{
+  "cached_at": 1764285730.954155,
+  "cache_type": "video_details",
+  "key": "eLDq5TfIHys",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "T-JgNqVruz6IfRWHebD02n_60Gg",
+    "id": "eLDq5TfIHys",
+    "snippet": {
+      "publishedAt": "2025-11-23T13:14:28Z",
+      "channelId": "UCelfWQr9sXVMTvBzviPGlFw",
+      "title": "Claude Just Introduced a New Way To Fix Your UI",
+      "description": "In this video, Claude finally shows how to fix basic AI-designed UIs using powerful Claude Skills inside Claude Code. I also test Claude AI in real projects, using Claude Code VSCode setups to see how creative it can actually get.\n\n🔗 Resources Mentioned\n\nImproving Front-End Design Through Skills\nhttps://www.claude.com/blog/improving-frontend-design-through-skills\n\nClaude Skills Explained\nhttps://www.claude.com/blog/skills-explained\n\nWeb Artifacts Builder Skill (GitHub)\nhttps://github.com/anthropics/skills/blob/main/web-artifacts-builder/SKILL.md\n\nIn this video, we take a deep dive into how Claude approaches front-end design and why so many AI-generated UIs still look basic. Using Claude Skills, Claude Code, and the new design-focused features from Claude AI, I break down how you can push your AI to create genuinely aesthetic layouts instead of the usual safe, generic outputs.\n\nWe explore real examples, test Skills inside actual projects, and compare how these instructions reshape everything—from typography to themes, gradients, and component structure. If you're into AI coding, vibe coding, or building full projects with an AI partner, this video shows how far you can push design quality with the right system prompts.\n\nYou'll also see how Claude behaves inside Claude Code VSCode, what works, what breaks, and how the MCP ecosystem ties into all of this. I also compare Claude vs ChatGPT and explain how tools like Claude Code MCP and Claude MCP help load specialized expertise exactly when the model needs it.\n\nWhether you’re experimenting with AI tools, exploring new artificial intelligence workflows, or just want to learn how to use Claude for front-end design, this breakdown shows how the new Claude 4 models actually perform when put to the test.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eLDq5TfIHys/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eLDq5TfIHys/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eLDq5TfIHys/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eLDq5TfIHys/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eLDq5TfIHys/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI LABS",
+      "tags": [
+        "ai",
+        "claude skills",
+        "chatgpt",
+        "claude code",
+        "vibe coding",
+        "claude",
+        "artificial intelligence",
+        "mcp",
+        "ai tools",
+        "claude ai",
+        "ai coding",
+        "claude vs chatgpt",
+        "claude code mcp",
+        "claude mcp",
+        "how to use claude",
+        "claude 4",
+        "claude code vscode"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Claude Just Introduced a New Way To Fix Your UI",
+        "description": "In this video, Claude finally shows how to fix basic AI-designed UIs using powerful Claude Skills inside Claude Code. I also test Claude AI in real projects, using Claude Code VSCode setups to see how creative it can actually get.\n\n🔗 Resources Mentioned\n\nImproving Front-End Design Through Skills\nhttps://www.claude.com/blog/improving-frontend-design-through-skills\n\nClaude Skills Explained\nhttps://www.claude.com/blog/skills-explained\n\nWeb Artifacts Builder Skill (GitHub)\nhttps://github.com/anthropics/skills/blob/main/web-artifacts-builder/SKILL.md\n\nIn this video, we take a deep dive into how Claude approaches front-end design and why so many AI-generated UIs still look basic. Using Claude Skills, Claude Code, and the new design-focused features from Claude AI, I break down how you can push your AI to create genuinely aesthetic layouts instead of the usual safe, generic outputs.\n\nWe explore real examples, test Skills inside actual projects, and compare how these instructions reshape everything—from typography to themes, gradients, and component structure. If you're into AI coding, vibe coding, or building full projects with an AI partner, this video shows how far you can push design quality with the right system prompts.\n\nYou'll also see how Claude behaves inside Claude Code VSCode, what works, what breaks, and how the MCP ecosystem ties into all of this. I also compare Claude vs ChatGPT and explain how tools like Claude Code MCP and Claude MCP help load specialized expertise exactly when the model needs it.\n\nWhether you’re experimenting with AI tools, exploring new artificial intelligence workflows, or just want to learn how to use Claude for front-end design, this breakdown shows how the new Claude 4 models actually perform when put to the test."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT10M50S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "43393",
+      "likeCount": "977",
+      "favoriteCount": "0",
+      "commentCount": "38"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.9598038,
+  "cache_type": "video_details",
+  "key": "cMSprbJ95jg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "sKgPI8CFbKm7AFoMB8RcfDx0Tt8",
+    "id": "cMSprbJ95jg",
+    "snippet": {
+      "publishedAt": "2025-11-20T22:36:06Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "AIE CODE 2025: AI Leadership ft Anthropic, OpenAI, McKinsey, Bloomberg, Google Deepmind, and Tenex",
+      "description": "Alex Lieberman – Co-founder, @MorningBrew & @tenex_labs – Your Leadership Track MC!\nKath Korevec – Engineering, @GoogleLabs – Proactive Agents\nKatelyn Lesse – Head of Engineering, Claude Developer Platform, @AnthropicAI – Evolving Claude APIs for Agents\nMichele Catasta – VP of AI, @Replit – Autonomy Is All You Need\nLisa Orr – Engineering Leader, @Zapier – Your Support Team Should Ship Code\nSteve Yegge – Engineering Leader, @Sourcegraph – 2026: The Year the IDE Died\nGene Kim – Author & Researcher, IT Revolution – 2026: The Year the IDE Died\nBill Chen – Product Manager, @OpenAI – Future-Proof Coding Agents: Building Reliable Systems That Outlast Model Cycles\nBrian Fioca – Engineering, @OpenAI – Future-Proof Coding Agents: Building Reliable Systems That Outlast Model Cycles\nMartin Harrysson – Partner, @McKinsey – Moving away from Agile: What's Next?\nNatasha Maniar – Partner, @McKinsey – Moving away from Agile: What's Next?\nYegor Denisov-Blanch – Researcher, @Stanford – How to Quantify AI ROI in Software Engineering (Stanford Study / 120k Devs)\nItamar Friedman – CEO, @QodoAI – The State of AI Code Quality: Hype vs. Reality\nOlive Song – Senior Researcher, @MiniMax__AI – Minimax M2\nKat Kampf – Product Manager, @Google – Research to Reality with Google DeepMind\nAmmaar Reshi – Product Manager, @Google – Research to Reality with Google DeepMind\nAsaf Bord – Engineering Leader, @NM_Financial – Small Bets, Big Impact: Building GenBI at a Fortune 100\nLei Zhang – Head of Technology Infrastructure Engineering, @Bloomberg – What We Learned Deploying AI within Bloomberg’s Engineering Organization\nSamir Mody – Engineering, @browsercompany – From Arc to Dia: Lessons learned in building AI Browser\nMax Kanat-Alexander – Engineering Leader, @CapitalOne – Developer Experience in the Age of AI Coding Agents\nArman Hezarkhani – Engineering, @tenex_labs – Paying Engineers like Salespeople: How Tenex Rebuilt the Incentive Stack for Modern Engineering\nJustin Reock – Chief Architect, @DeveloperXM – Leadership in AI-Assisted Engineering\nDan Shipper – Founder, @every – How to build an AI-native company (even if your company is 50 years old)\n\n\n**Timestamps**\n\n00:00 Intro & Opening Performance\n13:19 Opening Remarks (Alex Lieberman)\n16:16 Katelyn Lesse (Anthropic): Building Powerful Agentic Systems with Claude\n29:33 Michele Catasta (Replit): Building the Future of Autonomous Coding\n54:08 Lisa Orr (Zapier): Empowering Support to Ship Code (Solving App Erosion)\n1:10:06 Steve Yegge & Gene Kim: The Year the IDE Died & Vibe Coding\n2:02:00 Bill Chen & Brian Fioca (OpenAI): Building Coding Agents & The Codex Harness\n2:20:03 Martin Harrison & Natasha Maniar (McKinsey): Reshaping Software Delivery with Agents\n2:41:45 Yegor Denisov-Blanch (Stanford): Measuring AI Impact on Developer Productivity\n2:58:11 Itamar Friedman (CodiumAI): AI Code Quality - Hype vs Reality\n3:19:30 Olive Song (MiniMax): MiniMax M2 Model for Long-Horizon Tasks\n4:47:42 Kat Korevec (Google Labs): Proactive Agents (Project Jules)\n5:03:24 Asaf Bord (Northwestern Mutual): GenBI & AI in Risk-Averse Enterprises\n5:26:00 Lei Zhang (Bloomberg): Deploying AI in a 9,000 Engineer Org\n5:44:15 Samir Mody (The Browser Company): Building an AI Native Browser (Dia)\n6:02:07 Max Kanat-Alexander (Capital One): Scaling Output, Not Overhead\n7:00:20 NLW (AI Daily Brief): Enterprise AI Adoption Status & ROI\n7:15:01 Arman Hezarkhani (10x): Paying Engineers Like Salespeople (Story Point Compensation)\n7:34:01 Justin Reock (DX): Effective Leadership in AI-Enhanced Organizations\n7:52:14 Dan Shipper (Every): Building an AI Native Company & Compounding Engineering",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/cMSprbJ95jg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/cMSprbJ95jg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/cMSprbJ95jg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/cMSprbJ95jg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/cMSprbJ95jg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "AIE CODE 2025: AI Leadership ft Anthropic, OpenAI, McKinsey, Bloomberg, Google Deepmind, and Tenex",
+        "description": "Alex Lieberman – Co-founder, @MorningBrew & @tenex_labs – Your Leadership Track MC!\nKath Korevec – Engineering, @GoogleLabs – Proactive Agents\nKatelyn Lesse – Head of Engineering, Claude Developer Platform, @AnthropicAI – Evolving Claude APIs for Agents\nMichele Catasta – VP of AI, @Replit – Autonomy Is All You Need\nLisa Orr – Engineering Leader, @Zapier – Your Support Team Should Ship Code\nSteve Yegge – Engineering Leader, @Sourcegraph – 2026: The Year the IDE Died\nGene Kim – Author & Researcher, IT Revolution – 2026: The Year the IDE Died\nBill Chen – Product Manager, @OpenAI – Future-Proof Coding Agents: Building Reliable Systems That Outlast Model Cycles\nBrian Fioca – Engineering, @OpenAI – Future-Proof Coding Agents: Building Reliable Systems That Outlast Model Cycles\nMartin Harrysson – Partner, @McKinsey – Moving away from Agile: What's Next?\nNatasha Maniar – Partner, @McKinsey – Moving away from Agile: What's Next?\nYegor Denisov-Blanch – Researcher, @Stanford – How to Quantify AI ROI in Software Engineering (Stanford Study / 120k Devs)\nItamar Friedman – CEO, @QodoAI – The State of AI Code Quality: Hype vs. Reality\nOlive Song – Senior Researcher, @MiniMax__AI – Minimax M2\nKat Kampf – Product Manager, @Google – Research to Reality with Google DeepMind\nAmmaar Reshi – Product Manager, @Google – Research to Reality with Google DeepMind\nAsaf Bord – Engineering Leader, @NM_Financial – Small Bets, Big Impact: Building GenBI at a Fortune 100\nLei Zhang – Head of Technology Infrastructure Engineering, @Bloomberg – What We Learned Deploying AI within Bloomberg’s Engineering Organization\nSamir Mody – Engineering, @browsercompany – From Arc to Dia: Lessons learned in building AI Browser\nMax Kanat-Alexander – Engineering Leader, @CapitalOne – Developer Experience in the Age of AI Coding Agents\nArman Hezarkhani – Engineering, @tenex_labs – Paying Engineers like Salespeople: How Tenex Rebuilt the Incentive Stack for Modern Engineering\nJustin Reock – Chief Architect, @DeveloperXM – Leadership in AI-Assisted Engineering\nDan Shipper – Founder, @every – How to build an AI-native company (even if your company is 50 years old)\n\n\n**Timestamps**\n\n00:00 Intro & Opening Performance\n13:19 Opening Remarks (Alex Lieberman)\n16:16 Katelyn Lesse (Anthropic): Building Powerful Agentic Systems with Claude\n29:33 Michele Catasta (Replit): Building the Future of Autonomous Coding\n54:08 Lisa Orr (Zapier): Empowering Support to Ship Code (Solving App Erosion)\n1:10:06 Steve Yegge & Gene Kim: The Year the IDE Died & Vibe Coding\n2:02:00 Bill Chen & Brian Fioca (OpenAI): Building Coding Agents & The Codex Harness\n2:20:03 Martin Harrison & Natasha Maniar (McKinsey): Reshaping Software Delivery with Agents\n2:41:45 Yegor Denisov-Blanch (Stanford): Measuring AI Impact on Developer Productivity\n2:58:11 Itamar Friedman (CodiumAI): AI Code Quality - Hype vs Reality\n3:19:30 Olive Song (MiniMax): MiniMax M2 Model for Long-Horizon Tasks\n4:47:42 Kat Korevec (Google Labs): Proactive Agents (Project Jules)\n5:03:24 Asaf Bord (Northwestern Mutual): GenBI & AI in Risk-Averse Enterprises\n5:26:00 Lei Zhang (Bloomberg): Deploying AI in a 9,000 Engineer Org\n5:44:15 Samir Mody (The Browser Company): Building an AI Native Browser (Dia)\n6:02:07 Max Kanat-Alexander (Capital One): Scaling Output, Not Overhead\n7:00:20 NLW (AI Daily Brief): Enterprise AI Adoption Status & ROI\n7:15:01 Arman Hezarkhani (10x): Paying Engineers Like Salespeople (Story Point Compensation)\n7:34:01 Justin Reock (DX): Effective Leadership in AI-Enhanced Organizations\n7:52:14 Dan Shipper (Every): Building an AI Native Company & Compounding Engineering"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT8H16M5S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "17587",
+      "likeCount": "350",
+      "favoriteCount": "0",
+      "commentCount": "11"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "cached_at": 1764285760.943649,
+  "cache_type": "video_details",
+  "key": "M-pBZItg7Ys",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "1OdUa0cs-W1k9EZsHu_-vAHhXbw",
+    "id": "M-pBZItg7Ys",
+    "snippet": {
+      "publishedAt": "2025-11-25T17:00:52Z",
+      "channelId": "UCgc3NEslE8oISOEawhcpMCA",
+      "title": "Who’s Using Copilot? Virgin Money Leads the Way in AI Innovation",
+      "description": "Virgin Money is redefining banking with Microsoft Copilot and Copilot Studio. By integrating AI-powered tools like Power BI dashboards, Power Apps, and AI Dataverse, they’ve achieved:\n\n✔ 30% reduction in live chat escalations\n✔ 14% increase in customer satisfaction\n✔ Top 5 engagement for chatbots across the bank\n\nFrom sentiment analysis to virtual assistants, Virgin Money is paving the way for generative AI in financial services—creating new paths, not following old ones. Watch their story and see how Copilot is helping them deliver smarter, faster, and more confident customer experiences.\n\nClick the link below to find out more about this interesting story:\n\nhttps://www.microsoft.com/en/customers/story/24471-virgin-money-microsoft-365-copilot\n\n#MicrosoftCopilot #AI #Innovation #CustomerSuccess #VirginMoney",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/M-pBZItg7Ys/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/M-pBZItg7Ys/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/M-pBZItg7Ys/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/M-pBZItg7Ys/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/M-pBZItg7Ys/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Microsoft Power Platform",
+      "tags": [
+        "PowerApps"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Who’s Using Copilot? Virgin Money Leads the Way in AI Innovation",
+        "description": "Virgin Money is redefining banking with Microsoft Copilot and Copilot Studio. By integrating AI-powered tools like Power BI dashboards, Power Apps, and AI Dataverse, they’ve achieved:\n\n✔ 30% reduction in live chat escalations\n✔ 14% increase in customer satisfaction\n✔ Top 5 engagement for chatbots across the bank\n\nFrom sentiment analysis to virtual assistants, Virgin Money is paving the way for generative AI in financial services—creating new paths, not following old ones. Watch their story and see how Copilot is helping them deliver smarter, faster, and more confident customer experiences.\n\nClick the link below to find out more about this interesting story:\n\nhttps://www.microsoft.com/en/customers/story/24471-virgin-money-microsoft-365-copilot\n\n#MicrosoftCopilot #AI #Innovation #CustomerSuccess #VirginMoney"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M56S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "192",
+      "likeCount": "7",
+      "favoriteCount": "0"
+    }
+  }
+}

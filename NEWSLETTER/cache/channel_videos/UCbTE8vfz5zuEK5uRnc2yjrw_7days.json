@@ -1,0 +1,75 @@
+{
+  "cached_at": 1764285768.181109,
+  "cache_type": "channel_videos",
+  "key": "UCbTE8vfz5zuEK5uRnc2yjrw_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h9o34LR1att5ctLpsRcvoVtQtdY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zCjqTJ0CnIE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T17:30:06Z",
+        "channelId": "UCbTE8vfz5zuEK5uRnc2yjrw",
+        "title": "Janet Adams: How the ASI Alliance Thinks About AGI",
+        "description": "Janet Adams, COO of SingularityNET and Board Director at the Artificial Superintelligence (ASI) Alliance, joined Tobias Bauer and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zCjqTJ0CnIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zCjqTJ0CnIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zCjqTJ0CnIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SingularityNET",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T17:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cSBTK7ORXqivqcAzOKHwzVzcae4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FBv9g8TuJK8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T15:07:30Z",
+        "channelId": "UCbTE8vfz5zuEK5uRnc2yjrw",
+        "title": "Ben Goertzel: Modeling Pathways Toward Technological Singularity via Hyper-Intelligent Economics",
+        "description": "The Beneficial AGI Summit & Unconference 2025 (BGI-25) convened leading AI researchers, innovators, policymakers, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FBv9g8TuJK8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FBv9g8TuJK8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FBv9g8TuJK8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SingularityNET",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2025-11-26T15:07:30Z"
+      }
+    }
+  ]
+}

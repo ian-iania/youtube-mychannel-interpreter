@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285755.4077172,
+  "cache_type": "video_details",
+  "key": "A1t53E4vtGo",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "_xel2bj7d8yc066vLQbPtF48Xh0",
+    "id": "A1t53E4vtGo",
+    "snippet": {
+      "publishedAt": "2025-11-25T14:00:14Z",
+      "channelId": "UCC-lyoTfSrcJzA1ab3APAgw",
+      "title": "Managing Agent Context with LangChain: Summarization Middleware Explained",
+      "description": "Long-running agents eventually hit context overload — leading to context poisoning, distraction, confusion, and degraded performance.\n\nIn this video, Christian from LangChain breaks down how Summarization Middleware helps you automatically manage and compress conversation history to keep your agents sharp, efficient, and reliable.\n\nYou’ll learn:\n• Why long contexts silently fail over time\n• Six strategies for fixing context overload (RAG, pruning, offloading, and more)\n• How summarization fits into the ReAct agent loop\n• How to configure triggers, keep conditions, and custom prompts\n• A full live demo in Next.js, showing summaries appear as chat bubbles in real time\n\nWhat Summarization Middleware gives you:\n• Automatic summarization when token limits are approached\n• Flexible triggers based on tokens, fractions, or message counts\n• Control over how much recent context is preserved\n• A separate, cheaper model for summarization to reduce cost\n\nPerfect for:\n• Coding agents\n• Customer support assistants\n• Multi-step workflows\n• Any long-running conversational agent\n\n📚 Docs: https://docs.langchain.com/oss/javascript/langchain/middleware/built-in#summarization\n🧑‍💻 Example Code: https://github.com/christian-bromann/langchat",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/A1t53E4vtGo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/A1t53E4vtGo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/A1t53E4vtGo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/A1t53E4vtGo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/A1t53E4vtGo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LangChain",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Managing Agent Context with LangChain: Summarization Middleware Explained",
+        "description": "Long-running agents eventually hit context overload — leading to context poisoning, distraction, confusion, and degraded performance.\n\nIn this video, Christian from LangChain breaks down how Summarization Middleware helps you automatically manage and compress conversation history to keep your agents sharp, efficient, and reliable.\n\nYou’ll learn:\n• Why long contexts silently fail over time\n• Six strategies for fixing context overload (RAG, pruning, offloading, and more)\n• How summarization fits into the ReAct agent loop\n• How to configure triggers, keep conditions, and custom prompts\n• A full live demo in Next.js, showing summaries appear as chat bubbles in real time\n\nWhat Summarization Middleware gives you:\n• Automatic summarization when token limits are approached\n• Flexible triggers based on tokens, fractions, or message counts\n• Control over how much recent context is preserved\n• A separate, cheaper model for summarization to reduce cost\n\nPerfect for:\n• Coding agents\n• Customer support assistants\n• Multi-step workflows\n• Any long-running conversational agent\n\n📚 Docs: https://docs.langchain.com/oss/javascript/langchain/middleware/built-in#summarization\n🧑‍💻 Example Code: https://github.com/christian-bromann/langchat"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT8M30S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2409",
+      "likeCount": "80",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

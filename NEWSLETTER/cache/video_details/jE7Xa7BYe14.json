@@ -1,0 +1,93 @@
+{
+  "cached_at": 1764285771.568417,
+  "cache_type": "video_details",
+  "key": "jE7Xa7BYe14",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "sms8J77r1zppiFPA2VNUb4TixcM",
+    "id": "jE7Xa7BYe14",
+    "snippet": {
+      "publishedAt": "2025-11-21T13:01:38Z",
+      "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+      "title": "This AI Startup Hit $1 Billion in 6 Month (GenSpark)",
+      "description": "Register and get started with @genspark_ai  for free: https://www.genspark.ai/?utm_source=yt&utm_campaign=TechWithTim\n\nWhat if I told you that just a team of 30 people built a tool that in six months is worth $1 billion, and it might just make ChatGPT, Canva and even your coding tools completely obsolete? GenSpark is Silicon Valley's hardest AI startup right now, and after using it, I understand why everyone is freaking out about it.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=NpGcL0rP0_8\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:30 | What is GenSpark\n01:27 | Hub & AI Drive\n03:58 | AI Docs\n05:35 | Research Me\n06:40 | Developer Integrations\n10:01 | Productivity Integrations \n12:26 | AI Inbox/Emails\n13:23 | AI Teams\n14:01 | AI Calling \n\nHashtags\n#Genspark #WorkwithGenspark #GensparkLive",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jE7Xa7BYe14/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jE7Xa7BYe14/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jE7Xa7BYe14/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jE7Xa7BYe14/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jE7Xa7BYe14/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tech With Tim",
+      "tags": [
+        "tech with tim",
+        "GenSpark",
+        "Work With GenSpark",
+        "GenSpark Live",
+        "ai startup",
+        "billion dollar startup",
+        "tech startup success",
+        "artificial intelligence",
+        "startup success story",
+        "tech entrepreneurship",
+        "innovative startups",
+        "startup valuation",
+        "digital innovation",
+        "fast-growing startups",
+        "ai industry",
+        "startup milestones",
+        "Developer Integrations",
+        "Productivity Integrations",
+        "AI Teams",
+        "AI Calling",
+        "ai workspace",
+        "ai models",
+        "ai ide",
+        "ide"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "This AI Startup Hit $1 Billion in 6 Month (GenSpark)",
+        "description": "Register and get started with @genspark_ai  for free: https://www.genspark.ai/?utm_source=yt&utm_campaign=TechWithTim\n\nWhat if I told you that just a team of 30 people built a tool that in six months is worth $1 billion, and it might just make ChatGPT, Canva and even your coding tools completely obsolete? GenSpark is Silicon Valley's hardest AI startup right now, and after using it, I understand why everyone is freaking out about it.\n\nDevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim?video=NpGcL0rP0_8\n\n⏳ Timestamps ⏳\n00:00 | Overview\n00:30 | What is GenSpark\n01:27 | Hub & AI Drive\n03:58 | AI Docs\n05:35 | Research Me\n06:40 | Developer Integrations\n10:01 | Productivity Integrations \n12:26 | AI Inbox/Emails\n13:23 | AI Teams\n14:01 | AI Calling \n\nHashtags\n#Genspark #WorkwithGenspark #GensparkLive"
+      },
+      "defaultAudioLanguage": "en-CA"
+    },
+    "contentDetails": {
+      "duration": "PT15M16S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "6428",
+      "likeCount": "184",
+      "favoriteCount": "0",
+      "commentCount": "16"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "cached_at": 1764285754.225996,
+  "cache_type": "channel_videos",
+  "key": "UCXouiHXUN8mba_K-jn1gqVg_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6D0do1r5ZRmJGikr8ugBMvAdlnU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ph9hrQDzvZY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T21:00:41Z",
+        "channelId": "UCXouiHXUN8mba_K-jn1gqVg",
+        "title": "Global Steering",
+        "description": "How many times have you told your AI the same thing? • Functional React components • Prettier with semicolons • Tests go in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ph9hrQDzvZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ph9hrQDzvZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ph9hrQDzvZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kiro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T21:00:41Z"
+      }
+    }
+  ]
+}

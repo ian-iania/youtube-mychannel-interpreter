@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285742.8705301,
+  "cache_type": "video_details",
+  "key": "JG51hmG7Sd8",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "D8Yauo0VsbCxIeSvcTfuOEVLJBk",
+    "id": "JG51hmG7Sd8",
+    "snippet": {
+      "publishedAt": "2025-11-27T06:00:14Z",
+      "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+      "title": "Z-Image Turbo: Best Image Generation Model of this Week - Install Locally",
+      "description": "This video locally installs and tests Z-Image which is a powerful and highly efficient image generation model.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#zimage #zimageturbo #tongyi \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://huggingface.co/Tongyi-MAI/Z-Image-Turbo\n\nAll rights reserved © Fahd Mirza",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JG51hmG7Sd8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JG51hmG7Sd8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JG51hmG7Sd8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JG51hmG7Sd8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JG51hmG7Sd8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Fahd Mirza",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Z-Image Turbo: Best Image Generation Model of this Week - Install Locally",
+        "description": "This video locally installs and tests Z-Image which is a powerful and highly efficient image generation model.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#zimage #zimageturbo #tongyi \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://huggingface.co/Tongyi-MAI/Z-Image-Turbo\n\nAll rights reserved © Fahd Mirza"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT11M35S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "3677",
+      "likeCount": "133",
+      "favoriteCount": "0",
+      "commentCount": "11"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "cached_at": 1764285766.1789582,
+  "cache_type": "channel_info",
+  "key": "UCr62KqXlTysREBebCmKAZ6g",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "Wda7sV7szEmr5WHiSsVRrtNi4p8",
+    "id": "UCr62KqXlTysREBebCmKAZ6g",
+    "snippet": {
+      "title": "Rodrigo Celoto ",
+      "description": "Bem-vindo ao canal, onde eu compartilho minha trajetória e experiências com Agentes de IA\n",
+      "customUrl": "@rodrigoceloto",
+      "publishedAt": "2010-10-02T16:53:40Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/3d0qTL79ZDVft1zWVf6FDwINiT9t132rPPal0sUhEcAccN3XQGbn4azD1GD7v9aJclc781ZEjQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/3d0qTL79ZDVft1zWVf6FDwINiT9t132rPPal0sUhEcAccN3XQGbn4azD1GD7v9aJclc781ZEjQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/3d0qTL79ZDVft1zWVf6FDwINiT9t132rPPal0sUhEcAccN3XQGbn4azD1GD7v9aJclc781ZEjQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Rodrigo Celoto ",
+        "description": "Bem-vindo ao canal, onde eu compartilho minha trajetória e experiências com Agentes de IA\n"
+      }
+    },
+    "statistics": {
+      "viewCount": "68466",
+      "subscriberCount": "2940",
+      "hiddenSubscriberCount": false,
+      "videoCount": "40"
+    }
+  }
+}

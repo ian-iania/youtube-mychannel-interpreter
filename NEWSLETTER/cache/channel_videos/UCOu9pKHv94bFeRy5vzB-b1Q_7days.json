@@ -1,0 +1,109 @@
+{
+  "cached_at": 1764285775.060639,
+  "cache_type": "channel_videos",
+  "key": "UCOu9pKHv94bFeRy5vzB-b1Q_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "scixPiWc0SWAMeATP9702L-hnoA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SlvEm-z3tKg"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T19:26:07Z",
+        "channelId": "UCOu9pKHv94bFeRy5vzB-b1Q",
+        "title": "Como conectar o Postgres Chat Memory ao seu Agente de IA no n8n!",
+        "description": "Se os seus Agentes de IA costumam alucinar frequentemente, você tem um problema de contexto e memória. E eu vou te ensinar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SlvEm-z3tKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SlvEm-z3tKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SlvEm-z3tKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Well Pires ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T19:26:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QHAuTYrkdD5k0Tpg0IyM2Gxk_0E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TNfOJa1gku0"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T16:26:17Z",
+        "channelId": "UCOu9pKHv94bFeRy5vzB-b1Q",
+        "title": "Conectar Credenciais Google ao N8N em 6 minutos",
+        "description": "Aprenda a conectar os aplicativos do Google ao N8N de maneira prática e direta ao ponto! Nessa aula você irá aprender em ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TNfOJa1gku0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TNfOJa1gku0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TNfOJa1gku0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Well Pires ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T16:26:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ig56-bdIjUHW1ldknoWSXFGp-x0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nwzdRupM0ZY"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T21:29:54Z",
+        "channelId": "UCOu9pKHv94bFeRy5vzB-b1Q",
+        "title": "Venda esse Agente de IA para Clínicas por R$5000 (Template Gratuito!)",
+        "description": "Pensando em abrir uma Agência de IA e vender Agentes de IA e serviços de automação? Esse produto de Agente de IA para ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nwzdRupM0ZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nwzdRupM0ZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nwzdRupM0ZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Well Pires ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T21:29:54Z"
+      }
+    }
+  ]
+}

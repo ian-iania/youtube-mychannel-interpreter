@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285765.636565,
+  "cache_type": "video_details",
+  "key": "mKNGlDbl0-c",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "cPHcX59rnaAAlj5ViAhtlPG3Jcc",
+    "id": "mKNGlDbl0-c",
+    "snippet": {
+      "publishedAt": "2025-11-27T00:01:50Z",
+      "channelId": "UCMcoud_ZW7cfxeIugBflSBw",
+      "title": "Add payments in 3 clicks in any iOS app (No Coding)",
+      "description": "Download the Vibecode App\nhttps://apps.apple.com/us/app/vibecode-ai-app-builder/id6742912146\n\nThen, use code \"revenue\" during checkout to get free credits.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mKNGlDbl0-c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mKNGlDbl0-c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mKNGlDbl0-c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mKNGlDbl0-c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mKNGlDbl0-c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Riley Brown",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Add payments in 3 clicks in any iOS app (No Coding)",
+        "description": "Download the Vibecode App\nhttps://apps.apple.com/us/app/vibecode-ai-app-builder/id6742912146\n\nThen, use code \"revenue\" during checkout to get free credits."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT2M38S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4454",
+      "likeCount": "190",
+      "favoriteCount": "0",
+      "commentCount": "10"
+    }
+  }
+}

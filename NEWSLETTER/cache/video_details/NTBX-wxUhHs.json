@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.9586802,
+  "cache_type": "video_details",
+  "key": "NTBX-wxUhHs",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "K5WabzRFAQkLdnRbG274Chi_1W4",
+    "id": "NTBX-wxUhHs",
+    "snippet": {
+      "publishedAt": "2025-11-24T20:16:36Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "Context Platform Engineering to Reduce Token Anxiety — Val Bercovici, WEKA",
+      "description": "Context Platform Engineering is the set of skills and tools to design, size, and configure systems optimized for Agent Swarm Context, at any scale.\n\n“KV-cache hit rate is the single most important metric for a production-stage AI agent“ according to Manus AI. Context platform engineering simplifies the maximization of KV Cache hit rates.\n\nThis talk covers WEKA’s new open source context platform engineering toolkit, which helps translate Service Level Agreement (SLA) requirements of AI Agents, into Agent+LLM inference platform Service Level Objectives (SLOs) which meet required SLAs.\n\nWe present research results from WEKA Labs which provide new observability into both unit, and aggregate KV Cache hit rates, consumed by agent swarms of various leading AI coding agents.\n\nThis talk concludes with benchmark results for sizing agent swarm context for arbitrary working sets. Including context window sizes, latency, concurrency, and throughput SLOs per agent unit (swarm or sub-task) across modern GPU memory hierarchies, supporting KV Cache offloading plug-ins like vLLM/LMCache, SGLang HiCache, and NVIDIA Dynamo KVBM/NIXL.\n\nCallan Fox is the product leader for Context Platforms at WEKA, following a series of technical expertise and leadership roles at Dell/EMC, CGI and HPE.\nVal Bercovici is the Chief AI Officer at WEKA. Previously he was CTO of NetApp/SolidFire, and founding governing board member of the Kubernetes CNCF in the Linux Foundation.\n\n---\nResources:\n- https://www.linkedin.com/pulse/visual-guide-how-ai-agents-use-inference-inside-llm-callan-fox-q9brc\n- https://medium.com/@callan.j.fox/evaluating-management-of-kv-cache-within-an-inference-system-2d7c3d266c3a\n- https://www.linkedin.com/pulse/importance-context-platform-engineering-callan-fox-i81wc/\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/valentinbercovici\n- X (Twitter): https://x.com/AccBalanced\n- GitHub: https://github.com/weka/LMCache\n- Website: https://www.weka.io/product/augmented-memory-grid/\n- Company: WEKA (https://weka.io)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NTBX-wxUhHs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NTBX-wxUhHs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NTBX-wxUhHs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NTBX-wxUhHs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NTBX-wxUhHs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Context Platform Engineering to Reduce Token Anxiety — Val Bercovici, WEKA",
+        "description": "Context Platform Engineering is the set of skills and tools to design, size, and configure systems optimized for Agent Swarm Context, at any scale.\n\n“KV-cache hit rate is the single most important metric for a production-stage AI agent“ according to Manus AI. Context platform engineering simplifies the maximization of KV Cache hit rates.\n\nThis talk covers WEKA’s new open source context platform engineering toolkit, which helps translate Service Level Agreement (SLA) requirements of AI Agents, into Agent+LLM inference platform Service Level Objectives (SLOs) which meet required SLAs.\n\nWe present research results from WEKA Labs which provide new observability into both unit, and aggregate KV Cache hit rates, consumed by agent swarms of various leading AI coding agents.\n\nThis talk concludes with benchmark results for sizing agent swarm context for arbitrary working sets. Including context window sizes, latency, concurrency, and throughput SLOs per agent unit (swarm or sub-task) across modern GPU memory hierarchies, supporting KV Cache offloading plug-ins like vLLM/LMCache, SGLang HiCache, and NVIDIA Dynamo KVBM/NIXL.\n\nCallan Fox is the product leader for Context Platforms at WEKA, following a series of technical expertise and leadership roles at Dell/EMC, CGI and HPE.\nVal Bercovici is the Chief AI Officer at WEKA. Previously he was CTO of NetApp/SolidFire, and founding governing board member of the Kubernetes CNCF in the Linux Foundation.\n\n---\nResources:\n- https://www.linkedin.com/pulse/visual-guide-how-ai-agents-use-inference-inside-llm-callan-fox-q9brc\n- https://medium.com/@callan.j.fox/evaluating-management-of-kv-cache-within-an-inference-system-2d7c3d266c3a\n- https://www.linkedin.com/pulse/importance-context-platform-engineering-callan-fox-i81wc/\n\n---\nSocials:\n- LinkedIn: https://www.linkedin.com/in/valentinbercovici\n- X (Twitter): https://x.com/AccBalanced\n- GitHub: https://github.com/weka/LMCache\n- Website: https://www.weka.io/product/augmented-memory-grid/\n- Company: WEKA (https://weka.io)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT23M52S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "423",
+      "likeCount": "8",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

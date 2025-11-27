@@ -1,0 +1,82 @@
+{
+  "cached_at": 1764285760.460195,
+  "cache_type": "video_details",
+  "key": "L0fPilA79_A",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "6bq9786Xs4dypf7tE8srb1ZGutw",
+    "id": "L0fPilA79_A",
+    "snippet": {
+      "publishedAt": "2025-11-22T02:47:01Z",
+      "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+      "title": "Lufthansa Technik: AI That Optimizes Aircraft Maintenance With Microsoft Foundry",
+      "description": "Discover how Lufthansa Technik leverages AI and Microsoft Foundry to revolutionize aircraft maintenance. See how these innovations reduce costs, minimize spare part needs, and drive sustainability for airlines.\n\nLearn more: https://msft.it/AIFoundry\n\n#MicrosoftAzure #Microsoftfoundry",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/L0fPilA79_A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/L0fPilA79_A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/L0fPilA79_A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/L0fPilA79_A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Microsoft Azure",
+      "tags": [
+        "Lufthansa Technik",
+        "Microsoft Foundry",
+        "AI in aviation",
+        "Aircraft maintenance",
+        "Graph database",
+        "LLM use cases",
+        "Aviation sustainability",
+        "Cost optimization",
+        "Lufthansa Industries",
+        "Microsoft Agent framework",
+        "Airline operations",
+        "Spare parts reduction",
+        "Aviation technology",
+        "Digital transformation",
+        "Wingman",
+        "Airline efficiency",
+        "Microsoft",
+        "Lufthansa"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Lufthansa Technik: AI That Optimizes Aircraft Maintenance With Microsoft Foundry",
+        "description": "Discover how Lufthansa Technik leverages AI and Microsoft Foundry to revolutionize aircraft maintenance. See how these innovations reduce costs, minimize spare part needs, and drive sustainability for airlines.\n\nLearn more: https://msft.it/AIFoundry\n\n#MicrosoftAzure #Microsoftfoundry"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M26S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "553",
+      "likeCount": "20",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285739.022092,
+  "cache_type": "channel_info",
+  "key": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "_Lm_iiIwUUA8D5BbPfpLIN7Qqfo",
+    "id": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+    "snippet": {
+      "title": "Databricks",
+      "description": "Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and over 60% of the Fortune 500 — rely on Databricks to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified Data Intelligence Platform that includes Agent Bricks, Lakeflow, Lakehouse, Lakebase and Unity Catalog.\n",
+      "customUrl": "@databricks",
+      "publishedAt": "2014-07-02T00:25:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/-oAx1DAiLyJxYg71Bj60nEarlrnKq6HoGhsTd_TwABhxQsBmlOfzsp2TW4tlxZD_6kFNS0uW=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/-oAx1DAiLyJxYg71Bj60nEarlrnKq6HoGhsTd_TwABhxQsBmlOfzsp2TW4tlxZD_6kFNS0uW=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/-oAx1DAiLyJxYg71Bj60nEarlrnKq6HoGhsTd_TwABhxQsBmlOfzsp2TW4tlxZD_6kFNS0uW=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Databricks",
+        "description": "Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and over 60% of the Fortune 500 — rely on Databricks to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified Data Intelligence Platform that includes Agent Bricks, Lakeflow, Lakehouse, Lakebase and Unity Catalog.\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "20051831",
+      "subscriberCount": "148000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "4343"
+    }
+  }
+}

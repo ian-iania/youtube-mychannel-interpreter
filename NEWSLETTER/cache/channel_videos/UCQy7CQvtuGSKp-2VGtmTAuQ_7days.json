@@ -1,0 +1,109 @@
+{
+  "cached_at": 1764285751.445332,
+  "cache_type": "channel_videos",
+  "key": "UCQy7CQvtuGSKp-2VGtmTAuQ_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A5y9ToiTFuVlwCw9gSQSXvgQM2s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qDiZMtKmnNM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T20:53:00Z",
+        "channelId": "UCQy7CQvtuGSKp-2VGtmTAuQ",
+        "title": "Qual a Melhor iA: ChatGPT vs Claude vs Gemini no Desafio do Simulador de Cidade GTA",
+        "description": "Aprenda Inteligência Artificial! ▸ Aprenda Agentes iA: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qDiZMtKmnNM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qDiZMtKmnNM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qDiZMtKmnNM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligência Mil Grau",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T20:53:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rrvJXdldODSs6E3W58dbXhXf4ao",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xzXfaKl_BDI"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T10:01:36Z",
+        "channelId": "UCQy7CQvtuGSKp-2VGtmTAuQ",
+        "title": "NOVO Claude Opus 4.5 Surpreende e Briga da Melhor iA do Mundo Continua Contra ChatGPT 5.1 e Gemini 3",
+        "description": "Aprenda Inteligência Artificial! ▸ Aprenda Agentes iA: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xzXfaKl_BDI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xzXfaKl_BDI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xzXfaKl_BDI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligência Mil Grau",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T10:01:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZF3WqApbYavj0p_BU0gVueljN0o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uXypOB0gCIU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T11:01:48Z",
+        "channelId": "UCQy7CQvtuGSKp-2VGtmTAuQ",
+        "title": "NOVO NotebookLM da Google Agora com Slides e Infográficos Supera ChatGPT na Educação",
+        "description": "Aprenda Inteligência Artificial! ▸ Aprenda Agentes iA: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uXypOB0gCIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uXypOB0gCIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uXypOB0gCIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Inteligência Mil Grau",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T11:01:48Z"
+      }
+    }
+  ]
+}

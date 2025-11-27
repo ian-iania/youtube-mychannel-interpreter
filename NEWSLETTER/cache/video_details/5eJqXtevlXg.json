@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285729.957982,
+  "cache_type": "video_details",
+  "key": "5eJqXtevlXg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "psf7_EZGK5RTWtsnjbikmSsQF2Q",
+    "id": "5eJqXtevlXg",
+    "snippet": {
+      "publishedAt": "2025-11-24T20:16:36Z",
+      "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+      "title": "Hacking Subagents Into Codex CLI — Brian John, Betterup",
+      "description": "Subagents are amazing tools for managing context, among other things. But Codex CLI doesn't have them. Let's change that!\n\nBrian John is a Principal Full Stack Engineer with over a decade of experience in technology. He is currently working on using AI to help his R&D team members ship faster and with higher quality.\n\n---\nSocials:\n- LinkedIn: https://linkedin.com/in/brianjohn\n- X (Twitter): https://x.com/brianpjohn\n- GitHub: https://github.com/f1sherman\n- Website: https://blog.brianjohn.com\n- Company: Betterup (https://betterup.com)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5eJqXtevlXg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5eJqXtevlXg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5eJqXtevlXg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5eJqXtevlXg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5eJqXtevlXg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI Engineer",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Hacking Subagents Into Codex CLI — Brian John, Betterup",
+        "description": "Subagents are amazing tools for managing context, among other things. But Codex CLI doesn't have them. Let's change that!\n\nBrian John is a Principal Full Stack Engineer with over a decade of experience in technology. He is currently working on using AI to help his R&D team members ship faster and with higher quality.\n\n---\nSocials:\n- LinkedIn: https://linkedin.com/in/brianjohn\n- X (Twitter): https://x.com/brianpjohn\n- GitHub: https://github.com/f1sherman\n- Website: https://blog.brianjohn.com\n- Company: Betterup (https://betterup.com)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT13M39S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "514",
+      "likeCount": "11",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

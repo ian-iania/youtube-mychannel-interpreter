@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285754.9815319,
+  "cache_type": "video_details",
+  "key": "RByMV4vQLrI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "pEQtfrblWlYCx7e7OyqzDbtvUC8",
+    "id": "RByMV4vQLrI",
+    "snippet": {
+      "publishedAt": "2025-11-25T15:58:51Z",
+      "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+      "title": "Turn messy documents into RAG-ready data 🚀📄 #ade #documentextraction",
+      "description": "Full Webinar here: https://youtu.be/Zl2B1zOpIYk?si=Z0-usoExcuULZAYs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RByMV4vQLrI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RByMV4vQLrI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RByMV4vQLrI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RByMV4vQLrI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RByMV4vQLrI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LandingAI",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Turn messy documents into RAG-ready data 🚀📄 #ade #documentextraction",
+        "description": "Full Webinar here: https://youtu.be/Zl2B1zOpIYk?si=Z0-usoExcuULZAYs"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT52S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "423",
+      "likeCount": "10",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

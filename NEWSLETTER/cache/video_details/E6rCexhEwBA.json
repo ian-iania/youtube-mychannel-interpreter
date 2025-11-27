@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285745.495316,
+  "cache_type": "video_details",
+  "key": "E6rCexhEwBA",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "8zljQm3KvrJQ-iUD_WFNwarR994",
+    "id": "E6rCexhEwBA",
+    "snippet": {
+      "publishedAt": "2025-11-21T05:16:37Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "[pt-BR]🇧🇷  Quinta do Patinho! - Construindo nosso MCP",
+      "description": "A Quinta do Patinho é um stream semanal apresentado por Pachi Parra, onde fazemos live coding, exploramos ferramentas, testamos ideias e contribuímos com projetos Open Source — tudo de forma leve, espontânea e sempre com muita interação com o chat 💚\n\nE amanhã vamos continuar nosso projeto especial de Black Friday:\n🛒🔥 um MCP que ajuda a Pachi a encontrar a lava e seca mais barata da internet!\n\nVamos evoluir o agente, integrar novas funcionalidades, testar estratégias e ver até onde conseguimos chegar com esse caos criativo que a gente ama.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/E6rCexhEwBA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/E6rCexhEwBA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/E6rCexhEwBA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/E6rCexhEwBA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/E6rCexhEwBA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "[pt-BR]🇧🇷  Quinta do Patinho! - Construindo nosso MCP",
+        "description": "A Quinta do Patinho é um stream semanal apresentado por Pachi Parra, onde fazemos live coding, exploramos ferramentas, testamos ideias e contribuímos com projetos Open Source — tudo de forma leve, espontânea e sempre com muita interação com o chat 💚\n\nE amanhã vamos continuar nosso projeto especial de Black Friday:\n🛒🔥 um MCP que ajuda a Pachi a encontrar a lava e seca mais barata da internet!\n\nVamos evoluir o agente, integrar novas funcionalidades, testar estratégias e ver até onde conseguimos chegar com esse caos criativo que a gente ama."
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1H3M47S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "374",
+      "likeCount": "11",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

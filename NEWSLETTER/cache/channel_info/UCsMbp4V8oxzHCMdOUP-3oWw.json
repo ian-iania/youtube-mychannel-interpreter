@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285773.392716,
+  "cache_type": "channel_info",
+  "key": "UCsMbp4V8oxzHCMdOUP-3oWw",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "ipNIrnydiAgDuOiXswCcKisDafI",
+    "id": "UCsMbp4V8oxzHCMdOUP-3oWw",
+    "snippet": {
+      "title": "Unitree Robotics",
+      "description": "Please everyone be sure to use the robot in a Friendly and Safe manner.\nHigh performance civilian robot manufacturer.\nUnitree Robotics company official channel.\nOfficial Website: www.unitree.com\nSales contact: sales_global@unitree.cc",
+      "customUrl": "@unitreerobotics",
+      "publishedAt": "2016-08-03T12:01:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/koyzMXdJtsHPLoM991cPhB70s8w4x7NsRq8mp5-PtHhAX8c8i4KNdUcDKLVIDgOmvQ-cByGkTzQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/koyzMXdJtsHPLoM991cPhB70s8w4x7NsRq8mp5-PtHhAX8c8i4KNdUcDKLVIDgOmvQ-cByGkTzQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/koyzMXdJtsHPLoM991cPhB70s8w4x7NsRq8mp5-PtHhAX8c8i4KNdUcDKLVIDgOmvQ-cByGkTzQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Unitree Robotics",
+        "description": "Please everyone be sure to use the robot in a Friendly and Safe manner.\nHigh performance civilian robot manufacturer.\nUnitree Robotics company official channel.\nOfficial Website: www.unitree.com\nSales contact: sales_global@unitree.cc"
+      },
+      "country": "CN"
+    },
+    "statistics": {
+      "viewCount": "114020134",
+      "subscriberCount": "1290000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "68"
+    }
+  }
+}

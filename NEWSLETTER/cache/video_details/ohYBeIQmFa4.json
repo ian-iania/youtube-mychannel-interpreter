@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285749.581952,
+  "cache_type": "video_details",
+  "key": "ohYBeIQmFa4",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "3Bd9Z72T_2EPBnY3FT1D8hTIwFc",
+    "id": "ohYBeIQmFa4",
+    "snippet": {
+      "publishedAt": "2025-11-22T05:42:51Z",
+      "channelId": "UCHlNU7kIZhRgSbhHvFoy72w",
+      "title": "Gradio 6 Launch 🏎️🏁",
+      "description": "Gradio 6 is finally here!\n\nAnd it's lighter, faster, and more customizable than ever! Our core team will walk you through the latest features and answer your questions.\n\nYou wont want to miss this!\n\n🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/5371923545718784",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ohYBeIQmFa4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ohYBeIQmFa4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ohYBeIQmFa4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ohYBeIQmFa4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ohYBeIQmFa4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "HuggingFace",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Gradio 6 Launch 🏎️🏁",
+        "description": "Gradio 6 is finally here!\n\nAnd it's lighter, faster, and more customizable than ever! Our core team will walk you through the latest features and answer your questions.\n\nYou wont want to miss this!\n\n🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/5371923545718784"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT37M38S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1667",
+      "likeCount": "71",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

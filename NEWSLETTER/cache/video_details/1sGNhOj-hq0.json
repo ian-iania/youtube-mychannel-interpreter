@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285776.8842082,
+  "cache_type": "video_details",
+  "key": "1sGNhOj-hq0",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "DRMJTbGkHNgwLXv8iWaUR1w430g",
+    "id": "1sGNhOj-hq0",
+    "snippet": {
+      "publishedAt": "2025-11-26T14:49:10Z",
+      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+      "title": "Vídeo mostra momento em que conjunto de prédios começa a pegar fogo em Hong Kong",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/1sGNhOj-hq0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/1sGNhOj-hq0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/1sGNhOj-hq0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/1sGNhOj-hq0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/1sGNhOj-hq0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "exame",
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Vídeo mostra momento em que conjunto de prédios começa a pegar fogo em Hong Kong",
+        "description": ""
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT18S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "7077",
+      "likeCount": "204",
+      "favoriteCount": "0",
+      "commentCount": "9"
+    }
+  }
+}

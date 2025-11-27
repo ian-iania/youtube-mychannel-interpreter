@@ -1,0 +1,585 @@
+{
+  "cached_at": 1764285742.734624,
+  "cache_type": "channel_videos",
+  "key": "UCPix8N6PMRI4KzgyjuZeF0g_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_sMKF9roPwWJ4Qr2ibYqIYeiSO0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TTL4lBkQMYU"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T20:02:25Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "Whale is Back : DeepSeekMath-V2 - Mathematical Reasoning at its Finest",
+        "description": "This video delves deep into new DeepSeek model DeepSeekMath-V2. Get 50% Discount on any A6000 or A5000 GPU rental, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TTL4lBkQMYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TTL4lBkQMYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TTL4lBkQMYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T20:02:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rg11hwxrXp7klC0FQBW0wQMBSo0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JG51hmG7Sd8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T06:00:14Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "Z-Image Turbo: Best Image Generation Model of this Week - Install Locally",
+        "description": "This video locally installs and tests Z-Image which is a powerful and highly efficient image generation model. Get 50% Discount ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JG51hmG7Sd8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JG51hmG7Sd8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JG51hmG7Sd8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T06:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GQ5HR8Ph4fhiOJo6PVsUuc6jE9k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Pw3uzk0eb0w"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T20:42:19Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "Ernie 5: A Natively Omni-Modal AI - A Gift from Baidu World 2025",
+        "description": "This video thoroughly tests Ernie 5 from Baidu, which is natively omni modal large model and mentions innovations from Baidu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pw3uzk0eb0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pw3uzk0eb0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pw3uzk0eb0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T20:42:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YnfVlJ8VfiWxNkQLoqvhJxkoJ18",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nixFJOAIyHA"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-26T02:47:11Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "Install FLUX.2 [dev] in ComfyUI – Full Local Setup Guide - Free Workflow",
+        "description": "This video locally installs FLUX.2 [dev] model with ComfyUI, tests it on image creation and editing, and shares all the steps and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nixFJOAIyHA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nixFJOAIyHA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nixFJOAIyHA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-26T02:47:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ekQwL-ZaLxS2UDTnrQwTXImf6pA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TOsLdlDwIZs"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T20:31:23Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "HunyuanOCR - Free OCR That Just Destroyed Every Commercial API - Run Locally",
+        "description": "This video locally installs HunyuanOCR which stands as a leading end-to-end OCR expert VLM powered by Hunyuan's native ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TOsLdlDwIZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TOsLdlDwIZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TOsLdlDwIZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T20:31:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gZLEccmZ1q3NUKAFirUXb1qPzag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sO0UVLQkx5E"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-25T08:01:13Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "How-To Install NVIDIA NeMo 2 with Local Inference: Easy Step-by-Step Tutorial",
+        "description": "In this step-by-step tutorial, I'll show you how to install and do inference with NVIDIA Nemo locally. Get 50% Discount on any ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sO0UVLQkx5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sO0UVLQkx5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sO0UVLQkx5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-25T08:01:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HpzXjPuXT3XfMLO85YQ6jnExHW0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_2irtfJJ0jc"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T20:28:18Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "Microsoft Fara-7B: Their First Agentic Model for Computer Use: Run Locally",
+        "description": "This video locally installs Fara-7B which is Microsoft's first agentic small language model (SLM) designed specifically for computer ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_2irtfJJ0jc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_2irtfJJ0jc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_2irtfJJ0jc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T20:28:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DOHK7F_NF14W2KnkkpLlDZq8k6E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vbyHL_sGTfk"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-24T08:01:13Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "Marble: A Multimodal World Model: Spatial intelligence",
+        "description": "This video reviews Marble, a World Model that creates 3D worlds from image or text prompts. Get 50% Discount on any A6000 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vbyHL_sGTfk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vbyHL_sGTfk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vbyHL_sGTfk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-24T08:01:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rTIA9SNxukbZWNBvns_nAK3gKyg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cWOnifNHYQM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T19:56:51Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "VibeThinker-1.5B with Spectrum-to-Signal Principle: Run Locally",
+        "description": "This video locally installs VibeThinker-1.5B's where core innovation lies in the \"Spectrum-to-Signal Principle\" (SSP) training ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cWOnifNHYQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cWOnifNHYQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cWOnifNHYQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T19:56:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "raDhpWtObLFO96iha9I9k2QbYHk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CIqV8z_fmVE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T10:00:15Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "How-To Install TensorRT Locally to Optimize and Serve Any Model",
+        "description": "This video installs TensorRT locally and tests it. TensorRT delivers blazing-fast GPU inference by optimizing kernels. Get 50% ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CIqV8z_fmVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CIqV8z_fmVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CIqV8z_fmVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T10:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y4nNtBqun-jPZkTyahFJhd7h_ag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dzHFzKrDaFE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T22:30:27Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "Japan&#39;s $35 Billion AI Chip to Challenge Nvidia",
+        "description": "Japan is betting $35 billion on Rapidus, a startup racing to build 2-nanometer AI chips by 2027 to challenge Nvidia's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dzHFzKrDaFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dzHFzKrDaFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dzHFzKrDaFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T22:30:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UJBPxBVYdQSbyfK6ZBiT0rx_P5M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_v8hkGd45ZQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T14:01:00Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "Moonshot Gifts Checkpoint-Engine: How AI Models Update Themselves in 20 Seconds",
+        "description": "This video showcases Moonshot AI's Checkpoint-engine which is a simple middleware to update model weights in LLM inference ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_v8hkGd45ZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_v8hkGd45ZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_v8hkGd45ZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T14:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zj-Kzwj_qSg9V63HzN7LV-nYORQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PbW-Jc8lUhM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T06:32:04Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "AI Waifu Peeling Banana",
+        "description": "Learn how to create free videos with AI locally from any image. For AI updates, please follow me on X - https://x.com/fahdmirza ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PbW-Jc8lUhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PbW-Jc8lUhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PbW-Jc8lUhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T06:32:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VrpaJh-vgA8R_2EMTewKrVO8mbg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0Zb_C2PfnDE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-22T02:00:01Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "HunyuanVideo-1.5: A Lightweight Video Generation Model: Run on 14G of VRAM",
+        "description": "This video locally installs Tencent HunyuanVideo-1.5 model which smoothly runs on consumer-grade GPUs. Get 50% Discount ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Zb_C2PfnDE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Zb_C2PfnDE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Zb_C2PfnDE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-22T02:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V6UVWZn2f7F415ARfTFrdK3dgqQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RmiadlfNPa4"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T19:00:30Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "GPU Hot: Real-Time NVIDIA GPU Monitoring Dashboard: Run Locally",
+        "description": "This video installs and tests GPU Hot, which is web-based monitoring for NVIDIA GPUs. Get 50% Discount on any A6000 or ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RmiadlfNPa4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RmiadlfNPa4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RmiadlfNPa4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T19:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QUc2jtyQ_wwMJNKPVRvkmJC2bN0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IRAEjEOX5UM"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-21T05:20:00Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "Fireside Interview with Michael Tso - CEO and Co-founder Cloudian",
+        "description": "This is an informal conversation with Michael Tso, CEO and co-founder of Cloudian discussing his star-studded journey and AI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IRAEjEOX5UM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IRAEjEOX5UM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IRAEjEOX5UM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-21T05:20:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xyfF4TsjoPwFxInrx6p50MxV1Mc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4o_Gt5yNYEE"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-20T20:49:42Z",
+        "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+        "title": "Olmo 3: America&#39;s Alternative to Qwen",
+        "description": "This video tests Olmo3 model which are striving to become champion of open-source and AI transparency. Get 50% Discount ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4o_Gt5yNYEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4o_Gt5yNYEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4o_Gt5yNYEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahd Mirza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-20T20:49:42Z"
+      }
+    }
+  ]
+}

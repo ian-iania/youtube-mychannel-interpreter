@@ -1,0 +1,79 @@
+{
+  "cached_at": 1764285752.050853,
+  "cache_type": "video_details",
+  "key": "gp59zaIikSQ",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "ybHEur016K0T2utjCApQ8NATCe0",
+    "id": "gp59zaIikSQ",
+    "snippet": {
+      "publishedAt": "2025-11-27T12:56:22Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "CSN: tira de um bolso, põe no outro",
+      "description": "“O Essencial” é a newsletter diária do InvestNews com reportagens explicativas e análises relevantes sobre o mundo dos negócios.\n\nAqui, na nossa versão em áudio, as vozes dos jornalistas Alexandre Versignassi e Lucinda Pinto são geradas por inteligência artificial. A versão em texto é escrita por ele e pela jornalista Camila Barros todos os dias.\n\nHoje vamos falar sobre:\n🔀 Reconfiguração do conselho da Oncoclínicas\n🎲 Como a Robinhood virou o templo dos investimentos de alto risco\n📉 A queda de 20% nas ações da Casas Bahia\n⚡️ O saldo da MP do setor elétrico\n\n✅  Inscreva-se e ative o 🔔 para não perder os próximos vídeos \n👍  Deixe seu like!\n📩 Assine e receba o melhor do InvestNews no seu email: https://bit.ly/3KeCXgP\n\n\"Este conteúdo é de cunho jornalístico e informativo e não deve ser considerado como oferta, recomendação ou orientação de compra ou venda de ativos\". \n\nDisclaimer completo: https://bit.ly/disclaimerINS",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gp59zaIikSQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gp59zaIikSQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gp59zaIikSQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gp59zaIikSQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gp59zaIikSQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "tags": [
+        "Investnews",
+        "investimentos",
+        "economia",
+        "finanças",
+        "investnewsbr",
+        "mercado financeiro",
+        "bolsa de valores",
+        "notícias",
+        "jornalismo econômico",
+        "negócios"
+      ],
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "CSN: tira de um bolso, põe no outro",
+        "description": "“O Essencial” é a newsletter diária do InvestNews com reportagens explicativas e análises relevantes sobre o mundo dos negócios.\n\nAqui, na nossa versão em áudio, as vozes dos jornalistas Alexandre Versignassi e Lucinda Pinto são geradas por inteligência artificial. A versão em texto é escrita por ele e pela jornalista Camila Barros todos os dias.\n\nHoje vamos falar sobre:\n🔀 Reconfiguração do conselho da Oncoclínicas\n🎲 Como a Robinhood virou o templo dos investimentos de alto risco\n📉 A queda de 20% nas ações da Casas Bahia\n⚡️ O saldo da MP do setor elétrico\n\n✅  Inscreva-se e ative o 🔔 para não perder os próximos vídeos \n👍  Deixe seu like!\n📩 Assine e receba o melhor do InvestNews no seu email: https://bit.ly/3KeCXgP\n\n\"Este conteúdo é de cunho jornalístico e informativo e não deve ser considerado como oferta, recomendação ou orientação de compra ou venda de ativos\". \n\nDisclaimer completo: https://bit.ly/disclaimerINS"
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT7M23S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "297",
+      "likeCount": "34",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

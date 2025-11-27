@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764285762.561694,
+  "cache_type": "channel_info",
+  "key": "UCXZCJLdBC09xxGZ6gcdrc6A",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "MZkCDluQOZyMtWCgj2sLO09DqeA",
+    "id": "UCXZCJLdBC09xxGZ6gcdrc6A",
+    "snippet": {
+      "title": "OpenAI",
+      "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity.\n\n",
+      "customUrl": "@openai",
+      "publishedAt": "2017-03-09T19:25:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/MopgmVAFV9BqlzOJ-UINtmutvEPcNe5IbKMmP_4vZZo3vnJXcZGtybUBsXaEVxkmxKyGqX9R=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/MopgmVAFV9BqlzOJ-UINtmutvEPcNe5IbKMmP_4vZZo3vnJXcZGtybUBsXaEVxkmxKyGqX9R=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/MopgmVAFV9BqlzOJ-UINtmutvEPcNe5IbKMmP_4vZZo3vnJXcZGtybUBsXaEVxkmxKyGqX9R=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "OpenAI",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity.\n\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "95517536",
+      "subscriberCount": "1890000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "409"
+    }
+  }
+}

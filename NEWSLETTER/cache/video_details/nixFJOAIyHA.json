@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285742.871634,
+  "cache_type": "video_details",
+  "key": "nixFJOAIyHA",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "5USU4IGrZe2yqyXooLvKKgblp-A",
+    "id": "nixFJOAIyHA",
+    "snippet": {
+      "publishedAt": "2025-11-26T02:47:11Z",
+      "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+      "title": "Install FLUX.2 [dev] in ComfyUI – Full Local Setup Guide - Free Workflow",
+      "description": "This video locally installs FLUX.2 [dev] model with ComfyUI, tests it on image creation and editing, and shares all the steps and free workflow.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#fluxdev2 #flux2 #flux2dev \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ Free Workflow https://github.com/fahdmirza/comfyuiworkflows\n▶ Models:\nhttps://huggingface.co/Comfy-Org/flux2-dev/blob/main/split_files/text_encoders/mistral_3_small_flux2_fp8.safetensors\nhttps://huggingface.co/Comfy-Org/flux2-dev/blob/main/split_files/vae/flux2-vae.safetensors\nhttps://huggingface.co/Comfy-Org/flux2-dev/blob/main/split_files/diffusion_models/flux2_dev_fp8mixed.safetensors\n\nAll rights reserved © Fahd Mirza",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/nixFJOAIyHA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/nixFJOAIyHA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/nixFJOAIyHA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/nixFJOAIyHA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/nixFJOAIyHA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Fahd Mirza",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Install FLUX.2 [dev] in ComfyUI – Full Local Setup Guide - Free Workflow",
+        "description": "This video locally installs FLUX.2 [dev] model with ComfyUI, tests it on image creation and editing, and shares all the steps and free workflow.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#fluxdev2 #flux2 #flux2dev \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ Free Workflow https://github.com/fahdmirza/comfyuiworkflows\n▶ Models:\nhttps://huggingface.co/Comfy-Org/flux2-dev/blob/main/split_files/text_encoders/mistral_3_small_flux2_fp8.safetensors\nhttps://huggingface.co/Comfy-Org/flux2-dev/blob/main/split_files/vae/flux2-vae.safetensors\nhttps://huggingface.co/Comfy-Org/flux2-dev/blob/main/split_files/diffusion_models/flux2_dev_fp8mixed.safetensors\n\nAll rights reserved © Fahd Mirza"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT20M53S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4030",
+      "likeCount": "100",
+      "favoriteCount": "0",
+      "commentCount": "26"
+    }
+  }
+}

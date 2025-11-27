@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285742.869636,
+  "cache_type": "video_details",
+  "key": "TTL4lBkQMYU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Wcac1_UJFgTUAKRm09wnvu_eiPw",
+    "id": "TTL4lBkQMYU",
+    "snippet": {
+      "publishedAt": "2025-11-27T20:02:25Z",
+      "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+      "title": "Whale is Back : DeepSeekMath-V2 - Mathematical Reasoning at its Finest",
+      "description": "This video delves deep into new DeepSeek model DeepSeekMath-V2.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#deepseekmath #deepseekmathv2\n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://huggingface.co/deepseek-ai/DeepSeek-Math-V2\n\nAll rights reserved © Fahd Mirza",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TTL4lBkQMYU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TTL4lBkQMYU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TTL4lBkQMYU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TTL4lBkQMYU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TTL4lBkQMYU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Fahd Mirza",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Whale is Back : DeepSeekMath-V2 - Mathematical Reasoning at its Finest",
+        "description": "This video delves deep into new DeepSeek model DeepSeekMath-V2.\n\n🔥 Get 50% Discount on any A6000 or A5000 GPU rental, use following link and coupon:\n\nhttps://bit.ly/fahd-mirza\nCoupon code: FahdMirza\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#deepseekmath #deepseekmathv2\n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://huggingface.co/deepseek-ai/DeepSeek-Math-V2\n\nAll rights reserved © Fahd Mirza"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT12M17S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "323",
+      "likeCount": "31",
+      "favoriteCount": "0",
+      "commentCount": "10"
+    }
+  }
+}

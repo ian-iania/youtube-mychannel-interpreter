@@ -1,0 +1,62 @@
+{
+  "cached_at": 1764285741.486254,
+  "cache_type": "video_details",
+  "key": "mY9EypyKaEU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "kOyB1OCLWMgqTZZPviauKFeNdcs",
+    "id": "mY9EypyKaEU",
+    "snippet": {
+      "publishedAt": "2025-11-25T16:01:13Z",
+      "channelId": "UCcIXc5mJsHVYTZR1maL5l9w",
+      "title": "Deep Learning Specialization by DeepLearning.AI #BeADeepLearner",
+      "description": "Enroll Now: https://bit.ly/47elYXy\n\nLooking to grow your skills and build a career in AI?\n\nJoin 1 million+ learners and #BeADeepLearner with the Deep Learning Specialization, a foundational online program by machine learning pioneer Andrew Ng.\n\nYou might be wondering if this is the right program for you, worried that you don’t have the time, or afraid that you won’t be able to keep up?\n\nWe understand that it can be daunting to start something new.\n\nThe Deep Learning Specialization:\n\n- Has clear, concise modules that allow for self-paced learning.\n- Introduces practical techniques to help you get started on your AI projects and develop an industry portfolio.\n- Has a 1 million-strong learner community that will support and guide you.\n- Breaks down foundational concepts into easy-to-understand lectures and engaging assignments.\n- Is up-to-date with the leading-edge in machine learning.\n\nEnroll now: https://bit.ly/47elYXy",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mY9EypyKaEU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mY9EypyKaEU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mY9EypyKaEU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mY9EypyKaEU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "DeepLearningAI",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Deep Learning Specialization by DeepLearning.AI #BeADeepLearner",
+        "description": "Enroll Now: https://bit.ly/47elYXy\n\nLooking to grow your skills and build a career in AI?\n\nJoin 1 million+ learners and #BeADeepLearner with the Deep Learning Specialization, a foundational online program by machine learning pioneer Andrew Ng.\n\nYou might be wondering if this is the right program for you, worried that you don’t have the time, or afraid that you won’t be able to keep up?\n\nWe understand that it can be daunting to start something new.\n\nThe Deep Learning Specialization:\n\n- Has clear, concise modules that allow for self-paced learning.\n- Introduces practical techniques to help you get started on your AI projects and develop an industry portfolio.\n- Has a 1 million-strong learner community that will support and guide you.\n- Breaks down foundational concepts into easy-to-understand lectures and engaging assignments.\n- Is up-to-date with the leading-edge in machine learning.\n\nEnroll now: https://bit.ly/47elYXy"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M35S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "5150",
+      "likeCount": "221",
+      "favoriteCount": "0",
+      "commentCount": "15"
+    }
+  }
+}

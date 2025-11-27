@@ -1,0 +1,72 @@
+{
+  "cached_at": 1764285753.812358,
+  "cache_type": "video_details",
+  "key": "y7EqDGGPxko",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "r6wocLlBdkYgalLYALDHJifCc6E",
+    "id": "y7EqDGGPxko",
+    "snippet": {
+      "publishedAt": "2025-11-23T21:30:18Z",
+      "channelId": "UC3M_z-XMGTFMBbCjVLPKkUA",
+      "title": "Gemini 3 + Antigravity: O Fim do GPT-4? (Testei na Prática + Fluxo n8n)",
+      "description": "Finalmente testei o GEMINI 3 e o recurso ANTIGRAVITY! \nSerá que o Google acabou de matar as outras IAs ou é apenas hype? O resultado dos testes de automação me surpreendeu...\n\n👇 APRENDA A AUTOMATIZAR ISSO E MUITO MAIS\n\n⭐ APRENDA n8n E AUTOMAÇÃO NA PRÁTICA (ACESSO VITALÍCIO) ⭐\nQuer dominar o n8n, criar automações sem código (low-code) e aumentar sua produtividade?  \n👉 Acesse agora: https://jonathandacruz.com.br/automacao-n8n\n\n🔗 RECURSOS E MATERIAIS DO VÍDEO\nBaixe os templates n8n prontos para uso mostrados nesta aula:\nhttps://jonathandacruz.com.br/templates\n\n💬 GRUPO GRATUITO DE AJUDA (WhatsApp)\nParticipe da comunidade, tire dúvidas e aprenda com outros entusiastas de automação com n8n:\nhttps://chat.whatsapp.com/LVOlBquw6z23DzwXnGYIn3\n\n---\n\n📽️ SOBRE ESTE VÍDEO\n\nNeste vídeo, eu coloco o novo Gemini 3 à prova junto com o sistema Antigravity. Fizemos testes de raciocínio lógico, geração de código e, claro, integração com automações. Se você quer saber se vale a pena migrar suas automações para o novo modelo do Google, você precisa ver esses benchmarks.\n\nO que você vai ver:\n- Comparativo de velocidade: Gemini 3 vs GPT-4o\n- O que é o modo \"Antigravity\" e como ativar\n- Teste prático criando um workflow complexo\n\n---\n\n#gemini  #antigravity #lowcode",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/y7EqDGGPxko/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/y7EqDGGPxko/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/y7EqDGGPxko/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/y7EqDGGPxko/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/y7EqDGGPxko/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jonathan da Cruz",
+      "tags": [
+        "n8n",
+        "agente de ia",
+        "automação de processos"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Gemini 3 + Antigravity: O Fim do GPT-4? (Testei na Prática + Fluxo n8n)",
+        "description": "Finalmente testei o GEMINI 3 e o recurso ANTIGRAVITY! \nSerá que o Google acabou de matar as outras IAs ou é apenas hype? O resultado dos testes de automação me surpreendeu...\n\n👇 APRENDA A AUTOMATIZAR ISSO E MUITO MAIS\n\n⭐ APRENDA n8n E AUTOMAÇÃO NA PRÁTICA (ACESSO VITALÍCIO) ⭐\nQuer dominar o n8n, criar automações sem código (low-code) e aumentar sua produtividade?  \n👉 Acesse agora: https://jonathandacruz.com.br/automacao-n8n\n\n🔗 RECURSOS E MATERIAIS DO VÍDEO\nBaixe os templates n8n prontos para uso mostrados nesta aula:\nhttps://jonathandacruz.com.br/templates\n\n💬 GRUPO GRATUITO DE AJUDA (WhatsApp)\nParticipe da comunidade, tire dúvidas e aprenda com outros entusiastas de automação com n8n:\nhttps://chat.whatsapp.com/LVOlBquw6z23DzwXnGYIn3\n\n---\n\n📽️ SOBRE ESTE VÍDEO\n\nNeste vídeo, eu coloco o novo Gemini 3 à prova junto com o sistema Antigravity. Fizemos testes de raciocínio lógico, geração de código e, claro, integração com automações. Se você quer saber se vale a pena migrar suas automações para o novo modelo do Google, você precisa ver esses benchmarks.\n\nO que você vai ver:\n- Comparativo de velocidade: Gemini 3 vs GPT-4o\n- O que é o modo \"Antigravity\" e como ativar\n- Teste prático criando um workflow complexo\n\n---\n\n#gemini  #antigravity #lowcode"
+      },
+      "defaultAudioLanguage": "pt"
+    },
+    "contentDetails": {
+      "duration": "PT14M4S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1098",
+      "likeCount": "58",
+      "favoriteCount": "0",
+      "commentCount": "7"
+    }
+  }
+}

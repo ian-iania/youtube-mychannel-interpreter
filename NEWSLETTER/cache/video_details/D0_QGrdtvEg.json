@@ -1,0 +1,74 @@
+{
+  "cached_at": 1764285772.090898,
+  "cache_type": "video_details",
+  "key": "D0_QGrdtvEg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "QNCvKsQU7UKMiG5f9KtEV5wac-o",
+    "id": "D0_QGrdtvEg",
+    "snippet": {
+      "publishedAt": "2025-11-25T22:19:35Z",
+      "channelId": "UC9Ryt3XOGYBoAJVsBHNGDzA",
+      "title": "Flux.2 Has Landed! Is It the Open Source King?",
+      "description": "Black Forest Labs is back. FLUX 2 has officially dropped, and we’re finding out if it lives up to the hype or if it’s just a fresh coat of paint. Today, we’re putting Flux 2 through the wringer with deep testing on realistic textures, consistency, and the dreaded \"hand\" check.\n\nPlus, the open-source video world gets a massive win with Hunyuan Video 1.5 (that doesn't require a mortgage to run), and a mysterious new challenger from Bytedance appears to take the crown.\n\nIn this video:\n\nFull breakdown of Flux 2 features (4MP, JSON, Hex codes)\n\nSide-by-side comparisons: Flux 2 vs. Reference Images vs. \"Nano Banana\"\n\nFirst look at the lightweight Hunyuan Video 1.5\n\nThe mystery \"Whisper Thunder\" model climbing the leaderboards\n\n🛑 Don't forget to subscribe for the latest AI workflows and theory!\n\nLINKS: \nBlack Forest Labs: https://playground.bfl.ai/image/generate\nHunyuan Video 1.5: https://hunyuan.tencent.com/video/zh?tabIndex=0\nArtificial Analysis: https://artificialanalysis.ai/video/models\n\n⏳ Chapters\n00:00 Intro & The Flux 2 Drop\n 00:37 The Timeline: From Flux 1 to Now \n01:05 Flux 2 Features: 4MP & Hex Codes \n01:49 Flux Flavors\n02:14 The Area 51 \"Blue Suit\" Test \n03:00 Checking Hands & Coffee Cups \n03:30 The Pirate Tavern & Style Bias \n04:07 Fixing Style with Image References \n04:36 Character Consistency (The FBI Agent) \n05:20 Multi-Reference Testing Setup \n05:50 Comparison: Flux 2 vs. Nano Banana Pro \n06:21 Glitch Check: The Third Arm \n06:44 Testing the 180-Degree Rule\n 07:24 Complex Multi-Image Prompt Results \n07:58 Community Showcases (Noir & Lighthouses) \n08:36 Flux 2: The Initial Verdict \n09:11 Hunyuan Video 1.5 Overview \n09:46 Running Video AI Locally (14GB VRAM) \n10:12 Bytedance's \"Lab\": The New Challenger? \n10:42 Pose Reference: Bytedance vs. Banana \n11:36 Mystery Model: Whisper Thunder \n12:09 Text-to-Video Impressions \n12:47 Outro & What’s Coming Next",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/D0_QGrdtvEg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/D0_QGrdtvEg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/D0_QGrdtvEg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/D0_QGrdtvEg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/D0_QGrdtvEg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Theoretically Media",
+      "tags": [
+        "Black Forest Labs",
+        "Flux.2",
+        "Flux",
+        "Hunyuan",
+        "Seedream"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Flux.2 Has Landed! Is It the Open Source King?",
+        "description": "Black Forest Labs is back. FLUX 2 has officially dropped, and we’re finding out if it lives up to the hype or if it’s just a fresh coat of paint. Today, we’re putting Flux 2 through the wringer with deep testing on realistic textures, consistency, and the dreaded \"hand\" check.\n\nPlus, the open-source video world gets a massive win with Hunyuan Video 1.5 (that doesn't require a mortgage to run), and a mysterious new challenger from Bytedance appears to take the crown.\n\nIn this video:\n\nFull breakdown of Flux 2 features (4MP, JSON, Hex codes)\n\nSide-by-side comparisons: Flux 2 vs. Reference Images vs. \"Nano Banana\"\n\nFirst look at the lightweight Hunyuan Video 1.5\n\nThe mystery \"Whisper Thunder\" model climbing the leaderboards\n\n🛑 Don't forget to subscribe for the latest AI workflows and theory!\n\nLINKS: \nBlack Forest Labs: https://playground.bfl.ai/image/generate\nHunyuan Video 1.5: https://hunyuan.tencent.com/video/zh?tabIndex=0\nArtificial Analysis: https://artificialanalysis.ai/video/models\n\n⏳ Chapters\n00:00 Intro & The Flux 2 Drop\n 00:37 The Timeline: From Flux 1 to Now \n01:05 Flux 2 Features: 4MP & Hex Codes \n01:49 Flux Flavors\n02:14 The Area 51 \"Blue Suit\" Test \n03:00 Checking Hands & Coffee Cups \n03:30 The Pirate Tavern & Style Bias \n04:07 Fixing Style with Image References \n04:36 Character Consistency (The FBI Agent) \n05:20 Multi-Reference Testing Setup \n05:50 Comparison: Flux 2 vs. Nano Banana Pro \n06:21 Glitch Check: The Third Arm \n06:44 Testing the 180-Degree Rule\n 07:24 Complex Multi-Image Prompt Results \n07:58 Community Showcases (Noir & Lighthouses) \n08:36 Flux 2: The Initial Verdict \n09:11 Hunyuan Video 1.5 Overview \n09:46 Running Video AI Locally (14GB VRAM) \n10:12 Bytedance's \"Lab\": The New Challenger? \n10:42 Pose Reference: Bytedance vs. Banana \n11:36 Mystery Model: Whisper Thunder \n12:09 Text-to-Video Impressions \n12:47 Outro & What’s Coming Next"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT13M4S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "35405",
+      "likeCount": "1533",
+      "favoriteCount": "0",
+      "commentCount": "200"
+    }
+  }
+}

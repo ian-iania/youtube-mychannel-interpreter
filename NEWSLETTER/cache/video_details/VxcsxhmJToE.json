@@ -1,0 +1,88 @@
+{
+  "cached_at": 1764285760.460642,
+  "cache_type": "video_details",
+  "key": "VxcsxhmJToE",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "81a0lEhdf2COP1p9X7JHmYYDRZg",
+    "id": "VxcsxhmJToE",
+    "snippet": {
+      "publishedAt": "2025-11-22T02:46:01Z",
+      "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+      "title": "Pantone’s Palette Generator enhances creative exploration with agentic AI on Azure",
+      "description": "Pantone empower designers with AI-driven color insights, instant trend forecasting, and seamless access to expert palettes for creative innovation. \n\nLearn more: https://msft.it/AIFoundry\n\n#MicrosoftAzure #MicrosoftFoundry",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VxcsxhmJToE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VxcsxhmJToE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VxcsxhmJToE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VxcsxhmJToE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Microsoft Azure",
+      "tags": [
+        "Pantone",
+        "Microsoft Foundry",
+        "Azure AI",
+        "Azure Cosmos DB",
+        "GitHub Copilot",
+        "color intelligence",
+        "design trends",
+        "creative industries",
+        "color psychology",
+        "AI agents",
+        "trend forecasting",
+        "digital transformation",
+        "actionable inspiration",
+        "design workflow",
+        "color palettes",
+        "event",
+        "partnership",
+        "innovation",
+        "technology",
+        "business of creativity",
+        "color standards",
+        "design community",
+        "manufacturing",
+        "branding"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Pantone’s Palette Generator enhances creative exploration with agentic AI on Azure",
+        "description": "Pantone empower designers with AI-driven color insights, instant trend forecasting, and seamless access to expert palettes for creative innovation. \n\nLearn more: https://msft.it/AIFoundry\n\n#MicrosoftAzure #MicrosoftFoundry"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M55S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "179",
+      "likeCount": "3",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

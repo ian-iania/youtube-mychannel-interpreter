@@ -1,0 +1,69 @@
+{
+  "cached_at": 1764285739.4881139,
+  "cache_type": "video_details",
+  "key": "6Kw1Qt8I_64",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "OB6XDndZjE7t39QcgV4nqQs-0KA",
+    "id": "6Kw1Qt8I_64",
+    "snippet": {
+      "publishedAt": "2025-11-21T16:58:51Z",
+      "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+      "title": "Databricks CEO at Microsoft Ignite 2025 Partner Keynote",
+      "description": "Databricks Co-founder and CEO Ali Ghodsi explains what Databricks does during the Microsoft Ignite 2025 Partner Keynote.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6Kw1Qt8I_64/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6Kw1Qt8I_64/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6Kw1Qt8I_64/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6Kw1Qt8I_64/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6Kw1Qt8I_64/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Databricks",
+      "tags": [
+        "Databricks"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Databricks CEO at Microsoft Ignite 2025 Partner Keynote",
+        "description": "Databricks Co-founder and CEO Ali Ghodsi explains what Databricks does during the Microsoft Ignite 2025 Partner Keynote."
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT46S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "301",
+      "likeCount": "4",
+      "favoriteCount": "0"
+    }
+  }
+}

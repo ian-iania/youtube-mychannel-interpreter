@@ -1,0 +1,69 @@
+{
+  "cached_at": 1764285739.487627,
+  "cache_type": "video_details",
+  "key": "l0SrINT1cww",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "MGnef1Eq_pIo4Hrz2OC2YBZyKUY",
+    "id": "l0SrINT1cww",
+    "snippet": {
+      "publishedAt": "2025-11-21T19:14:13Z",
+      "channelId": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
+      "title": "What's New in Azure Databricks: OneLake + Unity Catalog | Announcements from Microsoft Ignite 2025",
+      "description": "What's New in Azure Databricks: \n- We are expanding support for OneLake in Unity Catalog\n- All data managed by Azure Databricks Unity Catalog is accessible by OneLake today\n- Microsoft added Unity Catalog Open API support in OneLake\n- Databricks will be able to read from OneLake soon\n\nAzure Databricks unifies data, analytics, and AI in one open, governed platform. \n\nFor nearly a decade, Databricks and Microsoft have partnered to help organizations unlock the value of their data through the openness and flexibility of the lakehouse. Today, that partnership takes another step forward, giving customers more choice in how they access and govern data across platforms.\n\nFor more on this zero-copy data integration, see the blog: https://www.databricks.com/blog/expanding-support-onelake-unity-catalog",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/l0SrINT1cww/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/l0SrINT1cww/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/l0SrINT1cww/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/l0SrINT1cww/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/l0SrINT1cww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Databricks",
+      "tags": [
+        "Databricks"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "What's New in Azure Databricks: OneLake + Unity Catalog | Announcements from Microsoft Ignite 2025",
+        "description": "What's New in Azure Databricks: \n- We are expanding support for OneLake in Unity Catalog\n- All data managed by Azure Databricks Unity Catalog is accessible by OneLake today\n- Microsoft added Unity Catalog Open API support in OneLake\n- Databricks will be able to read from OneLake soon\n\nAzure Databricks unifies data, analytics, and AI in one open, governed platform. \n\nFor nearly a decade, Databricks and Microsoft have partnered to help organizations unlock the value of their data through the openness and flexibility of the lakehouse. Today, that partnership takes another step forward, giving customers more choice in how they access and govern data across platforms.\n\nFor more on this zero-copy data integration, see the blog: https://www.databricks.com/blog/expanding-support-onelake-unity-catalog"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M17S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "446",
+      "likeCount": "8",
+      "favoriteCount": "0"
+    }
+  }
+}

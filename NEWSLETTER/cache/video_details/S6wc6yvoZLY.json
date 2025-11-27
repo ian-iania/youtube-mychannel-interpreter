@@ -1,0 +1,95 @@
+{
+  "cached_at": 1764285743.765622,
+  "cache_type": "video_details",
+  "key": "S6wc6yvoZLY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "lsDuZG0ChFW5gdyrWYlpHbk0mKY",
+    "id": "S6wc6yvoZLY",
+    "snippet": {
+      "publishedAt": "2025-11-26T18:20:32Z",
+      "channelId": "UCsBjURrPoezykLs9EqgamOA",
+      "title": "AI agents are paying each other now…",
+      "description": "Get up to 67% off Docker VPS to self-host your own app. Use code FIRESHIP for an extra discount -  https://hostinger.com/fireshipdocker\n\nEarlier this year, Coinbase changed online payments forever with a new protocol called x402. But could this technology really usher in a new age of 'machine to machine' payments? Let's run it...\n\n#ai #programming #coding \n\n💬 Chat with Me on Discord\n- https://discord.gg/fireship\n\n🔗 Resources\n- https://www.x402.org/\n- https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/402\n\n🔥 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n🎨 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n🔖 Topics Covered\n- HTTP 402 Status Code\n- x402\n- x402 vs Stripe\n- Machine to machine payments\n- x402 demo",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S6wc6yvoZLY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S6wc6yvoZLY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S6wc6yvoZLY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/S6wc6yvoZLY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/S6wc6yvoZLY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Fireship",
+      "tags": [
+        "webdev",
+        "app development",
+        "lesson",
+        "tutorial",
+        "x402",
+        "coinbase",
+        "coinbase x402",
+        "micropayments",
+        "machine to machine payments",
+        "ai payment system",
+        "digital economy",
+        "x402 demo",
+        "fireship",
+        "code report",
+        "stripe",
+        "stripe fees",
+        "oauth",
+        "nodejs",
+        "api",
+        "api payments",
+        "http",
+        "http 402",
+        "http status codes",
+        "402 status code",
+        "402 payment required",
+        "payment required"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "AI agents are paying each other now…",
+        "description": "Get up to 67% off Docker VPS to self-host your own app. Use code FIRESHIP for an extra discount -  https://hostinger.com/fireshipdocker\n\nEarlier this year, Coinbase changed online payments forever with a new protocol called x402. But could this technology really usher in a new age of 'machine to machine' payments? Let's run it...\n\n#ai #programming #coding \n\n💬 Chat with Me on Discord\n- https://discord.gg/fireship\n\n🔗 Resources\n- https://www.x402.org/\n- https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/402\n\n🔥 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n🎨 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font\n\n🔖 Topics Covered\n- HTTP 402 Status Code\n- x402\n- x402 vs Stripe\n- Machine to machine payments\n- x402 demo"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT4M51S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "319128",
+      "likeCount": "15078",
+      "favoriteCount": "0",
+      "commentCount": "758"
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "cached_at": 1764285758.947119,
+  "cache_type": "video_details",
+  "key": "MHMLi7M5GkI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "WxD2se8Wldwp78F7a3c5EMTZRb0",
+    "id": "MHMLi7M5GkI",
+    "snippet": {
+      "publishedAt": "2025-11-22T20:20:34Z",
+      "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "title": "Gemini 3 is nuts...",
+      "description": "Automate your workflow with Zapier Copilot: https://bit.ly/3JbB6xa\n\nDownload the Gemini 3 Edition of Humanities Last Prompt Engineering Guide (free) 👇🏼\nhttps://www.forwardfuture.ai/p/humanity-s-last-prompt-engineering-guide-built-for-the-gemini-3era\n\nDownload The Subtle Art of Not Being Replaced 👇🏼\nhttp://bit.ly/3WLNzdV\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nDiscover The Best AI Tools👇🏼\nhttps://tools.forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forward_future_\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/xxysSXBxFW\n👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\n0:00 Intro\n0:16 Voxel Robot Generator\n2:12 Raytracing\n3:30 Bubble Sim\n5:54 Sponsor\n7:09 Voxel From Images\n8:39 Particle Collider\n9:35 Power of 10 Animation\n10:56 Solar System\n12:45 Golf Swing Analyzer\n14:25 Hand Tracking Fluid Dynamic Sim\n14:50 Globe Sim\n15:41 Dot Image Matrix Converter\n16:43 Monopoly Generator",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MHMLi7M5GkI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MHMLi7M5GkI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MHMLi7M5GkI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MHMLi7M5GkI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MHMLi7M5GkI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Matthew Berman",
+      "tags": [
+        "ai",
+        "llm",
+        "artificial intelligence",
+        "large language model",
+        "openai",
+        "mistral",
+        "chatgpt",
+        "ai news",
+        "claude",
+        "anthropic",
+        "apple ai",
+        "apple intelligence",
+        "llama",
+        "meta ai",
+        "google ai"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "Gemini 3 is nuts...",
+        "description": "Automate your workflow with Zapier Copilot: https://bit.ly/3JbB6xa\n\nDownload the Gemini 3 Edition of Humanities Last Prompt Engineering Guide (free) 👇🏼\nhttps://www.forwardfuture.ai/p/humanity-s-last-prompt-engineering-guide-built-for-the-gemini-3era\n\nDownload The Subtle Art of Not Being Replaced 👇🏼\nhttp://bit.ly/3WLNzdV\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nDiscover The Best AI Tools👇🏼\nhttps://tools.forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forward_future_\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/xxysSXBxFW\n👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nLinks:\n0:00 Intro\n0:16 Voxel Robot Generator\n2:12 Raytracing\n3:30 Bubble Sim\n5:54 Sponsor\n7:09 Voxel From Images\n8:39 Particle Collider\n9:35 Power of 10 Animation\n10:56 Solar System\n12:45 Golf Swing Analyzer\n14:25 Hand Tracking Fluid Dynamic Sim\n14:50 Globe Sim\n15:41 Dot Image Matrix Converter\n16:43 Monopoly Generator"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT17M51S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "71135",
+      "likeCount": "1884",
+      "favoriteCount": "0",
+      "commentCount": "293"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764285776.885355,
+  "cache_type": "video_details",
+  "key": "GC6Cjn146LY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "xMtWgojxPT3FPLmTtK6mU5uTxEo",
+    "id": "GC6Cjn146LY",
+    "snippet": {
+      "publishedAt": "2025-11-25T18:17:30Z",
+      "channelId": "UCauE-yGwb8bJ55BswgrGxAg",
+      "title": "Organizações reagem ao acordo final da COP30: avanços históricos, mas insuficientes",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GC6Cjn146LY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GC6Cjn146LY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GC6Cjn146LY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GC6Cjn146LY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GC6Cjn146LY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "exame",
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Organizações reagem ao acordo final da COP30: avanços históricos, mas insuficientes",
+        "description": ""
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT2M52S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2162",
+      "likeCount": "96",
+      "favoriteCount": "0",
+      "commentCount": "10"
+    }
+  }
+}

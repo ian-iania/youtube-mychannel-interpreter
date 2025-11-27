@@ -1,0 +1,86 @@
+{
+  "cached_at": 1764285775.1371362,
+  "cache_type": "video_details",
+  "key": "SlvEm-z3tKg",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Zbyw4-qYIdQQg1K580UFNswreX4",
+    "id": "SlvEm-z3tKg",
+    "snippet": {
+      "publishedAt": "2025-11-25T19:26:07Z",
+      "channelId": "UCOu9pKHv94bFeRy5vzB-b1Q",
+      "title": "Como conectar o Postgres Chat Memory ao seu Agente de IA no n8n!",
+      "description": "Se os seus Agentes de IA costumam alucinar frequentemente, você tem um problema de contexto e memória. E eu vou te ensinar a resolver isso de maneira simples usando o Postgres Chatmemory com n8n. Espero que curtam o vídeo!\n\nEntre na AI Makers e consiga seu 1º cliente + todos meus templates ⤵️\nhttps://aimakers.lovable.app/\n\nMe contrate para automatizar seu negócio com Agentes de IA ⤵️\nhttps://tally.so/r/J9KM1X\n\nVPS da Hostinger usando o cupom WELLPIRES para obter + desconto (por tempo limitado): 🔗 https://tag.gs/Well_Pires_",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SlvEm-z3tKg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SlvEm-z3tKg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SlvEm-z3tKg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SlvEm-z3tKg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SlvEm-z3tKg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Well Pires ",
+      "tags": [
+        "Como conectar postgres chatmemory n8n",
+        "postgres chatmemory n8n",
+        "postgres chatmemory",
+        "postgres ai agent",
+        "n8n postgres chat memory",
+        "n8n postgres",
+        "memória agente de ia",
+        "agente de ia postgres",
+        "tutorial n8n",
+        "tutorial postgres chat memory",
+        "agente ia n8n",
+        "ai agent",
+        "ai",
+        "n8n workflow",
+        "n8n tutorial for beginners",
+        "openai",
+        "agente de ia n8n"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Como conectar o Postgres Chat Memory ao seu Agente de IA no n8n!",
+        "description": "Se os seus Agentes de IA costumam alucinar frequentemente, você tem um problema de contexto e memória. E eu vou te ensinar a resolver isso de maneira simples usando o Postgres Chatmemory com n8n. Espero que curtam o vídeo!\n\nEntre na AI Makers e consiga seu 1º cliente + todos meus templates ⤵️\nhttps://aimakers.lovable.app/\n\nMe contrate para automatizar seu negócio com Agentes de IA ⤵️\nhttps://tally.so/r/J9KM1X\n\nVPS da Hostinger usando o cupom WELLPIRES para obter + desconto (por tempo limitado): 🔗 https://tag.gs/Well_Pires_"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT11M47S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "466",
+      "likeCount": "29",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

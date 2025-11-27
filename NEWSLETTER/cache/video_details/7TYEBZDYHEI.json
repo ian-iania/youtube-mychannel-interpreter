@@ -1,0 +1,62 @@
+{
+  "cached_at": 1764285738.93167,
+  "cache_type": "video_details",
+  "key": "7TYEBZDYHEI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "PySj513QJ-YAGDLOtBB-m5m1Vg0",
+    "id": "7TYEBZDYHEI",
+    "snippet": {
+      "publishedAt": "2025-11-21T08:38:43Z",
+      "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+      "title": "Higgsfield Nano Banana Pro Free unlimited ",
+      "description": "Higgsfield dropped Nano Banana Pro – a new pro-grade image engine powered by Google’s Gemini 3 Pro Image model.\nI’ve been testing it in this video, and honestly, the accuracy is wild: cleaner faces, stable text, fixed anatomy, better layouts, and actual 4K output that doesn’t fall apart on zoom.\n\nThis model doesn’t just “generate images.” It thinks through structure, counts objects correctly, handles diagrams and equations, and keeps characters consistent across shots. If you work with ads, thumbnails, product mockups or structured visuals, this update is honestly on another level.\n\nAnd yes: Higgsfield is offering UNLIMITED Nano Banana Pro generations for one full year. More info in the link below.\n\n#NanoBananaPro #HiggsfieldAI #VideoGeneration #AIVideo\n\nTry Nano Banana Pro here:\nhttps://higgsfield.ai/nano-banana-2-intro",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7TYEBZDYHEI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7TYEBZDYHEI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7TYEBZDYHEI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7TYEBZDYHEI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Data Science in your pocket",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-IN",
+      "localized": {
+        "title": "Higgsfield Nano Banana Pro Free unlimited ",
+        "description": "Higgsfield dropped Nano Banana Pro – a new pro-grade image engine powered by Google’s Gemini 3 Pro Image model.\nI’ve been testing it in this video, and honestly, the accuracy is wild: cleaner faces, stable text, fixed anatomy, better layouts, and actual 4K output that doesn’t fall apart on zoom.\n\nThis model doesn’t just “generate images.” It thinks through structure, counts objects correctly, handles diagrams and equations, and keeps characters consistent across shots. If you work with ads, thumbnails, product mockups or structured visuals, this update is honestly on another level.\n\nAnd yes: Higgsfield is offering UNLIMITED Nano Banana Pro generations for one full year. More info in the link below.\n\n#NanoBananaPro #HiggsfieldAI #VideoGeneration #AIVideo\n\nTry Nano Banana Pro here:\nhttps://higgsfield.ai/nano-banana-2-intro"
+      },
+      "defaultAudioLanguage": "en-IN"
+    },
+    "contentDetails": {
+      "duration": "PT11M17S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "247",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

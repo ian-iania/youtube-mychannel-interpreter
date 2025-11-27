@@ -1,0 +1,41 @@
+{
+  "cached_at": 1764285772.897986,
+  "cache_type": "channel_videos",
+  "key": "UCbfYPyITQ-7l4upoX8nvctg_7days",
+  "data": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XdT2tIWWOEqQcSfCJI1DFPsGjqE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IyLQyob8W-w"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-23T16:06:34Z",
+        "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+        "title": "Unreal Engine 5.7: Billions Of Triangles, In Real Time",
+        "description": "Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The Unreal Engine 5.7 is available here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IyLQyob8W-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IyLQyob8W-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IyLQyob8W-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Two Minute Papers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-23T16:06:34Z"
+      }
+    }
+  ]
+}
