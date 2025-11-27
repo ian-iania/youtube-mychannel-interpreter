@@ -159,7 +159,8 @@ def get_video_durations(youtube, video_ids):
             if 'items' in response:
                 for item in response['items']:
                     video_id = item['id']
-                    duration = item['contentDetails']['duration']
+                    content_details = item.get('contentDetails', {})
+                    duration = content_details.get('duration', 'PT0S')
                     
                     # Adicionar também estatísticas
                     stats = item.get('statistics', {})
@@ -211,7 +212,7 @@ def parse_duration_to_minutes(duration_iso):
     return hours * 60 + minutes + seconds / 60
 
 
-def load_subscriptions(subscriptions_file='subscriptions.json'):
+def load_subscriptions(subscriptions_file='newsletter_channels.json'):
     """
     Carrega lista de inscrições
     
@@ -225,7 +226,7 @@ def load_subscriptions(subscriptions_file='subscriptions.json'):
     
     if not file_path.exists():
         print(f"❌ Erro: Arquivo {subscriptions_file} não encontrado")
-        print("   Execute primeiro: python scripts/collect_subscriptions.py")
+        print("   Execute primeiro: python scripts/classify_channels_interactive.py")
         sys.exit(1)
     
     with open(file_path, 'r', encoding='utf-8') as f:
