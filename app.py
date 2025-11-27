@@ -424,14 +424,24 @@ def main():
                                         key=f"transcript_text_{playlist_name}_{video_id}_{idx}"
                                     )
                                     
-                                    # Botão para download
-                                    st.download_button(
-                                        label="💾 Baixar Transcrição",
-                                        data=formatted_transcript,
-                                        file_name=f"transcript_{video_id}.txt",
-                                        mime="text/plain",
-                                        key=f"download_{playlist_name}_{video_id}_{idx}"
-                                    )
+                                    # Botões de ação em colunas
+                                    btn_col1, btn_col2 = st.columns(2)
+                                    
+                                    with btn_col1:
+                                        # Botão para download
+                                        st.download_button(
+                                            label="💾 Baixar Transcrição",
+                                            data=formatted_transcript,
+                                            file_name=f"transcript_{video_id}.txt",
+                                            mime="text/plain",
+                                            key=f"download_{playlist_name}_{video_id}_{idx}"
+                                        )
+                                    
+                                    with btn_col2:
+                                        # Exibir transcrição em formato copiável
+                                        with st.expander("📋 Copiar Transcrição"):
+                                            st.code(formatted_transcript, language=None)
+                                            st.caption("👆 Use o botão de copiar no canto superior direito")
                                 else:
                                     st.error(f"❌ {lang_or_error}")
                         
