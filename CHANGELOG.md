@@ -1,5 +1,42 @@
 # 📝 Changelog - YouTube Playlist Manager
 
+## [1.1.0] - 2025-11-27
+
+### ✨ Novas Funcionalidades
+
+#### Copiar Transcrição para Clipboard
+- ✅ Botão de copiar integrado no bloco de transcrição
+- ✅ Uso do componente nativo `st.code()` do Streamlit
+- ✅ Ícone de copiar (📋) no canto superior direito do bloco
+- ✅ Interface simplificada e mais intuitiva
+- ✅ Remoção de JavaScript customizado complexo
+
+### 🔧 Melhorias Técnicas
+
+#### Interface de Transcrição
+- ✅ Simplificação da exibição de transcrições
+- ✅ Remoção de componentes redundantes
+- ✅ Melhor feedback visual para o usuário
+- ✅ Uso de componentes nativos do Streamlit
+
+### 📦 Dependências Atualizadas
+
+```
+pyperclip==1.9.0  # Adicionado (preparação para futuras features)
+```
+
+### 🐛 Correções
+
+#### Funcionalidade de Cópia
+- ❌ **Problema:** Botão customizado não copiava corretamente
+- ✅ **Solução:** Uso do `st.code()` com botão de copiar nativo
+
+### 📝 Commits
+
+- `b14f2b7` - ✨ Adiciona funcionalidade de copiar transcrição para clipboard
+
+---
+
 ## [1.0.0] - 2025-11-27
 
 ### ✨ Funcionalidades Principais
