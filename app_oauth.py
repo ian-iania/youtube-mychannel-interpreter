@@ -16,6 +16,11 @@ import pandas as pd
 import time
 from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api._errors import TranscriptsDisabled, NoTranscriptFound
+from openai import OpenAI
+from dotenv import load_dotenv
+
+# Carregar variáveis de ambiente
+load_dotenv()
 
 # Configuração da página
 st.set_page_config(
@@ -160,6 +165,120 @@ def save_favorites(favorites):
         json.dump(favorites, f, ensure_ascii=False, indent=2)
 
 
+def download_audio_from_youtube(video_id):
+    """
+    Baixa apenas o áudio de um vídeo do YouTube
+    
+    Args:
+        video_id: ID do vídeo do YouTube
+    
+    Returns:
+        tuple: (audio_file_path, error_message)
+    """
+    try:
+        video_url = f"https://www.youtube.com/watch?v={video_id}"
+        audio_file = f"temp_audio_{video_id}"
+        
+        # Configurações para baixar apenas áudio
+        ydl_opts = {
+            'format': 'bestaudio/best',
+            'outtmpl': audio_file,
+            'quiet': True,
+            'no_warnings': True,
+            'extract_audio': True,
+        }
+        
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            info = ydl.extract_info(video_url, download=True)
+            
+            # Encontrar o arquivo baixado
+            ext = info.get('ext', 'webm')
+            final_file = f"{audio_file}.{ext}"
+            
+            if os.path.exists(final_file):
+                return final_file, None
+            else:
+                # Tentar outras extensões comuns
+                for possible_ext in ['webm', 'm4a', 'mp3', 'opus']:
+                    possible_file = f"{audio_file}.{possible_ext}"
+                    if os.path.exists(possible_file):
+                        return possible_file, None
+                
+                return None, "Arquivo de áudio não encontrado após download"
+                
+    except Exception as e:
+        return None, f"Erro ao baixar áudio: {str(e)}"
+
+
+def transcribe_with_whisper(audio_file, language='pt'):
+    """
+    Transcreve áudio usando OpenAI Whisper API
+    
+    Args:
+        audio_file: Caminho do arquivo de áudio
+        language: Código do idioma (pt, en, es, etc.)
+    
+    Returns:
+        tuple: (transcript_data, language) ou (None, error_message)
+    """
+    try:
+        # Verificar se a API key está configurada
+        api_key = os.getenv('OPENAI_API_KEY')
+        if not api_key:
+            return None, "OPENAI_API_KEY não configurada no arquivo .env"
+        
+        # Verificar tamanho do arquivo (limite de 25MB)
+        file_size = os.path.getsize(audio_file)
+        if file_size > 25 * 1024 * 1024:  # 25MB
+            return None, f"Arquivo muito grande ({file_size / 1024 / 1024:.1f}MB). Limite: 25MB"
+        
+        # Inicializar cliente OpenAI
+        client = OpenAI(api_key=api_key)
+        
+        # Abrir e enviar arquivo para Whisper
+        with open(audio_file, 'rb') as audio:
+            transcript = client.audio.transcriptions.create(
+                model="gpt-4o-mini",  # Modelo mais barato ($0.003/min)
+                file=audio,
+                language=language,
+                response_format="verbose_json",
+                timestamp_granularities=["segment"]
+            )
+        
+        # Processar resposta e extrair timestamps
+        transcript_data = []
+        if hasattr(transcript, 'segments') and transcript.segments:
+            for segment in transcript.segments:
+                transcript_data.append({
+                    'start': segment['start'],
+                    'text': segment['text'].strip()
+                })
+        else:
+            # Fallback: se não tiver segments, usar texto completo
+            transcript_data.append({
+                'start': 0,
+                'text': transcript.text
+            })
+        
+        # Deletar arquivo temporário
+        try:
+            os.remove(audio_file)
+        except:
+            pass
+        
+        return transcript_data, language
+        
+    except Exception as e:
+        # Limpar arquivo em caso de erro
+        try:
+            if os.path.exists(audio_file):
+                os.remove(audio_file)
+        except:
+            pass
+        
+        return None, f"Erro na transcrição Whisper: {str(e)}"
+
+
 @st.cache_data(ttl=3600)  # Cache por 1 hora
 def get_transcript(video_id, languages=['pt', 'pt-BR', 'en']):
     """
@@ -218,9 +337,30 @@ def get_transcript(video_id, languages=['pt', 'pt-BR', 'en']):
         return None, "Transcrições desabilitadas para este vídeo"
     except Exception as e:
         error_msg = str(e)
-        # Detectar erro 429 (Too Many Requests)
+        # Detectar erro 429 (Too Many Requests) - usar Whisper como fallback
         if '429' in error_msg or 'Too Many Requests' in error_msg:
-            return None, "⏳ YouTube bloqueou temporariamente as transcrições (muitas requisições). Aguarde alguns minutos e tente novamente."
+            st.info("🎙️ YouTube bloqueado. Usando Whisper API (OpenAI)...")
+            
+            # Baixar áudio
+            with st.spinner("📥 Baixando áudio do vídeo..."):
+                audio_file, error = download_audio_from_youtube(video_id)
+            
+            if error:
+                return None, f"Erro ao baixar áudio: {error}"
+            
+            # Transcrever com Whisper
+            with st.spinner("🤖 Transcrevendo com Whisper API..."):
+                transcript_data, lang = transcribe_with_whisper(
+                    audio_file,
+                    language=languages[0][:2]  # 'pt' de 'pt-BR'
+                )
+            
+            if transcript_data:
+                st.success(f"✅ Transcrição obtida via Whisper API (idioma: {lang})")
+                return transcript_data, lang
+            else:
+                return None, lang  # lang contém a mensagem de erro
+        
         # Outros erros, tentar yt-dlp como fallback
         pass
     
