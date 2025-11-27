@@ -6,10 +6,6 @@
 
 ## 🎯 Visão Geral do Projeto
 
-**Nome**: YouTube Playlist Manager  
-**Versão**: 1.1.0  
-**Status**: ✅ Produção  
-**Repositório**: https://github.com/ian-iania/youtube-mychannel-interpreter
 
 ### Descrição
 Aplicação Streamlit completa para gerenciar, buscar e transcrever vídeos de playlists do YouTube com interface moderna e intuitiva.
@@ -259,4 +255,118 @@ streamlit run app.py
 
 ---
 
-**Última Modificação**: 27 de Novembro de 2025, 08:30 UTC-03:00
+## 🔐 Implementação OAuth 2.0 (NOVO - 27/11/2025)
+
+### Visão Geral
+Sistema completo de autenticação OAuth 2.0 para acessar playlists privadas do YouTube.
+
+### Dois Apps Disponíveis
+
+**1. app.py (Original - API Key)**
+- Porta: 8501
+- Playlists: ~8-12 (apenas públicas)
+- Diretório: `playlists/`
+- Ícone: 🎥
+
+**2. app_oauth.py (Novo - OAuth 2.0)** 🆕
+- Porta: 8503
+- Playlists: 32 (públicas + privadas + não listadas)
+- Vídeos: 2.777
+- Diretório: `playlists_oauth/`
+- Ícone: 🔐
+
+### Melhorias Recentes (app_oauth.py)
+
+**Ordenação por Data** (Commit: `ad0849f`)
+```python
+# Vídeos ordenados do mais recente para mais antigo
+matching_videos.sort(key=lambda v: v.get('publishedAt', ''), reverse=True)
+```
+
+**Indicador de Privacidade** (Commit: `ad0849f`)
+- 🌐 Pública
+- 🔒 Privada
+- 🔗 Não listada
+
+### Estatísticas Reais
+- **32 playlists** exportadas
+- **2.777 vídeos** totais
+- **18 playlists privadas** (56%)
+- **12 playlists públicas** (38%)
+- **2 playlists não listadas** (6%)
+
+### Arquivos Criados
+
+**Scripts:**
+- `scripts/export_playlists_oauth.py` - Exportar com OAuth
+
+**Apps:**
+- `app_oauth.py` - App Streamlit OAuth
+
+**Documentação:**
+- `autenticacao/README.md` - Índice geral
+- `autenticacao/01_CRIAR_CREDENCIAIS_OAUTH.md` - Como criar OAuth
+- `autenticacao/02_ACESSAR_PLAYLISTS_PRIVADAS.md` - Como usar OAuth
+- `OAUTH_SETUP.md` - Documentação completa
+- `QUICK_START_OAUTH.md` - Guia rápido
+- `OAUTH_SUMMARY.md` - Resumo executivo
+- `APPS_GUIDE.md` - Comparação dos dois apps
+- `WATCH_LATER_INFO.md` - Info sobre playlists especiais
+
+### Comandos Úteis
+
+```bash
+# Exportar todas as playlists (OAuth)
+python scripts/export_playlists_oauth.py
+
+# Iniciar app OAuth
+streamlit run app_oauth.py  # porta 8503
+
+# Iniciar app original
+streamlit run app.py  # porta 8501
+```
+
+### Credenciais (.env)
+```bash
+# API Key (públicas)
+YOUTUBE_API_KEY=AIzaSyC-o9_DwuR74hBXw_og7TMANcPkFI8FY4k
+
+# OAuth 2.0 (todas)
+OAUTH_CLIENT_ID=31459815274-uh2tdjce3sg7eh8pctsev8khl25o9g3l.apps.googleusercontent.com
+OAUTH_CLIENT_SECRET=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
+```
+
+### Troubleshooting OAuth
+
+**Erro: redirect_uri_mismatch**
+- Adicionar URIs no Google Cloud Console: `http://localhost`
+
+**Erro: access_denied (403)**
+- Adicionar email como usuário de teste
+
+**Erro: invalid_client**
+- Verificar OAUTH_CLIENT_SECRET (deve começar com `GOCSPX-`)
+
+**Token expirado**
+```bash
+rm token.pickle
+python scripts/export_playlists_oauth.py
+```
+
+### Playlists Especiais
+
+**Watch Later** (`list=WL`)
+- Não exportável pela API normal
+- Solução: Criar playlist normal ou script específico
+
+### Commits Importantes
+- `27dbaef` - ✨ Adiciona suporte OAuth 2.0
+- `d32cb3a` - 📝 Resumo executivo OAuth
+- `93c8383` - 📚 Documentação OAuth completa
+- `f8a130c` - 🚀 App OAuth criado
+- `ad0849f` - ✨ Ordenação e privacidade
+- `43426d4` - 📝 Doc Watch Later
+
+---
+
+**Última Modificação**: 27 de Novembro de 2025, 10:45 UTC-03:00
