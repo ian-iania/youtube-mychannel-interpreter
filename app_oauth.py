@@ -127,6 +127,9 @@ def search_videos(playlists, keywords, operator='AND', search_in='both'):
                     matching_videos.append(video_copy)
         
         if matching_videos:
+            # Ordenar vídeos por data de publicação (mais recente primeiro)
+            matching_videos.sort(key=lambda v: v.get('publishedAt', ''), reverse=True)
+            
             results[playlist_name] = {
                 'playlist_info': playlist_data.get('playlist_info', {}),
                 'videos': matching_videos
@@ -402,19 +405,33 @@ def main():
                         st.markdown(f"### {idx + 1}. {video['title']}")
                         
                         # Informações em colunas
-                        info_col1, info_col2, info_col3 = st.columns(3)
+                        info_col1, info_col2, info_col3, info_col4 = st.columns(4)
                         
                         with info_col1:
                             st.markdown(f"**📅 Publicado:** {video['published_at'][:10]}")
                         
                         with info_col2:
+                            # Indicador de privacidade da playlist
+                            privacy_status = data['playlist_info'].get('privacy_status', 'unknown')
+                            if privacy_status == 'private':
+                                privacy_icon = "🔒"
+                                privacy_text = "Privada"
+                            elif privacy_status == 'unlisted':
+                                privacy_icon = "🔗"
+                                privacy_text = "Não listada"
+                            else:  # public
+                                privacy_icon = "🌐"
+                                privacy_text = "Pública"
+                            st.markdown(f"**{privacy_icon} Playlist:** {privacy_text}")
+                        
+                        with info_col3:
                             keywords_html = " ".join([
                                 f'<span class="keyword-badge">{k}</span>' 
                                 for k in video.get('matched_keywords', [])
                             ])
                             st.markdown(f"**🔑 Keywords:** {keywords_html}", unsafe_allow_html=True)
                         
-                        with info_col3:
+                        with info_col4:
                             st.markdown(f"[🔗 Abrir vídeo]({video['video_url']})")
                         
                         # Descrição
