@@ -13,6 +13,9 @@ from datetime import datetime
 import yt_dlp
 import requests
 import pandas as pd
+import time
+from youtube_transcript_api import YouTubeTranscriptApi
+from youtube_transcript_api._errors import TranscriptsDisabled, NoTranscriptFound
 
 # Configuração da página
 st.set_page_config(
@@ -157,9 +160,11 @@ def save_favorites(favorites):
         json.dump(favorites, f, ensure_ascii=False, indent=2)
 
 
-def get_transcript(video_id, languages=['pt', 'pt-PT', 'pt-BR', 'en']):
+@st.cache_data(ttl=3600)  # Cache por 1 hora
+def get_transcript(video_id, languages=['pt', 'pt-BR', 'en']):
     """
-    Obtém a transcrição de um vídeo do YouTube usando yt-dlp
+    Obtém a transcrição de um vídeo do YouTube
+    Usa youtube-transcript-api com cache para evitar rate limit
     
     Args:
         video_id: ID do vídeo
@@ -168,6 +173,58 @@ def get_transcript(video_id, languages=['pt', 'pt-PT', 'pt-BR', 'en']):
     Returns:
         tuple: (transcript_data, language) ou (None, error_message)
     """
+    # Método 1: youtube-transcript-api
+    try:
+        # Listar transcrições disponíveis
+        transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
+        
+        # Tentar obter transcrição nos idiomas preferidos
+        for lang in languages:
+            try:
+                # Tentar legendas manuais primeiro
+                transcript = transcript_list.find_transcript([lang])
+                data = transcript.fetch()
+                return data, lang
+            except NoTranscriptFound:
+                continue
+        
+        # Se não encontrou nos idiomas preferidos, tentar legendas geradas automaticamente
+        for lang in languages:
+            try:
+                transcript = transcript_list.find_generated_transcript([lang])
+                data = transcript.fetch()
+                return data, lang
+            except NoTranscriptFound:
+                continue
+        
+        # Se ainda não encontrou, tentar inglês como último recurso
+        try:
+            transcript = transcript_list.find_transcript(['en'])
+            data = transcript.fetch()
+            return data, 'en'
+        except NoTranscriptFound:
+            pass
+            
+        try:
+            transcript = transcript_list.find_generated_transcript(['en'])
+            data = transcript.fetch()
+            return data, 'en'
+        except NoTranscriptFound:
+            pass
+            
+        return None, "Nenhuma transcrição disponível neste vídeo"
+        
+    except TranscriptsDisabled:
+        return None, "Transcrições desabilitadas para este vídeo"
+    except Exception as e:
+        error_msg = str(e)
+        # Detectar erro 429 (Too Many Requests)
+        if '429' in error_msg or 'Too Many Requests' in error_msg:
+            return None, "⏳ YouTube bloqueou temporariamente as transcrições (muitas requisições). Aguarde alguns minutos e tente novamente."
+        # Outros erros, tentar yt-dlp como fallback
+        pass
+    
+    # Método 2: yt-dlp (fallback - pode ter rate limit)
     try:
         video_url = f"https://www.youtube.com/watch?v={video_id}"
         
