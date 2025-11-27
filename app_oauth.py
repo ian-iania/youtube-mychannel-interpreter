@@ -13,6 +13,8 @@ from datetime import datetime
 import yt_dlp
 import requests
 import pandas as pd
+from youtube_transcript_api import YouTubeTranscriptApi
+from youtube_transcript_api._errors import TranscriptsDisabled, NoTranscriptFound
 
 # Configuração da página
 st.set_page_config(
@@ -128,7 +130,7 @@ def search_videos(playlists, keywords, operator='AND', search_in='both'):
         
         if matching_videos:
             # Ordenar vídeos por data de publicação (mais recente primeiro)
-            matching_videos.sort(key=lambda v: v.get('publishedAt', ''), reverse=True)
+            matching_videos.sort(key=lambda v: v.get('published_at', ''), reverse=True)
             
             results[playlist_name] = {
                 'playlist_info': playlist_data.get('playlist_info', {}),
@@ -157,24 +159,63 @@ def save_favorites(favorites):
         json.dump(favorites, f, ensure_ascii=False, indent=2)
 
 
-def get_transcript(video_id, languages=['pt', 'en']):
+def get_transcript(video_id, languages=['pt', 'pt-BR', 'en']):
     """
-    Obtém a transcrição de um vídeo do YouTube usando yt-dlp
+    Obtém a transcrição de um vídeo do YouTube
+    Tenta primeiro youtube-transcript-api (mais confiável), depois yt-dlp
     
     Args:
         video_id: ID do vídeo
         languages: Lista de idiomas preferidos
+    
+    Returns:
+        tuple: (transcript_data, language) ou (None, error_message)
     """
+    # Método 1: youtube-transcript-api (mais confiável)
     try:
-        video_url = f'https://www.youtube.com/watch?v={video_id}'
+        transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
+        
+        # Tentar legendas manuais primeiro
+        try:
+            for lang in languages:
+                try:
+                    transcript = transcript_list.find_transcript([lang])
+                    data = transcript.fetch()
+                    return data, transcript.language_code
+                except NoTranscriptFound:
+                    continue
+        except:
+            pass
+        
+        # Tentar legendas automáticas
+        try:
+            for lang in languages:
+                try:
+                    transcript = transcript_list.find_generated_transcript([lang])
+                    data = transcript.fetch()
+                    return data, transcript.language_code
+                except NoTranscriptFound:
+                    continue
+        except:
+            pass
+            
+    except TranscriptsDisabled:
+        return None, "Transcrições desabilitadas para este vídeo"
+    except Exception as e:
+        # Se falhar, tentar método 2
+        pass
+    
+    # Método 2: yt-dlp (fallback)
+    try:
+        video_url = f"https://www.youtube.com/watch?v={video_id}"
         
         ydl_opts = {
             'skip_download': True,
             'writesubtitles': True,
             'writeautomaticsub': True,
-            'subtitleslangs': languages + ['en-orig', 'en'],
+            'subtitleslangs': languages,
             'quiet': True,
-            'no_warnings': True
+            'no_warnings': True,
         }
         
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
