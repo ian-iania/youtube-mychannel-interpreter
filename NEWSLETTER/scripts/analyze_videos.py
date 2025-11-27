@@ -30,24 +30,106 @@ def configure_gemini():
     Returns:
         Modelo configurado
     """
-    api_key = os.getenv('GOOGLE_API_KEY')
+    api_key = os.getenv('GEMINI_API_KEY')
     
     if not api_key:
-        print("❌ Erro: GOOGLE_API_KEY não encontrada no .env")
+        print("❌ Erro: GEMINI_API_KEY não encontrada no .env")
         print("   Obtenha sua chave em: https://aistudio.google.com/")
         sys.exit(1)
     
     genai.configure(api_key=api_key)
     
-    # Usar Gemini 2.5 Flash-Lite (mais barato e eficiente)
-    model = genai.GenerativeModel('gemini-2.5-flash-lite')
+    # Usar Gemini 2.0 Flash-Lite (testado e aprovado)
+    model = genai.GenerativeModel(
+        'gemini-2.0-flash-lite-001',
+        generation_config={
+            'temperature': 0.7,
+            'max_output_tokens': 500,
+            'top_p': 0.95,
+            'top_k': 40
+        }
+    )
     
     return model
+
+
+def parse_analysis_text(text):
+    """
+    Parse texto de análise em estrutura
+    
+    Args:
+        text: Texto da análise
+        
+    Returns:
+        Dict estruturado
+    """
+    analysis = {
+        'summary': '',
+        'key_takeaways': [],
+        'is_tutorial': False,
+        'tutorial_steps': [],
+        'topics': [],
+        'difficulty': 'intermediate',
+        'target_audience': 'developers'
+    }
+    
+    # Extrair seções (parsing simples)
+    lines = text.split('\n')
+    current_section = None
+    
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+            
+        # Detectar seções
+        if 'resumo' in line.lower() or '1.' in line:
+            current_section = 'summary'
+        elif 'takeaway' in line.lower() or '2.' in line:
+            current_section = 'takeaways'
+        elif 'tutorial' in line.lower() or '3.' in line:
+            current_section = 'tutorial'
+        elif 'passos' in line.lower() or '4.' in line:
+            current_section = 'steps'
+        elif 'tópicos' in line.lower() or '5.' in line:
+            current_section = 'topics'
+        elif 'dificuldade' in line.lower() or '6.' in line:
+            current_section = 'difficulty'
+        elif 'público' in line.lower() or '7.' in line:
+            current_section = 'audience'
+        
+        # Extrair conteúdo
+        if current_section == 'summary' and not any(x in line.lower() for x in ['resumo', '1.']):
+            analysis['summary'] += line + ' '
+        elif current_section == 'takeaways' and line.startswith(('-', '•', '*')):
+            analysis['key_takeaways'].append(line[1:].strip())
+        elif current_section == 'tutorial':
+            if 'sim' in line.lower():
+                analysis['is_tutorial'] = True
+        elif current_section == 'steps' and line.startswith(('-', '•', '*', '1', '2', '3', '4', '5')):
+            analysis['tutorial_steps'].append(line.lstrip('-•*0123456789. '))
+        elif current_section == 'topics' and line.startswith(('-', '•', '*')):
+            analysis['topics'].append(line[1:].strip())
+        elif current_section == 'difficulty':
+            if 'iniciante' in line.lower():
+                analysis['difficulty'] = 'beginner'
+            elif 'intermediário' in line.lower():
+                analysis['difficulty'] = 'intermediate'
+            elif 'avançado' in line.lower():
+                analysis['difficulty'] = 'advanced'
+        elif current_section == 'audience':
+            analysis['target_audience'] = line.lower()
+    
+    # Limpar
+    analysis['summary'] = analysis['summary'].strip()
+    
+    return analysis
 
 
 def analyze_video_full(model, video_data):
     """
     Análise completa de vídeo (≤15 min)
+    Usa apenas título e descrição (não faz upload de vídeo)
     
     Args:
         model: Modelo Gemini
@@ -56,99 +138,75 @@ def analyze_video_full(model, video_data):
     Returns:
         Análise estruturada
     """
-    video_url = video_data['video_url']
     title = video_data['title']
-    description = video_data['description']
+    description = video_data.get('description', 'Sem descrição')
     
-    prompt = f"""
-Analise este vídeo do YouTube sobre IA/tecnologia:
+    prompt = f"""Você é um assistente especializado em análise de conteúdo de IA e tecnologia.
+
+Analise este vídeo do YouTube e forneça uma análise estruturada:
 
 **Título:** {title}
 
 **Descrição:** {description}
 
-**URL:** {video_url}
+Forneça sua análise no seguinte formato (responda em português):
 
-Forneça uma análise estruturada em JSON com:
+1. **Resumo** (2-3 frases sobre o conteúdo do vídeo)
 
-{{
-  "summary": "Resumo do vídeo em 2-3 parágrafos (máximo 300 palavras)",
-  "key_takeaways": [
-    "Ponto principal 1",
-    "Ponto principal 2",
-    "Ponto principal 3"
-  ],
-  "is_tutorial": true/false,
-  "tutorial_steps": [
-    "Passo 1 (se for tutorial)",
-    "Passo 2"
-  ],
-  "topics": ["AI", "LangChain", "RAG"],
-  "difficulty": "beginner/intermediate/advanced",
-  "target_audience": "developers/researchers/general"
-}}
+2. **Principais Takeaways** (3-5 pontos principais que o espectador aprenderá)
 
-**Instruções:**
-- Seja conciso mas informativo
-- Foque nos pontos mais importantes
-- Se for tutorial, liste os passos principais
-- Identifique os tópicos principais
-- Avalie o nível de dificuldade
-"""
+3. **É Tutorial?** (Sim/Não)
+
+4. **Passos do Tutorial** (se aplicável, liste os principais passos)
+
+5. **Tópicos Principais** (liste 3-5 tópicos/tecnologias abordados)
+
+6. **Nível de Dificuldade** (Iniciante/Intermediário/Avançado)
+
+7. **Público-Alvo** (desenvolvedores/pesquisadores/entusiastas/geral)
+
+Seja conciso mas informativo. Foque no valor prático para quem vai assistir."""
     
     try:
-        # Analisar vídeo diretamente
-        response = model.generate_content([
-            {
-                'mime_type': 'video/youtube',
-                'uri': video_url
-            },
-            prompt
-        ])
+        response = model.generate_content(prompt)
         
-        # Parse JSON
+        # Extrair texto
         analysis_text = response.text.strip()
         
-        # Remover markdown code blocks se existir
-        if analysis_text.startswith('```json'):
-            analysis_text = analysis_text[7:]
-        if analysis_text.startswith('```'):
-            analysis_text = analysis_text[3:]
-        if analysis_text.endswith('```'):
-            analysis_text = analysis_text[:-3]
+        # Parse estruturado (extrair seções)
+        analysis = parse_analysis_text(analysis_text)
         
-        analysis = json.loads(analysis_text.strip())
+        # Adicionar metadata
+        if hasattr(response, 'usage_metadata'):
+            analysis['_metadata'] = {
+                'input_tokens': response.usage_metadata.prompt_token_count,
+                'output_tokens': response.usage_metadata.candidates_token_count,
+                'total_tokens': response.usage_metadata.total_token_count
+            }
         
         return {
             'status': 'success',
             'analysis_type': 'full',
-            'analysis': analysis
+            'analysis': analysis,
+            'raw_text': analysis_text
         }
         
-    except json.JSONDecodeError as e:
-        print(f"   ⚠️  Erro ao parsear JSON: {e}")
-        print(f"   Resposta: {response.text[:200]}...")
+    except Exception as e:
+        print(f"   ❌ Erro na análise: {e}")
         
-        # Fallback: retornar texto bruto
+        # Fallback: análise mínima
         return {
-            'status': 'partial',
+            'status': 'error',
             'analysis_type': 'full',
             'analysis': {
-                'summary': response.text[:500],
+                'summary': f"Erro ao analisar: {str(e)}",
                 'key_takeaways': [],
                 'is_tutorial': False,
                 'tutorial_steps': [],
                 'topics': [],
                 'difficulty': 'unknown',
                 'target_audience': 'general'
-            }
-        }
-        
-    except Exception as e:
-        print(f"   ❌ Erro na análise: {e}")
-        return {
-            'status': 'error',
-            'analysis_type': 'full',
+            },
             'error': str(e)
         }
 
