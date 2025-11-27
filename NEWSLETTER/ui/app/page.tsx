@@ -2,6 +2,7 @@
 
 import ShaderBackground from "@/components/ShaderBackground";
 import Header from "@/components/Header";
+import NewsTicker from "@/components/NewsTicker";
 import { motion } from "framer-motion";
 
 export default function Home() {
@@ -14,77 +15,60 @@ export default function Home() {
       <Header />
 
       {/* Hero Section */}
-      <section className="relative min-h-screen flex items-center justify-center px-4 sm:px-6 lg:px-8">
+      <section className="relative min-h-screen flex items-center justify-center px-4 sm:px-6 lg:px-8 pt-32">
         <div className="container mx-auto max-w-6xl">
+          {/* Badge no topo esquerda */}
           <motion.div
-            className="text-center space-y-8"
+            className="absolute top-32 left-8 inline-flex items-center gap-2 px-4 py-2 rounded-full glass-card neon-border"
+            initial={{ opacity: 0, x: -20 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ duration: 0.5, delay: 0.3 }}
+          >
+            <span className="w-2 h-2 rounded-full bg-acid-green animate-pulse" />
+            <span className="mono-text text-xs">Edição Atual • 27/11/2025</span>
+          </motion.div>
+
+          <motion.div
+            className="text-center space-y-6"
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
           >
-            {/* Badge */}
-            <motion.div
-              className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass-card neon-border"
-              initial={{ opacity: 0, scale: 0.8 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ duration: 0.5, delay: 0.3 }}
-            >
-              <span className="w-2 h-2 rounded-full bg-acid-green animate-pulse" />
-              <span className="mono-text">Edição Atual • Semana de 27/11/2025</span>
-            </motion.div>
-
-            {/* Main Heading */}
+            {/* Main Heading - Maior e mais alto */}
             <motion.h1
-              className="heading-xl gradient-text"
+              className="heading-xl gradient-text pt-8"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.4 }}
             >
               Curadoria de IA
               <br />
-              <span className="text-white">Feita por IA</span>
+              <span className="text-white text-5xl md:text-7xl">Feita por IA</span>
             </motion.h1>
 
-            {/* Subtitle */}
+            {/* Subtitle - Uma linha só */}
             <motion.p
-              className="body-lg max-w-2xl mx-auto"
+              className="body-lg max-w-3xl mx-auto"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.5 }}
             >
-              Sua newsletter semanal de Inteligência Artificial, organizada por temas relevantes.
-              <br />
-              <span className="text-electric-cyan">473 vídeos</span> curados de{" "}
-              <span className="text-electric-purple">101 canais</span> especializados.
+              Sua newsletter semanal de Inteligência Artificial, organizada por temas relevantes
             </motion.p>
 
-            {/* CTA Buttons */}
+            {/* News Ticker - Carrossel de notícias */}
             <motion.div
-              className="flex flex-col sm:flex-row items-center justify-center gap-4"
+              className="pt-8"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.6 }}
             >
-              <motion.button
-                className="btn-primary px-8 py-4 text-base"
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-              >
-                Ver Edição Atual
-              </motion.button>
-
-              <motion.button
-                className="btn-secondary px-8 py-4 text-base"
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-              >
-                Explorar Categorias
-              </motion.button>
+              <NewsTicker />
             </motion.div>
 
-            {/* Stats */}
+            {/* Stats - Abaixo do ticker */}
             <motion.div
-              className="grid grid-cols-3 gap-8 max-w-3xl mx-auto pt-12"
+              className="grid grid-cols-3 gap-8 max-w-3xl mx-auto pt-8"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.7 }}
@@ -101,6 +85,30 @@ export default function Home() {
                 <div className="heading-md gradient-text">11</div>
                 <div className="body-sm">Categorias</div>
               </div>
+            </motion.div>
+
+            {/* CTA Buttons - Abaixo dos stats */}
+            <motion.div
+              className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-8"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.8, delay: 0.8 }}
+            >
+              <motion.button
+                className="btn-primary px-8 py-4 text-base"
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+              >
+                Ver Edição Atual
+              </motion.button>
+
+              <motion.button
+                className="btn-secondary px-8 py-4 text-base"
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+              >
+                Explorar Categorias
+              </motion.button>
             </motion.div>
           </motion.div>
         </div>
