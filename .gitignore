@@ -25,6 +25,14 @@ favorites.json
 scripts/testes/
 AGENTS.md
 CLAUDE.md
+Oauth-client.env
+
+# OAuth tokens
+token.pickle
+*.pickle
+
+# OAuth playlists directory
+playlists_oauth/
 
 # AI Rules
 .clinerules/byterover-rules.md
