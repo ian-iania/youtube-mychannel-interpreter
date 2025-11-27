@@ -416,32 +416,20 @@ def main():
                                     st.success(f"✅ Transcrição obtida (idioma: {lang_or_error})")
                                     formatted_transcript = format_transcript(transcript_data)
                                     
-                                    # Exibir transcrição
-                                    st.text_area(
-                                        "Transcrição",
-                                        value=formatted_transcript,
-                                        height=300,
-                                        key=f"transcript_text_{playlist_name}_{video_id}_{idx}"
+                                    # Exibir transcrição em bloco de código com botão de copiar nativo
+                                    st.markdown("**Transcrição:**")
+                                    st.code(formatted_transcript, language=None)
+                                    st.caption("💡 Use o ícone 📋 no canto superior direito do bloco acima para copiar a transcrição")
+                                    
+                                    # Botão para download
+                                    st.download_button(
+                                        label="💾 Baixar Transcrição",
+                                        data=formatted_transcript,
+                                        file_name=f"transcript_{video_id}.txt",
+                                        mime="text/plain",
+                                        key=f"download_{playlist_name}_{video_id}_{idx}",
+                                        use_container_width=True
                                     )
-                                    
-                                    # Botões de ação em colunas
-                                    btn_col1, btn_col2 = st.columns(2)
-                                    
-                                    with btn_col1:
-                                        # Botão para download
-                                        st.download_button(
-                                            label="💾 Baixar Transcrição",
-                                            data=formatted_transcript,
-                                            file_name=f"transcript_{video_id}.txt",
-                                            mime="text/plain",
-                                            key=f"download_{playlist_name}_{video_id}_{idx}"
-                                        )
-                                    
-                                    with btn_col2:
-                                        # Exibir transcrição em formato copiável
-                                        with st.expander("📋 Copiar Transcrição"):
-                                            st.code(formatted_transcript, language=None)
-                                            st.caption("👆 Use o botão de copiar no canto superior direito")
                                 else:
                                     st.error(f"❌ {lang_or_error}")
                         
