@@ -3,7 +3,6 @@
 import { useState } from "react";
 import ShaderBackground from "@/components/ShaderBackground";
 import Header from "@/components/Header";
-import NewsTicker from "@/components/NewsTicker";
 import Tabs, { TabType } from "@/components/Tabs";
 import VideoCard from "@/components/VideoCard";
 import CategoryCard from "@/components/CategoryCard";
@@ -62,17 +61,7 @@ export default function Home() {
               Sua newsletter semanal de Inteligência Artificial, organizada por temas relevantes
             </motion.p>
 
-            {/* News Ticker - Carrossel de notícias */}
-            <motion.div
-              className="pt-8"
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.8, delay: 0.6 }}
-            >
-              <NewsTicker />
-            </motion.div>
-
-            {/* Stats - Abaixo do ticker */}
+            {/* Stats - Logo abaixo do subtitle */}
             <motion.div
               className="grid grid-cols-3 gap-8 max-w-3xl mx-auto pt-8"
               initial={{ opacity: 0, y: 20 }}
