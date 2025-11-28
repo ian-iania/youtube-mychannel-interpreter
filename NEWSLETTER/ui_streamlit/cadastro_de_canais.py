@@ -216,12 +216,15 @@ def main():
     
     # Criar tabela editável
     for idx, channel in enumerate(filtered_channels):
+        # Criar âncora para manter posição ao editar
+        channel_id = channel.get('channel_id', f'channel_{idx}')
+        
         with st.expander(
             f"**{channel.get('channel_title', 'Sem nome')}** | "
             f"{channel.get('type', 'N/A').title()} | "
             f"Prioridade: {channel.get('priority', 'média').title()} | "
             f"{format_number(channel.get('subscriber_count', 0))} inscritos",
-            expanded=False
+            expanded=st.session_state.get(f'expanded_{channel_id}', False)
         ):
             # Criar colunas para edição
             col1, col2, col3 = st.columns([2, 1, 1])
