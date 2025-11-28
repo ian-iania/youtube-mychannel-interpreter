@@ -61,7 +61,52 @@ export default function Home() {
               Sua newsletter semanal de Inteligência Artificial, organizada por temas relevantes
             </motion.p>
 
-            {/* Stats - Logo abaixo do subtitle */}
+            {/* Simple News Ticker - Apenas texto */}
+            <motion.div
+              className="pt-6 overflow-hidden"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ duration: 0.8, delay: 0.6 }}
+            >
+              <div className="relative h-8 glass-card rounded-full flex items-center overflow-hidden">
+                <motion.div
+                  className="flex gap-8 whitespace-nowrap px-4"
+                  animate={{
+                    x: [0, -1000],
+                  }}
+                  transition={{
+                    x: {
+                      repeat: Infinity,
+                      repeatType: "loop",
+                      duration: 30,
+                      ease: "linear",
+                    },
+                  }}
+                >
+                  <span className="text-sm opacity-70">🚀 Gemini 3 lançado</span>
+                  <span className="text-sm opacity-70">•</span>
+                  <span className="text-sm opacity-70">🤖 Claude Opus 4.5 disponível</span>
+                  <span className="text-sm opacity-70">•</span>
+                  <span className="text-sm opacity-70">✨ Nano Banana Pro revoluciona geração de imagens</span>
+                  <span className="text-sm opacity-70">•</span>
+                  <span className="text-sm opacity-70">💻 Novos agentes de código com IA</span>
+                  <span className="text-sm opacity-70">•</span>
+                  <span className="text-sm opacity-70">🎯 473 vídeos curados esta semana</span>
+                  <span className="text-sm opacity-70">•</span>
+                  <span className="text-sm opacity-70">🚀 Gemini 3 lançado</span>
+                  <span className="text-sm opacity-70">•</span>
+                  <span className="text-sm opacity-70">🤖 Claude Opus 4.5 disponível</span>
+                  <span className="text-sm opacity-70">•</span>
+                  <span className="text-sm opacity-70">✨ Nano Banana Pro revoluciona geração de imagens</span>
+                  <span className="text-sm opacity-70">•</span>
+                  <span className="text-sm opacity-70">💻 Novos agentes de código com IA</span>
+                  <span className="text-sm opacity-70">•</span>
+                  <span className="text-sm opacity-70">🎯 473 vídeos curados esta semana</span>
+                </motion.div>
+              </div>
+            </motion.div>
+
+            {/* Stats - Logo abaixo do ticker */}
             <motion.div
               className="grid grid-cols-3 gap-8 max-w-3xl mx-auto pt-8"
               initial={{ opacity: 0, y: 20 }}
