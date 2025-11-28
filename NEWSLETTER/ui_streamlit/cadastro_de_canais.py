@@ -157,6 +157,13 @@ def main():
         by_category[cat] = count
         st.sidebar.metric(cat.title(), count, f"{count/total*100:.1f}%")
     
+    # Coletar subcategorias existentes (para autocomplete)
+    existing_subcategories = sorted(set(
+        c.get("subcategory", "").strip() 
+        for c in channels 
+        if c.get("subcategory", "").strip()
+    ))
+    
     # Filtrar canais
     filtered_channels = [
         c for c in channels
@@ -247,12 +254,35 @@ def main():
                 )
             
             with col2:
-                new_subcategory = st.text_input(
+                # Subcategoria com autocomplete
+                current_subcat = channel.get("subcategory", "")
+                subcat_options = [""] + existing_subcategories + ["➕ Nova subcategoria..."]
+                
+                # Determinar índice inicial
+                if current_subcat in existing_subcategories:
+                    subcat_index = existing_subcategories.index(current_subcat) + 1
+                elif current_subcat:
+                    subcat_index = len(subcat_options) - 1  # "Nova subcategoria"
+                else:
+                    subcat_index = 0
+                
+                selected_subcat = st.selectbox(
                     "Subcategoria",
-                    value=channel.get("subcategory", ""),
-                    placeholder="Ex: Tech News, AI Tools, etc.",
-                    key=f"subcat_{idx}"
+                    options=subcat_options,
+                    index=subcat_index,
+                    key=f"subcat_select_{idx}"
                 )
+                
+                # Se escolheu "Nova subcategoria", mostrar campo de texto
+                if selected_subcat == "➕ Nova subcategoria...":
+                    new_subcategory = st.text_input(
+                        "Digite a nova subcategoria:",
+                        value=current_subcat if current_subcat not in existing_subcategories else "",
+                        placeholder="Ex: Tech News, AI Tools, etc.",
+                        key=f"subcat_text_{idx}"
+                    )
+                else:
+                    new_subcategory = selected_subcat
             
             with col3:
                 new_priority = st.selectbox(
