@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import { ExternalLink, Sparkles } from "lucide-react";
 import Image from "next/image";
+import { useState, useEffect } from "react";
 import { getRandomRealNewsItems } from "@/lib/real-data";
 
 type NewsItem = {
@@ -70,19 +71,40 @@ interface NewsTickerProps {
 }
 
 export default function NewsTicker({ items, speed = 60 }: NewsTickerProps) {
-  // Usar dados reais se items não for fornecido
-  const realItems = items || getRandomRealNewsItems(10).map(video => ({
-    id: video.video_id,
-    title: video.title,
-    channel: video.channel,
-    thumbnail: `https://i.ytimg.com/vi/${video.video_id}/hqdefault.jpg`,
-    url: video.url,
-    category: "IA News",
-    emoji: "🤖",
-  }));
+  // Estado para items (evita hydration error)
+  const [newsItems, setNewsItems] = useState<NewsItem[]>([]);
+  
+  // Carregar items apenas no cliente
+  useEffect(() => {
+    if (items) {
+      setNewsItems(items);
+    } else {
+      const randomVideos = getRandomRealNewsItems(10).map(video => ({
+        id: video.video_id,
+        title: video.title,
+        channel: video.channel,
+        thumbnail: `https://i.ytimg.com/vi/${video.video_id}/hqdefault.jpg`,
+        url: video.url,
+        category: "IA News",
+        emoji: "🤖",
+      }));
+      setNewsItems(randomVideos);
+    }
+  }, [items]);
+  
+  // Mostrar loading enquanto carrega
+  if (newsItems.length === 0) {
+    return (
+      <div className="w-full py-8">
+        <div className="flex items-center justify-center h-32 glass-card rounded-2xl">
+          <p className="body-sm opacity-50">Carregando notícias...</p>
+        </div>
+      </div>
+    );
+  }
   
   // Duplicar items para loop infinito seamless
-  const duplicatedItems = [...realItems, ...realItems, ...realItems];
+  const duplicatedItems = [...newsItems, ...newsItems, ...newsItems];
 
   return (
     <div className="w-full overflow-hidden py-8">
@@ -96,7 +118,7 @@ export default function NewsTicker({ items, speed = 60 }: NewsTickerProps) {
         <motion.div
           className="flex gap-6"
           animate={{
-            x: [0, -100 * realItems.length + "%"],
+            x: [0, -100 * newsItems.length + "%"],
           }}
           transition={{
             x: {
