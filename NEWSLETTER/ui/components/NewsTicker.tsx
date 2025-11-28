@@ -3,6 +3,7 @@
 import { motion } from "framer-motion";
 import { ExternalLink, Sparkles } from "lucide-react";
 import Image from "next/image";
+import { getRandomRealNewsItems } from "@/lib/real-data";
 
 type NewsItem = {
   id: string;
@@ -68,9 +69,20 @@ interface NewsTickerProps {
   speed?: number; // segundos para completar um ciclo
 }
 
-export default function NewsTicker({ items = MOCK_NEWS, speed = 30 }: NewsTickerProps) {
+export default function NewsTicker({ items, speed = 30 }: NewsTickerProps) {
+  // Usar dados reais se items não for fornecido
+  const realItems = items || getRandomRealNewsItems(10).map(video => ({
+    id: video.video_id,
+    title: video.title,
+    channel: video.channel,
+    thumbnail: `https://i.ytimg.com/vi/${video.video_id}/hqdefault.jpg`,
+    url: video.url,
+    category: "IA News",
+    emoji: "🤖",
+  }));
+  
   // Duplicar items para loop infinito seamless
-  const duplicatedItems = [...items, ...items, ...items];
+  const duplicatedItems = [...realItems, ...realItems, ...realItems];
 
   return (
     <div className="w-full overflow-hidden py-8">
@@ -84,7 +96,7 @@ export default function NewsTicker({ items = MOCK_NEWS, speed = 30 }: NewsTicker
         <motion.div
           className="flex gap-6"
           animate={{
-            x: [0, -100 * items.length + "%"],
+            x: [0, -100 * realItems.length + "%"],
           }}
           transition={{
             x: {

@@ -9,7 +9,7 @@ import VideoCard from "@/components/VideoCard";
 import CategoryCard from "@/components/CategoryCard";
 import Footer from "@/components/Footer";
 import { motion } from "framer-motion";
-import { MOCK_EDITION } from "@/lib/data";
+import { REAL_EDITION } from "@/lib/real-data";
 
 export default function Home() {
   return (
@@ -182,7 +182,7 @@ function CurrentEditionTab() {
       transition={{ duration: 0.5 }}
       className="space-y-16"
     >
-      {MOCK_EDITION.categories.map((category, index) => (
+      {REAL_EDITION.categories.map((category, index) => (
         <div key={category.id} className="space-y-6">
           {/* Category Header */}
           <div className="flex items-center gap-4">
@@ -217,7 +217,7 @@ function CategoriesTab() {
       transition={{ duration: 0.5 }}
     >
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {MOCK_EDITION.categories.map((category, index) => (
+        {REAL_EDITION.categories.map((category, index) => (
           <CategoryCard
             key={category.id}
             category={category}
