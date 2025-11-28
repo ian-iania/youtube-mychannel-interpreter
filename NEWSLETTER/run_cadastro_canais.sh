@@ -26,4 +26,4 @@ echo "   - 8501-8504: Streamlit (outros apps)"
 echo "   - 9500: Cadastro de Canais (este app)"
 echo ""
 
-streamlit run ui_streamlit/cadastro_de_canais.py --server.port 9500
+streamlit run f1_streamlit/cadastro_de_canais.py --server.port 9500

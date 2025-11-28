@@ -179,16 +179,30 @@
 
 ```
 NEWSLETTER/
-├── scripts/           # Scripts Python
-│   ├── tests/        # Scripts de teste
-│   └── *.py          # Scripts principais
-├── docs/             # Documentação
-├── logs/             # Arquivos de log
-├── ui/               # Next.js UI
-├── ui_streamlit/     # Streamlit Admin
-├── newsletters/      # Dados de newsletters
-├── cache/            # Cache de API
-└── *.json           # Dados principais
+├── scripts/              # Scripts Python CORE
+│   ├── tests/           # Scripts de teste
+│   ├── api_key_manager.py
+│   ├── cache_manager.py
+│   ├── collect_subscriptions.py
+│   ├── collect_videos_optimized.py
+│   ├── categorize_videos_ai.py
+│   ├── generate_summaries_ai.py
+│   ├── update_ui_with_categories.py
+│   └── generate_newsletter_v2.py
+├── archive/             # Scripts obsoletos/experimentais
+│   ├── scripts/        # Scripts antigos
+│   └── *.json          # Dados intermediários antigos
+├── f1_streamlit/        # Streamlit Admin (Cadastro de Canais)
+│   ├── cadastro_de_canais.py
+│   └── README.md
+├── ui/                  # Next.js UI pública
+├── docs/                # Documentação técnica
+├── logs/                # Arquivos de log
+├── newsletters/         # Dados de newsletters
+├── cache/               # Cache de API
+├── newsletter_channels.json  # Dados principais
+├── all_subscriptions.json    # Subscrições
+└── requirements.txt     # Dependências Python
 ```
 
 ---
