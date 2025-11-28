@@ -58,12 +58,14 @@ def load_channels():
             if "priority" not in channel:
                 channel["priority"] = "média"
             
-            # Converter subscriber_count para int (pode estar como string)
-            if "subscriber_count" in channel:
-                try:
-                    channel["subscriber_count"] = int(channel["subscriber_count"])
-                except (ValueError, TypeError):
-                    channel["subscriber_count"] = 0
+            # Converter campos numéricos para int (podem estar como string)
+            numeric_fields = ["subscriber_count", "video_count", "view_count"]
+            for field in numeric_fields:
+                if field in channel:
+                    try:
+                        channel[field] = int(channel[field])
+                    except (ValueError, TypeError):
+                        channel[field] = 0
         
         return channels
     except Exception as e:
