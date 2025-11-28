@@ -7,6 +7,7 @@ import NewsTicker from "@/components/NewsTicker";
 import Tabs, { TabType } from "@/components/Tabs";
 import VideoCard from "@/components/VideoCard";
 import CategoryCard from "@/components/CategoryCard";
+import Footer from "@/components/Footer";
 import { motion } from "framer-motion";
 import { MOCK_EDITION } from "@/lib/data";
 
@@ -146,6 +147,9 @@ export default function Home() {
 
       {/* Content Section with Tabs */}
       <ContentSection />
+
+      {/* Footer */}
+      <Footer />
     </main>
   );
 }
