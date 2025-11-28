@@ -9,15 +9,22 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        // Paleta IANIA IA NEWS
+        // Paleta IANIA IA NEWS - Atualizada com tons modernos
         void: {
           DEFAULT: "#030305",
           light: "#0a0a0f",
         },
         electric: {
           blue: "#3B82F6",
-          purple: "#8B5CF6",
+          purple: "#8B5CF6", // Mantido para compatibilidade
           cyan: "#06B6D4",
+          orange: "#F97316", // Novo: laranja vibrante
+          amber: "#F59E0B", // Novo: âmbar quente
+        },
+        neon: {
+          orange: "#FF6B35", // Laranja neon
+          coral: "#FF8C42", // Coral vibrante
+          peach: "#FFA07A", // Pêssego suave
         },
         acid: {
           green: "#10B981",
