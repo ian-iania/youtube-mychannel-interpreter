@@ -56,12 +56,18 @@
 
   /* Gradient text - Atualizado: azul → laranja */
   .gradient-text {
-    @apply bg-clip-text text-transparent bg-gradient-to-r from-electric-blue via-electric-orange to-neon-coral;
+    background: linear-gradient(to right, #3B82F6, #F97316, #FF8C42);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
   
   /* Gradient text alternativo: azul → âmbar */
   .gradient-text-alt {
-    @apply bg-clip-text text-transparent bg-gradient-to-r from-electric-cyan via-electric-blue to-electric-amber;
+    background: linear-gradient(to right, #06B6D4, #3B82F6, #F59E0B);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
   }
 
   /* Neon border */
@@ -72,7 +78,7 @@
   /* Button base - Atualizado: azul → laranja */
   .btn-primary {
     @apply px-6 py-3 rounded-xl font-heading font-bold text-sm tracking-tight;
-    @apply bg-gradient-to-r from-electric-blue to-electric-orange;
+    background: linear-gradient(to right, #3B82F6, #F97316);
     @apply hover:shadow-glow-lg transition-all duration-300;
     @apply active:scale-95;
   }
