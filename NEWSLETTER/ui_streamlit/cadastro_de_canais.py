@@ -57,6 +57,13 @@ def load_channels():
                 channel["subcategory"] = ""
             if "priority" not in channel:
                 channel["priority"] = "média"
+            
+            # Converter subscriber_count para int (pode estar como string)
+            if "subscriber_count" in channel:
+                try:
+                    channel["subscriber_count"] = int(channel["subscriber_count"])
+                except (ValueError, TypeError):
+                    channel["subscriber_count"] = 0
         
         return channels
     except Exception as e:
