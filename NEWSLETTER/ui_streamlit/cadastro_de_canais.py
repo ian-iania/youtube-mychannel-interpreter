@@ -20,7 +20,7 @@ st.set_page_config(
 
 # Caminhos
 BASE_DIR = Path(__file__).parent.parent
-CHANNELS_FILE = BASE_DIR / "newsletters" / "newsletter_channels.json"
+CHANNELS_FILE = BASE_DIR / "newsletter_channels.json"
 
 # Categorias disponíveis
 CATEGORIES = ["empresa", "comunidade", "pessoa", "não considerado"]
