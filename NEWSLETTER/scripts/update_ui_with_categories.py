@@ -45,7 +45,18 @@ def update_ui_data():
     
     # Caminhos
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    input_file = os.path.join(base_dir, "newsletters", "2025-11-27_videos_categorized.json")
+    
+    # Tentar usar dados enriquecidos primeiro, senão usar categorizados
+    enriched_file = os.path.join(base_dir, "newsletters", "2025-11-27_videos_enriched.json")
+    categorized_file = os.path.join(base_dir, "newsletters", "2025-11-27_videos_categorized.json")
+    
+    if os.path.exists(enriched_file):
+        input_file = enriched_file
+        print("📖 Usando dados enriquecidos (com summaries e key points)")
+    else:
+        input_file = categorized_file
+        print("📖 Usando dados categorizados (sem summaries)")
+    
     output_file = os.path.join(base_dir, "ui", "lib", "real-data.ts")
     
     print(f"📖 Lendo: {input_file}")
@@ -102,15 +113,23 @@ def generate_typescript(categories_data: Dict, collected_at: str) -> str:
         for video in videos:
             video_id = extract_video_id(video.get("url", ""))
             
+            # Escapar strings para TypeScript
+            def escape_ts(s):
+                return s.replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ').replace('\r', '')
+            
+            summary = escape_ts(video.get("summary", ""))
+            key_points = video.get("keyPoints", [])
+            key_points_ts = ', '.join([f'"{escape_ts(kp)}"' for kp in key_points])
+            
             ts_lines.append('  {')
             ts_lines.append(f'    video_id: "{video_id}",')
-            ts_lines.append(f'    title: "{video.get("title", "").replace(chr(34), chr(92)+chr(34))}",')
-            ts_lines.append(f'    channel: "{video.get("channel", "").replace(chr(34), chr(92)+chr(34))}",')
+            ts_lines.append(f'    title: "{escape_ts(video.get("title", ""))}",')
+            ts_lines.append(f'    channel: "{escape_ts(video.get("channel", ""))}",')
             ts_lines.append(f'    duration: "{format_duration(video.get("duration", ""))}",')
             ts_lines.append(f'    views: "{video.get("views", "0")}",')
             ts_lines.append(f'    viewCount: {int(video.get("view_count", 0))},')
-            ts_lines.append(f'    summary: "",')
-            ts_lines.append(f'    keyPoints: [],')
+            ts_lines.append(f'    summary: "{summary}",')
+            ts_lines.append(f'    keyPoints: [{key_points_ts}],')
             ts_lines.append(f'    url: "{video.get("url", "")}",')
             ts_lines.append(f'    publishedAt: "{video.get("published_at", "")}",')
             ts_lines.append(f'    likeCount: {int(video.get("like_count", 0))},')
