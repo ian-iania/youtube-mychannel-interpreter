@@ -26,6 +26,17 @@ CHANNELS_FILE = BASE_DIR / "newsletter_channels.json"
 CATEGORIES = ["empresa", "comunidade", "pessoa", "não considerado"]
 PRIORITIES = ["alta", "média", "baixa"]
 
+# Mapeamento de tipos (inglês ↔ português)
+TYPE_MAP = {
+    "person": "pessoa",
+    "company": "empresa",
+    "community": "comunidade"
+}
+
+# Mapeamento reverso (português → inglês)
+TYPE_MAP_REVERSE = {v: k for k, v in TYPE_MAP.items()}
+TYPE_MAP_REVERSE["não considerado"] = "not_considered"
+
 def load_channels():
     """Carrega dados dos canais"""
     try:
@@ -36,12 +47,16 @@ def load_channels():
         
         # Garantir que todos os canais têm os campos necessários
         for channel in channels:
+            # Mapear type de inglês para português
+            if "type" in channel:
+                channel["type"] = TYPE_MAP.get(channel["type"], "não considerado")
+            else:
+                channel["type"] = "não considerado"
+            
             if "subcategory" not in channel:
                 channel["subcategory"] = ""
             if "priority" not in channel:
                 channel["priority"] = "média"
-            if "type" not in channel:
-                channel["type"] = "não considerado"
         
         return channels
     except Exception as e:
@@ -51,10 +66,18 @@ def load_channels():
 def save_channels(channels):
     """Salva dados dos canais"""
     try:
+        # Converter types de volta para inglês antes de salvar
+        channels_to_save = []
+        for channel in channels:
+            channel_copy = channel.copy()
+            if "type" in channel_copy:
+                channel_copy["type"] = TYPE_MAP_REVERSE.get(channel_copy["type"], "not_considered")
+            channels_to_save.append(channel_copy)
+        
         data = {
-            "channels": channels,
+            "channels": channels_to_save,
             "updated_at": datetime.now().isoformat(),
-            "total_channels": len(channels)
+            "total_channels": len(channels_to_save)
         }
         
         with open(CHANNELS_FILE, "w", encoding="utf-8") as f:
