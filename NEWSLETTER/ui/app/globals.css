@@ -54,17 +54,17 @@
     @apply shadow-glow-purple hover:shadow-glow-purple-lg transition-shadow duration-300;
   }
 
-  /* Gradient text - Atualizado: azul → laranja */
+  /* Gradient text - Cores originais: azul → roxo → cyan */
   .gradient-text {
-    background: linear-gradient(to right, #3B82F6, #F97316, #FF8C42);
+    background: linear-gradient(to right, #3B82F6, #8B5CF6, #06B6D4);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
   }
   
-  /* Gradient text alternativo: azul → âmbar */
+  /* Gradient text alternativo */
   .gradient-text-alt {
-    background: linear-gradient(to right, #06B6D4, #3B82F6, #F59E0B);
+    background: linear-gradient(to right, #06B6D4, #3B82F6, #8B5CF6);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -75,10 +75,10 @@
     @apply border border-electric-blue/50 hover:border-electric-blue transition-colors duration-300;
   }
 
-  /* Button base - Atualizado: azul → laranja */
+  /* Button base - Cores originais: azul → roxo */
   .btn-primary {
     @apply px-6 py-3 rounded-xl font-heading font-bold text-sm tracking-tight;
-    background: linear-gradient(to right, #3B82F6, #F97316);
+    background: linear-gradient(to right, #3B82F6, #8B5CF6);
     @apply hover:shadow-glow-lg transition-all duration-300;
     @apply active:scale-95;
   }

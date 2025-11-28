@@ -69,7 +69,7 @@ interface NewsTickerProps {
   speed?: number; // segundos para completar um ciclo
 }
 
-export default function NewsTicker({ items, speed = 30 }: NewsTickerProps) {
+export default function NewsTicker({ items, speed = 60 }: NewsTickerProps) {
   // Usar dados reais se items não for fornecido
   const realItems = items || getRandomRealNewsItems(10).map(video => ({
     id: video.video_id,
@@ -118,57 +118,34 @@ export default function NewsTicker({ items, speed = 30 }: NewsTickerProps) {
 
 function NewsCard({ item }: { item: NewsItem }) {
   return (
-    <motion.a
-      href={item.url}
-      target="_blank"
-      rel="noopener noreferrer"
-      className="flex-shrink-0 w-[400px] glass-card p-4 rounded-2xl group cursor-pointer relative overflow-hidden"
+    <motion.article
+      className="relative flex-shrink-0 w-64 glass-card rounded-xl overflow-hidden group cursor-pointer"
       whileHover={{ scale: 1.02, y: -4 }}
       transition={{ duration: 0.2 }}
     >
-      {/* Glow effect on hover */}
-      <div className="absolute inset-0 bg-gradient-to-r from-electric-blue/0 via-electric-purple/0 to-electric-blue/0 group-hover:from-electric-blue/10 group-hover:via-electric-purple/10 group-hover:to-electric-blue/10 transition-all duration-300 rounded-2xl" />
-
-      <div className="relative flex gap-4">
-        {/* Thumbnail */}
-        <div className="relative w-32 h-20 flex-shrink-0 rounded-lg overflow-hidden bg-void-light">
+      <a href={item.url} target="_blank" rel="noopener noreferrer" className="block">
+        {/* Thumbnail - 30% menor */}
+        <div className="relative h-28 overflow-hidden">
           <Image
             src={item.thumbnail}
             alt={item.title}
             fill
-            className="object-cover"
-            sizes="128px"
+            className="object-cover transition-transform duration-300 group-hover:scale-110"
           />
-          
-          {/* Play overlay */}
-          <div className="absolute inset-0 bg-black/40 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-200">
-            <ExternalLink className="w-6 h-6 text-white" />
-          </div>
+          <div className="absolute inset-0 bg-gradient-to-t from-void via-transparent to-transparent" />
         </div>
 
         {/* Content */}
-        <div className="flex-1 min-w-0">
-          {/* Category badge */}
-          <div className="flex items-center gap-2 mb-2">
-            <span className="text-xs">{item.emoji}</span>
-            <span className="text-xs font-mono text-electric-cyan">{item.category}</span>
-          </div>
-
-          {/* Title */}
-          <h3 className="font-heading font-bold text-sm text-white line-clamp-2 mb-1 group-hover:text-electric-blue transition-colors">
+        <div className="p-3">
+          <h3 className="font-heading font-bold text-xs line-clamp-2 mb-1 group-hover:text-electric-blue transition-colors">
             {item.title}
           </h3>
-
-          {/* Channel */}
-          <p className="text-xs text-white/50 flex items-center gap-1">
-            <Sparkles className="w-3 h-3" />
-            {item.channel}
-          </p>
+          <p className="text-xs opacity-70">{item.channel}</p>
         </div>
-      </div>
 
-      {/* Neon border on hover */}
-      <div className="absolute inset-0 rounded-2xl border border-electric-blue/0 group-hover:border-electric-blue/50 transition-colors duration-300 pointer-events-none" />
-    </motion.a>
+        {/* Hover indicator */}
+        <div className="absolute bottom-0 left-0 right-0 h-1 bg-gradient-to-r from-electric-blue to-electric-purple transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300" />
+      </a>
+    </motion.article>
   );
 }
