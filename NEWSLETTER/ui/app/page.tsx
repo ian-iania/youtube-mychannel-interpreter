@@ -1,9 +1,14 @@
 "use client";
 
+import { useState } from "react";
 import ShaderBackground from "@/components/ShaderBackground";
 import Header from "@/components/Header";
 import NewsTicker from "@/components/NewsTicker";
+import Tabs, { TabType } from "@/components/Tabs";
+import VideoCard from "@/components/VideoCard";
+import CategoryCard from "@/components/CategoryCard";
 import { motion } from "framer-motion";
+import { MOCK_EDITION } from "@/lib/data";
 
 export default function Home() {
   return (
@@ -139,15 +144,104 @@ export default function Home() {
         </motion.div>
       </section>
 
-      {/* Placeholder para próximas seções */}
-      <section className="relative min-h-screen flex items-center justify-center px-4">
-        <div className="container mx-auto max-w-4xl text-center">
-          <h2 className="heading-lg mb-6">Próximas Seções</h2>
-          <p className="body-lg text-white/60">
-            Tabs, Categorias, Vídeos, Bento Grid...
-          </p>
-        </div>
-      </section>
+      {/* Content Section with Tabs */}
+      <ContentSection />
     </main>
+  );
+}
+
+// Content Section Component
+function ContentSection() {
+  const [activeTab, setActiveTab] = useState<TabType>("current");
+
+  return (
+    <section className="relative py-12">
+      {/* Tabs */}
+      <Tabs activeTab={activeTab} onTabChange={setActiveTab} />
+
+      {/* Tab Content */}
+      <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+        {activeTab === "current" && <CurrentEditionTab />}
+        {activeTab === "categories" && <CategoriesTab />}
+        {activeTab === "archive" && <ArchiveTab />}
+      </div>
+    </section>
+  );
+}
+
+// Current Edition Tab
+function CurrentEditionTab() {
+  return (
+    <motion.div
+      initial={{ opacity: 0, y: 20 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.5 }}
+      className="space-y-16"
+    >
+      {MOCK_EDITION.categories.map((category, index) => (
+        <div key={category.id} className="space-y-6">
+          {/* Category Header */}
+          <div className="flex items-center gap-4">
+            <span className="text-4xl">{category.emoji}</span>
+            <div>
+              <h2 className="heading-md">{category.name}</h2>
+              <p className="body-sm">{category.description}</p>
+            </div>
+            <div className="ml-auto px-4 py-2 rounded-full glass-card">
+              <span className="mono-text">{category.videoCount} vídeos</span>
+            </div>
+          </div>
+
+          {/* Videos Grid */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {category.videos.map((video, videoIndex) => (
+              <VideoCard key={video.video_id} video={video} index={videoIndex} />
+            ))}
+          </div>
+        </div>
+      ))}
+    </motion.div>
+  );
+}
+
+// Categories Tab (Bento Grid)
+function CategoriesTab() {
+  return (
+    <motion.div
+      initial={{ opacity: 0, y: 20 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.5 }}
+    >
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {MOCK_EDITION.categories.map((category, index) => (
+          <CategoryCard
+            key={category.id}
+            category={category}
+            index={index}
+            onClick={() => console.log("Category clicked:", category.id)}
+          />
+        ))}
+      </div>
+    </motion.div>
+  );
+}
+
+// Archive Tab (Placeholder)
+function ArchiveTab() {
+  return (
+    <motion.div
+      initial={{ opacity: 0, y: 20 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.5 }}
+      className="text-center py-20"
+    >
+      <h2 className="heading-lg mb-4">Arquivo de Edições</h2>
+      <p className="body-lg text-white/60 mb-8">
+        Edições anteriores estarão disponíveis em breve
+      </p>
+      <div className="inline-flex items-center gap-2 px-6 py-3 rounded-xl glass-card">
+        <span className="mono-text">🚧 Em construção</span>
+      </div>
+    </motion.div>
   );
 }
