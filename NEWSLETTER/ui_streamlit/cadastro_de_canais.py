@@ -162,7 +162,7 @@ def main():
         c for c in channels
         if c.get("type") in selected_categories
         and c.get("priority") in selected_priorities
-        and (not search_text or search_text.lower() in c.get("channel_name", "").lower())
+        and (not search_text or search_text.lower() in c.get("channel_title", "").lower())
     ]
     
     # Métricas principais
@@ -210,7 +210,7 @@ def main():
     # Criar tabela editável
     for idx, channel in enumerate(filtered_channels):
         with st.expander(
-            f"**{channel.get('channel_name', 'Sem nome')}** | "
+            f"**{channel.get('channel_title', 'Sem nome')}** | "
             f"{channel.get('type', 'N/A').title()} | "
             f"Prioridade: {channel.get('priority', 'média').title()} | "
             f"{format_number(channel.get('subscriber_count', 0))} inscritos",
