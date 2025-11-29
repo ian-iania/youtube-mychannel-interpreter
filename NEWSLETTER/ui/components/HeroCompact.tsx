@@ -58,11 +58,11 @@ export default function HeroCompact() {
           
           {/* Subtitle - Missão inspiradora */}
           <div className="max-w-2xl mx-auto space-y-1">
-            <p className="text-base md:text-lg text-white/60">
-              O mundo da AI muda todos os dias. <span className="text-white/80">Nós filtramos o ruído.</span>
+            <p className="text-base md:text-lg text-white/70">
+              A IA produz informação em volume impossível de acompanhar.
             </p>
-            <p className="text-sm md:text-base text-white/40">
-              Selecionamos para você as informações mais recentes e relevantes. <span className="text-acid-green/70">Aproveite!</span>
+            <p className="text-sm md:text-base text-white/50">
+              Nossa curadoria entrega o essencial para você liderar e se manter à frente.
             </p>
           </div>
         </motion.div>
