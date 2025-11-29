@@ -4,24 +4,7 @@ import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { Calendar } from "lucide-react";
 import { REAL_EDITION, getAllRealVideos } from "@/lib/real-data";
-
-// Logo SVG component baseado no design fornecido
-function IaniaLogo({ className = "" }: { className?: string }) {
-  return (
-    <svg viewBox="0 0 200 60" className={className} fill="currentColor">
-      <text
-        x="0"
-        y="48"
-        fontFamily="'Pacifico', 'Dancing Script', cursive"
-        fontSize="52"
-        fontWeight="400"
-        fill="white"
-      >
-        iania
-      </text>
-    </svg>
-  );
-}
+import Image from "next/image";
 
 export default function HeroCompact() {
   const [currentTime, setCurrentTime] = useState(new Date());
@@ -60,20 +43,28 @@ export default function HeroCompact() {
           transition={{ duration: 0.6 }}
         >
           {/* Logo + Title */}
-          <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-3" style={{ fontFamily: "'Pacifico', 'Dancing Script', cursive" }}>
-            <span className="text-white">iania</span>
-            <span className="text-white/60 font-sans text-3xl md:text-4xl lg:text-5xl ml-3 font-light">AI News</span>
-          </h1>
-          
-          {/* Subtitle em uma linha */}
-          <p className="text-base md:text-lg text-white/50 flex items-center justify-center gap-3 flex-wrap">
-            <span>Vídeos analisados e organizados por categoria</span>
-            <span className="text-white/30">•</span>
-            <span className="flex items-center gap-1.5">
-              <span className="w-1.5 h-1.5 rounded-full bg-acid-green animate-pulse" />
-              Atualizado: {lastUpdateFormatted}
+          <div className="flex items-center justify-center gap-4 mb-3">
+            <Image 
+              src="/logo-iania.png" 
+              alt="IANIA" 
+              width={350} 
+              height={100}
+              className="h-20 md:h-28 lg:h-32 w-auto"
+            />
+            <span className="text-3xl md:text-4xl lg:text-5xl text-white/50 font-light tracking-wider">
+              AI News
             </span>
-          </p>
+          </div>
+          
+          {/* Subtitle - Missão inspiradora */}
+          <div className="max-w-2xl mx-auto space-y-1">
+            <p className="text-base md:text-lg text-white/60">
+              O mundo da AI muda todos os dias. <span className="text-white/80">Nós filtramos o ruído.</span>
+            </p>
+            <p className="text-sm md:text-base text-white/40">
+              Selecionamos para você as informações mais recentes e relevantes. <span className="text-acid-green/70">Aproveite!</span>
+            </p>
+          </div>
         </motion.div>
 
         {/* Breaking News Ticker */}

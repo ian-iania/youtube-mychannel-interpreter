@@ -2,14 +2,24 @@
 
 import { useState, useEffect } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
-import { Sparkles, Menu, X, PenSquare, Trophy } from "lucide-react";
+import { Menu, X, PenSquare, Trophy, Clock } from "lucide-react";
+import { REAL_EDITION } from "@/lib/real-data";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
-
+import Image from "next/image";
 export default function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const { scrollY } = useScroll();
+
+  // Horário da última atualização
+  const lastUpdate = new Date(REAL_EDITION.collectedAt);
+  const lastUpdateFormatted = lastUpdate.toLocaleString("pt-BR", {
+    day: "2-digit",
+    month: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+  });
 
   // Transform para blur no scroll
   const headerBlur = useTransform(scrollY, [0, 100], [0, 20]);
@@ -52,15 +62,19 @@ export default function Header() {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.5 }}
           >
-            {/* Texto do logo com fonte Pacifico */}
-            <span 
-              className="text-2xl text-white"
-              style={{ fontFamily: "'Pacifico', cursive" }}
-            >
-              iania
-            </span>
-            <span className="text-lg text-white/50 font-light">
-              AI News
+            {/* Ícone IA */}
+            <Image 
+              src="/logo-icon.png" 
+              alt="IANIA" 
+              width={40} 
+              height={40}
+              className="h-10 w-auto invert"
+            />
+            
+            {/* Atualizado - após o logo */}
+            <span className="hidden md:flex items-center gap-1.5 ml-4 pl-4 border-l border-white/10 text-xs text-white/40">
+              <Clock size={12} className="text-acid-green" />
+              Atualizado em {lastUpdateFormatted}
             </span>
           </motion.a>
 

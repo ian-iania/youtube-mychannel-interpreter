@@ -108,17 +108,44 @@ export default function AIPulseDashboard() {
   return (
     <section className="py-6">
       <div className="container mx-auto px-4">
-        {/* Section Header */}
-        <div className="flex items-center justify-between mb-4">
-          <div className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-neon-orange to-electric-orange flex items-center justify-center">
-              <Zap className="w-4 h-4 text-white" />
+        {/* Section Header com Category Tabs na mesma linha */}
+        <div className="flex flex-col md:flex-row md:items-center justify-between gap-3 mb-4">
+          {/* Título + Tabs */}
+          <div className="flex flex-col md:flex-row md:items-center gap-3">
+            {/* Título */}
+            <div className="flex items-center gap-3">
+              <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-neon-orange to-electric-orange flex items-center justify-center">
+                <Zap className="w-4 h-4 text-white" />
+              </div>
+              <div>
+                <h2 className="text-lg font-bold">AI Pulse</h2>
+                <p className="text-xs text-white/50">LMArena Leaderboards</p>
+              </div>
             </div>
-            <div>
-              <h2 className="text-lg font-bold">AI Pulse</h2>
-              <p className="text-xs text-white/50">LMArena Leaderboards em tempo real</p>
+            
+            {/* Category Tabs - na mesma linha */}
+            <div className="flex gap-1.5 overflow-x-auto pb-1 scrollbar-hide md:ml-4 md:pl-4 md:border-l md:border-white/10">
+              {ARENA_CATEGORIES.map((category) => (
+                <button
+                  key={category.id}
+                  onClick={() => setSelectedCategory(category.id)}
+                  className={`flex items-center gap-1 px-2.5 py-1 rounded-lg text-[11px] font-medium whitespace-nowrap transition-all ${
+                    selectedCategory === category.id
+                      ? "text-white"
+                      : "bg-white/5 text-white/50 hover:bg-white/10 hover:text-white/70"
+                  }`}
+                  style={{
+                    backgroundColor: selectedCategory === category.id ? category.color : undefined,
+                  }}
+                >
+                  {category.icon}
+                  {category.name}
+                </button>
+              ))}
             </div>
           </div>
+          
+          {/* Link externo */}
           <a
             href="https://lmarena.ai/leaderboard"
             target="_blank"
@@ -128,27 +155,6 @@ export default function AIPulseDashboard() {
             <ExternalLink size={12} />
             Ver completo
           </a>
-        </div>
-
-        {/* Category Tabs */}
-        <div className="flex gap-2 mb-4 overflow-x-auto pb-2 scrollbar-hide">
-          {ARENA_CATEGORIES.map((category) => (
-            <button
-              key={category.id}
-              onClick={() => setSelectedCategory(category.id)}
-              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium whitespace-nowrap transition-all ${
-                selectedCategory === category.id
-                  ? "text-white"
-                  : "bg-white/5 text-white/50 hover:bg-white/10 hover:text-white/70"
-              }`}
-              style={{
-                backgroundColor: selectedCategory === category.id ? category.color : undefined,
-              }}
-            >
-              {category.icon}
-              {category.name}
-            </button>
-          ))}
         </div>
 
         {/* Leaderboard Cards Grid */}
