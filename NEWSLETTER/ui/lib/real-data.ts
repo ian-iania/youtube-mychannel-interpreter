@@ -1,6 +1,6 @@
 /**
  * Dados reais dos 158 vídeos coletados e categorizados
- * Gerado automaticamente em: 2025-11-29 14:19:15
+ * Gerado automaticamente em: 2025-11-29 15:08:11
  * Edição: 2025-11-29
  * Fonte: ui/public/editions/2025-11-29.json
  */
@@ -488,34 +488,6 @@ const OUTROS_VIDEOS: Video[] = [
     commentCount: 0,
   },
   {
-    video_id: "dLdot2u5_sw",
-    title: "A Black das Blacks Magalu tá ON!",
-    channel: "Canaltech",
-    duration: "0.8",
-    views: "1.2K",
-    viewCount: 1229,
-    summary: "",
-    keyPoints: [],
-    url: "https://www.youtube.com/watch?v=dLdot2u5_sw",
-    publishedAt: "2025-11-28T23:00:52Z",
-    likeCount: 114,
-    commentCount: 1,
-  },
-  {
-    video_id: "o2Ce_3cYP3Q",
-    title: "Se você vive derrubando o celular ou morre de medo de molhar, o Moto G56 5G é o seu novo parceiro.",
-    channel: "Canaltech",
-    duration: "0.8",
-    views: "3.0K",
-    viewCount: 2963,
-    summary: "",
-    keyPoints: [],
-    url: "https://www.youtube.com/watch?v=o2Ce_3cYP3Q",
-    publishedAt: "2025-11-28T20:00:47Z",
-    likeCount: 294,
-    commentCount: 7,
-  },
-  {
     video_id: "UdL8pScKz-8",
     title: "Software engineering #softwareengineering #india",
     channel: "Data Science in your pocket",
@@ -782,20 +754,6 @@ const FERRAMENTAS_DEV_VIDEOS: Video[] = [
     url: "https://www.youtube.com/watch?v=_P46asoq7h8",
     publishedAt: "2025-11-28T00:16:19Z",
     likeCount: 12,
-    commentCount: 0,
-  },
-  {
-    video_id: "2NWRyT2M8xA",
-    title: "Conheça o Epson EF22, o projetor smart portátil que entrega imagem Full HD até 150”",
-    channel: "Canaltech",
-    duration: "0.7",
-    views: "4.5K",
-    viewCount: 4476,
-    summary: "",
-    keyPoints: [],
-    url: "https://www.youtube.com/watch?v=2NWRyT2M8xA",
-    publishedAt: "2025-11-27T20:32:20Z",
-    likeCount: 210,
     commentCount: 0,
   },
   {
@@ -1449,62 +1407,6 @@ const TUTORIAIS_VIDEOS: Video[] = [
     commentCount: 0,
   },
   {
-    video_id: "PnQWQxBLbf0",
-    title: "Anvisa proibiu anel que promete medir glicose | Qual realmente funciona?",
-    channel: "Canaltech",
-    duration: "9.0",
-    views: "239",
-    viewCount: 239,
-    summary: "",
-    keyPoints: [],
-    url: "https://www.youtube.com/watch?v=PnQWQxBLbf0",
-    publishedAt: "2025-11-29T17:00:43Z",
-    likeCount: 39,
-    commentCount: 2,
-  },
-  {
-    video_id: "cZWzygZjuaM",
-    title: "Não é mágica, é tecnologia pura! ✨ Fomos conferir de perto como a mágica acontece na fábrica da Oppo",
-    channel: "Canaltech",
-    duration: "1.2",
-    views: "1.3K",
-    viewCount: 1281,
-    summary: "",
-    keyPoints: [],
-    url: "https://www.youtube.com/watch?v=cZWzygZjuaM",
-    publishedAt: "2025-11-29T15:01:14Z",
-    likeCount: 246,
-    commentCount: 3,
-  },
-  {
-    video_id: "djWDrK2Ogh4",
-    title: "IA e Nuvem na Prática: Estratégias da AWS para a Black Friday",
-    channel: "Canaltech",
-    duration: "41.6",
-    views: "1.4K",
-    viewCount: 1410,
-    summary: "",
-    keyPoints: [],
-    url: "https://www.youtube.com/watch?v=djWDrK2Ogh4",
-    publishedAt: "2025-11-28T21:00:47Z",
-    likeCount: 135,
-    commentCount: 2,
-  },
-  {
-    video_id: "dBqDsQsrnI0",
-    title: "Te dou 5 segundos: qual é o iPhone 17 e qual é o 16? 🧐",
-    channel: "Canaltech",
-    duration: "2.3",
-    views: "6.7K",
-    viewCount: 6688,
-    summary: "",
-    keyPoints: [],
-    url: "https://www.youtube.com/watch?v=dBqDsQsrnI0",
-    publishedAt: "2025-11-28T15:18:19Z",
-    likeCount: 748,
-    commentCount: 12,
-  },
-  {
     video_id: "gzXykEumCC8",
     title: "1 CTO vs 100 PROGRAMADORES | ft. FILIPE DESCHAMPS",
     channel: "Filipe Deschamps",
@@ -1990,34 +1892,6 @@ const PESQUISA_VIDEOS: Video[] = [
 
 const NOTICIAS_VIDEOS: Video[] = [
   {
-    video_id: "CDHtme89MQo",
-    title: "ESTAMOS AO VIVO | Black Friday Canaltech 2025!",
-    channel: "Canaltech",
-    duration: "323.0",
-    views: "23.2K",
-    viewCount: 23165,
-    summary: "",
-    keyPoints: [],
-    url: "https://www.youtube.com/watch?v=CDHtme89MQo",
-    publishedAt: "2025-11-28T18:44:08Z",
-    likeCount: 888,
-    commentCount: 3,
-  },
-  {
-    video_id: "vyeKkvFBSwI",
-    title: "BLACK FRIDAY CANALTECH 2025 CHEGOU!",
-    channel: "Canaltech",
-    duration: "489.0",
-    views: "55.1K",
-    viewCount: 55146,
-    summary: "",
-    keyPoints: [],
-    url: "https://www.youtube.com/watch?v=vyeKkvFBSwI",
-    publishedAt: "2025-11-28T05:27:18Z",
-    likeCount: 2088,
-    commentCount: 6,
-  },
-  {
     video_id: "rce68ElxkxU",
     title: "Samsung Galaxy Z Trifold será MAIS CARO que iPhone dobrável; Rússia usando pombos para espionagem?",
     channel: "TecMundo",
@@ -2076,20 +1950,6 @@ const NOTICIAS_VIDEOS: Video[] = [
 ];
 
 const AUTOMACAO_VIDEOS: Video[] = [
-  {
-    video_id: "Y0Aqc174FMM",
-    title: "The most absurd product I&#39;ve made",
-    channel: "3Blue1Brown",
-    duration: "1.4166666666666667",
-    views: "95.7K",
-    viewCount: 95723,
-    summary: "",
-    keyPoints: [],
-    url: "https://www.youtube.com/watch?v=Y0Aqc174FMM",
-    publishedAt: "2025-11-24T16:30:21Z",
-    likeCount: 2325,
-    commentCount: 61,
-  },
   {
     video_id: "DBgAH8YLvPU",
     title: "Let’s build an automation!",
@@ -2262,7 +2122,7 @@ const OUTROS_CATEGORY: Category = {
   name: "Outros",
   emoji: "📌",
   description: "Outros tópicos relevantes",
-  videoCount: 39,
+  videoCount: 37,
   videos: OUTROS_VIDEOS,
 };
 
@@ -2271,7 +2131,7 @@ const FERRAMENTAS_DEV_CATEGORY: Category = {
   name: "Ferramentas para Devs",
   emoji: "💻",
   description: "IDEs, copilots e ferramentas de desenvolvimento",
-  videoCount: 34,
+  videoCount: 33,
   videos: FERRAMENTAS_DEV_VIDEOS,
 };
 
@@ -2289,7 +2149,7 @@ const TUTORIAIS_CATEGORY: Category = {
   name: "Tutoriais",
   emoji: "📚",
   description: "Guias e tutoriais práticos",
-  videoCount: 20,
+  videoCount: 16,
   videos: TUTORIAIS_VIDEOS,
 };
 
@@ -2316,7 +2176,7 @@ const NOTICIAS_CATEGORY: Category = {
   name: "Notícias",
   emoji: "📰",
   description: "Notícias e atualizações do mundo da IA",
-  videoCount: 6,
+  videoCount: 4,
   videos: NOTICIAS_VIDEOS,
 };
 
@@ -2325,7 +2185,7 @@ const AUTOMACAO_CATEGORY: Category = {
   name: "Automação",
   emoji: "⚙️",
   description: "Workflows e automação com IA",
-  videoCount: 5,
+  videoCount: 4,
   videos: AUTOMACAO_VIDEOS,
 };
 
@@ -2363,7 +2223,7 @@ export const REAL_EDITION: Edition = {
   dateRange: "27–29 nov 2025",
   tagline: "Sua curadoria semanal de IA",
   collectedAt: "2025-11-29T14:10:25.044114",
-  totalVideos: 158,
+  totalVideos: 148,
   categories: [
     OUTROS_CATEGORY,
     FERRAMENTAS_DEV_CATEGORY,
@@ -2378,10 +2238,10 @@ export const REAL_EDITION: Edition = {
     NEGOCIOS_CATEGORY,
   ],
   summaryHighlights: [
-    { categoryName: "Outros", emoji: "📌", videoCount: 39 },
-    { categoryName: "Ferramentas para Devs", emoji: "💻", videoCount: 34 },
+    { categoryName: "Outros", emoji: "📌", videoCount: 37 },
+    { categoryName: "Ferramentas para Devs", emoji: "💻", videoCount: 33 },
     { categoryName: "Novos Modelos", emoji: "🚀", videoCount: 25 },
-    { categoryName: "Tutoriais", emoji: "📚", videoCount: 20 },
+    { categoryName: "Tutoriais", emoji: "📚", videoCount: 16 },
     { categoryName: "Agentes de IA", emoji: "🤖", videoCount: 16 },
   ],
 };

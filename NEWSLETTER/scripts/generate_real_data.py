@@ -21,6 +21,12 @@ OUTPUT_FILE = PROJECT_DIR / 'ui' / 'lib' / 'real-data.ts'
 
 
 # Mapeamento de categorias para metadados
+# Canais excluídos (não focados em AI)
+EXCLUDED_CHANNELS = [
+    'Canaltech',      # Foco em produtos/Black Friday, não AI
+    '3Blue1Brown',    # Foco em matemática, não AI específico
+]
+
 CATEGORY_META = {
     'novos-modelos': {'emoji': '🚀', 'name': 'Novos Modelos', 'description': 'Lançamentos e atualizações de modelos de IA'},
     'agentes-ia': {'emoji': '🤖', 'name': 'Agentes de IA', 'description': 'Agentes autônomos e sistemas multi-agente'},
@@ -81,15 +87,29 @@ import {{ CATEGORY_META }} from "./types";
     
     # Gerar arrays de vídeos por categoria
     category_vars = []
+    total_excluded = 0
     
     for category in edition['categories']:
         cat_id = category['id']
         var_name = cat_id.upper().replace('-', '_') + '_VIDEOS'
-        category_vars.append((cat_id, var_name, category))
+        
+        # Filtrar vídeos de canais excluídos
+        filtered_videos = [v for v in category['videos'] if v.get('channel') not in EXCLUDED_CHANNELS]
+        excluded_count = len(category['videos']) - len(filtered_videos)
+        total_excluded += excluded_count
+        
+        # Atualizar categoria com vídeos filtrados
+        filtered_category = {**category, 'videos': filtered_videos, 'videoCount': len(filtered_videos)}
+        
+        # Pular categorias vazias após filtragem
+        if len(filtered_videos) == 0:
+            continue
+            
+        category_vars.append((cat_id, var_name, filtered_category))
         
         ts_content += f"const {var_name}: Video[] = [\n"
         
-        for video in category['videos']:
+        for video in filtered_videos:
             views_formatted = format_views(video.get('viewCount', 0))
             
             # Escapar strings
@@ -136,18 +156,32 @@ import {{ CATEGORY_META }} from "./types";
 
 '''
     
+    # Calcular total de vídeos após filtragem
+    total_filtered_videos = sum(cat['videoCount'] for _, _, cat in category_vars)
+    
     # Gerar REAL_EDITION
-    category_refs = [f"  {cat_id.upper().replace('-', '_')}_CATEGORY," for cat_id, _, _ in category_vars]
+    category_refs = [f"    {cat_id.upper().replace('-', '_')}_CATEGORY," for cat_id, _, _ in category_vars]
+    
+    # Gerar summaryHighlights (top 5 categorias)
+    sorted_cats = sorted(category_vars, key=lambda x: x[2]['videoCount'], reverse=True)[:5]
+    highlights = []
+    for cat_id, _, cat in sorted_cats:
+        meta = CATEGORY_META.get(cat_id, {'emoji': '📌', 'name': cat['name']})
+        highlights.append(f'    {{ categoryName: "{meta["name"]}", emoji: "{meta["emoji"]}", videoCount: {cat["videoCount"]} }},')
     
     ts_content += f'''// Edição completa
 export const REAL_EDITION: Edition = {{
-  date: "{edition['date']}",
-  title: "{edition['title']}",
-  generatedAt: "{edition['generatedAt']}",
+  id: "{edition['date']}",
+  weekLabel: "Semana de {edition['date'].split('-')[2]}/{edition['date'].split('-')[1]}/{edition['date'].split('-')[0]}",
+  dateRange: "27–29 nov 2025",
+  tagline: "Sua curadoria semanal de IA",
   collectedAt: "{edition['collectedAt']}",
-  totalVideos: {edition['totalVideos']},
+  totalVideos: {total_filtered_videos},
   categories: [
 {chr(10).join(category_refs)}
+  ],
+  summaryHighlights: [
+{chr(10).join(highlights)}
   ],
 }};
 
@@ -155,9 +189,16 @@ export const REAL_EDITION: Edition = {{
 export function getAllRealVideos(): Video[] {{
   return REAL_EDITION.categories.flatMap(c => c.videos);
 }}
+
+// Helper para obter itens aleatórios para o ticker de notícias
+export function getRandomRealNewsItems(count: number): Video[] {{
+  const allVideos = getAllRealVideos();
+  const shuffled = [...allVideos].sort(() => Math.random() - 0.5);
+  return shuffled.slice(0, count);
+}}
 '''
     
-    return ts_content
+    return ts_content, total_excluded, total_filtered_videos
 
 
 def main():
@@ -178,7 +219,11 @@ def main():
     
     # Gerar TypeScript
     print("\n🔄 Gerando TypeScript...")
-    ts_content = generate_typescript(edition)
+    ts_content, excluded_count, final_count = generate_typescript(edition)
+    
+    if excluded_count > 0:
+        print(f"🚫 Excluídos: {excluded_count} vídeos de canais não-AI")
+        print(f"   Canais: {', '.join(EXCLUDED_CHANNELS)}")
     
     # Salvar
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
@@ -186,6 +231,7 @@ def main():
     
     print(f"💾 Salvo em: {OUTPUT_FILE}")
     print(f"📄 Tamanho: {len(ts_content):,} caracteres")
+    print(f"🎬 Vídeos finais: {final_count}")
     
     print("\n✅ Concluído! Reinicie o servidor Next.js para ver as mudanças.")
 

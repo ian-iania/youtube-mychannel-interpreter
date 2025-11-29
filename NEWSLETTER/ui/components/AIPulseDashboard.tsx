@@ -101,9 +101,28 @@ const ARENA_CATEGORIES: ArenaCategory[] = [
   },
 ];
 
-// Componente de barra de progresso
-function ScoreBar({ score, maxScore, color }: { score: number; maxScore: number; color: string }) {
-  const percentage = (score / maxScore) * 100;
+// Componente de barra de progresso com escala amplificada
+function ScoreBar({ 
+  score, 
+  maxScore, 
+  minScore, 
+  color 
+}: { 
+  score: number; 
+  maxScore: number; 
+  minScore: number;
+  color: string;
+}) {
+  // Escala amplificada: mostra diferença relativa entre min e max da categoria
+  // Isso faz com que pequenas diferenças fiquem visualmente evidentes
+  const range = maxScore - minScore;
+  const basePercentage = 40; // Barra mínima de 40%
+  const variablePercentage = 60; // 60% restante para mostrar diferença
+  
+  // Calcula posição relativa dentro do range
+  const relativePosition = range > 0 ? (score - minScore) / range : 1;
+  const percentage = basePercentage + (relativePosition * variablePercentage);
+  
   return (
     <div className="w-full h-1.5 bg-white/10 rounded-full overflow-hidden">
       <motion.div
@@ -175,56 +194,68 @@ export default function AIPulseDashboard() {
 
         {/* Leaderboard Cards Grid com Barras de Progresso */}
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
-          {ARENA_CATEGORIES.map((category, catIndex) => (
-            <motion.div
-              key={category.id}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: catIndex * 0.05 }}
-              className="glass-card rounded-xl p-3 border border-white/5 hover:border-white/10 transition-all"
-            >
-              {/* Category Header */}
-              <div className="flex items-center justify-between mb-3">
-                <div className="flex items-center gap-1.5">
-                  <span style={{ color: category.color }}>{category.icon}</span>
-                  <span className="text-xs font-medium text-white/70">{category.name}</span>
-                </div>
-                {/* Badge do líder */}
-                <Crown size={12} className="text-electric-amber/60" />
-              </div>
-
-              {/* Top 3 Models com Barras */}
-              <div className="space-y-2.5">
-                {category.topModels.map((model, index) => (
-                  <div key={model.model} className="space-y-1">
-                    {/* Nome e Score */}
-                    <div className="flex items-center gap-1.5">
-                      <span
-                        className={`w-4 h-4 rounded-full flex items-center justify-center text-[10px] font-bold shrink-0 ${
-                          index === 0
-                            ? "bg-electric-amber/20 text-electric-amber"
-                            : index === 1
-                            ? "bg-white/10 text-white/60"
-                            : "bg-white/5 text-white/40"
-                        }`}
-                      >
-                        {index + 1}
-                      </span>
-                      <div className="flex-1 min-w-0">
-                        <p className="text-[10px] font-medium truncate text-white/80">{model.model}</p>
-                      </div>
-                      <div className="flex items-center gap-1.5">
-                        <TrendIndicator trend={model.trend} delta={model.delta} />
-                        <span className="text-[10px] font-mono text-white/50">{model.score}</span>
-                      </div>
-                    </div>
-                    {/* Barra de Progresso */}
-                    <ScoreBar score={model.score} maxScore={maxScore} color={category.color} />
+          {ARENA_CATEGORIES.map((category, catIndex) => {
+            // Calcular min/max por categoria para escala relativa
+            const categoryScores = category.topModels.map(m => m.score);
+            const categoryMax = Math.max(...categoryScores);
+            const categoryMin = Math.min(...categoryScores);
+            
+            return (
+              <motion.div
+                key={category.id}
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: catIndex * 0.05 }}
+                className="glass-card rounded-xl p-3 border border-white/5 hover:border-white/10 transition-all"
+              >
+                {/* Category Header */}
+                <div className="flex items-center justify-between mb-3">
+                  <div className="flex items-center gap-1.5">
+                    <span style={{ color: category.color }}>{category.icon}</span>
+                    <span className="text-xs font-medium text-white/70">{category.name}</span>
                   </div>
-                ))}
-              </div>
-            </motion.div>
-          ))}
+                  {/* Badge do líder */}
+                  <Crown size={12} className="text-electric-amber/60" />
+                </div>
+
+                {/* Top 3 Models com Barras */}
+                <div className="space-y-2.5">
+                  {category.topModels.map((model, index) => (
+                    <div key={model.model} className="space-y-1">
+                      {/* Nome e Score */}
+                      <div className="flex items-center gap-1.5">
+                        <span
+                          className={`w-4 h-4 rounded-full flex items-center justify-center text-[10px] font-bold shrink-0 ${
+                            index === 0
+                              ? "bg-electric-amber/20 text-electric-amber"
+                              : index === 1
+                              ? "bg-white/10 text-white/60"
+                              : "bg-white/5 text-white/40"
+                          }`}
+                        >
+                          {index + 1}
+                        </span>
+                        <div className="flex-1 min-w-0">
+                          <p className="text-[10px] font-medium truncate text-white/80">{model.model}</p>
+                        </div>
+                        <div className="flex items-center gap-1.5">
+                          <TrendIndicator trend={model.trend} delta={model.delta} />
+                          <span className="text-[10px] font-mono text-white/50">{model.score}</span>
+                        </div>
+                      </div>
+                      {/* Barra de Progresso com escala relativa à categoria */}
+                      <ScoreBar 
+                        score={model.score} 
+                        maxScore={categoryMax} 
+                        minScore={categoryMin}
+                        color={category.color} 
+                      />
+                    </div>
+                  ))}
+                </div>
+              </motion.div>
+            );
+          })}
         </div>
       </div>
     </section>
