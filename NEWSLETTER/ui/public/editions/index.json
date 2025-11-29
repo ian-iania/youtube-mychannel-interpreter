@@ -1,6 +1,13 @@
 {
-  "latest": "2025-11-27",
+  "latest": "2025-11-29",
   "editions": [
+    {
+      "date": "2025-11-29",
+      "title": "Edição 29/11/2025",
+      "videoCount": 158,
+      "categoryCount": 11,
+      "generatedAt": "2025-11-29T14:14:04.270110"
+    },
     {
       "date": "2025-11-27",
       "title": "Edição 27/11/2025",

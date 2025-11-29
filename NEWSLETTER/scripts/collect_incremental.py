@@ -427,10 +427,12 @@ def main():
         data = json.load(f)
     
     # Extrair dados dos canais
-    if isinstance(data, list):
-        channels_data = {c['channel_id']: c for c in data}
+    channels_list = data.get('channels', data) if isinstance(data, dict) else data
+    
+    if isinstance(channels_list, list):
+        channels_data = {c['channel_id']: c for c in channels_list}
     else:
-        channels_data = data.get('channels', data)
+        channels_data = channels_list
     
     # Criar coletor
     collector = IncrementalVideoCollector(

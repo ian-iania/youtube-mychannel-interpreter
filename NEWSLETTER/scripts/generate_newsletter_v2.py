@@ -107,7 +107,11 @@ def organize_by_themes(data):
     
     for channel_id, channel_data in data['channels'].items():
         channel_info = channel_data['channel_info']
-        channel_name = channel_info['channel_title']
+        # Suportar ambos os formatos: direto ou via snippet
+        if 'snippet' in channel_info:
+            channel_name = channel_info['snippet']['title']
+        else:
+            channel_name = channel_info.get('channel_title', 'Unknown')
         channel_type = channel_info.get('channel_type', 'person')
         
         for video in channel_data['videos']:
