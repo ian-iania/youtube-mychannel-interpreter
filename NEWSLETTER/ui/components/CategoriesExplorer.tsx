@@ -1,17 +1,38 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Image from "next/image";
 import { ChevronRight, Play, Eye, Clock, ArrowUpRight } from "lucide-react";
-import { REAL_EDITION } from "@/lib/real-data";
+import { REAL_EDITION, getAllRealVideos } from "@/lib/real-data";
 import { Category, Video } from "@/lib/types";
+import PeriodFilter, { PeriodOption, filterVideosByPeriod, countVideosByPeriod } from "./PeriodFilter";
 
 export default function CategoriesExplorer() {
   const [activeCategory, setActiveCategory] = useState<string>(REAL_EDITION.categories[0]?.id || "");
   const [hoveredVideo, setHoveredVideo] = useState<string | null>(null);
+  const [selectedPeriod, setSelectedPeriod] = useState<PeriodOption>("all");
 
-  const activeData = REAL_EDITION.categories.find((c) => c.id === activeCategory);
+  // Contagem total de vídeos por período
+  const allVideos = useMemo(() => getAllRealVideos(), []);
+  const periodCounts = useMemo(() => countVideosByPeriod(allVideos), [allVideos]);
+
+  // Filtrar categorias e vídeos pelo período selecionado
+  const filteredCategories = useMemo(() => {
+    return REAL_EDITION.categories.map((category) => {
+      const filteredVideos = filterVideosByPeriod(category.videos, selectedPeriod);
+      return {
+        ...category,
+        videos: filteredVideos,
+        videoCount: filteredVideos.length,
+      };
+    }).filter((category) => category.videoCount > 0);
+  }, [selectedPeriod]);
+
+  const activeData = filteredCategories.find((c) => c.id === activeCategory) || filteredCategories[0];
+  
+  // Total de vídeos filtrados
+  const totalFilteredVideos = filteredCategories.reduce((sum, c) => sum + c.videoCount, 0);
 
   return (
     <section className="py-16 relative">
@@ -20,23 +41,33 @@ export default function CategoriesExplorer() {
 
       <div className="container mx-auto px-4">
         {/* Section Header */}
-        <div className="flex items-center justify-between mb-10">
+        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6">
           <div>
             <h2 className="text-3xl md:text-4xl font-bold mb-2">Explore por Categoria</h2>
             <p className="text-white/50">
-              {REAL_EDITION.categories.length} categorias • {REAL_EDITION.totalVideos} vídeos
+              {filteredCategories.length} categorias • {totalFilteredVideos} vídeos
+              {selectedPeriod !== "all" && (
+                <span className="text-acid-green/70"> (filtrado)</span>
+              )}
             </p>
           </div>
+          
+          {/* Period Filter */}
+          <PeriodFilter
+            selected={selectedPeriod}
+            onChange={setSelectedPeriod}
+            videoCounts={periodCounts}
+          />
         </div>
 
         {/* Category Pills */}
         <div className="flex flex-wrap gap-2 mb-10">
-          {REAL_EDITION.categories.map((category) => (
+          {filteredCategories.map((category) => (
             <motion.button
               key={category.id}
               onClick={() => setActiveCategory(category.id)}
               className={`px-4 py-2 rounded-full text-sm font-medium transition-all ${
-                activeCategory === category.id
+                activeData?.id === category.id
                   ? "bg-gradient-to-r from-neon-orange to-electric-orange text-white shadow-lg shadow-neon-orange/20"
                   : "bg-white/5 text-white/60 hover:bg-white/10 hover:text-white"
               }`}
@@ -49,6 +80,19 @@ export default function CategoriesExplorer() {
             </motion.button>
           ))}
         </div>
+
+        {/* Empty State */}
+        {filteredCategories.length === 0 && (
+          <div className="text-center py-16">
+            <p className="text-white/50 text-lg">Nenhum vídeo encontrado para este período.</p>
+            <button
+              onClick={() => setSelectedPeriod("all")}
+              className="mt-4 px-4 py-2 rounded-lg bg-white/10 hover:bg-white/20 text-white/70 hover:text-white transition-colors"
+            >
+              Ver todos os vídeos
+            </button>
+          </div>
+        )}
 
         {/* Active Category Content */}
         <AnimatePresence mode="wait">
