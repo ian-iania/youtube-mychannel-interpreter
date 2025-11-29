@@ -2,8 +2,9 @@
 
 import { useState, useEffect } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
-import { Sparkles, Menu, X } from "lucide-react";
+import { Sparkles, Menu, X, PenSquare, Trophy } from "lucide-react";
 import { cn } from "@/lib/utils";
+import Link from "next/link";
 
 export default function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -26,7 +27,7 @@ export default function Header() {
   const navItems = [
     { label: "Edição Atual", href: "#current" },
     { label: "Categorias", href: "#categories" },
-    { label: "Arquivo", href: "#archive" },
+    { label: "Benchmarks", href: "/benchmarks" },
     { label: "Sobre", href: "#about" },
   ];
 
@@ -45,35 +46,22 @@ export default function Header() {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <motion.a
-            href="#"
-            className="flex items-center gap-3 group"
+            href="/"
+            className="flex items-center gap-2 group"
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.5 }}
           >
-            {/* Ícone animado */}
-            <div className="relative">
-              <motion.div
-                className="w-10 h-10 rounded-xl bg-gradient-to-br from-electric-blue to-electric-purple flex items-center justify-center"
-                whileHover={{ scale: 1.1, rotate: 5 }}
-                transition={{ type: "spring", stiffness: 400 }}
-              >
-                <Sparkles className="w-5 h-5 text-white" />
-              </motion.div>
-              
-              {/* Glow effect */}
-              <div className="absolute inset-0 rounded-xl bg-gradient-to-br from-electric-blue to-electric-purple opacity-0 group-hover:opacity-50 blur-xl transition-opacity duration-300" />
-            </div>
-
-            {/* Texto do logo */}
-            <div className="flex flex-col">
-              <span className="font-heading font-extrabold text-xl tracking-tighter gradient-text">
-                IANIA IA NEWS
-              </span>
-              <span className="font-mono text-[10px] text-white/40 tracking-wider">
-                AI CURATED
-              </span>
-            </div>
+            {/* Texto do logo com fonte Pacifico */}
+            <span 
+              className="text-2xl text-white"
+              style={{ fontFamily: "'Pacifico', cursive" }}
+            >
+              iania
+            </span>
+            <span className="text-lg text-white/50 font-light">
+              AI News
+            </span>
           </motion.a>
 
           {/* Desktop Navigation */}
@@ -95,17 +83,45 @@ export default function Header() {
             ))}
           </nav>
 
-          {/* CTA Button */}
-          <motion.button
-            className="hidden md:block btn-primary"
-            initial={{ opacity: 0, x: 20 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.5, delay: 0.4 }}
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-          >
-            Assinar Newsletter
-          </motion.button>
+          {/* CTA Buttons */}
+          <div className="hidden md:flex items-center gap-3">
+            <Link href="/benchmarks">
+              <motion.button
+                className="btn-secondary flex items-center gap-2"
+                initial={{ opacity: 0, x: 20 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ duration: 0.5, delay: 0.25 }}
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+              >
+                <Trophy size={16} />
+                Benchmarks
+              </motion.button>
+            </Link>
+            <Link href="/editor">
+              <motion.button
+                className="btn-secondary flex items-center gap-2"
+                initial={{ opacity: 0, x: 20 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ duration: 0.5, delay: 0.3 }}
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+              >
+                <PenSquare size={16} />
+                Editor
+              </motion.button>
+            </Link>
+            <motion.button
+              className="btn-primary"
+              initial={{ opacity: 0, x: 20 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ duration: 0.5, delay: 0.4 }}
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+            >
+              Assinar Newsletter
+            </motion.button>
+          </div>
 
           {/* Mobile Menu Button */}
           <motion.button

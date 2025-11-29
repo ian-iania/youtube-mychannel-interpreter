@@ -111,26 +111,50 @@ def generate_typescript(categories_data: Dict, collected_at: str) -> str:
         ts_lines.append(f'\nconst {cat_id.upper().replace("-", "_")}_VIDEOS: Video[] = [')
         
         for video in videos:
-            video_id = extract_video_id(video.get("url", ""))
+            # Usar video_id direto se existir, senão extrair da URL
+            video_id = video.get("video_id", "") or extract_video_id(video.get("url", ""))
+            
+            # Gerar URL se não existir
+            url = video.get("url", "")
+            if not url and video_id:
+                url = f"https://www.youtube.com/watch?v={video_id}"
             
             # Escapar strings para TypeScript
             def escape_ts(s):
-                return s.replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ').replace('\r', '')
+                if s is None:
+                    return ""
+                return str(s).replace('\\', '\\\\').replace('"', '\\"').replace('\n', ' ').replace('\r', '')
             
             summary = escape_ts(video.get("summary", ""))
             key_points = video.get("keyPoints", [])
             key_points_ts = ', '.join([f'"{escape_ts(kp)}"' for kp in key_points])
             
+            # Formatar duração - pode vir como minutos float ou ISO 8601
+            duration_raw = video.get("duration_minutes", video.get("duration", 0))
+            if isinstance(duration_raw, (int, float)):
+                duration = str(round(duration_raw, 1))
+            else:
+                duration = format_duration(str(duration_raw))
+            
+            # Formatar views
+            view_count = int(video.get("view_count", 0))
+            if view_count >= 1000000:
+                views_formatted = f"{view_count / 1000000:.1f}M"
+            elif view_count >= 1000:
+                views_formatted = f"{view_count / 1000:.1f}K"
+            else:
+                views_formatted = str(view_count)
+            
             ts_lines.append('  {')
             ts_lines.append(f'    video_id: "{video_id}",')
             ts_lines.append(f'    title: "{escape_ts(video.get("title", ""))}",')
             ts_lines.append(f'    channel: "{escape_ts(video.get("channel", ""))}",')
-            ts_lines.append(f'    duration: "{format_duration(video.get("duration", ""))}",')
-            ts_lines.append(f'    views: "{video.get("views", "0")}",')
-            ts_lines.append(f'    viewCount: {int(video.get("view_count", 0))},')
+            ts_lines.append(f'    duration: "{duration}",')
+            ts_lines.append(f'    views: "{views_formatted}",')
+            ts_lines.append(f'    viewCount: {view_count},')
             ts_lines.append(f'    summary: "{summary}",')
             ts_lines.append(f'    keyPoints: [{key_points_ts}],')
-            ts_lines.append(f'    url: "{video.get("url", "")}",')
+            ts_lines.append(f'    url: "{url}",')
             ts_lines.append(f'    publishedAt: "{video.get("published_at", "")}",')
             ts_lines.append(f'    likeCount: {int(video.get("like_count", 0))},')
             ts_lines.append(f'    commentCount: {int(video.get("comment_count", 0))},')
@@ -150,10 +174,26 @@ def generate_typescript(categories_data: Dict, collected_at: str) -> str:
         videos_count = len(videos)
         cat_var = cat_id.upper().replace("-", "_")
         
+        # Mapeamento de nomes de categorias
+        cat_names = {
+            "novos-modelos": "Novos Modelos e Atualizações",
+            "produtos-empresas": "Produtos e Empresas",
+            "automacao-workflows": "Automação e Workflows",
+            "ides-agentes": "IDEs e Agentes de Código",
+            "notebooklm": "NotebookLM",
+            "arquitetura-design": "Arquitetura e Design",
+            "cursos-treinamentos": "Cursos e Treinamentos",
+            "ferramentas-dev": "Ferramentas para Desenvolvedores",
+            "ferramentas-midia": "Ferramentas de Mídia",
+            "noticias": "Notícias e Análises",
+            "outros": "Outros",
+        }
+        cat_name = cat_names.get(cat_id, cat_id.replace("-", " ").title())
+        
         ts_lines.append('  {')
         ts_lines.append(f'    id: "{cat_id}",')
         ts_lines.append(f'    emoji: CATEGORY_META["{cat_id}"]?.emoji || "📁",')
-        ts_lines.append(f'    name: CATEGORY_META["{cat_id}"]?.name || "Categoria",')
+        ts_lines.append(f'    name: "{cat_name}",')
         ts_lines.append(f'    description: CATEGORY_META["{cat_id}"]?.description || "",')
         ts_lines.append(f'    videoCount: {videos_count},')
         ts_lines.append(f'    videos: {cat_var}_VIDEOS,')

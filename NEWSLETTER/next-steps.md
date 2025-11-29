@@ -252,4 +252,21 @@ NEWSLETTER/
 
 ---
 
-**Última sessão:** 27/11/2025 - Organização de arquivos, correções Streamlit, reclassificação de canais
+**Última sessão:** 29/11/2025 - Melhorias UI Next.js, Editor de Newsletter, News Ticker dinâmico
+
+---
+
+## 📝 **SESSÃO 29/11/2025**
+
+### **Implementado:**
+1. ✅ **News Ticker Dinâmico** - Conectado aos dados reais (top 10 vídeos por views)
+2. ✅ **Editor de Newsletter** (`/editor`) - Interface completa para seleção de vídeos
+3. ✅ **Preview de Newsletter** - Modal com HTML/Markdown, download e copiar
+4. ✅ **Correção de Dados** - Script `update_ui_with_categories.py` corrigido para video_id e URLs
+
+### **Arquivos Criados/Modificados:**
+- `ui/app/editor/page.tsx` (novo)
+- `ui/app/page.tsx` (DynamicNewsTicker)
+- `ui/components/Header.tsx` (botão Editor)
+- `scripts/update_ui_with_categories.py` (correções)
+- `ui/lib/real-data.ts` (regenerado com dados corretos)
