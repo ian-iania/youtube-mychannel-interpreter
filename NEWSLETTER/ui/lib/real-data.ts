@@ -2358,27 +2358,42 @@ const NEGOCIOS_CATEGORY: Category = {
 
 // Edição completa
 export const REAL_EDITION: Edition = {
-  date: "2025-11-29",
-  title: "Edição 29/11/2025",
-  generatedAt: "2025-11-29T14:14:04.270110",
+  id: "2025-11-29",
+  weekLabel: "Semana de 29/11/2025",
+  dateRange: "27–29 nov 2025",
+  tagline: "Sua curadoria semanal de IA",
   collectedAt: "2025-11-29T14:10:25.044114",
   totalVideos: 158,
   categories: [
-  OUTROS_CATEGORY,
-  FERRAMENTAS_DEV_CATEGORY,
-  NOVOS_MODELOS_CATEGORY,
-  TUTORIAIS_CATEGORY,
-  AGENTES_IA_CATEGORY,
-  PESQUISA_CATEGORY,
-  NOTICIAS_CATEGORY,
-  AUTOMACAO_CATEGORY,
-  HARDWARE_CATEGORY,
-  PRODUTIVIDADE_CATEGORY,
-  NEGOCIOS_CATEGORY,
+    OUTROS_CATEGORY,
+    FERRAMENTAS_DEV_CATEGORY,
+    NOVOS_MODELOS_CATEGORY,
+    TUTORIAIS_CATEGORY,
+    AGENTES_IA_CATEGORY,
+    PESQUISA_CATEGORY,
+    NOTICIAS_CATEGORY,
+    AUTOMACAO_CATEGORY,
+    HARDWARE_CATEGORY,
+    PRODUTIVIDADE_CATEGORY,
+    NEGOCIOS_CATEGORY,
+  ],
+  summaryHighlights: [
+    { categoryName: "Outros", emoji: "📌", videoCount: 39 },
+    { categoryName: "Ferramentas para Devs", emoji: "💻", videoCount: 34 },
+    { categoryName: "Novos Modelos", emoji: "🚀", videoCount: 25 },
+    { categoryName: "Tutoriais", emoji: "📚", videoCount: 20 },
+    { categoryName: "Agentes de IA", emoji: "🤖", videoCount: 16 },
   ],
 };
 
 // Helper para obter todos os vídeos
 export function getAllRealVideos(): Video[] {
   return REAL_EDITION.categories.flatMap(c => c.videos);
+}
+
+// Helper para obter itens aleatórios para o ticker de notícias
+export function getRandomRealNewsItems(count: number): Video[] {
+  const allVideos = getAllRealVideos();
+  const shuffled = [...allVideos].sort(() => Math.random() - 0.5);
+  return shuffled.slice(0, count);
 }

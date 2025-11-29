@@ -1,13 +1,11 @@
 "use client";
 
-import { useState } from "react";
 import { motion } from "framer-motion";
 import {
   TrendingUp,
   TrendingDown,
-  Trophy,
+  Minus,
   ExternalLink,
-  RefreshCw,
   Zap,
   MessageSquare,
   Code,
@@ -15,6 +13,7 @@ import {
   Image,
   Search,
   Video,
+  Crown,
 } from "lucide-react";
 
 // Tipos
@@ -27,6 +26,8 @@ interface ArenaCategory {
     model: string;
     organization: string;
     score: number;
+    trend: "up" | "down" | "stable"; // Tendência
+    delta: number; // Mudança de posição/score
   }[];
 }
 
@@ -38,9 +39,9 @@ const ARENA_CATEGORIES: ArenaCategory[] = [
     icon: <MessageSquare size={14} />,
     color: "#FF6B35",
     topModels: [
-      { model: "Gemini 3 Pro", organization: "Google", score: 1492 },
-      { model: "Grok 4.1 Thinking", organization: "xAI", score: 1482 },
-      { model: "Claude Opus 4.5", organization: "Anthropic", score: 1466 },
+      { model: "Gemini 3 Pro", organization: "Google", score: 1492, trend: "up", delta: 12 },
+      { model: "Grok 4.1 Thinking", organization: "xAI", score: 1482, trend: "up", delta: 8 },
+      { model: "Claude Opus 4.5", organization: "Anthropic", score: 1466, trend: "stable", delta: 0 },
     ],
   },
   {
@@ -49,9 +50,9 @@ const ARENA_CATEGORIES: ArenaCategory[] = [
     icon: <Code size={14} />,
     color: "#00D4FF",
     topModels: [
-      { model: "Claude Opus 4.5 Thinking", organization: "Anthropic", score: 1493 },
-      { model: "Claude Opus 4.5", organization: "Anthropic", score: 1472 },
-      { model: "Gemini 3 Pro", organization: "Google", score: 1471 },
+      { model: "Claude Opus 4.5 Thinking", organization: "Anthropic", score: 1493, trend: "up", delta: 15 },
+      { model: "Claude Opus 4.5", organization: "Anthropic", score: 1472, trend: "stable", delta: 0 },
+      { model: "Gemini 3 Pro", organization: "Google", score: 1471, trend: "up", delta: 5 },
     ],
   },
   {
@@ -60,9 +61,9 @@ const ARENA_CATEGORIES: ArenaCategory[] = [
     icon: <Eye size={14} />,
     color: "#A855F7",
     topModels: [
-      { model: "Gemini 3 Pro", organization: "Google", score: 1398 },
-      { model: "Gemini 2.5 Pro", organization: "Google", score: 1362 },
-      { model: "ChatGPT-4o", organization: "OpenAI", score: 1340 },
+      { model: "Gemini 3 Pro", organization: "Google", score: 1398, trend: "up", delta: 10 },
+      { model: "Gemini 2.5 Pro", organization: "Google", score: 1362, trend: "down", delta: -3 },
+      { model: "ChatGPT-4o", organization: "OpenAI", score: 1348, trend: "up", delta: 6 },
     ],
   },
   {
@@ -71,9 +72,9 @@ const ARENA_CATEGORIES: ArenaCategory[] = [
     icon: <Image size={14} />,
     color: "#10B981",
     topModels: [
-      { model: "GPT-5 Image", organization: "OpenAI", score: 1285 },
-      { model: "Imagen 4", organization: "Google", score: 1248 },
-      { model: "DALL-E 4", organization: "OpenAI", score: 1220 },
+      { model: "GPT-5 Image", organization: "OpenAI", score: 1285, trend: "up", delta: 20 },
+      { model: "Imagen 4", organization: "Google", score: 1248, trend: "stable", delta: 0 },
+      { model: "DALL-E 4", organization: "OpenAI", score: 1220, trend: "down", delta: -5 },
     ],
   },
   {
@@ -82,9 +83,9 @@ const ARENA_CATEGORIES: ArenaCategory[] = [
     icon: <Search size={14} />,
     color: "#F59E0B",
     topModels: [
-      { model: "Gemini 2.5 Pro Grounding", organization: "Google", score: 1312 },
-      { model: "o3-search", organization: "OpenAI", score: 1298 },
-      { model: "Grok 4 Search", organization: "xAI", score: 1285 },
+      { model: "Gemini 2.5 Pro Grounding", organization: "Google", score: 1312, trend: "up", delta: 8 },
+      { model: "o3-search", organization: "OpenAI", score: 1298, trend: "up", delta: 12 },
+      { model: "Grok 4 Search", organization: "xAI", score: 1285, trend: "stable", delta: 0 },
     ],
   },
   {
@@ -93,55 +94,70 @@ const ARENA_CATEGORIES: ArenaCategory[] = [
     icon: <Video size={14} />,
     color: "#EC4899",
     topModels: [
-      { model: "Veo 3.1 Audio", organization: "Google", score: 1245 },
-      { model: "Sora 2 Pro", organization: "OpenAI", score: 1228 },
-      { model: "Veo 3", organization: "Google", score: 1215 },
+      { model: "Veo 3.1 Audio", organization: "Google", score: 1245, trend: "up", delta: 18 },
+      { model: "Sora 2 Pro", organization: "OpenAI", score: 1228, trend: "up", delta: 7 },
+      { model: "Veo 3", organization: "Google", score: 1215, trend: "down", delta: -2 },
     ],
   },
 ];
 
-export default function AIPulseDashboard() {
-  const [selectedCategory, setSelectedCategory] = useState<string>("text");
+// Componente de barra de progresso
+function ScoreBar({ score, maxScore, color }: { score: number; maxScore: number; color: string }) {
+  const percentage = (score / maxScore) * 100;
+  return (
+    <div className="w-full h-1.5 bg-white/10 rounded-full overflow-hidden">
+      <motion.div
+        initial={{ width: 0 }}
+        animate={{ width: `${percentage}%` }}
+        transition={{ duration: 0.8, ease: "easeOut" }}
+        className="h-full rounded-full"
+        style={{ backgroundColor: color }}
+      />
+    </div>
+  );
+}
 
-  const selectedData = ARENA_CATEGORIES.find((c) => c.id === selectedCategory);
+// Componente de indicador de tendência
+function TrendIndicator({ trend, delta }: { trend: "up" | "down" | "stable"; delta: number }) {
+  if (trend === "up") {
+    return (
+      <span className="flex items-center gap-0.5 text-[9px] text-emerald-400">
+        <TrendingUp size={10} />
+        +{delta}
+      </span>
+    );
+  }
+  if (trend === "down") {
+    return (
+      <span className="flex items-center gap-0.5 text-[9px] text-red-400">
+        <TrendingDown size={10} />
+        {delta}
+      </span>
+    );
+  }
+  return (
+    <span className="flex items-center gap-0.5 text-[9px] text-white/30">
+      <Minus size={10} />
+    </span>
+  );
+}
+
+export default function AIPulseDashboard() {
+  // Calcular score máximo para as barras de progresso
+  const maxScore = Math.max(...ARENA_CATEGORIES.flatMap(c => c.topModels.map(m => m.score)));
 
   return (
     <section className="py-6">
       <div className="container mx-auto px-4">
-        {/* Section Header com Category Tabs na mesma linha */}
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-3 mb-4">
-          {/* Título + Tabs */}
-          <div className="flex flex-col md:flex-row md:items-center gap-3">
-            {/* Título */}
-            <div className="flex items-center gap-3">
-              <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-neon-orange to-electric-orange flex items-center justify-center">
-                <Zap className="w-4 h-4 text-white" />
-              </div>
-              <div>
-                <h2 className="text-lg font-bold">AI Pulse</h2>
-                <p className="text-xs text-white/50">LMArena Leaderboards</p>
-              </div>
+        {/* Section Header */}
+        <div className="flex items-center justify-between mb-4">
+          <div className="flex items-center gap-3">
+            <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-neon-orange to-electric-orange flex items-center justify-center">
+              <Zap className="w-4 h-4 text-white" />
             </div>
-            
-            {/* Category Tabs - na mesma linha */}
-            <div className="flex gap-1.5 overflow-x-auto pb-1 scrollbar-hide md:ml-4 md:pl-4 md:border-l md:border-white/10">
-              {ARENA_CATEGORIES.map((category) => (
-                <button
-                  key={category.id}
-                  onClick={() => setSelectedCategory(category.id)}
-                  className={`flex items-center gap-1 px-2.5 py-1 rounded-lg text-[11px] font-medium whitespace-nowrap transition-all ${
-                    selectedCategory === category.id
-                      ? "text-white"
-                      : "bg-white/5 text-white/50 hover:bg-white/10 hover:text-white/70"
-                  }`}
-                  style={{
-                    backgroundColor: selectedCategory === category.id ? category.color : undefined,
-                  }}
-                >
-                  {category.icon}
-                  {category.name}
-                </button>
-              ))}
+            <div>
+              <h2 className="text-lg font-bold">AI Pulse</h2>
+              <p className="text-xs text-white/50">LMArena Leaderboards • Atualizado: 29/11/2025</p>
             </div>
           </div>
           
@@ -157,7 +173,7 @@ export default function AIPulseDashboard() {
           </a>
         </div>
 
-        {/* Leaderboard Cards Grid */}
+        {/* Leaderboard Cards Grid com Barras de Progresso */}
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
           {ARENA_CATEGORIES.map((category, catIndex) => (
             <motion.div
@@ -165,95 +181,51 @@ export default function AIPulseDashboard() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: catIndex * 0.05 }}
-              className={`glass-card rounded-xl p-3 border transition-all cursor-pointer ${
-                selectedCategory === category.id
-                  ? "border-white/20 ring-1 ring-white/10"
-                  : "border-white/5 hover:border-white/10"
-              }`}
-              onClick={() => setSelectedCategory(category.id)}
+              className="glass-card rounded-xl p-3 border border-white/5 hover:border-white/10 transition-all"
             >
               {/* Category Header */}
-              <div className="flex items-center gap-1.5 mb-2">
-                <span style={{ color: category.color }}>{category.icon}</span>
-                <span className="text-xs font-medium text-white/70">{category.name}</span>
+              <div className="flex items-center justify-between mb-3">
+                <div className="flex items-center gap-1.5">
+                  <span style={{ color: category.color }}>{category.icon}</span>
+                  <span className="text-xs font-medium text-white/70">{category.name}</span>
+                </div>
+                {/* Badge do líder */}
+                <Crown size={12} className="text-electric-amber/60" />
               </div>
 
-              {/* Top 3 Models */}
-              <div className="space-y-1.5">
+              {/* Top 3 Models com Barras */}
+              <div className="space-y-2.5">
                 {category.topModels.map((model, index) => (
-                  <div key={model.model} className="flex items-center gap-1.5">
-                    <span
-                      className={`w-4 h-4 rounded-full flex items-center justify-center text-[10px] font-bold ${
-                        index === 0
-                          ? "bg-electric-amber/20 text-electric-amber"
-                          : index === 1
-                          ? "bg-white/10 text-white/60"
-                          : "bg-white/5 text-white/40"
-                      }`}
-                    >
-                      {index + 1}
-                    </span>
-                    <div className="flex-1 min-w-0">
-                      <p className="text-[10px] font-medium truncate text-white/80">{model.model}</p>
+                  <div key={model.model} className="space-y-1">
+                    {/* Nome e Score */}
+                    <div className="flex items-center gap-1.5">
+                      <span
+                        className={`w-4 h-4 rounded-full flex items-center justify-center text-[10px] font-bold shrink-0 ${
+                          index === 0
+                            ? "bg-electric-amber/20 text-electric-amber"
+                            : index === 1
+                            ? "bg-white/10 text-white/60"
+                            : "bg-white/5 text-white/40"
+                        }`}
+                      >
+                        {index + 1}
+                      </span>
+                      <div className="flex-1 min-w-0">
+                        <p className="text-[10px] font-medium truncate text-white/80">{model.model}</p>
+                      </div>
+                      <div className="flex items-center gap-1.5">
+                        <TrendIndicator trend={model.trend} delta={model.delta} />
+                        <span className="text-[10px] font-mono text-white/50">{model.score}</span>
+                      </div>
                     </div>
-                    <span className="text-[10px] font-mono text-white/50">{model.score}</span>
+                    {/* Barra de Progresso */}
+                    <ScoreBar score={model.score} maxScore={maxScore} color={category.color} />
                   </div>
                 ))}
               </div>
             </motion.div>
           ))}
         </div>
-
-        {/* Selected Category Detail */}
-        {selectedData && (
-          <motion.div
-            key={selectedCategory}
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="mt-4 glass-card rounded-xl p-4 border border-white/5"
-          >
-            <div className="flex items-center justify-between mb-3">
-              <div className="flex items-center gap-2">
-                <Trophy size={16} style={{ color: selectedData.color }} />
-                <span className="font-semibold text-sm">{selectedData.name} Arena - Top 3</span>
-              </div>
-              <span className="text-xs text-white/40">Atualizado: 29/11/2025</span>
-            </div>
-
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
-              {selectedData.topModels.map((model, index) => (
-                <div
-                  key={model.model}
-                  className={`flex items-center gap-3 p-3 rounded-lg ${
-                    index === 0 ? "bg-electric-amber/10" : "bg-white/5"
-                  }`}
-                >
-                  <span
-                    className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold ${
-                      index === 0
-                        ? "bg-electric-amber text-black"
-                        : index === 1
-                        ? "bg-white/20 text-white"
-                        : "bg-white/10 text-white/60"
-                    }`}
-                  >
-                    {index + 1}
-                  </span>
-                  <div className="flex-1 min-w-0">
-                    <p className="font-medium truncate">{model.model}</p>
-                    <p className="text-xs text-white/40">{model.organization}</p>
-                  </div>
-                  <div className="text-right">
-                    <p className="font-mono font-bold" style={{ color: selectedData.color }}>
-                      {model.score}
-                    </p>
-                    <p className="text-[10px] text-white/30">ELO</p>
-                  </div>
-                </div>
-              ))}
-            </div>
-          </motion.div>
-        )}
       </div>
     </section>
   );
