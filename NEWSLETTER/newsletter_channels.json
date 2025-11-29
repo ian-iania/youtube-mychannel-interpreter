@@ -35,12 +35,13 @@
       "created_date": "2015-03-03",
       "country": "US",
       "keywords": "Mathematics",
-      "type": "not_considered",
+      "type": "person",
       "category": "",
       "size_category": "mega",
-      "subcategory": "",
+      "subcategory": "Education",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "section": "developers"
     },
     {
       "channel_id": "UCLKPca3kwwd-B59HNr-_lvA",
@@ -56,12 +57,13 @@
       "created_date": "2023-09-19",
       "country": "",
       "keywords": "",
-      "type": "not_considered",
+      "type": "community",
       "category": "",
       "size_category": "large",
-      "subcategory": "",
-      "priority": "média",
-      "_selected": false
+      "subcategory": "AI-Engineering",
+      "priority": "alta",
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCPR4QNCFWnyuYs2Vjr3lydw",
@@ -77,12 +79,13 @@
       "created_date": "2025-06-04",
       "country": "",
       "keywords": "",
-      "type": "not_considered",
+      "type": "community",
       "category": "",
       "size_category": "small",
-      "subcategory": "",
-      "priority": "média",
-      "_selected": false
+      "subcategory": "AI-Engineering",
+      "priority": "alta",
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCelfWQr9sXVMTvBzviPGlFw",
@@ -98,12 +101,13 @@
       "created_date": "2024-09-01",
       "country": "GB",
       "keywords": "n8n cursor claude \"vibe coding\" \"ai coding\" automation \"AI for developers\" \"Claude vs ChatGPT for coding\" \"Automate tasks in software with AI\" \"Using Cursor AI\" \"AI & automation\" \"Use Cursor AI to design website\" \"build apps with AI\" \"automate coding with AI\" \"AI workflow for developers\" \"AI Coding with Cursor\" \"AI Coding with Claude\" tutorial \"app development\" webdev lesson coding programming openai \"sam altman\" \"tech news\" \"big tech\" \"ai news\" tech \"software engineering\" \"coding news\" apple AI",
-      "type": "not_considered",
+      "type": "person",
       "category": "",
       "size_category": "large",
-      "subcategory": "",
+      "subcategory": "AI-Coding",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCwvRf1alwULB0UOJD2mgnxA",
@@ -119,12 +123,13 @@
       "created_date": "2023-12-22",
       "country": "",
       "keywords": "",
-      "type": "not_considered",
+      "type": "person",
       "category": "",
       "size_category": "medium",
-      "subcategory": "",
+      "subcategory": "AI-Education",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UC0m81bQuthaQZmFbXEY9QSw",
@@ -140,12 +145,13 @@
       "created_date": "2024-03-27",
       "country": "US",
       "keywords": "aicodeking ai \"coding ai\" \"coding tools\" \"coding ai tools\" \"coding ai assistant\" \"ai assistant\"",
-      "type": "not_considered",
+      "type": "person",
       "category": "",
       "size_category": "large",
-      "subcategory": "",
+      "subcategory": "AI-Tools",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCG8Woy3WwNyv2H_dLP_KFkg",
@@ -161,12 +167,13 @@
       "created_date": "2014-01-15",
       "country": "BR",
       "keywords": "\"automações de ia\" \"automação ia\" \"agente ia\" \"agent ia\" \"agentes de inteligencia artificial\" \"atendente ia\" \"atendimento com ia\" \"chatbot ia\" chatbot \"agente de ia\" \"automatizar whatsapp\" \"como automatizar whatsapp\" \"agente ia whatsapp\" hermesmind \"hermes mind\" \"automações n8n\" n8n openai lovable \"automações com n8n\" \"low code\" \"vibe code\"",
-      "type": "not_considered",
+      "type": "person",
       "category": "",
       "size_category": "small",
-      "subcategory": "",
+      "subcategory": "Automações",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCXUPKJO5MZQN11PqgIvyuvQ",
@@ -182,12 +189,13 @@
       "created_date": "2013-09-07",
       "country": "US",
       "keywords": "",
-      "type": "not_considered",
+      "type": "person",
       "category": "",
       "size_category": "mega",
-      "subcategory": "",
-      "priority": "média",
-      "_selected": false
+      "subcategory": "AI-Research",
+      "priority": "alta",
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCrDwWp7EBBv4NwvScIpBDOA",
@@ -203,12 +211,13 @@
       "created_date": "2023-06-15",
       "country": "",
       "keywords": "",
-      "type": "not_considered",
+      "type": "company",
       "category": "",
       "size_category": "large",
-      "subcategory": "",
-      "priority": "média",
-      "_selected": false
+      "subcategory": "AI-Labs",
+      "priority": "alta",
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCnQRyzbUf63PV-q4DzWzTdg",
@@ -224,12 +233,13 @@
       "created_date": "2015-09-12",
       "country": "BR",
       "keywords": "tecnologia ciência inovação \"inteligência artificial\" \"machine learning\" bitcoin startup economia algoritmos \"novidades tecnológicas\" \"ciência de dados\" chatgpt IA \"inteligência artificial\" openai \"notícias de tecnologia\" \"artificial intelligence\" AI",
-      "type": "not_considered",
+      "type": "person",
       "category": "",
       "size_category": "medium",
-      "subcategory": "",
+      "subcategory": "AI-Tools",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCSv4qL8vmoSH7GaPjuqRiCQ",
@@ -245,12 +255,13 @@
       "created_date": "2013-04-04",
       "country": "",
       "keywords": "ai chatgpt gpt-3 gpt-4 openai",
-      "type": "not_considered",
+      "type": "person",
       "category": "",
       "size_category": "medium",
-      "subcategory": "",
+      "subcategory": "AI-Coding",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCCkJI-ZJ0i3hUhare_oqZFQ",
@@ -266,12 +277,13 @@
       "created_date": "2023-06-01",
       "country": "",
       "keywords": "",
-      "type": "not_considered",
+      "type": "community",
       "category": "",
       "size_category": "medium",
-      "subcategory": "",
+      "subcategory": "AI-Research",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCxXL5491Db9U8Rhfs-2LVFg",
@@ -287,12 +299,13 @@
       "created_date": "2017-02-16",
       "country": "BR",
       "keywords": "programação python pandas dashboards plotly \"data science\" \"ciencia de dados\" \"painel de informações\" dash \"analise de dados\" \"machine learning\"",
-      "type": "not_considered",
+      "type": "company",
       "category": "",
       "size_category": "large",
-      "subcategory": "",
+      "subcategory": "AI-Education",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCJw95lTeK1G2cTosF18XJUA",
@@ -308,12 +321,13 @@
       "created_date": "2024-04-23",
       "country": "BR",
       "keywords": "n8n automação automacao \"n8n automação\" \"automação n8n\" \"n8n tutorial\" \"automação de processos\" \"n8n automaçao\" \"automação web\" \"curso de automação\" \"instagram automação\" \"automação botconversa\" \"automação chatgpt\" \"aula n8n\" \"como usar n8n\" \"automação whatsapp\" \"gestor de automação\" \"automação de vendas\" \"automação n8n\" \"automação com n8n\" \"automação marketing\" n8n \"ferramentas de automação\" \"curso de automação\" \"automação de whatsapp\" \"automação whatsapp\"",
-      "type": "not_considered",
+      "type": "person",
       "category": "",
       "size_category": "medium",
-      "subcategory": "",
+      "subcategory": "Automações",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCBGxe5vTiVWv7e2gP6QB1Mw",
@@ -329,12 +343,13 @@
       "created_date": "2013-11-02",
       "country": "JP",
       "keywords": "",
-      "type": "not_considered",
+      "type": "person",
       "category": "",
       "size_category": "medium",
-      "subcategory": "",
+      "subcategory": "AI-Coding",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCZgt6AzoyjslHTC9dz0UoTw",
@@ -350,12 +365,14 @@
       "created_date": "2022-06-08",
       "country": "",
       "keywords": "",
-      "type": "not_considered",
+      "type": "company",
       "category": "",
       "size_category": "mega",
-      "subcategory": "",
+      "subcategory": "Developers",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": "",
+      "section": "developers"
     },
     {
       "channel_id": "UC_bXJnsgwOqEPA_-6N6faKw",
@@ -371,12 +388,13 @@
       "created_date": "2012-06-18",
       "country": "BR",
       "keywords": "Canaltech Tecnologia Tech Brasil PTBR \"Notícias de Tecnologia\" \"Adriano Ponte\" \"Pedro Cipoli\" \"Amanda Abreu\" Ciência Comparativo Análise Resenha Review Eletrônico Jornal \"Canal Tech\" Informativo Melhor Informática Documentário Software Dica \"Melhores Vídeos\" Tutorial \"Como Ser\" \"O que é\" \"How To\" Canaltech Tecnologia Tech Brasil Português \"Notícias de Tecnologia\" \"Novidades de Tecnologia\" Ciência Comparativo \"Guia de Compra\" Informática Software Dica \"Melhores Vídeos\" Tutorial \"Como Fazer\"",
-      "type": "not_considered",
+      "type": "company",
       "category": "",
       "size_category": "mega",
-      "subcategory": "",
+      "subcategory": "Tech-News",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": "AI_ONLY"
     },
     {
       "channel_id": "UC5DNytAJ6_FISueUfzZCVsw",
@@ -392,12 +410,13 @@
       "created_date": "2019-10-23",
       "country": "GB",
       "keywords": "100DaysOfCode programming \"coding bootcamp\" \"code classes\" \"web development\" \"learn to code\" \"code camp\" \"front-end development\" \"back-end development\" \"learning web development\" \"how to learn web development\" \"ania kubow\" \"easily learn web development\" \"learning web development easily\" \"javascript game\" \"making javascript game\" \"coding influencers\" \"software development\" \"software engineering\" \"learn software development\" \"software developer\" \"full stack developer\" \"front end developer\"",
-      "type": "not_considered",
+      "type": "person",
       "category": "",
       "size_category": "large",
-      "subcategory": "",
+      "subcategory": "AI-Coding",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCrPbAoQKz42Gm0mLdWatAEA",
@@ -647,8 +666,8 @@
       "type": "community",
       "category": "",
       "size_category": "mega",
-      "subcategory": "",
-      "priority": "média",
+      "subcategory": "AI-News",
+      "priority": "alta",
       "_selected": false
     },
     {
@@ -794,8 +813,8 @@
       "type": "company",
       "category": "",
       "size_category": "mega",
-      "subcategory": "",
-      "priority": "média",
+      "subcategory": "AI-Labs",
+      "priority": "alta",
       "_selected": false
     },
     {
@@ -1001,12 +1020,13 @@
       "created_date": "2019-11-21",
       "country": "BR",
       "keywords": "",
-      "type": "not_considered",
+      "type": "company",
       "category": "",
       "size_category": "large",
-      "subcategory": "",
+      "subcategory": "Business-News",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": "AI_ONLY"
     },
     {
       "channel_id": "UCv83tO5cePwHMt1952IVVHw",
@@ -1277,8 +1297,8 @@
       "type": "company",
       "category": "",
       "size_category": "large",
-      "subcategory": "",
-      "priority": "média",
+      "subcategory": "AI-News",
+      "priority": "alta",
       "_selected": false
     },
     {
@@ -1298,8 +1318,8 @@
       "type": "company",
       "category": "",
       "size_category": "large",
-      "subcategory": "",
-      "priority": "média",
+      "subcategory": "AI-News",
+      "priority": "alta",
       "_selected": false
     },
     {
@@ -1466,8 +1486,8 @@
       "type": "company",
       "category": "",
       "size_category": "mega",
-      "subcategory": "",
-      "priority": "média",
+      "subcategory": "AI-Labs",
+      "priority": "alta",
       "_selected": false
     },
     {
@@ -1571,8 +1591,8 @@
       "type": "community",
       "category": "",
       "size_category": "medium",
-      "subcategory": "",
-      "priority": "média",
+      "subcategory": "AI-Coding",
+      "priority": "alta",
       "_selected": false
     },
     {
@@ -1846,7 +1866,8 @@
       "size_category": "mega",
       "subcategory": "",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": "AI_ONLY"
     },
     {
       "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
@@ -1988,12 +2009,13 @@
       "created_date": "2025-03-27",
       "country": "CA",
       "keywords": "AI ai \"machine learning\" llms \"artificial intelligence\" \"ai news\" \"ai models\" \"deep learning\" \"neural networks\" nlp \"generative ai\" openai \"google deepmind\" \"meta ai\" \"hugging face\" \"ai research\" gpt chatbots \"ai tools\" automation \"ai advancements\" \"model releases\" \"tech news\" \"ai updates\" \"large language models\" transformers \"future of ai\" tech technology",
-      "type": "not_considered",
+      "type": "person",
       "category": "",
       "size_category": "medium",
-      "subcategory": "",
+      "subcategory": "AI-News",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCJKT6kJ3IFYybWnL7jbXxhQ",
@@ -2009,12 +2031,13 @@
       "created_date": "2018-09-17",
       "country": "US",
       "keywords": "Weaviate \"vector search\" \"vector search engine\" \"vector database\" podcast \"ai agents\" AI \"Machine Learning\" ML \"Artificial Intelligence\"",
-      "type": "not_considered",
+      "type": "company",
       "category": "",
       "size_category": "medium",
-      "subcategory": "",
+      "subcategory": "AI-Infrastructure",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCOu9pKHv94bFeRy5vzB-b1Q",
@@ -2030,12 +2053,13 @@
       "created_date": "2014-07-16",
       "country": "",
       "keywords": "",
-      "type": "not_considered",
+      "type": "person",
       "category": "",
       "size_category": "medium",
-      "subcategory": "",
+      "subcategory": "Automações",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
@@ -2072,12 +2096,13 @@
       "created_date": "2022-11-11",
       "country": "",
       "keywords": "",
-      "type": "not_considered",
+      "type": "company",
       "category": "",
       "size_category": "medium",
-      "subcategory": "",
-      "priority": "média",
-      "_selected": false
+      "subcategory": "AI-IDEs",
+      "priority": "alta",
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UC2WmuBuFq6gL08QYG-JjXKw",
@@ -2093,12 +2118,13 @@
       "created_date": "2023-02-02",
       "country": "CA",
       "keywords": "Ai \"Artificial intelligence\" \"chat GPT\" gpt OpenAI \"Open ai\" \"How to\" \"how to chat GPT\" \"How to AI\" \"World of Ai\" \"In the World of Ai\" WOA Chatbots \"Natural Language Processing (NLP)\" \"Machine Learning\" \"Neural Networks\" \"AI applications\" \"ChatGPT tutorials\" \"AI development\" \"NLP technology\" ChatGPT \"AI Coding\" \"AI Agents\" \"AI Automation\" \"AI Coding Agents\" \"Autonomous AI\" Coding \"AI Coder\"",
-      "type": "not_considered",
+      "type": "person",
       "category": "",
       "size_category": "large",
-      "subcategory": "",
+      "subcategory": "AI-News",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCauE-yGwb8bJ55BswgrGxAg",
@@ -2114,12 +2140,13 @@
       "created_date": "2008-07-31",
       "country": "BR",
       "keywords": "exame revista noticias negócios financeiro ações política tecnologia empreendedorismo empreender relatórios investimento \"bolsa de valores\" \"nova exame\" exame. lifestyle \"revista exame\" \"nova exame\" \"live da exame\" crise impacto global mundial entrevista jornal reportagem jornalista brasil governo \"estilo de vida\" casual exame.academy exame.research \"exame acadaemy\" \"exame research\" academy research exame.experience ESG Sustentabilidade",
-      "type": "not_considered",
+      "type": "company",
       "category": "",
       "size_category": "large",
-      "subcategory": "",
+      "subcategory": "Business-News",
       "priority": "média",
-      "_selected": false
+      "_selected": false,
+      "filter": "AI_ONLY"
     },
     {
       "channel_id": "UCiHVTkJtWSdc9N3h0nUGWLg",
@@ -2135,12 +2162,13 @@
       "created_date": "2019-06-27",
       "country": "DE",
       "keywords": "",
-      "type": "not_considered",
+      "type": "company",
       "category": "",
       "size_category": "large",
-      "subcategory": "",
-      "priority": "média",
-      "_selected": false
+      "subcategory": "Automações",
+      "priority": "alta",
+      "_selected": false,
+      "filter": ""
     },
     {
       "channel_id": "UCfzlCWGWYyIQ0aLC5w48gBQ",
@@ -2161,6 +2189,28 @@
       "size_category": "mega",
       "subcategory": "",
       "priority": "média",
+      "_selected": false
+    },
+    {
+      "channel_id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+      "channel_title": "Bloomberg Originals",
+      "handle": "@business",
+      "description": "Bloomberg Originals offers bold takes for curious minds on today's biggest topics. Hosted by experts covering stories you haven't seen and viewpoints you haven't heard, you'll discover cinematic, data-led shows that investigate the intersection of business and culture. Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.",
+      "subscriber_count": 3500000,
+      "video_count": 5000,
+      "view_count": 0,
+      "thumbnail_url": "",
+      "banner_url": "",
+      "published_at": "",
+      "created_date": "",
+      "country": "US",
+      "keywords": "bloomberg business finance technology AI",
+      "type": "company",
+      "category": "",
+      "size_category": "mega",
+      "subcategory": "Business-News",
+      "priority": "média",
+      "filter": "AI_ONLY",
       "_selected": false
     }
   ],
