@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285742.956022,
+  "cached_at": 1764436239.063863,
   "cache_type": "channel_info",
   "key": "UCU5JicSrEM5A63jkJ2QvGYw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "bMEAN0T8FtQY1UquOkcMVQvIWUU",
+    "etag": "WOimKnpK9s_EYeMYPWr0g9uPndU",
     "id": "UCU5JicSrEM5A63jkJ2QvGYw",
     "snippet": {
       "title": "Filipe Deschamps",
@@ -35,10 +35,10 @@
       "country": "BR"
     },
     "statistics": {
-      "viewCount": "48740383",
+      "viewCount": "48784910",
       "subscriberCount": "821000",
       "hiddenSubscriberCount": false,
-      "videoCount": "514"
+      "videoCount": "515"
     }
   }
 }

@@ -1,0 +1,70 @@
+{
+  "cached_at": 1764436266.711255,
+  "cache_type": "video_details",
+  "key": "il0dFcWBev0",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "ya2mPWR6Ves-tHjSplvKpmhr9VA",
+    "id": "il0dFcWBev0",
+    "snippet": {
+      "publishedAt": "2025-11-29T16:38:34Z",
+      "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+      "title": "Did you know about the range function?",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim\n\n🎞 Video Resources 🎞\n\n⏳ Timestamps ⏳\n\nHashtags\n\nUAE Media License Number: 3635141",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/il0dFcWBev0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/il0dFcWBev0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/il0dFcWBev0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/il0dFcWBev0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/il0dFcWBev0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tech With Tim",
+      "tags": [
+        "tech with tim"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Did you know about the range function?",
+        "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim\n\n🎞 Video Resources 🎞\n\n⏳ Timestamps ⏳\n\nHashtags\n\nUAE Media License Number: 3635141"
+      },
+      "defaultAudioLanguage": "en-CA"
+    },
+    "contentDetails": {
+      "duration": "PT1M49S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "892",
+      "likeCount": "29",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

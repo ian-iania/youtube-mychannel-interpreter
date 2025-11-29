@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285772.169078,
+  "cached_at": 1764436267.264663,
   "cache_type": "channel_info",
   "key": "UCJQJAI7IjbLcpsjWdSzYz0Q",
   "data": {
     "kind": "youtube#channel",
-    "etag": "tn59GgGuWCJmh1S0dixplxzfL9E",
+    "etag": "-y9UJzn_Syz3LDao_2wiwlSHWxw",
     "id": "UCJQJAI7IjbLcpsjWdSzYz0Q",
     "snippet": {
       "title": "Thu Vu",
@@ -36,7 +36,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "11847452",
+      "viewCount": "11851873",
       "subscriberCount": "326000",
       "hiddenSubscriberCount": false,
       "videoCount": "103"

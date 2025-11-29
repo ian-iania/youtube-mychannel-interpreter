@@ -1,0 +1,62 @@
+{
+  "cached_at": 1764436236.235958,
+  "cache_type": "video_details",
+  "key": "t0m4ye0xjTA",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "XEbBUcbUXj3KUNeO7NDplbEj174",
+    "id": "t0m4ye0xjTA",
+    "snippet": {
+      "publishedAt": "2025-11-28T13:27:15Z",
+      "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+      "title": "DeepSeek Math-V2 : New DeepSeek Math reasoning model",
+      "description": "DeepSeek-Math-V2 is new math reasoning LLM #ai #chatgpt #coding #programming #generativeai #llm #computerscience #computer #engineering #modelcontextprotocol #deepseek",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/t0m4ye0xjTA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/t0m4ye0xjTA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/t0m4ye0xjTA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/t0m4ye0xjTA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Data Science in your pocket",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-IN",
+      "localized": {
+        "title": "DeepSeek Math-V2 : New DeepSeek Math reasoning model",
+        "description": "DeepSeek-Math-V2 is new math reasoning LLM #ai #chatgpt #coding #programming #generativeai #llm #computerscience #computer #engineering #modelcontextprotocol #deepseek"
+      },
+      "defaultAudioLanguage": "en-IN"
+    },
+    "contentDetails": {
+      "duration": "PT3M51S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "333",
+      "likeCount": "12",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

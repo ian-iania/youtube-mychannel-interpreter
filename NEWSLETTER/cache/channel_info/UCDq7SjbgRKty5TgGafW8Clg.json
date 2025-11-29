@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285763.825537,
+  "cached_at": 1764436258.7834291,
   "cache_type": "channel_info",
   "key": "UCDq7SjbgRKty5TgGafW8Clg",
   "data": {
     "kind": "youtube#channel",
-    "etag": "4WmH2ZEzNY1ShCMas2axXSbEwaI",
+    "etag": "0hLweVfa2edeVGhmOO-diOA8Urk",
     "id": "UCDq7SjbgRKty5TgGafW8Clg",
     "snippet": {
       "title": "Prompt Engineering",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "13293570",
+      "viewCount": "13298621",
       "subscriberCount": "228000",
       "hiddenSubscriberCount": false,
       "videoCount": "478"

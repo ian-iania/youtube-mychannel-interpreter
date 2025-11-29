@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285753.322639,
+  "cached_at": 1764436249.491199,
   "cache_type": "channel_info",
   "key": "UC3M_z-XMGTFMBbCjVLPKkUA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "-U9PxCejV2yXKw3yb4kfh3CN340",
+    "etag": "7DK7ploSYuNjf34m33J7PfI41Vw",
     "id": "UC3M_z-XMGTFMBbCjVLPKkUA",
     "snippet": {
       "title": "Jonathan da Cruz",
@@ -36,8 +36,8 @@
       "country": "BR"
     },
     "statistics": {
-      "viewCount": "55811",
-      "subscriberCount": "1780",
+      "viewCount": "57295",
+      "subscriberCount": "1810",
       "hiddenSubscriberCount": false,
       "videoCount": "60"
     }

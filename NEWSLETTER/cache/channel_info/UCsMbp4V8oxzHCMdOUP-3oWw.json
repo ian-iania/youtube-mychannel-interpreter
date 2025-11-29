@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285773.392716,
+  "cached_at": 1764436268.401671,
   "cache_type": "channel_info",
   "key": "UCsMbp4V8oxzHCMdOUP-3oWw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "ipNIrnydiAgDuOiXswCcKisDafI",
+    "etag": "QXuYfAdK82PM_pmgNlpbHfiS5bk",
     "id": "UCsMbp4V8oxzHCMdOUP-3oWw",
     "snippet": {
       "title": "Unitree Robotics",
@@ -35,8 +35,8 @@
       "country": "CN"
     },
     "statistics": {
-      "viewCount": "114020134",
-      "subscriberCount": "1290000",
+      "viewCount": "114321729",
+      "subscriberCount": "1300000",
       "hiddenSubscriberCount": false,
       "videoCount": "68"
     }

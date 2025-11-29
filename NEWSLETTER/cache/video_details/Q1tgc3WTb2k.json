@@ -1,0 +1,84 @@
+{
+  "cached_at": 1764436254.341584,
+  "cache_type": "video_details",
+  "key": "Q1tgc3WTb2k",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "ZbttDQMB3Jzn_EbtcdoIZjyVoXs",
+    "id": "Q1tgc3WTb2k",
+    "snippet": {
+      "publishedAt": "2025-11-28T20:24:46Z",
+      "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "title": "Microsoft's EVP of AI talks OpenAI, Datacenters, Future of Coding, Open v Closed and more",
+      "description": "Download The Subtle Art of Not Being Replaced 👇🏼\nhttp://bit.ly/3WLNzdV\n\nDownload Humanities Last Prompt Engineering Guide (free) 👇🏼\nhttps://bit.ly/4kFhajz\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nDiscover The Best AI Tools👇🏼\nhttps://tools.forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forward_future_\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/xxysSXBxFW\n👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n00:00 - Intro\n00:25 - Microsoft's Core AI Team\n05:08 - In-Person Work Culture\n10:15 - How AI Changes Engineering Roles\n15:24 - Data Centers & Power Constraints\n19:00 - AI Bubble & Dark GPUs\n22:34 - Model efficiency\n25:17 - Enterprise model rollout \n28:17 - Open v Closed source\n30:43 - Omni-model vs. multi-model\n32:53 - Microsoft's relationship with OpenAI\n34:31 - MAI and MSFT's frontier models\n35:51 - AI safety\n38:45 - Contrarian Take",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Q1tgc3WTb2k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Q1tgc3WTb2k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Q1tgc3WTb2k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Q1tgc3WTb2k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Q1tgc3WTb2k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Matthew Berman",
+      "tags": [
+        "ai",
+        "llm",
+        "artificial intelligence",
+        "large language model",
+        "openai",
+        "mistral",
+        "chatgpt",
+        "ai news",
+        "claude",
+        "anthropic",
+        "apple ai",
+        "apple intelligence",
+        "llama",
+        "meta ai",
+        "google ai"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "Microsoft's EVP of AI talks OpenAI, Datacenters, Future of Coding, Open v Closed and more",
+        "description": "Download The Subtle Art of Not Being Replaced 👇🏼\nhttp://bit.ly/3WLNzdV\n\nDownload Humanities Last Prompt Engineering Guide (free) 👇🏼\nhttps://bit.ly/4kFhajz\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.ai\n\nDiscover The Best AI Tools👇🏼\nhttps://tools.forwardfuture.ai\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forward_future_\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/xxysSXBxFW\n👉🏻 TikTok: https://www.tiktok.com/@matthewberman_ai\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V\n\nChapters:\n00:00 - Intro\n00:25 - Microsoft's Core AI Team\n05:08 - In-Person Work Culture\n10:15 - How AI Changes Engineering Roles\n15:24 - Data Centers & Power Constraints\n19:00 - AI Bubble & Dark GPUs\n22:34 - Model efficiency\n25:17 - Enterprise model rollout \n28:17 - Open v Closed source\n30:43 - Omni-model vs. multi-model\n32:53 - Microsoft's relationship with OpenAI\n34:31 - MAI and MSFT's frontier models\n35:51 - AI safety\n38:45 - Contrarian Take"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT40M24S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4553",
+      "likeCount": "100",
+      "favoriteCount": "0",
+      "commentCount": "49"
+    }
+  }
+}

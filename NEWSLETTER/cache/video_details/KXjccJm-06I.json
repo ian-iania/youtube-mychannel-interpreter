@@ -1,0 +1,70 @@
+{
+  "cached_at": 1764436266.711848,
+  "cache_type": "video_details",
+  "key": "KXjccJm-06I",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "W_y-A7Mgx0RS4csVVA1H4jn_DdQ",
+    "id": "KXjccJm-06I",
+    "snippet": {
+      "publishedAt": "2025-11-28T09:14:39Z",
+      "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+      "title": "You need to follow a system...",
+      "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim\n\n🎞 Video Resources 🎞\n\n⏳ Timestamps ⏳\n\nHashtags",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KXjccJm-06I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KXjccJm-06I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KXjccJm-06I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KXjccJm-06I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KXjccJm-06I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tech With Tim",
+      "tags": [
+        "tech with tim"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "You need to follow a system...",
+        "description": "DevLaunch is my mentorship program where I personally help developers go beyond tutorials, build real-world projects, and actually land jobs. No fluff. Just real accountability, proven strategies, and hands-on guidance. Learn more here - https://training.devlaunch.us/tim\n\n🎞 Video Resources 🎞\n\n⏳ Timestamps ⏳\n\nHashtags"
+      },
+      "defaultAudioLanguage": "en-CA"
+    },
+    "contentDetails": {
+      "duration": "PT57S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "14460",
+      "likeCount": "461",
+      "favoriteCount": "0",
+      "commentCount": "17"
+    }
+  }
+}

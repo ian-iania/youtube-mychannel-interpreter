@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285738.490484,
+  "cached_at": 1764436235.7368178,
   "cache_type": "channel_info",
   "key": "UCQoNosQTIxiMTL9C-gvFdjA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "w-HQNx_0v9ZBgOsmtOg3oL9XYuw",
+    "etag": "xJL3Iof1XtRADao4xv_e_-krDW8",
     "id": "UCQoNosQTIxiMTL9C-gvFdjA",
     "snippet": {
       "title": "Data Science in your pocket",
@@ -35,10 +35,10 @@
       "country": "IN"
     },
     "statistics": {
-      "viewCount": "6176666",
+      "viewCount": "6383421",
       "subscriberCount": "23700",
       "hiddenSubscriberCount": false,
-      "videoCount": "1338"
+      "videoCount": "1341"
     }
   }
 }

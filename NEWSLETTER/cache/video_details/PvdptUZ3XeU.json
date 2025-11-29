@@ -1,0 +1,87 @@
+{
+  "cached_at": 1764436241.2572532,
+  "cache_type": "video_details",
+  "key": "PvdptUZ3XeU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "sMUfqKRZZvbug27dsWdj0LMHVtQ",
+    "id": "PvdptUZ3XeU",
+    "snippet": {
+      "publishedAt": "2025-11-29T15:00:51Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "How to vibe code responsibly (with a little help from MCPs)",
+      "description": "The year of the agent ushered in vibe coding — asking an AI agent like GitHub Copilot to build and going with the flow. But too often we’re Icarus with a keyboard and flying too close to the sun. Agents can overwrite files, expose API keys, or hallucinate broken flows. In this GitHub Universe 2025 talk, Rizel will explain how the Model Context Protocol (MCP) adds structure and context, helping developers avoid these pitfalls. Using GitHub’s MCP server, she will demo safer prompt engineering, better AI observability, and how to keep the vibes high and the bugs low.\n\nSpeaker:\nRizel Scarlett, Tech Lead of Open Source Developer Relations, Block (Speaker) \n\n#GitHubCopilot #GitHubUniverse #GitHub\n\n— CHAPTERS — \n\n00:00 Introduction to responsible vibe coding \n01:27 Defining vibe coding versus vibe engineering \n03:33 Three principles for responsible AI coding \n04:00 Power: Selecting the right LLM capabilities \n05:10 Context: Why AI needs specific details\n07:11 Introduction to Model Context Protocol (MCP) \n07:51 Exploring the GitHub MCP server capabilities \n08:58 Demo: Creating GitHub issues with Goose and MCP \n10:00 Demo: Visualizing team workloads with MCP UI \n11:25 Control: Staying engaged with Agent Client Protocol \n13:28 Conclusion: You are the pilot\n\nWatch more videos from GitHub Universe 2025: https://www.youtube.com/watch?v=q1IxyisKcZI&list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC\n\nStay up-to-date on all things GitHub by subscribing and following us at:\nYouTube: http://bit.ly/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\nFacebook: https://www.facebook.com/GitHub/\n\nAbout GitHub:\nIt’s where over 100 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PvdptUZ3XeU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PvdptUZ3XeU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PvdptUZ3XeU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PvdptUZ3XeU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PvdptUZ3XeU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "tags": [
+        "GitHub",
+        "git",
+        "git and GitHub",
+        "how to use GitHub",
+        "GitHub tutorial",
+        "GitHub Universe",
+        "GitHub Universe 2025",
+        "GitHub Copilot",
+        "AI agents",
+        "vibe coding",
+        "responsible AI",
+        "AI safety",
+        "MCP",
+        "Model context protocol",
+        "GitHub MCP server",
+        "AI hallucinations",
+        "AI observability",
+        "prompt engineering"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "How to vibe code responsibly (with a little help from MCPs)",
+        "description": "The year of the agent ushered in vibe coding — asking an AI agent like GitHub Copilot to build and going with the flow. But too often we’re Icarus with a keyboard and flying too close to the sun. Agents can overwrite files, expose API keys, or hallucinate broken flows. In this GitHub Universe 2025 talk, Rizel will explain how the Model Context Protocol (MCP) adds structure and context, helping developers avoid these pitfalls. Using GitHub’s MCP server, she will demo safer prompt engineering, better AI observability, and how to keep the vibes high and the bugs low.\n\nSpeaker:\nRizel Scarlett, Tech Lead of Open Source Developer Relations, Block (Speaker) \n\n#GitHubCopilot #GitHubUniverse #GitHub\n\n— CHAPTERS — \n\n00:00 Introduction to responsible vibe coding \n01:27 Defining vibe coding versus vibe engineering \n03:33 Three principles for responsible AI coding \n04:00 Power: Selecting the right LLM capabilities \n05:10 Context: Why AI needs specific details\n07:11 Introduction to Model Context Protocol (MCP) \n07:51 Exploring the GitHub MCP server capabilities \n08:58 Demo: Creating GitHub issues with Goose and MCP \n10:00 Demo: Visualizing team workloads with MCP UI \n11:25 Control: Staying engaged with Agent Client Protocol \n13:28 Conclusion: You are the pilot\n\nWatch more videos from GitHub Universe 2025: https://www.youtube.com/watch?v=q1IxyisKcZI&list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC\n\nStay up-to-date on all things GitHub by subscribing and following us at:\nYouTube: http://bit.ly/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\nFacebook: https://www.facebook.com/GitHub/\n\nAbout GitHub:\nIt’s where over 100 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT14M22S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "384",
+      "likeCount": "41",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

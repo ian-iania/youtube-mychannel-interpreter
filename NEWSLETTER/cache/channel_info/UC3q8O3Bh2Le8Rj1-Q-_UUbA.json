@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285739.022092,
+  "cached_at": 1764436236.322197,
   "cache_type": "channel_info",
   "key": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "_Lm_iiIwUUA8D5BbPfpLIN7Qqfo",
+    "etag": "3VM6YSVxKd3Epqly5dfh-F3cJ9A",
     "id": "UC3q8O3Bh2Le8Rj1-Q-_UUbA",
     "snippet": {
       "title": "Databricks",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "20051831",
+      "viewCount": "20063648",
       "subscriberCount": "148000",
       "hiddenSubscriberCount": false,
       "videoCount": "4343"

@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285775.7972639,
+  "cached_at": 1764436270.760841,
   "cache_type": "channel_info",
   "key": "UC2WmuBuFq6gL08QYG-JjXKw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "BoEKuHlFaiMa0g0kjPZi9pbixxg",
+    "etag": "OKSnWSuO2dIFxOS74IFGKWC6sk8",
     "id": "UC2WmuBuFq6gL08QYG-JjXKw",
     "snippet": {
       "title": "WorldofAI",
@@ -35,10 +35,10 @@
       "country": "CA"
     },
     "statistics": {
-      "viewCount": "16487324",
+      "viewCount": "16534060",
       "subscriberCount": "176000",
       "hiddenSubscriberCount": false,
-      "videoCount": "953"
+      "videoCount": "954"
     }
   }
 }

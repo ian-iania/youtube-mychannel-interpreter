@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285730.399669,
+  "cached_at": 1764436227.242197,
   "cache_type": "channel_info",
   "key": "UCelfWQr9sXVMTvBzviPGlFw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "ZF2ukd4664J3z8Rsu2wNWPqwgiE",
+    "etag": "B2SF6Q3VlG7YaXKCAeqdvoC-Ddc",
     "id": "UCelfWQr9sXVMTvBzviPGlFw",
     "snippet": {
       "title": "AI LABS",
@@ -35,10 +35,10 @@
       "country": "GB"
     },
     "statistics": {
-      "viewCount": "4893632",
+      "viewCount": "4925350",
       "subscriberCount": "105000",
       "hiddenSubscriberCount": false,
-      "videoCount": "171"
+      "videoCount": "172"
     }
   }
 }

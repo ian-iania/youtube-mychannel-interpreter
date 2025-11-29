@@ -1,0 +1,85 @@
+{
+  "cached_at": 1764436261.304214,
+  "cache_type": "video_details",
+  "key": "KZwP-N0ty8E",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "nbU85RXxMuhkiDUZKV3JgpO_NYY",
+    "id": "KZwP-N0ty8E",
+    "snippet": {
+      "publishedAt": "2025-11-28T18:50:32Z",
+      "channelId": "UC0FBv8ckxw1hrZxbUm3G7hA",
+      "title": "Stop Using Photoshop & Canva.. This AI Thumbnail Maker Replaced Them!",
+      "description": "Create Viral YouTube Thumbnails in Seconds With AI: https://www.thumbmagic.co/?via=robtheaiguy\n\nThis video shows you a new AI tool that makes it easy to make viral YouTube thumbnails. If you want to learn how to make YouTube thumbnails with AI or you’re looking for an AI thumbnail generator this video is for you.\n\nJoin AI Automation School (Learn To Automate Your Work & Make $ With AI) 👉 https://www.skool.com/ai-automation-school/about",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/KZwP-N0ty8E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/KZwP-N0ty8E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/KZwP-N0ty8E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/KZwP-N0ty8E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/KZwP-N0ty8E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Rob The AI Guy",
+      "tags": [
+        "Ai thumbnail maker",
+        "ai thumbnail creator",
+        "ai thumbnail tool",
+        "the best ai thumbnail tool",
+        "the best ai thumbnail generator",
+        "ai thumbnail generator",
+        "best ai tools for youtube thumbnail",
+        "best ai thumbnail generator",
+        "free ai thumbnail generator",
+        "ai thumbnail maker",
+        "youtube thumbnail tutorial",
+        "youtube thumbnail",
+        "ai thumbnail maker for youtube",
+        "how to make a thumbnail for youtube videos",
+        "ai youtube thumbnail generator",
+        "how to make thumbnails for youtube videos"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Stop Using Photoshop & Canva.. This AI Thumbnail Maker Replaced Them!",
+        "description": "Create Viral YouTube Thumbnails in Seconds With AI: https://www.thumbmagic.co/?via=robtheaiguy\n\nThis video shows you a new AI tool that makes it easy to make viral YouTube thumbnails. If you want to learn how to make YouTube thumbnails with AI or you’re looking for an AI thumbnail generator this video is for you.\n\nJoin AI Automation School (Learn To Automate Your Work & Make $ With AI) 👉 https://www.skool.com/ai-automation-school/about"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT12M44S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "753",
+      "likeCount": "44",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764436245.3775868,
+  "cache_type": "video_details",
+  "key": "SdNRWJ-oqjY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Fzz3wOMlqHmzYm_LckTxfd_w_6U",
+    "id": "SdNRWJ-oqjY",
+    "snippet": {
+      "publishedAt": "2025-11-28T11:00:54Z",
+      "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "title": "AI agents in 2025: Why agentic commerce isn't ready for Black Friday yet",
+      "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/BdbJ6K\n\nWill Black Friday 2025 be the breakout moment for agentic commerce? This week on Mixture of Experts, we're departing from our usual format for a Thanksgiving special focused entirely on AI agents. Host Tim Hwang is joined by Chris Hay, Lauren McHugh Olende and Volkmar Uhlig to debate whether 2025 is truly the \"year of agents.\" Our experts break down why consumer-facing agentic commerce still faces major hurdles. We also explore the massive gap between building agent prototypes and deploying them at scale and discuss why the developer ecosystem needs a \"Shopify moment.\" Then, could language-to-agent interfaces bypass traditional development entirely? From coding agents like Claude Code to cost optimization challenges, this episode covers what needs to happen for agents to move from POC to production. And finally, who's positioned to dominate the space?  \n\n00:00 – Introduction \n01:12 – Claude 4.5 Opus is here \n09:32 – Will Black Friday be big for agentic commerce? \n16:11– Agent experience for consumers vs. Enterprise \n17:31 – Is 2025 the year of the Agent? \n23:02 — AI agents in the developer ecosystem \n31:16 — Who will win the agent race? \n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity. \n\nSubscribe for AI updates → https://ibm.biz/BdbJ6a\n\n#AIagents #AgenticCommerce #EnterpriseAI",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SdNRWJ-oqjY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SdNRWJ-oqjY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SdNRWJ-oqjY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SdNRWJ-oqjY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SdNRWJ-oqjY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "IBM Technology",
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "AI agents in 2025: Why agentic commerce isn't ready for Black Friday yet",
+        "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/BdbJ6K\n\nWill Black Friday 2025 be the breakout moment for agentic commerce? This week on Mixture of Experts, we're departing from our usual format for a Thanksgiving special focused entirely on AI agents. Host Tim Hwang is joined by Chris Hay, Lauren McHugh Olende and Volkmar Uhlig to debate whether 2025 is truly the \"year of agents.\" Our experts break down why consumer-facing agentic commerce still faces major hurdles. We also explore the massive gap between building agent prototypes and deploying them at scale and discuss why the developer ecosystem needs a \"Shopify moment.\" Then, could language-to-agent interfaces bypass traditional development entirely? From coding agents like Claude Code to cost optimization challenges, this episode covers what needs to happen for agents to move from POC to production. And finally, who's positioned to dominate the space?  \n\n00:00 – Introduction \n01:12 – Claude 4.5 Opus is here \n09:32 – Will Black Friday be big for agentic commerce? \n16:11– Agent experience for consumers vs. Enterprise \n17:31 – Is 2025 the year of the Agent? \n23:02 — AI agents in the developer ecosystem \n31:16 — Who will win the agent race? \n\nThe opinions expressed in this podcast are solely those of the participants and do not necessarily reflect the views of IBM or any other organization or entity. \n\nSubscribe for AI updates → https://ibm.biz/BdbJ6a\n\n#AIagents #AgenticCommerce #EnterpriseAI"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT41M31S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1899",
+      "likeCount": "64",
+      "favoriteCount": "0",
+      "commentCount": "6"
+    }
+  }
+}

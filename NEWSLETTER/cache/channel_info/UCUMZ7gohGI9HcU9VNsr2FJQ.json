@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764436273.684169,
+  "cache_type": "channel_info",
+  "key": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "L6YWKW575Fq8QxwJRfhTY44j2cQ",
+    "id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+    "snippet": {
+      "title": "Bloomberg Originals",
+      "description": "Bloomberg Originals offers bold takes for curious minds on today’s biggest topics. Hosted by experts covering stories you haven’t seen and viewpoints you haven’t heard, you’ll discover cinematic, data-led shows that investigate the intersection of business and culture. Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you’ve never seen it.\n",
+      "customUrl": "@business",
+      "publishedAt": "2006-03-09T23:17:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/8sL0eqOeU4a1wZBVxn5NOFsug17I2XM0dmCdT7eouq12qE-I-JLCzrzub9Z4SdF0IEt5AzEY=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/8sL0eqOeU4a1wZBVxn5NOFsug17I2XM0dmCdT7eouq12qE-I-JLCzrzub9Z4SdF0IEt5AzEY=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/8sL0eqOeU4a1wZBVxn5NOFsug17I2XM0dmCdT7eouq12qE-I-JLCzrzub9Z4SdF0IEt5AzEY=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Bloomberg Originals",
+        "description": "Bloomberg Originals offers bold takes for curious minds on today’s biggest topics. Hosted by experts covering stories you haven’t seen and viewpoints you haven’t heard, you’ll discover cinematic, data-led shows that investigate the intersection of business and culture. Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you’ve never seen it.\n"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "1091005379",
+      "subscriberCount": "4870000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "49354"
+    }
+  }
+}

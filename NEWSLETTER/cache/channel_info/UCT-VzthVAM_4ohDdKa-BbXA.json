@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285746.5935931,
+  "cached_at": 1764436242.318242,
   "cache_type": "channel_info",
   "key": "UCT-VzthVAM_4ohDdKa-BbXA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "nlR8yzOtoo7OqPpV-BqI_YRF3p4",
+    "etag": "Kt2lHbx-NwYG7kAqhDiW0XeUmRY",
     "id": "UCT-VzthVAM_4ohDdKa-BbXA",
     "snippet": {
       "title": "Google Research",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "4892862",
+      "viewCount": "4894431",
       "subscriberCount": "545000",
       "hiddenSubscriberCount": false,
       "videoCount": "107"

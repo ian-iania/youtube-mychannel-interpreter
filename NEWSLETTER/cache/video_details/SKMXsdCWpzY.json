@@ -1,0 +1,68 @@
+{
+  "cached_at": 1764436255.688354,
+  "cache_type": "video_details",
+  "key": "SKMXsdCWpzY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "_olVdJiguIUQmMzL7fy8Gb8XmYk",
+    "id": "SKMXsdCWpzY",
+    "snippet": {
+      "publishedAt": "2025-11-29T16:00:53Z",
+      "channelId": "UC0m-80FnNY2Qb7obvTL_2fA",
+      "title": "Building the Modern Quantum Architecture: Lecture 2 — Utility Scale Quantum Architecture",
+      "description": "How do you build a utility scale quantum computer, and which parts of classical architecture still matter? In Lecture 2, Dr. Matthias Troyer follows a quantum program from high level code to the physical control of qubits and shows how quantum, much like GPUs and FPGAs, fits the accelerator model within modern cloud workflows.\n\nWatch now and follow the series: https://msft.it/6057tTzbT\n\n#Microsoft #MicrosoftAzure #MicrosoftQuantum",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SKMXsdCWpzY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SKMXsdCWpzY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SKMXsdCWpzY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SKMXsdCWpzY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Microsoft Azure",
+      "tags": [
+        "Azure Quantum",
+        "Majorana 1",
+        "Microsoft Quantum",
+        "Quantum",
+        "Quantum Computing"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Building the Modern Quantum Architecture: Lecture 2 — Utility Scale Quantum Architecture",
+        "description": "How do you build a utility scale quantum computer, and which parts of classical architecture still matter? In Lecture 2, Dr. Matthias Troyer follows a quantum program from high level code to the physical control of qubits and shows how quantum, much like GPUs and FPGAs, fits the accelerator model within modern cloud workflows.\n\nWatch now and follow the series: https://msft.it/6057tTzbT\n\n#Microsoft #MicrosoftAzure #MicrosoftQuantum"
+      }
+    },
+    "contentDetails": {
+      "duration": "PT15M4S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "84",
+      "likeCount": "14",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

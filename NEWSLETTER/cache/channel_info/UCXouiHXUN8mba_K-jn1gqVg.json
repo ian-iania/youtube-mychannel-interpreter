@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285753.9254951,
+  "cached_at": 1764436249.871232,
   "cache_type": "channel_info",
   "key": "UCXouiHXUN8mba_K-jn1gqVg",
   "data": {
     "kind": "youtube#channel",
-    "etag": "PCLbYB2xtd77g_SA10k8rBRSzUQ",
+    "etag": "a6nSD7UabIAxW-MUznKxxM4ulWM",
     "id": "UCXouiHXUN8mba_K-jn1gqVg",
     "snippet": {
       "title": "Kiro",
@@ -34,8 +34,8 @@
       }
     },
     "statistics": {
-      "viewCount": "116524",
-      "subscriberCount": "5600",
+      "viewCount": "117316",
+      "subscriberCount": "5620",
       "hiddenSubscriberCount": false,
       "videoCount": "44"
     }

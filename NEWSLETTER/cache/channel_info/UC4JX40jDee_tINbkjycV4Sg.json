@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285771.075211,
+  "cached_at": 1764436266.4026308,
   "cache_type": "channel_info",
   "key": "UC4JX40jDee_tINbkjycV4Sg",
   "data": {
     "kind": "youtube#channel",
-    "etag": "EaBVJDiEnK2pFT84EaZIg0Q6xk0",
+    "etag": "MFibCXDmgNHcvIMvFvEiItzzOf4",
     "id": "UC4JX40jDee_tINbkjycV4Sg",
     "snippet": {
       "title": "Tech With Tim",
@@ -35,10 +35,10 @@
       "country": "CA"
     },
     "statistics": {
-      "viewCount": "194467340",
+      "viewCount": "194836959",
       "subscriberCount": "1910000",
       "hiddenSubscriberCount": false,
-      "videoCount": "1735"
+      "videoCount": "1738"
     }
   }
 }

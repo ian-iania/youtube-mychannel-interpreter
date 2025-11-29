@@ -1,0 +1,92 @@
+{
+  "cached_at": 1764436247.827463,
+  "cache_type": "video_details",
+  "key": "a7v3Zrke7jk",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "ns92Og1NI-sBWgK0-5iU-Q0lbkM",
+    "id": "a7v3Zrke7jk",
+    "snippet": {
+      "publishedAt": "2025-11-28T21:13:05Z",
+      "channelId": "UCo0jMsIPccAXghE_FCWIdNg",
+      "title": "Como as estatais chinesas estão investindo em portos e ferrovias do Brasil",
+      "description": "Estatais chinesas investem pesado na infraestrutura logística brasileira. A Cofco se tornará a maior operadora de grãos no Porto de Santos, enquanto a CMPorts controla o Terminal de Contêineres de Paranaguá (TCP) e busca adquirir 70% do terminal de petróleo do Porto do Açu. \n\nEm mais um vídeo da série \"Megainvestimentos da China no Brasil\" entenda como a China exporta seu modelo de infraestrutura e cria um ecossistema interligado no país.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a7v3Zrke7jk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a7v3Zrke7jk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a7v3Zrke7jk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/a7v3Zrke7jk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/a7v3Zrke7jk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "InvestNews BR",
+      "tags": [
+        "Investnews",
+        "investimentos",
+        "economia",
+        "finanças",
+        "investnewsbr",
+        "mercado financeiro",
+        "bolsa de valores",
+        "notícias",
+        "jornalismo econômico",
+        "negócios",
+        "Investimento chinês",
+        "China Brasil",
+        "infraestrutura",
+        "logística",
+        "Cofco",
+        "Porto de Santos",
+        "CMPorts",
+        "Porto do Açu",
+        "Porto de Paranaguá",
+        "CRRC",
+        "Trem Intercidades",
+        "setor de transportes",
+        "InvestNewsBR"
+      ],
+      "categoryId": "25",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Como as estatais chinesas estão investindo em portos e ferrovias do Brasil",
+        "description": "Estatais chinesas investem pesado na infraestrutura logística brasileira. A Cofco se tornará a maior operadora de grãos no Porto de Santos, enquanto a CMPorts controla o Terminal de Contêineres de Paranaguá (TCP) e busca adquirir 70% do terminal de petróleo do Porto do Açu. \n\nEm mais um vídeo da série \"Megainvestimentos da China no Brasil\" entenda como a China exporta seu modelo de infraestrutura e cria um ecossistema interligado no país."
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT8M30S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "13310",
+      "likeCount": "970",
+      "favoriteCount": "0",
+      "commentCount": "52"
+    }
+  }
+}

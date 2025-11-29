@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764436241.887928,
+  "cache_type": "video_details",
+  "key": "9DhLKXeEaCc",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "3YngY67zMJzbs24yh4dPSofRA7g",
+    "id": "9DhLKXeEaCc",
+    "snippet": {
+      "publishedAt": "2025-11-29T00:40:01Z",
+      "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+      "title": "Vex — A beautiful Excel and CSV viewer built in Go.  #github #excel #terminal",
+      "description": "Vex — A beautiful Excel and CSV viewer built in Go. Yep… Excel in your terminal, but actually gorgeous. \n#github #opensource",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9DhLKXeEaCc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9DhLKXeEaCc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9DhLKXeEaCc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9DhLKXeEaCc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9DhLKXeEaCc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Github Awesome",
+      "tags": [
+        "GitHub",
+        "GitHub Repositories",
+        "Trending GitHub",
+        "Trending",
+        "GitHub Open Source Projects",
+        "GitHub Trending",
+        "gitHub trending"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Vex — A beautiful Excel and CSV viewer built in Go.  #github #excel #terminal",
+        "description": "Vex — A beautiful Excel and CSV viewer built in Go. Yep… Excel in your terminal, but actually gorgeous. \n#github #opensource"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT23S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4235",
+      "likeCount": "230",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

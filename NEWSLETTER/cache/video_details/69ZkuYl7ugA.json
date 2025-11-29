@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764436235.284781,
+  "cache_type": "video_details",
+  "key": "69ZkuYl7ugA",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "6zVS-mX7JY6pthw1Pd4f7F6tcVQ",
+    "id": "69ZkuYl7ugA",
+    "snippet": {
+      "publishedAt": "2025-11-28T20:01:09Z",
+      "channelId": "UCrPbAoQKz42Gm0mLdWatAEA",
+      "title": "Crie seu Hub de IAs no WhatsApp — ChatGPT + Gemini no mesmo robô!",
+      "description": "👇 TODO MATERIAL DE APOIO ESTÁ AQUI 👇\n👨‍🏫  Página de apoio: ➤ https://comunidade.zdg.dev.br/geral/hub-ias/\n\n00:00 – Introdução e conceito do Hub de IAs no WhatsApp\n00:47 – Demonstração ao vivo do bot respondendo com ChatGPT/Gemini\n01:45 – Requisitos: Git, Node e preparação do ambiente\n02:20 – Clonando o repositório e acessando a pasta do projeto\n03:05 – Configurando o arquivo .env (API Keys, modelos e provider)\n03:48 – Instalando dependências e explicação do fluxo Baileys (Wales)\n04:32 – Rodando o projeto (npm run dev / build / start)\n05:20 – Conectando o WhatsApp, lendo o QR Code e testando comandos\n06:10 – Integração com o Z-PRO e visão do Hub avançado de IAs\n07:00 – Recomendações finais, customizações\n\n🤔 QUAL O MELHOR CAMINHO PARA VOCÊ?\n\nTemos duas soluções, veja qual delas se encaixa no seu perfil:\n🎓 COMUNIDADE ZDG: Aprenda com Ferramentas Open Source\nIdeal para quem quer aprender a construir e ter total controle sobre suas automações, utilizando ferramentas de código aberto (open source). Nós ensinamos o caminho e damos as ferramentas para você construir.\n● O que inclui: Acesso a cursos de integrações e infraestrutura, além de auto-instaladores (Whaticket, Chatwoot, Typebot e N8N) para você mesmo implantar. \n● O suporte é colaborativo, realizado através do nosso grupo de membros no Facebook para troca de experiências e dúvidas.\nSe seu objetivo é APRENDER A FAZER e ter autonomia, comece aqui: \n👉 https://comunidade.zdg.dev.br/\n\n⚡ SISTEMA Z-PRO: Plataforma de Atendimento Robusta\nPara quem busca uma plataforma de atendimento multicanal avançada e em constante evolução, com a estrutura e o suporte para escalar seu negócio.\n● O que inclui: Uma plataforma completa (WhatsApp Oficial, Insta, etc.) com IA, funcionalidade White-Label para revenda e atualizações constantes com novas versões. \n● Como funciona o suporte: Você tem acesso ao nosso time via ferramenta de Helpdesk para tirar dúvidas sobre o uso e a configuração do sistema Z-PRO.\nSe você busca uma solução AVANÇADA, COM ATUALIZAÇÕES E SUPORTE, conheça o Z-PRO: \n👉 https://zdg.dev.br/\n\n🔔 Quer mais vídeos como este? Inscreva-se no canal e ative as notificações!\n\nCONECTE-SE COM A GENTE: \n● Instagram: \nhttps://www.instagram.com/comunidadezdg/ \nhttps://www.instagram.com/sistema.zpro/ \n\n● Fale Conosco no WhatsApp: https://zdg.dev.br/contato\n\nAbraços, 👨‍🚀 Pedrinho da NASA\n#whatsapp #automação #chatbot #opensource #zdg #zdgcomunidade",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/69ZkuYl7ugA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/69ZkuYl7ugA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/69ZkuYl7ugA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/69ZkuYl7ugA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/69ZkuYl7ugA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Comunidade ZDG",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "Crie seu Hub de IAs no WhatsApp — ChatGPT + Gemini no mesmo robô!",
+        "description": "👇 TODO MATERIAL DE APOIO ESTÁ AQUI 👇\n👨‍🏫  Página de apoio: ➤ https://comunidade.zdg.dev.br/geral/hub-ias/\n\n00:00 – Introdução e conceito do Hub de IAs no WhatsApp\n00:47 – Demonstração ao vivo do bot respondendo com ChatGPT/Gemini\n01:45 – Requisitos: Git, Node e preparação do ambiente\n02:20 – Clonando o repositório e acessando a pasta do projeto\n03:05 – Configurando o arquivo .env (API Keys, modelos e provider)\n03:48 – Instalando dependências e explicação do fluxo Baileys (Wales)\n04:32 – Rodando o projeto (npm run dev / build / start)\n05:20 – Conectando o WhatsApp, lendo o QR Code e testando comandos\n06:10 – Integração com o Z-PRO e visão do Hub avançado de IAs\n07:00 – Recomendações finais, customizações\n\n🤔 QUAL O MELHOR CAMINHO PARA VOCÊ?\n\nTemos duas soluções, veja qual delas se encaixa no seu perfil:\n🎓 COMUNIDADE ZDG: Aprenda com Ferramentas Open Source\nIdeal para quem quer aprender a construir e ter total controle sobre suas automações, utilizando ferramentas de código aberto (open source). Nós ensinamos o caminho e damos as ferramentas para você construir.\n● O que inclui: Acesso a cursos de integrações e infraestrutura, além de auto-instaladores (Whaticket, Chatwoot, Typebot e N8N) para você mesmo implantar. \n● O suporte é colaborativo, realizado através do nosso grupo de membros no Facebook para troca de experiências e dúvidas.\nSe seu objetivo é APRENDER A FAZER e ter autonomia, comece aqui: \n👉 https://comunidade.zdg.dev.br/\n\n⚡ SISTEMA Z-PRO: Plataforma de Atendimento Robusta\nPara quem busca uma plataforma de atendimento multicanal avançada e em constante evolução, com a estrutura e o suporte para escalar seu negócio.\n● O que inclui: Uma plataforma completa (WhatsApp Oficial, Insta, etc.) com IA, funcionalidade White-Label para revenda e atualizações constantes com novas versões. \n● Como funciona o suporte: Você tem acesso ao nosso time via ferramenta de Helpdesk para tirar dúvidas sobre o uso e a configuração do sistema Z-PRO.\nSe você busca uma solução AVANÇADA, COM ATUALIZAÇÕES E SUPORTE, conheça o Z-PRO: \n👉 https://zdg.dev.br/\n\n🔔 Quer mais vídeos como este? Inscreva-se no canal e ative as notificações!\n\nCONECTE-SE COM A GENTE: \n● Instagram: \nhttps://www.instagram.com/comunidadezdg/ \nhttps://www.instagram.com/sistema.zpro/ \n\n● Fale Conosco no WhatsApp: https://zdg.dev.br/contato\n\nAbraços, 👨‍🚀 Pedrinho da NASA\n#whatsapp #automação #chatbot #opensource #zdg #zdgcomunidade"
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT9M5S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "291",
+      "likeCount": "22",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

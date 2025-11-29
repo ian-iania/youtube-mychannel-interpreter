@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285736.486563,
+  "cached_at": 1764436233.860688,
   "cache_type": "channel_info",
   "key": "UC_bXJnsgwOqEPA_-6N6faKw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "LW0mSMooZrxGC1lnPZ4nYXNhxe0",
+    "etag": "ZbD0Q_4A5pTKaLGvTz4srUQ0uTA",
     "id": "UC_bXJnsgwOqEPA_-6N6faKw",
     "snippet": {
       "title": "Canaltech",
@@ -35,10 +35,10 @@
       "country": "BR"
     },
     "statistics": {
-      "viewCount": "834134280",
+      "viewCount": "834578886",
       "subscriberCount": "3670000",
       "hiddenSubscriberCount": false,
-      "videoCount": "8458"
+      "videoCount": "8466"
     }
   }
 }

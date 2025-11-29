@@ -1,0 +1,106 @@
+{
+  "cached_at": 1764436234.2152588,
+  "cache_type": "video_details",
+  "key": "o2Ce_3cYP3Q",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Zh0y_TIT7LNYNibYYewi5C98HPo",
+    "id": "o2Ce_3cYP3Q",
+    "snippet": {
+      "publishedAt": "2025-11-28T20:00:47Z",
+      "channelId": "UC_bXJnsgwOqEPA_-6N6faKw",
+      "title": "Se você vive derrubando o celular ou morre de medo de molhar, o Moto G56 5G é o seu novo parceiro.",
+      "description": "Super resistente, aguenta quedas, sujeira e até um mergulho sem drama.A câmera de 50 MP deixa suas fotos lindas e cheias de cor, de dia ou de noite.E a bateria de 5.200 mAh acompanha a rotina sem te deixar na mão, com carregamento TurboPower pra dar aquele gás.Quer um celular moderno, forte e com ótima câmera? Esse aqui merece entrar no seu radar. ✨",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/o2Ce_3cYP3Q/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/o2Ce_3cYP3Q/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/o2Ce_3cYP3Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/o2Ce_3cYP3Q/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/o2Ce_3cYP3Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Canaltech",
+      "tags": [
+        "Canaltech",
+        "Tecnologia",
+        "Tech",
+        "Brasil",
+        "Português",
+        "PTBR",
+        "Notícias de Tecnologia",
+        "Adriano Ponte",
+        "Pedro Cipoli",
+        "Amanda Abreu",
+        "Novidades de Tecnologia",
+        "Ciência",
+        "Tutorial",
+        "Comparativo",
+        "Análise",
+        "Resenha",
+        "Review",
+        "Podcast",
+        "Eletrônico",
+        "Jornal",
+        "Canal Tech",
+        "Guia de Compra",
+        "Informativo",
+        "Melhor",
+        "Aula",
+        "Curso",
+        "Informática",
+        "Software",
+        "Programa",
+        "Dica",
+        "Melhores Vídeos",
+        "Como Ser",
+        "Como Fazer",
+        "O que é",
+        "How To",
+        "Kickstarter",
+        "Indiegogo"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Se você vive derrubando o celular ou morre de medo de molhar, o Moto G56 5G é o seu novo parceiro.",
+        "description": "Super resistente, aguenta quedas, sujeira e até um mergulho sem drama.A câmera de 50 MP deixa suas fotos lindas e cheias de cor, de dia ou de noite.E a bateria de 5.200 mAh acompanha a rotina sem te deixar na mão, com carregamento TurboPower pra dar aquele gás.Quer um celular moderno, forte e com ótima câmera? Esse aqui merece entrar no seu radar. ✨"
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT45S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2963",
+      "likeCount": "294",
+      "favoriteCount": "0",
+      "commentCount": "7"
+    }
+  }
+}

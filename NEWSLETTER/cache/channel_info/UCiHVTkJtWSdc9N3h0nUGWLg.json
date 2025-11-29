@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764436272.751227,
+  "cache_type": "channel_info",
+  "key": "UCiHVTkJtWSdc9N3h0nUGWLg",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "2JOTjhBnYg_9JyW7pTXHFhsm-gU",
+    "id": "UCiHVTkJtWSdc9N3h0nUGWLg",
+    "snippet": {
+      "title": "n8n",
+      "description": "n8n gives technical teams a workflow automation platform that uniquely combines AI capabilities with business process automation. Connect any app or API while maintaining the flexibility of code with the speed of no-code.\n",
+      "customUrl": "@n8n-io",
+      "publishedAt": "2019-06-27T16:20:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/d28uhEsX19s-2S7MeUynZdB9w-HIWCOUf_QHLKwausrb9sbmvQOJWrDEhobxCDg70hoQckHfZA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/d28uhEsX19s-2S7MeUynZdB9w-HIWCOUf_QHLKwausrb9sbmvQOJWrDEhobxCDg70hoQckHfZA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/d28uhEsX19s-2S7MeUynZdB9w-HIWCOUf_QHLKwausrb9sbmvQOJWrDEhobxCDg70hoQckHfZA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "n8n",
+        "description": "n8n gives technical teams a workflow automation platform that uniquely combines AI capabilities with business process automation. Connect any app or API while maintaining the flexibility of code with the speed of no-code.\n"
+      },
+      "country": "DE"
+    },
+    "statistics": {
+      "viewCount": "5806064",
+      "subscriberCount": "194000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "313"
+    }
+  }
+}

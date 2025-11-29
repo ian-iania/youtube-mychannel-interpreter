@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285738.095171,
+  "cached_at": 1764436235.3821251,
   "cache_type": "channel_info",
   "key": "UCTulKzR5sldNq2eAxxdaEuA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "oTp__CliVl4fMJvB2WNu9-_MFtc",
+    "etag": "ZdD3_dsKx7hJWKxezE57amzJjKM",
     "id": "UCTulKzR5sldNq2eAxxdaEuA",
     "snippet": {
       "title": "CrewAI",
@@ -35,8 +35,8 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "161476",
-      "subscriberCount": "6790",
+      "viewCount": "161884",
+      "subscriberCount": "6800",
       "hiddenSubscriberCount": false,
       "videoCount": "25"
     }

@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285728.9134789,
+  "cached_at": 1764436225.880715,
   "cache_type": "channel_info",
   "key": "UCYO_jab_esuFRV4b17AJtAw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "VvCeiZTlgLmMA88tK-0uXXhy7kY",
+    "etag": "k4g-2blcy0pjjV41Slhswb4Daq8",
     "id": "UCYO_jab_esuFRV4b17AJtAw",
     "snippet": {
       "title": "3Blue1Brown",
@@ -35,8 +35,8 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "699592821",
-      "subscriberCount": "7900000",
+      "viewCount": "700003714",
+      "subscriberCount": "7910000",
       "hiddenSubscriberCount": false,
       "videoCount": "225"
     }

@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764436241.887477,
+  "cache_type": "video_details",
+  "key": "wu3522-is9w",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "65cuGWurgZp5VaV9_ualnSe7RN8",
+    "id": "wu3522-is9w",
+    "snippet": {
+      "publishedAt": "2025-11-29T15:16:27Z",
+      "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+      "title": "GitHub Trending Today #11: SyncKit, RepoMind, Vex, runprompt, Markdown Viewer, beads_viewer, Pulse",
+      "description": "Paid channel subscription: https://www.youtube.com/channel/UC9Rrud-8CaHokDtK9FszvRg/join\n\nToday’s episode is GitHub Trending Today #11, we’ve got 25 hot projects that developers across the world are starring, and forking right now.\n\n00:00 - Introduction\n00:15 - SyncKit https://github.com/Dancode-188/synckit\n00:43 - RepoMind https://github.com/403errors/repomind\n01:06 - Vex https://github.com/CodeOne45/vex-tui\n01:29 - runprompt https://github.com/chr15m/runprompt\n01:53 - Markdown Viewer https://github.com/xicilion/markdown-viewer-extension\n02:18 - beads_viewer https://github.com/Dicklesworthstone/beads_viewer\n02:44 - Doraemon Paper Comicizer https://github.com/redreamality/Paper-Comicizer\n03:09 - Pulse https://github.com/ds-horizon/pulse\n03:35 - Claude Usage Tracker https://github.com/masorange/ClaudeUsageTracker\n03:59 - iMontage https://github.com/Kr1sJFU/iMontage\n04:23 - MinerU-HTML https://github.com/opendatalab/MinerU-HTML\n04:47 - Web3 Decoder https://github.com/classicshi/web3-decoder\n05:09 - podcast-server https://github.com/hemant6488/podcast-server\n05:32 - Voxel4D https://github.com/rtennety/Voxel4D\n05:56 - LatentMAS https://github.com/Gen-Verse/LatentMAS\n06:20 - DSpico Hardware https://github.com/LNH-team/dspico-hardware\n06:43 - FastRL https://github.com/mit-han-lab/fastrl\n07:06 - SteadyDancer https://github.com/MCG-NJU/SteadyDancer\n07:31 - Go Memory Layout Visualizer https://github.com/1rhino2/go-memory-visualizer\n07:53 - Darwin https://github.com/ds-horizon/darwin\n08:19 - Urlvy https://github.com/hoangsonww/Urlvy-URL-Shortener-App\n08:42 - Sip https://github.com/bgibson72/start-page-v3\n09:07 - Agent Commands https://github.com/mitsuhiko/agent-commands\n09:32- dns-honeypot https://github.com/tg12/dns-honeypot\n09:55 - Smoothify https://github.com/DPIRD-DMA/Smoothify\n\nThank you so much for watching. Please like the video and subscribe to our channel. \n\n#github #ai #opensource",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wu3522-is9w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wu3522-is9w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wu3522-is9w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wu3522-is9w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/wu3522-is9w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Github Awesome",
+      "tags": [
+        "GitHub",
+        "GitHub Repositories",
+        "Trending GitHub",
+        "Trending",
+        "GitHub Open Source Projects",
+        "GitHub Trending",
+        "gitHub trending"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "GitHub Trending Today #11: SyncKit, RepoMind, Vex, runprompt, Markdown Viewer, beads_viewer, Pulse",
+        "description": "Paid channel subscription: https://www.youtube.com/channel/UC9Rrud-8CaHokDtK9FszvRg/join\n\nToday’s episode is GitHub Trending Today #11, we’ve got 25 hot projects that developers across the world are starring, and forking right now.\n\n00:00 - Introduction\n00:15 - SyncKit https://github.com/Dancode-188/synckit\n00:43 - RepoMind https://github.com/403errors/repomind\n01:06 - Vex https://github.com/CodeOne45/vex-tui\n01:29 - runprompt https://github.com/chr15m/runprompt\n01:53 - Markdown Viewer https://github.com/xicilion/markdown-viewer-extension\n02:18 - beads_viewer https://github.com/Dicklesworthstone/beads_viewer\n02:44 - Doraemon Paper Comicizer https://github.com/redreamality/Paper-Comicizer\n03:09 - Pulse https://github.com/ds-horizon/pulse\n03:35 - Claude Usage Tracker https://github.com/masorange/ClaudeUsageTracker\n03:59 - iMontage https://github.com/Kr1sJFU/iMontage\n04:23 - MinerU-HTML https://github.com/opendatalab/MinerU-HTML\n04:47 - Web3 Decoder https://github.com/classicshi/web3-decoder\n05:09 - podcast-server https://github.com/hemant6488/podcast-server\n05:32 - Voxel4D https://github.com/rtennety/Voxel4D\n05:56 - LatentMAS https://github.com/Gen-Verse/LatentMAS\n06:20 - DSpico Hardware https://github.com/LNH-team/dspico-hardware\n06:43 - FastRL https://github.com/mit-han-lab/fastrl\n07:06 - SteadyDancer https://github.com/MCG-NJU/SteadyDancer\n07:31 - Go Memory Layout Visualizer https://github.com/1rhino2/go-memory-visualizer\n07:53 - Darwin https://github.com/ds-horizon/darwin\n08:19 - Urlvy https://github.com/hoangsonww/Urlvy-URL-Shortener-App\n08:42 - Sip https://github.com/bgibson72/start-page-v3\n09:07 - Agent Commands https://github.com/mitsuhiko/agent-commands\n09:32- dns-honeypot https://github.com/tg12/dns-honeypot\n09:55 - Smoothify https://github.com/DPIRD-DMA/Smoothify\n\nThank you so much for watching. Please like the video and subscribe to our channel. \n\n#github #ai #opensource"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT10M24S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "345",
+      "likeCount": "17",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

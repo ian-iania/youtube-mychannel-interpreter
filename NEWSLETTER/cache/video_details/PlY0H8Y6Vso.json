@@ -1,0 +1,71 @@
+{
+  "cached_at": 1764436245.377343,
+  "cache_type": "video_details",
+  "key": "PlY0H8Y6Vso",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "S4BNw2TnMQYx-K131BgZ_tfGSHM",
+    "id": "PlY0H8Y6Vso",
+    "snippet": {
+      "publishedAt": "2025-11-28T17:00:45Z",
+      "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "title": "Inside a Hacker Honeypot",
+      "description": "Honeypots lure hackers into fake systems—watch them, learn their moves and protect real networks. It's cybersecurity's ultimate trap. \n\n#cybersecurity #hackers #cybercriminals",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/PlY0H8Y6Vso/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/PlY0H8Y6Vso/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/PlY0H8Y6Vso/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/PlY0H8Y6Vso/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/PlY0H8Y6Vso/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "IBM Technology",
+      "tags": [
+        "IBM",
+        "IBM Cloud"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Inside a Hacker Honeypot",
+        "description": "Honeypots lure hackers into fake systems—watch them, learn their moves and protect real networks. It's cybersecurity's ultimate trap. \n\n#cybersecurity #hackers #cybercriminals"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M17S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "7902",
+      "likeCount": "103",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

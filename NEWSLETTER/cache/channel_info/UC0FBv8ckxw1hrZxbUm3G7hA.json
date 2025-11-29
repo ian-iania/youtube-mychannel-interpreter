@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285765.7259352,
+  "cached_at": 1764436260.5809689,
   "cache_type": "channel_info",
   "key": "UC0FBv8ckxw1hrZxbUm3G7hA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "m91wBGxyllyDC4S-VcgMAgD5iEA",
+    "etag": "2V6trRPae-wM1jsB7Be1lBCRwww",
     "id": "UC0FBv8ckxw1hrZxbUm3G7hA",
     "snippet": {
       "title": "Rob The AI Guy",
@@ -35,10 +35,10 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "4274952",
-      "subscriberCount": "81400",
+      "viewCount": "4289952",
+      "subscriberCount": "81600",
       "hiddenSubscriberCount": false,
-      "videoCount": "255"
+      "videoCount": "256"
     }
   }
 }

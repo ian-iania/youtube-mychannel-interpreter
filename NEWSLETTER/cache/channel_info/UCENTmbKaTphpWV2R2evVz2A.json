@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285752.6633642,
+  "cached_at": 1764436248.6174579,
   "cache_type": "channel_info",
   "key": "UCENTmbKaTphpWV2R2evVz2A",
   "data": {
     "kind": "youtube#channel",
-    "etag": "58d7LDeHb8A3MXDvE7IPVkVeADc",
+    "etag": "XKp_Hv4VNYJnCug5bgPOaEvbBqw",
     "id": "UCENTmbKaTphpWV2R2evVz2A",
     "snippet": {
       "title": "James Montemagno",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "8995006",
+      "viewCount": "9003312",
       "subscriberCount": "164000",
       "hiddenSubscriberCount": false,
       "videoCount": "409"

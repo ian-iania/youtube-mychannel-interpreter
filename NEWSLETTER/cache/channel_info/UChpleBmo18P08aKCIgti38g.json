@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285757.917981,
+  "cached_at": 1764436253.590544,
   "cache_type": "channel_info",
   "key": "UChpleBmo18P08aKCIgti38g",
   "data": {
     "kind": "youtube#channel",
-    "etag": "xcrzRQmENdwdX9Wg7_L87uFw9_A",
+    "etag": "Irxu1qHT-qy98vwj6dOirtAgL0o",
     "id": "UChpleBmo18P08aKCIgti38g",
     "snippet": {
       "title": "Matt Wolfe",
@@ -35,10 +35,10 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "66089374",
-      "subscriberCount": "864000",
+      "viewCount": "66147985",
+      "subscriberCount": "865000",
       "hiddenSubscriberCount": false,
-      "videoCount": "535"
+      "videoCount": "536"
     }
   }
 }

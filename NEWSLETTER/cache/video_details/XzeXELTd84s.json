@@ -1,0 +1,96 @@
+{
+  "cached_at": 1764436228.318224,
+  "cache_type": "video_details",
+  "key": "XzeXELTd84s",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "4sa0lFIxDbN1F2piJQrsDZV2a9I",
+    "id": "XzeXELTd84s",
+    "snippet": {
+      "publishedAt": "2025-11-28T12:30:53Z",
+      "channelId": "UCwvRf1alwULB0UOJD2mgnxA",
+      "title": "Gemini 3 + NotebookLM creates stunning VISUALS & CHARTS in minutes!",
+      "description": "In this video, you’ll see how Gemini 3 and NotebookLM can turn your research and data into polished visuals in minutes.\nI'll walk you through four practical workflows that show exactly how to create animated charts, structured infographics, interactive dashboards, and more… \n\nEach workflow starts in NotebookLM to gather and structure the information, then moves into Gemini 3 where the visual is generated instantly and ready for presentations or analysis.\n\nPrompts used in the video:\nhttps://docs.google.com/document/d/1SPi6-U2DO92KsxRMj-sdl3i1a8mDm8O8RJUIoAUr8UU/edit?usp=sharing \n\nSubscribe to the channel:\nwww.youtube.com/@AIandTechforEducation?sub_confirmation=1 \n\nIf you want faster research, clearer explanations, and visuals that stand out, this walkthrough will give you everything you need.\n\nSubscribe for more step by step AI workflows and practical demos you can use right away.\n\n#AITools #Gemini3 #NotebookLM #AIWorkflows #DataVisualisation #GoogleAI #AnimatedCharts #Infographics #AIStrategy #DeepResearch #ProductivityTools #EdTech #AISkills #AITrends #AIResearch #VisualReports #AIInsights #TechTrends #FutureOfWork #AgenticAI",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XzeXELTd84s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XzeXELTd84s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XzeXELTd84s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XzeXELTd84s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XzeXELTd84s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI and Tech for Education",
+      "tags": [
+        "AI Tools",
+        "Gemini 3",
+        "NotebookLM",
+        "AI Workflows",
+        "Data Visualisation",
+        "Google AI",
+        "Animated Charts",
+        "Infographics",
+        "AI Strategy",
+        "Deep Research",
+        "Productivity Tools",
+        "Study Tools",
+        "EdTech",
+        "AI Skills",
+        "AI Trends",
+        "AI Research",
+        "Visual Reports",
+        "AI Agents",
+        "Agentic AI",
+        "Market Analysis",
+        "Business Insights",
+        "AI Dashboards",
+        "Research Automation",
+        "Data Analysis",
+        "Learning with AI",
+        "Tech Trends",
+        "Future of Work"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Gemini 3 + NotebookLM creates stunning VISUALS & CHARTS in minutes!",
+        "description": "In this video, you’ll see how Gemini 3 and NotebookLM can turn your research and data into polished visuals in minutes.\nI'll walk you through four practical workflows that show exactly how to create animated charts, structured infographics, interactive dashboards, and more… \n\nEach workflow starts in NotebookLM to gather and structure the information, then moves into Gemini 3 where the visual is generated instantly and ready for presentations or analysis.\n\nPrompts used in the video:\nhttps://docs.google.com/document/d/1SPi6-U2DO92KsxRMj-sdl3i1a8mDm8O8RJUIoAUr8UU/edit?usp=sharing \n\nSubscribe to the channel:\nwww.youtube.com/@AIandTechforEducation?sub_confirmation=1 \n\nIf you want faster research, clearer explanations, and visuals that stand out, this walkthrough will give you everything you need.\n\nSubscribe for more step by step AI workflows and practical demos you can use right away.\n\n#AITools #Gemini3 #NotebookLM #AIWorkflows #DataVisualisation #GoogleAI #AnimatedCharts #Infographics #AIStrategy #DeepResearch #ProductivityTools #EdTech #AISkills #AITrends #AIResearch #VisualReports #AIInsights #TechTrends #FutureOfWork #AgenticAI"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT9M30S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "9525",
+      "likeCount": "494",
+      "favoriteCount": "0",
+      "commentCount": "28"
+    }
+  }
+}

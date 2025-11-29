@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285729.347432,
+  "cached_at": 1764436226.458795,
   "cache_type": "channel_info",
   "key": "UCLKPca3kwwd-B59HNr-_lvA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "oSdFXPuw5wWtBGXkTitnQVSip60",
+    "etag": "qIGuhgiCHO7vVQ9WyXQYOk70zjY",
     "id": "UCLKPca3kwwd-B59HNr-_lvA",
     "snippet": {
       "title": "AI Engineer",
@@ -34,7 +34,7 @@
       }
     },
     "statistics": {
-      "viewCount": "8748654",
+      "viewCount": "8768258",
       "subscriberCount": "275000",
       "hiddenSubscriberCount": false,
       "videoCount": "559"

@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285739.585919,
+  "cached_at": 1764436236.659863,
   "cache_type": "channel_info",
   "key": "UCH3cq9mit-0UkTu1mTki20Q",
   "data": {
     "kind": "youtube#channel",
-    "etag": "EH3XTFDe0_lyPUqsOBazl3ibvS4",
+    "etag": "ccRUUafqi2-4eUCDEHXR8IVgBiA",
     "id": "UCH3cq9mit-0UkTu1mTki20Q",
     "snippet": {
       "title": "Databricks Brazil",
@@ -34,7 +34,7 @@
       }
     },
     "statistics": {
-      "viewCount": "56907",
+      "viewCount": "57029",
       "subscriberCount": "2890",
       "hiddenSubscriberCount": false,
       "videoCount": "130"

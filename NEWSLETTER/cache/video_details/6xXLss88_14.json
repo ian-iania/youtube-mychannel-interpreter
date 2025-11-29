@@ -1,0 +1,85 @@
+{
+  "cached_at": 1764436238.425484,
+  "cache_type": "video_details",
+  "key": "6xXLss88_14",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "o_THG7v8Ge77LMUDftfy7A9rL6w",
+    "id": "6xXLss88_14",
+    "snippet": {
+      "publishedAt": "2025-11-28T13:30:15Z",
+      "channelId": "UCOXRjenlq9PmlTqd_JhAbMQ",
+      "title": "Automate Your Work in Seconds: Pokee AI Workflow Tutorial (2025)",
+      "description": "Save 10% on Pokee AI with code POKEE45UBXM3J: https://pokee.ai/?ref_code=pokeeai_a399 (Code given to first 1000 users)\n\nIs the \"YouTube Grind\" eating up your life? 🛑 In this video, I test a new \"prompt-to-workflow\" engine that claims it can replace hours of manual pre-production, research, and planning with a single text command.\n\nI challenged Pokee AI to build a complete video production kit—including scripts, SEO, and B-roll plans—and then tested its ability to manage social media and analyze data. If you are looking for a smarter alternative to Zapier or manual integration, you need to see this.\n\n🔗 Mentioned in this Video:\n\nPokee AI (Sponsor): https://pokee.ai/?ref_code=pokeeai_a399\n\n⏳ Timestamps:\n0:00 - Intro: The Content Grind vs. AI Automation \n1:53 - Test 1: Generating a Full Video Kit (Script, SEO & B-Roll) \n3:41 - Test 2: Auto-Posting & Reproducing Workflows \n5:19 - Final Verdict & Recap\n\n#AIautomation #AIAgent #Productivity",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6xXLss88_14/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6xXLss88_14/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6xXLss88_14/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6xXLss88_14/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6xXLss88_14/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Eric Tech",
+      "tags": [
+        "Pokee AI",
+        "Poki AI",
+        "AI Agent 2025",
+        "prompt to workflow automation",
+        "Zapier alternatives",
+        "best AI tools for business",
+        "autonomous AI agents",
+        "automated content creation",
+        "YouTube automation tools",
+        "social media management AI",
+        "workflow automation tutorial",
+        "productivity hacks",
+        "AI project manager",
+        "Make.com alternative",
+        "Pokee AI review",
+        "n8n alternative"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "Automate Your Work in Seconds: Pokee AI Workflow Tutorial (2025)",
+        "description": "Save 10% on Pokee AI with code POKEE45UBXM3J: https://pokee.ai/?ref_code=pokeeai_a399 (Code given to first 1000 users)\n\nIs the \"YouTube Grind\" eating up your life? 🛑 In this video, I test a new \"prompt-to-workflow\" engine that claims it can replace hours of manual pre-production, research, and planning with a single text command.\n\nI challenged Pokee AI to build a complete video production kit—including scripts, SEO, and B-roll plans—and then tested its ability to manage social media and analyze data. If you are looking for a smarter alternative to Zapier or manual integration, you need to see this.\n\n🔗 Mentioned in this Video:\n\nPokee AI (Sponsor): https://pokee.ai/?ref_code=pokeeai_a399\n\n⏳ Timestamps:\n0:00 - Intro: The Content Grind vs. AI Automation \n1:53 - Test 1: Generating a Full Video Kit (Script, SEO & B-Roll) \n3:41 - Test 2: Auto-Posting & Reproducing Workflows \n5:19 - Final Verdict & Recap\n\n#AIautomation #AIAgent #Productivity"
+      },
+      "defaultAudioLanguage": "en-CA"
+    },
+    "contentDetails": {
+      "duration": "PT6M1S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "249",
+      "likeCount": "10",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

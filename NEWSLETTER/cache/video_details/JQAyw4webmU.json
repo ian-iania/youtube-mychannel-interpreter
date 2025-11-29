@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764436228.789593,
+  "cache_type": "video_details",
+  "key": "JQAyw4webmU",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "ZLmgOxVE-fIfvIIAy-sfogwzrHM",
+    "id": "JQAyw4webmU",
+    "snippet": {
+      "publishedAt": "2025-11-29T09:15:04Z",
+      "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+      "title": "4.5 Opus + Gemini 3 Pro: INSANE Coding Results at LOW COST!",
+      "description": "Visit Surfshark & GET Extra 4 Months: https://surfshark.com/codeking\n\nIn this video, I'll show you how to combine the power of the newly launched Gemini 3 Pro and Claude 4.5 Opus to get insane coding results at a lower cost. I walk through my specific workflow using the KiloCode extension to leverage Opus for complex backend logic and planning, while utilizing Gemini for sleek, simplistic frontend designs.\n\n--\nKey Takeaways:\n\n🤖 Two frontier models, Gemini 3 Pro and Claude 4.5 Opus, have launched with distinct strengths.\n💰 Gemini 3 Pro is significantly cheaper ($2/$12) compared to Claude 4.5 Opus ($5/$25).\n🧠 Opus excels at complex planning, backend tasks, and debugging, while Gemini rules frontend design.\n🛠️ I use the KiloCode extension to swap between profiles for a cohesive \"one-agent\" workflow.\n📝 The strategy involves using Opus for \"Architect Mode\" planning and Gemini for implementation.\n📉 Combining these models reduces costs while improving the quality of coding generations.\n📉 OpenAI and GPT-5 are criticized for poor design structures compared to the new leaders.\n\n--\nTimestamps:\n\n00:00 - Introduction\n00:07 - About Gemini 3 Pro & Opus\n00:46 - Surfshark (Sponsor)\n02:05 - Setting up KiloCode w/ Gemini 3 Pro & Opus\n09:25 - Ending",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/JQAyw4webmU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/JQAyw4webmU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/JQAyw4webmU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/JQAyw4webmU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/JQAyw4webmU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AICodeKing",
+      "tags": [
+        "gemini 3 pro",
+        "claude 4.5 opus",
+        "new ai coder",
+        "kilocode",
+        "new gemini 3 ai coder",
+        "gemini 3",
+        "ai coding"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "4.5 Opus + Gemini 3 Pro: INSANE Coding Results at LOW COST!",
+        "description": "Visit Surfshark & GET Extra 4 Months: https://surfshark.com/codeking\n\nIn this video, I'll show you how to combine the power of the newly launched Gemini 3 Pro and Claude 4.5 Opus to get insane coding results at a lower cost. I walk through my specific workflow using the KiloCode extension to leverage Opus for complex backend logic and planning, while utilizing Gemini for sleek, simplistic frontend designs.\n\n--\nKey Takeaways:\n\n🤖 Two frontier models, Gemini 3 Pro and Claude 4.5 Opus, have launched with distinct strengths.\n💰 Gemini 3 Pro is significantly cheaper ($2/$12) compared to Claude 4.5 Opus ($5/$25).\n🧠 Opus excels at complex planning, backend tasks, and debugging, while Gemini rules frontend design.\n🛠️ I use the KiloCode extension to swap between profiles for a cohesive \"one-agent\" workflow.\n📝 The strategy involves using Opus for \"Architect Mode\" planning and Gemini for implementation.\n📉 Combining these models reduces costs while improving the quality of coding generations.\n📉 OpenAI and GPT-5 are criticized for poor design structures compared to the new leaders.\n\n--\nTimestamps:\n\n00:00 - Introduction\n00:07 - About Gemini 3 Pro & Opus\n00:46 - Surfshark (Sponsor)\n02:05 - Setting up KiloCode w/ Gemini 3 Pro & Opus\n09:25 - Ending"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT9M44S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "7012",
+      "likeCount": "340",
+      "favoriteCount": "0",
+      "commentCount": "38"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285733.486491,
+  "cached_at": 1764436230.019878,
   "cache_type": "channel_info",
   "key": "UCnQRyzbUf63PV-q4DzWzTdg",
   "data": {
     "kind": "youtube#channel",
-    "etag": "dkdikA5raftVt4KwLr58pVERkK8",
+    "etag": "DfmDgLWCghW0g6qPmURd-bXT_8o",
     "id": "UCnQRyzbUf63PV-q4DzWzTdg",
     "snippet": {
       "title": "Argonalyst",
@@ -35,7 +35,7 @@
       "country": "BR"
     },
     "statistics": {
-      "viewCount": "1565282",
+      "viewCount": "1565901",
       "subscriberCount": "30200",
       "hiddenSubscriberCount": false,
       "videoCount": "340"

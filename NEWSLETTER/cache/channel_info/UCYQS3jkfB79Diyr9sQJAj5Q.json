@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285754.396561,
+  "cached_at": 1764436250.318851,
   "cache_type": "channel_info",
   "key": "UCYQS3jkfB79Diyr9sQJAj5Q",
   "data": {
     "kind": "youtube#channel",
-    "etag": "CTvikaonKkDS03N65azMut5SDKY",
+    "etag": "FIMbe8nLExS7bR4jMCwgDzQF0Ik",
     "id": "UCYQS3jkfB79Diyr9sQJAj5Q",
     "snippet": {
       "title": "LandingAI",
@@ -35,10 +35,10 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "4719649",
+      "viewCount": "4720976",
       "subscriberCount": "11000",
       "hiddenSubscriberCount": false,
-      "videoCount": "108"
+      "videoCount": "110"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285759.667994,
+  "cached_at": 1764436254.768121,
   "cache_type": "channel_info",
   "key": "UCFtEEv80fQVKkD4h1PF-Xqw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "Xm7MXGsawh2vKpSrVNPg5GPGuME",
+    "etag": "WtkySAqH11uwMXagfscKai2xtRY",
     "id": "UCFtEEv80fQVKkD4h1PF-Xqw",
     "snippet": {
       "title": "Microsoft",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "238859232",
+      "viewCount": "238877756",
       "subscriberCount": "2180000",
       "hiddenSubscriberCount": false,
       "videoCount": "1617"

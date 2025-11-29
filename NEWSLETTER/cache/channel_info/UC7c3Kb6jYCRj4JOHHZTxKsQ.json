@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285744.9393349,
+  "cached_at": 1764436240.6917279,
   "cache_type": "channel_info",
   "key": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "-NGA_X_yXLluFzJtEd-GRxwtKKE",
+    "etag": "JZk0RDN8lNr5G7IMhUuBgyMdcPo",
     "id": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
     "snippet": {
       "title": "GitHub",
@@ -35,10 +35,10 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "30786338",
-      "subscriberCount": "560000",
+      "viewCount": "30894457",
+      "subscriberCount": "561000",
       "hiddenSubscriberCount": false,
-      "videoCount": "2555"
+      "videoCount": "2559"
     }
   }
 }

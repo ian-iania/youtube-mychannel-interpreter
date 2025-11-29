@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285755.503144,
+  "cached_at": 1764436251.337733,
   "cache_type": "channel_info",
   "key": "UCn2bInQrjdDYKEEmbpwblLQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "K2gOscpGPae-zcHC4xPqS9JPsMw",
+    "etag": "4OZ3LBbvb02Nt_6u6uY-rveeDIM",
     "id": "UCn2bInQrjdDYKEEmbpwblLQ",
     "snippet": {
       "title": "Langflow",
@@ -35,7 +35,7 @@
       "country": "BR"
     },
     "statistics": {
-      "viewCount": "559325",
+      "viewCount": "560299",
       "subscriberCount": "14700",
       "hiddenSubscriberCount": false,
       "videoCount": "175"

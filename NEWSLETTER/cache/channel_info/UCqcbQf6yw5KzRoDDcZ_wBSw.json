@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285775.241584,
+  "cached_at": 1764436270.00852,
   "cache_type": "channel_info",
   "key": "UCqcbQf6yw5KzRoDDcZ_wBSw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "q_kM6H8DvT7HDeCbWYBE46h1A1Y",
+    "etag": "kLqLlxoT-bYp_pTtObRkh4mJswY",
     "id": "UCqcbQf6yw5KzRoDDcZ_wBSw",
     "snippet": {
       "title": "Wes Roth",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "46844307",
+      "viewCount": "46891994",
       "subscriberCount": "303000",
       "hiddenSubscriberCount": false,
       "videoCount": "695"

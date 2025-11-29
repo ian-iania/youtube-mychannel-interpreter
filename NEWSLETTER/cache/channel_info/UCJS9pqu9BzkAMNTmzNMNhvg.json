@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285746.139777,
+  "cached_at": 1764436241.969514,
   "cache_type": "channel_info",
   "key": "UCJS9pqu9BzkAMNTmzNMNhvg",
   "data": {
     "kind": "youtube#channel",
-    "etag": "OMHraiLKAAV284VFDT9j7rbXGpE",
+    "etag": "HJws1nNptHcdh6-2C6Pn8-_pJuI",
     "id": "UCJS9pqu9BzkAMNTmzNMNhvg",
     "snippet": {
       "title": "Google Cloud Tech",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "50540764",
+      "viewCount": "50620014",
       "subscriberCount": "1290000",
       "hiddenSubscriberCount": false,
       "videoCount": "1937"

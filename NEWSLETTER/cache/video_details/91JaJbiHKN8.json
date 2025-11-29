@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285752.0506408,
+  "cached_at": 1764436247.8284001,
   "cache_type": "video_details",
   "key": "91JaJbiHKN8",
   "data": {
     "kind": "youtube#video",
-    "etag": "LNmie2AjU1gEdMQm_GM-0_ZUulU",
+    "etag": "PYf5dAMJLKVA0ZvF02ihYk8CN-U",
     "id": "91JaJbiHKN8",
     "snippet": {
       "publishedAt": "2025-11-27T21:00:07Z",
@@ -89,10 +89,10 @@
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "567",
-      "likeCount": "73",
+      "viewCount": "4527",
+      "likeCount": "343",
       "favoriteCount": "0",
-      "commentCount": "3"
+      "commentCount": "13"
     }
   }
 }

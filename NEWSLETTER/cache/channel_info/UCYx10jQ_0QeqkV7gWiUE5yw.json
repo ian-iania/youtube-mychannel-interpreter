@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285761.5568352,
+  "cached_at": 1764436256.5194209,
   "cache_type": "channel_info",
   "key": "UCYx10jQ_0QeqkV7gWiUE5yw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "jgi4rWddyp-6NhaWxVSDVw-iqno",
+    "etag": "6Ati0T1rArpe8Fg9N4goyL85bwE",
     "id": "UCYx10jQ_0QeqkV7gWiUE5yw",
     "snippet": {
       "title": "NoCode StartUp",
@@ -36,10 +36,10 @@
       "country": "BR"
     },
     "statistics": {
-      "viewCount": "4076397",
+      "viewCount": "4086990",
       "subscriberCount": "124000",
       "hiddenSubscriberCount": false,
-      "videoCount": "316"
+      "videoCount": "318"
     }
   }
 }

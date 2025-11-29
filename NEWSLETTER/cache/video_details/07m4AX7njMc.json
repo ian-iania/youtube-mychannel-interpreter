@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764436246.451489,
+  "cache_type": "video_details",
+  "key": "07m4AX7njMc",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "x5DFJkQmx_bEMZSG5Uj2C2dNw54",
+    "id": "07m4AX7njMc",
+    "snippet": {
+      "publishedAt": "2025-11-28T15:01:17Z",
+      "channelId": "UCe57-fTSlOsHIrXA6mBHe3g",
+      "title": "🔒 IA: Aprenda a proteger seus dados!",
+      "description": "🔒 IA: Aprenda a proteger seus dados!\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nImagina só essa situação... Você está usando ChatGPT, Gemini ou qualquer outra IA para otimizar seus processos. Tudo funciona perfeitamente. Mas aí vem a pergunta que não quer calar: para onde vão os dados do seu cliente?\n\nEssa é a realidade que muitos profissionais e empresas ainda não perceberam. E pode ser um problema sério.\n\nQuando você alimenta uma inteligência artificial com informações sensíveis — sem configurar corretamente as permissões — existe um risco real: esses dados podem ser utilizados para treinar o modelo.\n\nIsso significa que:\n\n✋ A OpenAI, Google (Gemini) ou qualquer outra plataforma pode usar suas informações para melhorar seus algoritmos\n\n✋ Dados confidenciais do seu cliente podem aparecer em respostas geradas para outros usuários\n\n✋ Um terceiro pedindo um \"e-mail fictício\" pode receber, sem querer, informações sigilosas suas\n\nPor que isso importa? Porque você normalmente não quer que dados sensíveis circulem por aí. Questões de privacidade, compliance e confiança do cliente estão em jogo.\n\nComo se proteger? 3 passos práticos:\n\n1️⃣ Verifique as configurações de privacidade — A maioria das plataformas oferece opções para desabilitar o treinamento com seus dados. Procure por \"Data Privacy\" ou \"Training Preferences\"\n\n2️⃣ Nunca compartilhe dados brutos — Anonimize informações antes de usar em IAs. Remova nomes, CPF, dados bancários\n\n3️⃣ Tenha uma política clara — Documente com seu time quais dados podem e quais não podem ser processados por ferramentas de IA\n\nReflita: Você já verificou as configurações de privacidade nas IAs que usa no seu dia a dia? 🤔 #shorts",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/07m4AX7njMc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/07m4AX7njMc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/07m4AX7njMc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/07m4AX7njMc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/07m4AX7njMc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Inteligencia Artificial para advogados",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-PT",
+      "localized": {
+        "title": "🔒 IA: Aprenda a proteger seus dados!",
+        "description": "🔒 IA: Aprenda a proteger seus dados!\n\n(Quer receber o link do grupo que tem todos os materiais gratuitos?\nSiga a @juridico.agil e comente \"EU QUERO\" que te envio no direct)\n\nImagina só essa situação... Você está usando ChatGPT, Gemini ou qualquer outra IA para otimizar seus processos. Tudo funciona perfeitamente. Mas aí vem a pergunta que não quer calar: para onde vão os dados do seu cliente?\n\nEssa é a realidade que muitos profissionais e empresas ainda não perceberam. E pode ser um problema sério.\n\nQuando você alimenta uma inteligência artificial com informações sensíveis — sem configurar corretamente as permissões — existe um risco real: esses dados podem ser utilizados para treinar o modelo.\n\nIsso significa que:\n\n✋ A OpenAI, Google (Gemini) ou qualquer outra plataforma pode usar suas informações para melhorar seus algoritmos\n\n✋ Dados confidenciais do seu cliente podem aparecer em respostas geradas para outros usuários\n\n✋ Um terceiro pedindo um \"e-mail fictício\" pode receber, sem querer, informações sigilosas suas\n\nPor que isso importa? Porque você normalmente não quer que dados sensíveis circulem por aí. Questões de privacidade, compliance e confiança do cliente estão em jogo.\n\nComo se proteger? 3 passos práticos:\n\n1️⃣ Verifique as configurações de privacidade — A maioria das plataformas oferece opções para desabilitar o treinamento com seus dados. Procure por \"Data Privacy\" ou \"Training Preferences\"\n\n2️⃣ Nunca compartilhe dados brutos — Anonimize informações antes de usar em IAs. Remova nomes, CPF, dados bancários\n\n3️⃣ Tenha uma política clara — Documente com seu time quais dados podem e quais não podem ser processados por ferramentas de IA\n\nReflita: Você já verificou as configurações de privacidade nas IAs que usa no seu dia a dia? 🤔 #shorts"
+      },
+      "defaultAudioLanguage": "pt-PT"
+    },
+    "contentDetails": {
+      "duration": "PT46S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "281",
+      "likeCount": "5",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764436241.257814,
+  "cache_type": "video_details",
+  "key": "EXEtRc8oQ7E",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "YVOk-cBH3vbgAbrogZE40p-VTKk",
+    "id": "EXEtRc8oQ7E",
+    "snippet": {
+      "publishedAt": "2025-11-28T17:57:02Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "Replay: Open Source Friday: Secure Code Game with Bartosz Gałek & jkcso",
+      "description": "Join us for a special episode of Open Source Friday featuring Bartosz Gałek and jkcso, contributors to the Secure Code Game. Discover how Season 3 of Secure Code Game is empowering developers and students to build safer LLM-based applications, and get a look behind the scenes at the engineering decisions and open source journey.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EXEtRc8oQ7E/default_live.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EXEtRc8oQ7E/mqdefault_live.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EXEtRc8oQ7E/hqdefault_live.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EXEtRc8oQ7E/sddefault_live.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EXEtRc8oQ7E/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "categoryId": "24",
+      "liveBroadcastContent": "upcoming",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Replay: Open Source Friday: Secure Code Game with Bartosz Gałek & jkcso",
+        "description": "Join us for a special episode of Open Source Friday featuring Bartosz Gałek and jkcso, contributors to the Secure Code Game. Discover how Season 3 of Secure Code Game is empowering developers and students to build safer LLM-based applications, and get a look behind the scenes at the engineering decisions and open source journey."
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "P0D",
+      "dimension": "2d",
+      "definition": "sd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "0",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

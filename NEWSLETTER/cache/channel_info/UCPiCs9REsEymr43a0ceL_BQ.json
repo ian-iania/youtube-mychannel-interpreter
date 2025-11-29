@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285766.479763,
+  "cached_at": 1764436262.013943,
   "cache_type": "channel_info",
   "key": "UCPiCs9REsEymr43a0ceL_BQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "4ML9eDIkzRugXIOFzVwN3mJ0flE",
+    "etag": "dMc3H94GKBCB05OVJtGkKtVgGcg",
     "id": "UCPiCs9REsEymr43a0ceL_BQ",
     "snippet": {
       "title": "Ronnald Hawk",
@@ -35,7 +35,7 @@
       "country": "BR"
     },
     "statistics": {
-      "viewCount": "286682",
+      "viewCount": "287669",
       "subscriberCount": "13300",
       "hiddenSubscriberCount": false,
       "videoCount": "36"

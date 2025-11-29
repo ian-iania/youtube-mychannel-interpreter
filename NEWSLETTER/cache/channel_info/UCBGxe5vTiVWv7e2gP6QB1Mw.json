@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285735.783206,
+  "cached_at": 1764436232.774112,
   "cache_type": "channel_info",
   "key": "UCBGxe5vTiVWv7e2gP6QB1Mw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "SFVWFDzmf7cxNOaO_QGU6-PjNzw",
+    "etag": "3A3YskWXm2jM62dM6OJlmgzMYdo",
     "id": "UCBGxe5vTiVWv7e2gP6QB1Mw",
     "snippet": {
       "title": "Boris Meinardus",
@@ -35,8 +35,8 @@
       "country": "JP"
     },
     "statistics": {
-      "viewCount": "3836629",
-      "subscriberCount": "95500",
+      "viewCount": "3839456",
+      "subscriberCount": "95600",
       "hiddenSubscriberCount": false,
       "videoCount": "75"
     }

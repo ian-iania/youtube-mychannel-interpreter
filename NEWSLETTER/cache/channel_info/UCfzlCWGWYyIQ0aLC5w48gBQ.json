@@ -1,0 +1,44 @@
+{
+  "cached_at": 1764436273.1527722,
+  "cache_type": "channel_info",
+  "key": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+  "data": {
+    "kind": "youtube#channel",
+    "etag": "dDbeobdh-iCDNqonSsjJ8L4KE_c",
+    "id": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+    "snippet": {
+      "title": "sentdex",
+      "description": "Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development and more.\n\nI have ~1000 videos, all of which do not fit on the front page. Try searching on the channel page, or via https://pythonprogramming.net. If you cannot find something, just ask! \n\nBitcoin donations: 1GV7srgR4NJx4vrk7avCmmVQQrqmv87ty6\nPaypal donations: HSKinsley@gmail.com",
+      "customUrl": "@sentdex",
+      "publishedAt": "2012-12-16T20:49:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mWT-3HaBiihhDy3TGYNqjZt-OP8PivU_lMUjdhwntZ2LM=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mWT-3HaBiihhDy3TGYNqjZt-OP8PivU_lMUjdhwntZ2LM=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mWT-3HaBiihhDy3TGYNqjZt-OP8PivU_lMUjdhwntZ2LM=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "sentdex",
+        "description": "Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development and more.\n\nI have ~1000 videos, all of which do not fit on the front page. Try searching on the channel page, or via https://pythonprogramming.net. If you cannot find something, just ask! \n\nBitcoin donations: 1GV7srgR4NJx4vrk7avCmmVQQrqmv87ty6\nPaypal donations: HSKinsley@gmail.com"
+      },
+      "country": "US"
+    },
+    "statistics": {
+      "viewCount": "118903689",
+      "subscriberCount": "1430000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1265"
+    }
+  }
+}

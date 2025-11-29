@@ -1,0 +1,94 @@
+{
+  "cached_at": 1764436241.2579992,
+  "cache_type": "video_details",
+  "key": "0qdRS3xYwIY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "EySMj7nyTdJ-cflLw0WMREHDfsg",
+    "id": "0qdRS3xYwIY",
+    "snippet": {
+      "publishedAt": "2025-11-28T15:00:03Z",
+      "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
+      "title": "What is a .gitignore file and why do you need it?",
+      "description": "Keep your Git repository clean and professional by using a .gitignore file. In this video, we explain what file exclusion is, why it matters (like avoiding those annoying .DS_Store files on macOS), and share a pro tip on using gitignore.io to automatically generate templates for your specific OS or framework.\n\n#Git #GitHub #githubforbeginners \n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt’s where over 180 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0qdRS3xYwIY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0qdRS3xYwIY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0qdRS3xYwIY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0qdRS3xYwIY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0qdRS3xYwIY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "GitHub",
+      "tags": [
+        "github",
+        "git",
+        "git and github",
+        "github tutorial",
+        "how to use github",
+        "github for beginners",
+        "code",
+        "coding",
+        "programming",
+        "developer",
+        "software",
+        "software development",
+        ".gitignore",
+        "git ignore",
+        "gitignore file",
+        "git file exclusion",
+        "gitignore.io",
+        "git clean",
+        "remove untracked files",
+        "git tutorial",
+        "version control",
+        ".DS_Store",
+        "git basics",
+        "developer tips",
+        "coding best practices"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "What is a .gitignore file and why do you need it?",
+        "description": "Keep your Git repository clean and professional by using a .gitignore file. In this video, we explain what file exclusion is, why it matters (like avoiding those annoying .DS_Store files on macOS), and share a pro tip on using gitignore.io to automatically generate templates for your specific OS or framework.\n\n#Git #GitHub #githubforbeginners \n\nStay up-to-date on all things GitHub by connecting with us:\n\nYouTube: https://gh.io/subgithub\nBlog: https://github.blog\nX: https://twitter.com/github\nLinkedIn: https://linkedin.com/company/github\nInsider newsletter: https://resources.github.com/newsletter/\nInstagram: https://www.instagram.com/github\nTikTok: https://www.tiktok.com/@github\n\nAbout GitHub\nIt’s where over 180 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com"
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT58S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "10309",
+      "likeCount": "249",
+      "favoriteCount": "0",
+      "commentCount": "5"
+    }
+  }
+}

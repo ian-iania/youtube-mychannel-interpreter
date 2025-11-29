@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285732.929705,
+  "cached_at": 1764436229.6697779,
   "cache_type": "channel_info",
   "key": "UCrDwWp7EBBv4NwvScIpBDOA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "A6UYu0V61euWNRlB3tIBx6nEeQQ",
+    "etag": "OHm6-kzZxdCUPIPZvSiMxO5yT4g",
     "id": "UCrDwWp7EBBv4NwvScIpBDOA",
     "snippet": {
       "title": "Anthropic",
@@ -34,7 +34,7 @@
       }
     },
     "statistics": {
-      "viewCount": "59884218",
+      "viewCount": "59973767",
       "subscriberCount": "315000",
       "hiddenSubscriberCount": false,
       "videoCount": "146"

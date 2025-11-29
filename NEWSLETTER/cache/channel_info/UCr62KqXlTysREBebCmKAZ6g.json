@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285766.1789582,
+  "cached_at": 1764436261.482229,
   "cache_type": "channel_info",
   "key": "UCr62KqXlTysREBebCmKAZ6g",
   "data": {
     "kind": "youtube#channel",
-    "etag": "Wda7sV7szEmr5WHiSsVRrtNi4p8",
+    "etag": "Z7do4BLUrmyu0oL5JVdxhC5IcN8",
     "id": "UCr62KqXlTysREBebCmKAZ6g",
     "snippet": {
       "title": "Rodrigo Celoto ",
@@ -34,7 +34,7 @@
       }
     },
     "statistics": {
-      "viewCount": "68466",
+      "viewCount": "68548",
       "subscriberCount": "2940",
       "hiddenSubscriberCount": false,
       "videoCount": "40"

@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285737.073637,
+  "cached_at": 1764436234.314409,
   "cache_type": "channel_info",
   "key": "UC5DNytAJ6_FISueUfzZCVsw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "wPSVh0SoPZ_q0dS48ptXHORWagE",
+    "etag": "NqwrbFsfRFUMhgon6kY3Hcj72MQ",
     "id": "UC5DNytAJ6_FISueUfzZCVsw",
     "snippet": {
       "title": "Code with Ania Kubów",
@@ -35,7 +35,7 @@
       "country": "GB"
     },
     "statistics": {
-      "viewCount": "18488688",
+      "viewCount": "18537015",
       "subscriberCount": "442000",
       "hiddenSubscriberCount": false,
       "videoCount": "441"

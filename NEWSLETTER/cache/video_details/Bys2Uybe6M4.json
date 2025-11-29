@@ -1,0 +1,76 @@
+{
+  "cached_at": 1764436241.888213,
+  "cache_type": "video_details",
+  "key": "Bys2Uybe6M4",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "Hfwrz_TRH-4YU93v__88_mOLKOU",
+    "id": "Bys2Uybe6M4",
+    "snippet": {
+      "publishedAt": "2025-11-28T01:22:07Z",
+      "channelId": "UC9Rrud-8CaHokDtK9FszvRg",
+      "title": "3 trending open-source projects on GitHub this week: DeepSeekMath-V2, EGGROLL in C, F1 Race Replay.",
+      "description": "Three of the trending open-source projects on GitHub this week: DeepSeekMath-V2, EGGROLL in C, F1 Race Replay.\n#github #opensource",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Bys2Uybe6M4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Bys2Uybe6M4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Bys2Uybe6M4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Bys2Uybe6M4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Bys2Uybe6M4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Github Awesome",
+      "tags": [
+        "GitHub",
+        "GitHub Repositories",
+        "Trending GitHub",
+        "Trending",
+        "GitHub Open Source Projects",
+        "GitHub Trending",
+        "gitHub trending"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "3 trending open-source projects on GitHub this week: DeepSeekMath-V2, EGGROLL in C, F1 Race Replay.",
+        "description": "Three of the trending open-source projects on GitHub this week: DeepSeekMath-V2, EGGROLL in C, F1 Race Replay.\n#github #opensource"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT1M19S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4815",
+      "likeCount": "271",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285743.8612878,
+  "cached_at": 1764436239.906591,
   "cache_type": "channel_info",
   "key": "UC_RovKmk0OCbuZjA8f08opw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "qjsq55aFVF_1NCX5inzy60tk9r8",
+    "etag": "p_DbSu__7Cs0DWZQZ1K7SAORq64",
     "id": "UC_RovKmk0OCbuZjA8f08opw",
     "snippet": {
       "title": "Futurepedia",
@@ -35,8 +35,8 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "31613909",
-      "subscriberCount": "613000",
+      "viewCount": "31669085",
+      "subscriberCount": "614000",
       "hiddenSubscriberCount": false,
       "videoCount": "138"
     }

@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285773.0679412,
+  "cached_at": 1764436268.086007,
   "cache_type": "channel_info",
   "key": "UCgLxmJ8xER7Y7sywMN5SfWg",
   "data": {
     "kind": "youtube#channel",
-    "etag": "qj1c2ryJdz8W2w6Cxj5JTlHH-PY",
+    "etag": "HSTYRY9j4AIpKxn2YnhxmSqjYmk",
     "id": "UCgLxmJ8xER7Y7sywMN5SfWg",
     "snippet": {
       "title": "Underfitted",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "1533320",
+      "viewCount": "1534177",
       "subscriberCount": "60400",
       "hiddenSubscriberCount": false,
       "videoCount": "96"

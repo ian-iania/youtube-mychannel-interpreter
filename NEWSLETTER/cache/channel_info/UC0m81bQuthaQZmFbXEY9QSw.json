@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285731.592677,
+  "cached_at": 1764436228.408938,
   "cache_type": "channel_info",
   "key": "UC0m81bQuthaQZmFbXEY9QSw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "a6UUfvBhvmlsgsalprw2V9dyao4",
+    "etag": "lPqvYutFlRG69yQhtJ8LWv6P_3k",
     "id": "UC0m81bQuthaQZmFbXEY9QSw",
     "snippet": {
       "title": "AICodeKing",
@@ -35,10 +35,10 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "11382175",
+      "viewCount": "11398117",
       "subscriberCount": "115000",
       "hiddenSubscriberCount": false,
-      "videoCount": "707"
+      "videoCount": "709"
     }
   }
 }

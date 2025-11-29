@@ -1,0 +1,81 @@
+{
+  "cached_at": 1764436258.7082691,
+  "cache_type": "video_details",
+  "key": "qQZ8gfPstFo",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "hGcCiAhegLo8QKMc86wAHcRVWCM",
+    "id": "qQZ8gfPstFo",
+    "snippet": {
+      "publishedAt": "2025-11-29T16:47:09Z",
+      "channelId": "UCX6c6hTIqcphjMsXbeanJ1g",
+      "title": "Airia vs Every AI Agent Builder — Here’s Why This One Wins 😎",
+      "description": "Build your first agent today—sign up for the free trial at https://tryit.cc/Uaiwa2O\nShow us what you create !\n\nIn‍‌‍‍‌‍‌‍‍‌ this video, I give you detailed instructions of each step on the construction of AI agents within Airia, the enterprise-grade AI orchestration platform that integrates your models, data, tools, and workflows in one place.\n\nIndividually a developer, creator, analyst, or tech enthusiast, this manual demonstrably instructs you on the precise manner and the shortest time from a mere musing to a functioning AI agent and then a deployable workflow.\n\n🔥 What You’ll Learn in This Video\n\n✔️ The step of initiating a brand-new AI agent inside Airia\n✔️ Exploring LLM model options (OpenAI, Anthropic, Gemini, Mistral & more)\n✔️ How to plug in Data Sources (CSV, PDFs, Snowflake, Slack, Salesforce, etc.)\n✔️ Understanding Prompts, MCP, and Tools in an agent\n✔️ Completing a RAG workflow example (Retrieval-Augmented Generation)\n✔️ How to test agents using the API Playground\n✔️ Deployment options — convert your agent into an app, API, workflow, or let it be accessed by others in the Airia Community\n✔ Why Airia is more efficient compared to the conventional agent builders (no-code simplicity + enterprise ‍‌‍‍‌‍‌‍‍‌power)\n\nCHANNEL LINKS: \n🕵️‍♀️ Join my Patreon for keeping up with the updates: https://www.patreon.com/PromptEngineer975\n☕ Buy me a coffee: https://ko-fi.com/promptengineer\n📞 Get on a Call with me at Calendly: https://calendly.com/prompt-engineer48/call\n💀 GitHub Profile: https://github.com/PromptEngineer48\n🔖 Twitter Profile: https://twitter.com/prompt48\n\nHastag:\n#Airia, #AgenticAI, #AIOrchestration, #AIAgents, #AIPlatform, #MachineLearning, #AgentBuilders, #AIEngineering, #AIWorkflow, #DigitalTransformation, #AIUseCases, #AgentOps\n\nTimeline:\n0:00 Intro\n1:47 Projects\n3:45 MCPs & Tools\n5:19 Prompts\n6:18 Data Sources\n8:46 Agents\n11:00 Guardrails\n12:12 Add Data Sources\n12:48 Working Example\n13:48 Publish\n14:45 API Example\n16:39 Interface Example\n17:24 Sharing with Community\n18:24 Conclusion",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qQZ8gfPstFo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qQZ8gfPstFo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qQZ8gfPstFo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qQZ8gfPstFo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qQZ8gfPstFo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Prompt Engineer",
+      "tags": [
+        "#Airia",
+        "#AgenticAI",
+        "#AIOrchestration",
+        "#AIAgents",
+        "#AIPlatform",
+        "#MachineLearning",
+        "#AgentBuilders",
+        "#AIEngineering",
+        "#AIWorkflow",
+        "#DigitalTransformation",
+        "#AIUseCases",
+        "#AgentOps"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Airia vs Every AI Agent Builder — Here’s Why This One Wins 😎",
+        "description": "Build your first agent today—sign up for the free trial at https://tryit.cc/Uaiwa2O\nShow us what you create !\n\nIn‍‌‍‍‌‍‌‍‍‌ this video, I give you detailed instructions of each step on the construction of AI agents within Airia, the enterprise-grade AI orchestration platform that integrates your models, data, tools, and workflows in one place.\n\nIndividually a developer, creator, analyst, or tech enthusiast, this manual demonstrably instructs you on the precise manner and the shortest time from a mere musing to a functioning AI agent and then a deployable workflow.\n\n🔥 What You’ll Learn in This Video\n\n✔️ The step of initiating a brand-new AI agent inside Airia\n✔️ Exploring LLM model options (OpenAI, Anthropic, Gemini, Mistral & more)\n✔️ How to plug in Data Sources (CSV, PDFs, Snowflake, Slack, Salesforce, etc.)\n✔️ Understanding Prompts, MCP, and Tools in an agent\n✔️ Completing a RAG workflow example (Retrieval-Augmented Generation)\n✔️ How to test agents using the API Playground\n✔️ Deployment options — convert your agent into an app, API, workflow, or let it be accessed by others in the Airia Community\n✔ Why Airia is more efficient compared to the conventional agent builders (no-code simplicity + enterprise ‍‌‍‍‌‍‌‍‍‌power)\n\nCHANNEL LINKS: \n🕵️‍♀️ Join my Patreon for keeping up with the updates: https://www.patreon.com/PromptEngineer975\n☕ Buy me a coffee: https://ko-fi.com/promptengineer\n📞 Get on a Call with me at Calendly: https://calendly.com/prompt-engineer48/call\n💀 GitHub Profile: https://github.com/PromptEngineer48\n🔖 Twitter Profile: https://twitter.com/prompt48\n\nHastag:\n#Airia, #AgenticAI, #AIOrchestration, #AIAgents, #AIPlatform, #MachineLearning, #AgentBuilders, #AIEngineering, #AIWorkflow, #DigitalTransformation, #AIUseCases, #AgentOps\n\nTimeline:\n0:00 Intro\n1:47 Projects\n3:45 MCPs & Tools\n5:19 Prompts\n6:18 Data Sources\n8:46 Agents\n11:00 Guardrails\n12:12 Add Data Sources\n12:48 Working Example\n13:48 Publish\n14:45 API Example\n16:39 Interface Example\n17:24 Sharing with Community\n18:24 Conclusion"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT19M51S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "17",
+      "likeCount": "1",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

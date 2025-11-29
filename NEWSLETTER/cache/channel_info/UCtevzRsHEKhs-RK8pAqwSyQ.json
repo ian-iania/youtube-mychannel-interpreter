@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285756.0019882,
+  "cached_at": 1764436251.657831,
   "cache_type": "channel_info",
   "key": "UCtevzRsHEKhs-RK8pAqwSyQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "aoIp9MRYNRQkKbQWXGqf9-GbSxI",
+    "etag": "pqV-V6m6R4PsJ3JJPmivpqkjEvI",
     "id": "UCtevzRsHEKhs-RK8pAqwSyQ",
     "snippet": {
       "title": "Leon van Zyl",
@@ -35,8 +35,8 @@
       "country": "ZA"
     },
     "statistics": {
-      "viewCount": "5825839",
-      "subscriberCount": "76900",
+      "viewCount": "5836938",
+      "subscriberCount": "77000",
       "hiddenSubscriberCount": false,
       "videoCount": "291"
     }

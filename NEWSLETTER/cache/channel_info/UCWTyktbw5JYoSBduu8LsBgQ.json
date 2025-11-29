@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285759.0302742,
+  "cached_at": 1764436254.415152,
   "cache_type": "channel_info",
   "key": "UCWTyktbw5JYoSBduu8LsBgQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "5wBi9voPC1YaUbxr4vVemC22Xac",
+    "etag": "sbfugp2qeGngEhS6mXTjJZwY-Wg",
     "id": "UCWTyktbw5JYoSBduu8LsBgQ",
     "snippet": {
       "title": "Mervin Praison",
@@ -35,7 +35,7 @@
       "country": "GB"
     },
     "statistics": {
-      "viewCount": "5978256",
+      "viewCount": "6028051",
       "subscriberCount": "76700",
       "hiddenSubscriberCount": false,
       "videoCount": "610"

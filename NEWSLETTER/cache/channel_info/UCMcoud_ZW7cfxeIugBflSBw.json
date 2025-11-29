@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285765.305708,
+  "cached_at": 1764436260.2032871,
   "cache_type": "channel_info",
   "key": "UCMcoud_ZW7cfxeIugBflSBw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "19D0-EYgBEOD7LWv71azvBM7E44",
+    "etag": "vxxc3Dh72gTgr3M7Kp3592BatpI",
     "id": "UCMcoud_ZW7cfxeIugBflSBw",
     "snippet": {
       "title": "Riley Brown",
@@ -34,10 +34,10 @@
       }
     },
     "statistics": {
-      "viewCount": "5464546",
+      "viewCount": "5500052",
       "subscriberCount": "162000",
       "hiddenSubscriberCount": false,
-      "videoCount": "146"
+      "videoCount": "145"
     }
   }
 }

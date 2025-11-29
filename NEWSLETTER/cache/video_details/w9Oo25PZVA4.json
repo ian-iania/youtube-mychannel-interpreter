@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764436236.2355368,
+  "cache_type": "video_details",
+  "key": "w9Oo25PZVA4",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "utP8GvKoXu0uBD9JRLKLiHUTboY",
+    "id": "w9Oo25PZVA4",
+    "snippet": {
+      "publishedAt": "2025-11-29T04:53:41Z",
+      "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+      "title": "Vibe Coding #vibecoding #coding #programming #ai",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/w9Oo25PZVA4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/w9Oo25PZVA4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/w9Oo25PZVA4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/w9Oo25PZVA4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/w9Oo25PZVA4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Data Science in your pocket",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-IN",
+      "localized": {
+        "title": "Vibe Coding #vibecoding #coding #programming #ai",
+        "description": ""
+      },
+      "defaultAudioLanguage": "en-IN"
+    },
+    "contentDetails": {
+      "duration": "PT6S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1412",
+      "likeCount": "8",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

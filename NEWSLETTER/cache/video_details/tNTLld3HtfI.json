@@ -1,0 +1,66 @@
+{
+  "cached_at": 1764436238.988945,
+  "cache_type": "video_details",
+  "key": "tNTLld3HtfI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "vdB-t1UxLXp_2Yr_eFvYFbhOmKE",
+    "id": "tNTLld3HtfI",
+    "snippet": {
+      "publishedAt": "2025-11-28T19:35:29Z",
+      "channelId": "UCPix8N6PMRI4KzgyjuZeF0g",
+      "title": "ResilientLLM - LLM Integration Layer For Production",
+      "description": "This video locally installs ResilientLLM, which is a minimalist but robust LLM integration layer designed to ensure reliable, seamless interactions.\n\n🚀 This video is sponsored by https://gradient.network, Parallax, a distributed model serving framework that lets you build your own AI cluster anywhere.\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#resilientllm \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://github.com/gitcommitshow/resilient-llm\n\nAll rights reserved © Fahd Mirza",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/tNTLld3HtfI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/tNTLld3HtfI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/tNTLld3HtfI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/tNTLld3HtfI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/tNTLld3HtfI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Fahd Mirza",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "ResilientLLM - LLM Integration Layer For Production",
+        "description": "This video locally installs ResilientLLM, which is a minimalist but robust LLM integration layer designed to ensure reliable, seamless interactions.\n\n🚀 This video is sponsored by https://gradient.network, Parallax, a distributed model serving framework that lets you build your own AI cluster anywhere.\n\n🔥 Buy Me a Coffee to support the channel: https://ko-fi.com/fahdmirza\n\n#resilientllm \n\nPLEASE FOLLOW ME: \n▶ LinkedIn:  https://www.linkedin.com/in/fahdmirza/\n▶ YouTube: https://www.youtube.com/@fahdmirza\n▶ Blog: https://www.fahdmirza.com\n\nRESOURCES:\n\n▶ https://github.com/gitcommitshow/resilient-llm\n\nAll rights reserved © Fahd Mirza"
+      }
+    },
+    "contentDetails": {
+      "duration": "PT8M8S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "572",
+      "likeCount": "29",
+      "favoriteCount": "0",
+      "commentCount": "4"
+    }
+  }
+}

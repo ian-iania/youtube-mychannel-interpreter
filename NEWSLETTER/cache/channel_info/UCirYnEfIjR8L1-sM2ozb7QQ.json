@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285775.496166,
+  "cached_at": 1764436270.464863,
   "cache_type": "channel_info",
   "key": "UCirYnEfIjR8L1-sM2ozb7QQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "OkyhQ-XESxbF5cTiZo_bOZxwlL8",
+    "etag": "aolOazL4eBrGEi1FLacmmWw9Mu4",
     "id": "UCirYnEfIjR8L1-sM2ozb7QQ",
     "snippet": {
       "title": "Windsurf",
@@ -34,8 +34,8 @@
       }
     },
     "statistics": {
-      "viewCount": "1006465",
-      "subscriberCount": "19000",
+      "viewCount": "1007779",
+      "subscriberCount": "19100",
       "hiddenSubscriberCount": false,
       "videoCount": "141"
     }

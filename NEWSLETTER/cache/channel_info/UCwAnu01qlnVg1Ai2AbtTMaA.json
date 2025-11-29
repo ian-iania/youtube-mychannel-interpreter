@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285752.9632661,
+  "cached_at": 1764436249.016043,
   "cache_type": "channel_info",
   "key": "UCwAnu01qlnVg1Ai2AbtTMaA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "PO1kDCg36f0DX8qy58kd8zbp5Tg",
+    "etag": "NzoPj99WRguWEpr_CdEuu8N37Ss",
     "id": "UCwAnu01qlnVg1Ai2AbtTMaA",
     "snippet": {
       "title": "Jeff Su",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "85120328",
+      "viewCount": "85206337",
       "subscriberCount": "1530000",
       "hiddenSubscriberCount": false,
       "videoCount": "286"

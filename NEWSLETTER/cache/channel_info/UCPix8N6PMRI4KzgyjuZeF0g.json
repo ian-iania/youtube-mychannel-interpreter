@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285742.256014,
+  "cached_at": 1764436238.4954429,
   "cache_type": "channel_info",
   "key": "UCPix8N6PMRI4KzgyjuZeF0g",
   "data": {
     "kind": "youtube#channel",
-    "etag": "SLr9xe9LrIY-eFmy39yLSLuIwJA",
+    "etag": "jDtvZLiygI4jTGw2dRFAAK_5PQM",
     "id": "UCPix8N6PMRI4KzgyjuZeF0g",
     "snippet": {
       "title": "Fahd Mirza",
@@ -35,10 +35,10 @@
       "country": "AU"
     },
     "statistics": {
-      "viewCount": "9633244",
-      "subscriberCount": "49700",
+      "viewCount": "9660472",
+      "subscriberCount": "49800",
       "hiddenSubscriberCount": false,
-      "videoCount": "4906"
+      "videoCount": "4910"
     }
   }
 }

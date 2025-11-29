@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285774.740169,
+  "cached_at": 1764436269.644974,
   "cache_type": "channel_info",
   "key": "UCOu9pKHv94bFeRy5vzB-b1Q",
   "data": {
     "kind": "youtube#channel",
-    "etag": "ADbaQs_9sNtpyEujVMD1iO8a3NA",
+    "etag": "-LEV8HrxmGWeE81aw7gHr1-ybho",
     "id": "UCOu9pKHv94bFeRy5vzB-b1Q",
     "snippet": {
       "title": "Well Pires ",
@@ -34,7 +34,7 @@
       }
     },
     "statistics": {
-      "viewCount": "1200754",
+      "viewCount": "1203623",
       "subscriberCount": "32700",
       "hiddenSubscriberCount": false,
       "videoCount": "131"

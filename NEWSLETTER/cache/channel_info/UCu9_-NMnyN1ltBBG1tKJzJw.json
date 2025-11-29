@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285756.913252,
+  "cached_at": 1764436252.5675058,
   "cache_type": "channel_info",
   "key": "UCu9_-NMnyN1ltBBG1tKJzJw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "AKHOZm0a9YQN1bz4i9bVgm_EaOM",
+    "etag": "xE_vZ4V9At54GAeAZwBCbeJDWY0",
     "id": "UCu9_-NMnyN1ltBBG1tKJzJw",
     "snippet": {
       "title": "Manual de Inteligência Artificial",
@@ -35,10 +35,10 @@
       "country": "BR"
     },
     "statistics": {
-      "viewCount": "1814586",
+      "viewCount": "1819769",
       "subscriberCount": "36500",
       "hiddenSubscriberCount": false,
-      "videoCount": "199"
+      "videoCount": "200"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285771.6624691,
+  "cached_at": 1764436266.7856152,
   "cache_type": "channel_info",
   "key": "UC9Ryt3XOGYBoAJVsBHNGDzA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "e4Nr18J8hrUOXn-nFq_KuVd2dWg",
+    "etag": "KGZiq9HS3CEYO_F_m8MQzIqJ9oE",
     "id": "UC9Ryt3XOGYBoAJVsBHNGDzA",
     "snippet": {
       "title": "Theoretically Media",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "16578476",
+      "viewCount": "16588896",
       "subscriberCount": "173000",
       "hiddenSubscriberCount": false,
       "videoCount": "327"

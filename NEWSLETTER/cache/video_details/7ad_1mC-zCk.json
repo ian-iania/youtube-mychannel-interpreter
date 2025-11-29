@@ -1,0 +1,104 @@
+{
+  "cached_at": 1764436230.8727329,
+  "cache_type": "video_details",
+  "key": "7ad_1mC-zCk",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "9IFpgdyF1Hm0ezfN9j4J2Fc0kr0",
+    "id": "7ad_1mC-zCk",
+    "snippet": {
+      "publishedAt": "2025-11-28T14:10:54Z",
+      "channelId": "UCSv4qL8vmoSH7GaPjuqRiCQ",
+      "title": "Anthropic Just Made Code‑Execution Agents Easy (But Dangerous)",
+      "description": "📄Anthropic's blog post: https://www.anthropic.com/engineering/advanced-tool-use\n\n💻 Agency Starter Template: https://github.com/agency-ai-solutions/agency-starter-template\n\n📺 The End of MCP video: https://youtu.be/D4ImbDGFgIM\n\n💼 If you're a business owner, we can add $15,000 per month in profit or you pay nothing. Turn your business into a product company with AI: https://agents.vrsen.ai/\n\n👨‍💻 If you're a developer / agency and want to build your own AI solutions, join our FREE Skool community. You'll find support on every step of the way: https://www.skool.com/agency-ai\n\n🐝 Deploy agents in custom sandboxes without any infrastructure overhead. Focus on what matters most - building AI agents rather than deploying them: https://agencii.ai/\n\n\nTimestamps: \n00:00 - Intro\n01:25 - Anthropic's New Features\n09:08 - Why This is Dangerous\n11:30 - MCP Code Execution\n15:17 - Final Results\n\nAbout: \nAnthropic releases game-changing advanced tool use for AI agents. Explore how tool search, programmatic tool calling, and code-driven orchestration transform modern AI agents. See how these features reduce MCP tool bloat, cut token costs, improve accuracy, and enable scalable multi-step workflows. Includes a real implementation demo and essential safeguards for building reliable, production-ready agents.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7ad_1mC-zCk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7ad_1mC-zCk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7ad_1mC-zCk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7ad_1mC-zCk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7ad_1mC-zCk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Arseny Shatokhin",
+      "tags": [
+        "anthropic",
+        "mcp",
+        "model context protocol",
+        "code execution",
+        "ai agents",
+        "ai automation",
+        "multi-agent systems",
+        "autonomous agents",
+        "agent framework",
+        "ai development",
+        "claude ai",
+        "openai",
+        "mcp servers",
+        "ai orchestration",
+        "ai infrastructure",
+        "agentic workflows",
+        "context window",
+        "token optimization",
+        "ai tools",
+        "agent architecture",
+        "ai engineering",
+        "ai coding",
+        "ai efficiency",
+        "claude code",
+        "cursor",
+        "n8n",
+        "ai",
+        "vibe coding",
+        "mcp explained",
+        "claude",
+        "mcp server",
+        "what is mcp",
+        "mcp tutorial",
+        "claude mcp",
+        "ai agent"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Anthropic Just Made Code‑Execution Agents Easy (But Dangerous)",
+        "description": "📄Anthropic's blog post: https://www.anthropic.com/engineering/advanced-tool-use\n\n💻 Agency Starter Template: https://github.com/agency-ai-solutions/agency-starter-template\n\n📺 The End of MCP video: https://youtu.be/D4ImbDGFgIM\n\n💼 If you're a business owner, we can add $15,000 per month in profit or you pay nothing. Turn your business into a product company with AI: https://agents.vrsen.ai/\n\n👨‍💻 If you're a developer / agency and want to build your own AI solutions, join our FREE Skool community. You'll find support on every step of the way: https://www.skool.com/agency-ai\n\n🐝 Deploy agents in custom sandboxes without any infrastructure overhead. Focus on what matters most - building AI agents rather than deploying them: https://agencii.ai/\n\n\nTimestamps: \n00:00 - Intro\n01:25 - Anthropic's New Features\n09:08 - Why This is Dangerous\n11:30 - MCP Code Execution\n15:17 - Final Results\n\nAbout: \nAnthropic releases game-changing advanced tool use for AI agents. Explore how tool search, programmatic tool calling, and code-driven orchestration transform modern AI agents. See how these features reduce MCP tool bloat, cut token costs, improve accuracy, and enable scalable multi-step workflows. Includes a real implementation demo and essential safeguards for building reliable, production-ready agents."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT16M21S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2453",
+      "likeCount": "68",
+      "favoriteCount": "0",
+      "commentCount": "9"
+    }
+  }
+}

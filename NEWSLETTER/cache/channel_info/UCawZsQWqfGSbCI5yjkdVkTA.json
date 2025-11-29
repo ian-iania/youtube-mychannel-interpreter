@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285758.414678,
+  "cached_at": 1764436254.024368,
   "cache_type": "channel_info",
   "key": "UCawZsQWqfGSbCI5yjkdVkTA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "eOxj0L_QOqyW85IOOhbGPEJSKog",
+    "etag": "Yd-2DhRQFIMlZEJsLldVnh-2Ddc",
     "id": "UCawZsQWqfGSbCI5yjkdVkTA",
     "snippet": {
       "title": "Matthew Berman",
@@ -35,10 +35,10 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "66514545",
-      "subscriberCount": "529000",
+      "viewCount": "66574303",
+      "subscriberCount": "530000",
       "hiddenSubscriberCount": false,
-      "videoCount": "785"
+      "videoCount": "786"
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285745.593033,
+  "cached_at": 1764436241.426028,
   "cache_type": "channel_info",
   "key": "UC9Rrud-8CaHokDtK9FszvRg",
   "data": {
     "kind": "youtube#channel",
-    "etag": "xkuS1zX7J8Soiu7z-JVL1-vzDYY",
+    "etag": "vuCPnq1nTbXUsnr_5T5DX_5VjJg",
     "id": "UC9Rrud-8CaHokDtK9FszvRg",
     "snippet": {
       "title": "Github Awesome",
@@ -35,10 +35,10 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "1006010",
-      "subscriberCount": "16500",
+      "viewCount": "1041917",
+      "subscriberCount": "16700",
       "hiddenSubscriberCount": false,
-      "videoCount": "116"
+      "videoCount": "119"
     }
   }
 }

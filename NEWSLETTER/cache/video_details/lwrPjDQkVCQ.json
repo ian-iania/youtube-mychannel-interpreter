@@ -1,0 +1,99 @@
+{
+  "cached_at": 1764436253.952063,
+  "cache_type": "video_details",
+  "key": "lwrPjDQkVCQ",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "nSm6GTv9o_cylwjJvY3GpHkAjkg",
+    "id": "lwrPjDQkVCQ",
+    "snippet": {
+      "publishedAt": "2025-11-28T20:47:34Z",
+      "channelId": "UChpleBmo18P08aKCIgti38g",
+      "title": "Did These Models Just Beat Google?",
+      "description": "This was not supposed to be a big week for AI… and yet we got Claude Opus 4.5, FLUX.2, new NotebookLM slide tools, new ChatGPT shopping features, Perplexity memory, Meta’s wild WorldGen, OpenAI’s rumored Jony Ive hardware, and a whole lot more.\n\nWhile everyone else was eating pie and taking naps, AI was dropping Black Friday level releases. I tried to relax for one day and the AI companies basically said, “nope, here’s 400 updates!\n\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n🎙️ The Next Wave Podcast: https://youtube.com/@TheNextWavePod\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\n- Claude Opus 4.5 overview : https://www.anthropic.com/news/claude-opus-4-5\n- Claude 4.5 demo clip: https://youtu.be/n0cG11lTS1E?t=143\n- FLUX.2 visual model announcement: https://bfl.ai/blog/flux-2\n- NotebookLM slide deck feature tweet: https://x.com/tokumin/status/1992895491915575634​\n- ChatGPT voice on mobile and web: https://x.com/openai/status/1993381101369458763\n- ChatGPT shopping research feature : https://openai.com/index/chatgpt-shopping-research/\n- Perplexity shopping feature update: https://www.perplexity.ai/hub/blog/shopping-that-puts-you-first\n- Perplexity AI assistants with memory: https://www.perplexity.ai/hub/blog/introducing-ai-assistants-with-memory\n- Trump AI “Genesis Mission” executive order: https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-launching-genesis-mission-ai-project-rcna245600​\n- Microsoft Fara-7B agentic model blog: https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/\n- Meta WorldGen 3D worlds announcement: https://www.meta.com/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/\n- Meta WorldGen demo clip: https://youtu.be/kxn9BVM6Csg?t=12​​\n- OpenAI hardware prototype article: https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman\n- Sora Cameo trademark story: https://techcrunch.com/2025/11/24/openai-learned-the-hard-way-that-cameo-trademarked-the-word-cameo/\n- OpenAI CEO economic headwinds article: https://www.theinformation.com/articles/openai-ceo-braces-possible-economic-headwinds-catching-resurgent-google\n- Suno x Warner Music AI partnership: https://suno.com/blog/wmg-partnership\n- Warner Music x Udio licensed AI music announcement: https://www.wmg.com/news/warner-music-group-and-udio-collaborate-to-build-a-new-licensed-music-creation-service\n- LTXStudio “Retake” feature tweet: https://x.com/ltxstudio/status/1993715247031767298\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n00:00 - Intro\n00:36 - Claude Opus 4.5 Launch\n03:26 - Claude Opus 4.5 Demo\n06:35 - Journaling App Created With Opus 4.5\n12:37 - Matt's Thoughts on Opus 4.5 vs. Gemini\n13:18 - Black Forest Labs Flux 2 Launch\n16:21 - Flux 2 Demo and Initial Impressions\n23:33 - NotebookLM Introduces Nano Banana Pro\n25:56 - OpenAI Updates ChatGPT Voice Mode\n26:35 - OpenAI Launches ChatGPT Shopping Tool\n28:05 - Perplexity Launches Shopping Tool\n29:13 - Perplexity Introduces AI Assistants with Memory\n29:54 - Rapid Fire Stories\n37:06 - Outro",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lwrPjDQkVCQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lwrPjDQkVCQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lwrPjDQkVCQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lwrPjDQkVCQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lwrPjDQkVCQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Matt Wolfe",
+      "tags": [
+        "AI",
+        "Artificial Intelligence",
+        "FutureTools",
+        "Futurism",
+        "Machine Learning",
+        "Deep Learning",
+        "Matt Wolfe",
+        "AI News",
+        "AI Tools",
+        "AI news roundup",
+        "Claude Opus 4.5",
+        "Claude 4.5",
+        "Anthropic Opus 4.5",
+        "FLUX.2",
+        "BFL flux model",
+        "NotebookLM slides",
+        "ChatGPT shopping",
+        "ChatGPT voice",
+        "Perplexity memory",
+        "Perplexity shopping tools",
+        "Meta WorldGen",
+        "OpenAI hardware",
+        "Jony Ive AI device",
+        "Fara7B",
+        "Suno Warner deal",
+        "LTXStudio Retake",
+        "Matt Wolfe AI",
+        "AI updates 2025",
+        "weekly AI news",
+        "tech news roundup"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-US",
+      "localized": {
+        "title": "Did These Models Just Beat Google?",
+        "description": "This was not supposed to be a big week for AI… and yet we got Claude Opus 4.5, FLUX.2, new NotebookLM slide tools, new ChatGPT shopping features, Perplexity memory, Meta’s wild WorldGen, OpenAI’s rumored Jony Ive hardware, and a whole lot more.\n\nWhile everyone else was eating pie and taking naps, AI was dropping Black Friday level releases. I tried to relax for one day and the AI companies basically said, “nope, here’s 400 updates!\n\n\nDiscover More:\n🛠️ Explore AI Tools & News: https://futuretools.io/\n📰 Weekly Newsletter: https://futuretools.io/newsletter\n🎙️ The Next Wave Podcast: https://youtube.com/@TheNextWavePod\n\nSocials:\n❌ Twiter/X: https://x.com/mreflow\n🖼️ Instagram: https://instagram.com/mr.eflow\n🧵 Threads: https://www.threads.net/@mr.eflow\n🟦 LinkedIn: https://www.linkedin.com/in/matt-wolfe-30841712/\n👍 Facebook: https://www.facebook.com/mattrwolfe\n\nResources From Today's Video:\n- Claude Opus 4.5 overview : https://www.anthropic.com/news/claude-opus-4-5\n- Claude 4.5 demo clip: https://youtu.be/n0cG11lTS1E?t=143\n- FLUX.2 visual model announcement: https://bfl.ai/blog/flux-2\n- NotebookLM slide deck feature tweet: https://x.com/tokumin/status/1992895491915575634​\n- ChatGPT voice on mobile and web: https://x.com/openai/status/1993381101369458763\n- ChatGPT shopping research feature : https://openai.com/index/chatgpt-shopping-research/\n- Perplexity shopping feature update: https://www.perplexity.ai/hub/blog/shopping-that-puts-you-first\n- Perplexity AI assistants with memory: https://www.perplexity.ai/hub/blog/introducing-ai-assistants-with-memory\n- Trump AI “Genesis Mission” executive order: https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-launching-genesis-mission-ai-project-rcna245600​\n- Microsoft Fara-7B agentic model blog: https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/\n- Meta WorldGen 3D worlds announcement: https://www.meta.com/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/\n- Meta WorldGen demo clip: https://youtu.be/kxn9BVM6Csg?t=12​​\n- OpenAI hardware prototype article: https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman\n- Sora Cameo trademark story: https://techcrunch.com/2025/11/24/openai-learned-the-hard-way-that-cameo-trademarked-the-word-cameo/\n- OpenAI CEO economic headwinds article: https://www.theinformation.com/articles/openai-ceo-braces-possible-economic-headwinds-catching-resurgent-google\n- Suno x Warner Music AI partnership: https://suno.com/blog/wmg-partnership\n- Warner Music x Udio licensed AI music announcement: https://www.wmg.com/news/warner-music-group-and-udio-collaborate-to-build-a-new-licensed-music-creation-service\n- LTXStudio “Retake” feature tweet: https://x.com/ltxstudio/status/1993715247031767298\n\nLet’s work together!\n- Brand, sponsorship & business inquiries: mattwolfe@smoothmedia.co\n\n#AINews #AITools #ArtificialIntelligence\n\nTime Stamps:\n00:00 - Intro\n00:36 - Claude Opus 4.5 Launch\n03:26 - Claude Opus 4.5 Demo\n06:35 - Journaling App Created With Opus 4.5\n12:37 - Matt's Thoughts on Opus 4.5 vs. Gemini\n13:18 - Black Forest Labs Flux 2 Launch\n16:21 - Flux 2 Demo and Initial Impressions\n23:33 - NotebookLM Introduces Nano Banana Pro\n25:56 - OpenAI Updates ChatGPT Voice Mode\n26:35 - OpenAI Launches ChatGPT Shopping Tool\n28:05 - Perplexity Launches Shopping Tool\n29:13 - Perplexity Introduces AI Assistants with Memory\n29:54 - Rapid Fire Stories\n37:06 - Outro"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT38M11S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "27686",
+      "likeCount": "1109",
+      "favoriteCount": "0",
+      "commentCount": "106"
+    }
+  }
+}

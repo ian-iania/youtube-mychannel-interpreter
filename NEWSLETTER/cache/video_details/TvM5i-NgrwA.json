@@ -1,0 +1,79 @@
+{
+  "cached_at": 1764436258.7086232,
+  "cache_type": "video_details",
+  "key": "TvM5i-NgrwA",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "adVpSqYtNAmhy4kRPLWFSHasVik",
+    "id": "TvM5i-NgrwA",
+    "snippet": {
+      "publishedAt": "2025-11-29T09:43:53Z",
+      "channelId": "UCX6c6hTIqcphjMsXbeanJ1g",
+      "title": "Z-Image Turbo in Action – Fast Image Generation with ComfyUI",
+      "description": "GPU Runpod: https://get.runpod.io/pe48\nSupport me on Patreon: https://www.patreon.com/PromptEngineer975\n\n\nIn this video, I’m testing out z- Image Turbo on RunPod using ComfyUI.\nI’ll walk you through the entire setup step by step—from launching a RunPod instance, configuring ComfyUI, loading the z-Image Turbo workflow, and finally testing the model in real time.\n\nThis is a hands-on, practical walkthrough aimed at helping you get z-Image Turbo running quickly and correctly, even if you’re setting it up for the first time. \n\nComfy UI Link: https://docs.comfy.org/tutorials/image/z-image/z-image-turbo\nComfy UI Website: https://www.comfy.org/\nZ-Image Github: https://github.com/Tongyi-MAI/Z-Image\nInstall ComfyUI: https://github.com/comfyanonymous/ComfyUI\n\nHow I collect my payment using Skydo: https://join.skydo.com/anujyoti\n\nIf you’re interested in fast image generation, new diffusion models, or running powerful models on cloud GPUs, this video is for you.\n\nLet’s dive in and see what this new model can really do.\n\nCHANNEL LINKS:  \n☕ Buy me a coffee: https://ko-fi.com/promptengineer\n📞 Get on a Call with me at Calendly: https://calendly.com/prompt-engineer48/call\n💀 GitHub Profile: https://github.com/PromptEngineer48\n🔖 Twitter Profile: https://twitter.com/prompt48\n\nHastag:\n#zImageTurbo, #ComfyUI, #RunPod, #AIImageGeneration, #StableDiffusion, #DiffusionModels, #AICreators, #GenerativeAI, #OpenSourceAI, #mlmodels \n\nTimeLine:\n0:00 Intro\n1:59 ComfyUI Intro\n3:12 GPU Runpod Demo\n5:05 Starting Jupyter Lab\n7:24 Starting ComfUI\n8:10 Downloading Models\n10:32 Running z-Image\n11:21 Conclusion",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TvM5i-NgrwA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TvM5i-NgrwA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TvM5i-NgrwA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TvM5i-NgrwA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TvM5i-NgrwA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Prompt Engineer",
+      "tags": [
+        "#zImageTurbo",
+        "#ComfyUI",
+        "#RunPod",
+        "#AIImageGeneration",
+        "#StableDiffusion",
+        "#DiffusionModels",
+        "#AICreators",
+        "#GenerativeAI",
+        "#OpenSourceAI",
+        "#MLModels"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Z-Image Turbo in Action – Fast Image Generation with ComfyUI",
+        "description": "GPU Runpod: https://get.runpod.io/pe48\nSupport me on Patreon: https://www.patreon.com/PromptEngineer975\n\n\nIn this video, I’m testing out z- Image Turbo on RunPod using ComfyUI.\nI’ll walk you through the entire setup step by step—from launching a RunPod instance, configuring ComfyUI, loading the z-Image Turbo workflow, and finally testing the model in real time.\n\nThis is a hands-on, practical walkthrough aimed at helping you get z-Image Turbo running quickly and correctly, even if you’re setting it up for the first time. \n\nComfy UI Link: https://docs.comfy.org/tutorials/image/z-image/z-image-turbo\nComfy UI Website: https://www.comfy.org/\nZ-Image Github: https://github.com/Tongyi-MAI/Z-Image\nInstall ComfyUI: https://github.com/comfyanonymous/ComfyUI\n\nHow I collect my payment using Skydo: https://join.skydo.com/anujyoti\n\nIf you’re interested in fast image generation, new diffusion models, or running powerful models on cloud GPUs, this video is for you.\n\nLet’s dive in and see what this new model can really do.\n\nCHANNEL LINKS:  \n☕ Buy me a coffee: https://ko-fi.com/promptengineer\n📞 Get on a Call with me at Calendly: https://calendly.com/prompt-engineer48/call\n💀 GitHub Profile: https://github.com/PromptEngineer48\n🔖 Twitter Profile: https://twitter.com/prompt48\n\nHastag:\n#zImageTurbo, #ComfyUI, #RunPod, #AIImageGeneration, #StableDiffusion, #DiffusionModels, #AICreators, #GenerativeAI, #OpenSourceAI, #mlmodels \n\nTimeLine:\n0:00 Intro\n1:59 ComfyUI Intro\n3:12 GPU Runpod Demo\n5:05 Starting Jupyter Lab\n7:24 Starting ComfUI\n8:10 Downloading Models\n10:32 Running z-Image\n11:21 Conclusion"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT12M47S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "130",
+      "likeCount": "9",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

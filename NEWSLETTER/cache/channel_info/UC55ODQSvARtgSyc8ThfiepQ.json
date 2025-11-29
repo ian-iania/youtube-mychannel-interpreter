@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285767.328084,
+  "cached_at": 1764436263.054494,
   "cache_type": "channel_info",
   "key": "UC55ODQSvARtgSyc8ThfiepQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "JYxlM-jvBOhYSSwDOcQYEJtuB8g",
+    "etag": "iNGACcZLA4xqSWFOz-gUbMMRPcY",
     "id": "UC55ODQSvARtgSyc8ThfiepQ",
     "snippet": {
       "title": "Sam Witteveen",
@@ -34,7 +34,7 @@
       }
     },
     "statistics": {
-      "viewCount": "8780322",
+      "viewCount": "8785182",
       "subscriberCount": "111000",
       "hiddenSubscriberCount": false,
       "videoCount": "292"

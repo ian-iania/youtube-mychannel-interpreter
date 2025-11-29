@@ -1,0 +1,103 @@
+{
+  "cached_at": 1764436271.142825,
+  "cache_type": "video_details",
+  "key": "fqcKRn4ZjDI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "lxp3KqXgS9Uq6UcbB0fK4AMVrJU",
+    "id": "fqcKRn4ZjDI",
+    "snippet": {
+      "publishedAt": "2025-11-28T19:14:51Z",
+      "channelId": "UC2WmuBuFq6gL08QYG-JjXKw",
+      "title": "Toolhouse: First-Ever Agent UI - Fastest & Easiest Way to Create AI Agents! NEW MCP + Toolkit!",
+      "description": "Build your own AI agent today with Toolhouse! Start for free at https://www.toolhouse.ai/?ref=woai and deploy your AI project in minutes.\n\nDiscover Toolhouse, the ultimate backend-as-a-service for AI developers! Build, deploy, and manage AI agents faster than ever with our all-in-one platform. Whether you’re a vibe coder or a seasoned developer, Toolhouse makes creating AI agents simple, seamless, and powerful.\n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nOpen Agent Builder: Easily Create AI Agents That Can Automate Anything! Opensource n8n Alternative!: https://youtu.be/6sk-q79-zZE\nClaude Haiku 4.5: NEW Powerful Coding Model That's Cheap + Fast! Beats Sonnet 4 Easily!: https://youtu.be/qOB30aJZW9s\nOpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial): https://youtu.be/gHkdrO6IExM?si=lDxCrjGrwL6HAwnj\n\n📌 LINKS & RESOURCES\nWebsite: https://www.toolhouse.ai/?ref=woai\nDocs: https://docs.toolhouse.ai/toolhouse\nCLI Blog Post: https://toolhouse.ai/blog/cli\nJoin the Toolhouse Discord for support, hackathons and weekly giveaways: https://discord.toolhouse.ai\n\nIn this video, we showcase:\n⚡ Agent Previews: Test your agent outputs instantly in the Agent Studio sidebar.\n🖥️ Lovable Prompt: Connect your agent to a frontend for fully functional web apps.\n🚀 TH Vibe: Deploy a ready-to-use frontend with just one CLI command.\n✏️ Edit Code Directly: Make instant changes to your agent’s .th file in Agent Studio Pro.\n🔑 MCP Discovery: Integrate your favorite tools like Notion, Gmail, Slack, and more for supercharged AI agents.\n\nNo complicated frameworks, no hours of documentation — just open Toolhouse, build your agent, and deploy in under an hour.\n\nTags / Keywords:\nToolhouse, AI Agents, Agent Studio, TH Vibe, Lovable Prompt, MCP Toolkit, AI Development, Build AI Agents, Deploy AI Agents, AI Backend, RAG, Vector Stores, AI Developer Tools, AI Projects, AI Tools, AI Workflow, No-Code AI, Low-Code AI, AI Automation, AI Platform\n\nHashtags:\n#Toolhouse #AIAgents #AgentStudio #THVibe #LovablePrompt #MCPToolkit #AI #AItools #NoCodeAI #LowCodeAI #AIautomation #Developers #RAG #AIDevelopment #BuildAI",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fqcKRn4ZjDI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fqcKRn4ZjDI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fqcKRn4ZjDI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fqcKRn4ZjDI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fqcKRn4ZjDI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "WorldofAI",
+      "tags": [
+        "toolhouse",
+        "agent toolkit",
+        "mcp toolkit",
+        "ai agents",
+        "ai agent",
+        "toolhouse ai",
+        "agent ui",
+        "first-ever agent ui",
+        "ag-ui",
+        "gemini cli",
+        "opencode",
+        "ag-ui protocol",
+        "ai automation",
+        "build agents",
+        "software engineering",
+        "software development",
+        "coding",
+        "automation",
+        "claude mcp",
+        "model context protocol",
+        "mcp tutorial",
+        "mcp ai agents",
+        "mcp llms",
+        "copilotkit ag-ui",
+        "ag-ui guide",
+        "ag-ui tutorial",
+        "a2a",
+        "mcp + a2a + ag-ui",
+        "agent protocol",
+        "iteractive ai agents",
+        "ai agent guide",
+        "langgraph",
+        "crewai",
+        "Agent Studio"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Toolhouse: First-Ever Agent UI - Fastest & Easiest Way to Create AI Agents! NEW MCP + Toolkit!",
+        "description": "Build your own AI agent today with Toolhouse! Start for free at https://www.toolhouse.ai/?ref=woai and deploy your AI project in minutes.\n\nDiscover Toolhouse, the ultimate backend-as-a-service for AI developers! Build, deploy, and manage AI agents faster than ever with our all-in-one platform. Whether you’re a vibe coder or a seasoned developer, Toolhouse makes creating AI agents simple, seamless, and powerful.\n\n🔗 My Links:\nSponsor a Video or Do a Demo of Your Product, Contact me: intheworldzofai@gmail.com\n🔥 Become a Patron (Private Discord): https://patreon.com/WorldofAi\n🧠 Follow me on Twitter: https://twitter.com/intheworldofai \n🚨 Subscribe To The SECOND Channel: https://www.youtube.com/@UCYwLV1gDwzGbg7jXQ52bVnQ \n👩🏻‍🏫 Learn to code with Scrimba – from fullstack to AI https://scrimba.com/?via=worldofai (20% OFF)\n🚨 Subscribe To The FREE AI Newsletter For Regular AI Updates: https://intheworldofai.com/\n👾 Join the World of AI Discord! : https://discord.gg/NPf8FCn4cD\n\n[Must Watch]:\nOpen Agent Builder: Easily Create AI Agents That Can Automate Anything! Opensource n8n Alternative!: https://youtu.be/6sk-q79-zZE\nClaude Haiku 4.5: NEW Powerful Coding Model That's Cheap + Fast! Beats Sonnet 4 Easily!: https://youtu.be/qOB30aJZW9s\nOpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial): https://youtu.be/gHkdrO6IExM?si=lDxCrjGrwL6HAwnj\n\n📌 LINKS & RESOURCES\nWebsite: https://www.toolhouse.ai/?ref=woai\nDocs: https://docs.toolhouse.ai/toolhouse\nCLI Blog Post: https://toolhouse.ai/blog/cli\nJoin the Toolhouse Discord for support, hackathons and weekly giveaways: https://discord.toolhouse.ai\n\nIn this video, we showcase:\n⚡ Agent Previews: Test your agent outputs instantly in the Agent Studio sidebar.\n🖥️ Lovable Prompt: Connect your agent to a frontend for fully functional web apps.\n🚀 TH Vibe: Deploy a ready-to-use frontend with just one CLI command.\n✏️ Edit Code Directly: Make instant changes to your agent’s .th file in Agent Studio Pro.\n🔑 MCP Discovery: Integrate your favorite tools like Notion, Gmail, Slack, and more for supercharged AI agents.\n\nNo complicated frameworks, no hours of documentation — just open Toolhouse, build your agent, and deploy in under an hour.\n\nTags / Keywords:\nToolhouse, AI Agents, Agent Studio, TH Vibe, Lovable Prompt, MCP Toolkit, AI Development, Build AI Agents, Deploy AI Agents, AI Backend, RAG, Vector Stores, AI Developer Tools, AI Projects, AI Tools, AI Workflow, No-Code AI, Low-Code AI, AI Automation, AI Platform\n\nHashtags:\n#Toolhouse #AIAgents #AgentStudio #THVibe #LovablePrompt #MCPToolkit #AI #AItools #NoCodeAI #LowCodeAI #AIautomation #Developers #RAG #AIDevelopment #BuildAI"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT12M9S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4657",
+      "likeCount": "142",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  }
+}

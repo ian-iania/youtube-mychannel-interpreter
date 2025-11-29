@@ -1,0 +1,77 @@
+{
+  "cached_at": 1764436228.790061,
+  "cache_type": "video_details",
+  "key": "ckrvwCLPwVw",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "TA1TSMv235ZaDIZ8vEXJRgarjj8",
+    "id": "ckrvwCLPwVw",
+    "snippet": {
+      "publishedAt": "2025-11-28T09:15:06Z",
+      "channelId": "UC0m81bQuthaQZmFbXEY9QSw",
+      "title": "RTRVR 2.0: This is THE BEST AI AGENT YET! Can do ANYTHING from ONE PROMPT!",
+      "description": "Visit RTRVR: https://www.rtrvr.ai/\nChrome Extension Link: https://chromewebstore.google.com/detail/rtrvrai-ai-web-agent/jldogdgepmcedfdhgnmclgemehfhpomg\nProduct Hunt Launch Link: https://www.producthunt.com/products/rtrvr-ai?launch=rtrvr-ai-cloud-api-mcp\n\n\nIn this video, I walk you through the massive version 2.0 update for the RTRVR AI agent. It has evolved from a simple browser extension into a full-blown infrastructure tool for AI automation. I'll show you how it now turns your browser into a MCP Server, runs code securely without external costs, and scales your web scraping tasks to the cloud with a single click.\n\n--\nKey Takeaways:\n\n🚀 RTRVR v2.0 has evolved into a complete infrastructure tool for AI automation.\n🌐 Your browser can now act as a MCP Server, connecting directly with tools like Claude Code.\n☁️ The new Hybrid Cloud Scaling allows you to scale scraping tasks from your laptop to thousands of cloud browsers.\n🧠 The refined \"Teach a Trick\" feature learns your specific workflows just by watching you perform them once.\n📱 WhatsApp integration enables you to trigger complex web automations and get answers directly on your phone.\n💸 A generous free tier is available so you can test these enterprise-level features immediately.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ckrvwCLPwVw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ckrvwCLPwVw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ckrvwCLPwVw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ckrvwCLPwVw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ckrvwCLPwVw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AICodeKing",
+      "tags": [
+        "rtrvr ai",
+        "ai agent",
+        "model context protocol",
+        "mcp server",
+        "claude code integration",
+        "new ai agent",
+        "free ai agent",
+        "gemini 3"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "RTRVR 2.0: This is THE BEST AI AGENT YET! Can do ANYTHING from ONE PROMPT!",
+        "description": "Visit RTRVR: https://www.rtrvr.ai/\nChrome Extension Link: https://chromewebstore.google.com/detail/rtrvrai-ai-web-agent/jldogdgepmcedfdhgnmclgemehfhpomg\nProduct Hunt Launch Link: https://www.producthunt.com/products/rtrvr-ai?launch=rtrvr-ai-cloud-api-mcp\n\n\nIn this video, I walk you through the massive version 2.0 update for the RTRVR AI agent. It has evolved from a simple browser extension into a full-blown infrastructure tool for AI automation. I'll show you how it now turns your browser into a MCP Server, runs code securely without external costs, and scales your web scraping tasks to the cloud with a single click.\n\n--\nKey Takeaways:\n\n🚀 RTRVR v2.0 has evolved into a complete infrastructure tool for AI automation.\n🌐 Your browser can now act as a MCP Server, connecting directly with tools like Claude Code.\n☁️ The new Hybrid Cloud Scaling allows you to scale scraping tasks from your laptop to thousands of cloud browsers.\n🧠 The refined \"Teach a Trick\" feature learns your specific workflows just by watching you perform them once.\n📱 WhatsApp integration enables you to trigger complex web automations and get answers directly on your phone.\n💸 A generous free tier is available so you can test these enterprise-level features immediately."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT8M15S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4873",
+      "likeCount": "179",
+      "favoriteCount": "0",
+      "commentCount": "5"
+    }
+  }
+}

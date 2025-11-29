@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285768.726754,
+  "cached_at": 1764436264.411694,
   "cache_type": "channel_info",
   "key": "UCToMOeQsY37qXDgmegkXf7g",
   "data": {
     "kind": "youtube#channel",
-    "etag": "o0ZaKHPlmPmajGlPIiGtiVFfaXw",
+    "etag": "Df6o9J1k_p7mEbE60l6j3gL1F04",
     "id": "UCToMOeQsY37qXDgmegkXf7g",
     "snippet": {
       "title": "Sophia the Robot",
@@ -35,7 +35,7 @@
       "country": "HK"
     },
     "statistics": {
-      "viewCount": "8941368",
+      "viewCount": "8944668",
       "subscriberCount": "73100",
       "hiddenSubscriberCount": false,
       "videoCount": "130"

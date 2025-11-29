@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764436250.749045,
+  "cache_type": "video_details",
+  "key": "UgEuMuvy8A8",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "3_1lArsp4GN8-DbYEgWiNdjMV5Q",
+    "id": "UgEuMuvy8A8",
+    "snippet": {
+      "publishedAt": "2025-11-29T14:30:19Z",
+      "channelId": "UCYQS3jkfB79Diyr9sQJAj5Q",
+      "title": "How ADE Supercharges Your RAG Pipeline 🚀📄 #ADE #RAG #DocumentAI",
+      "description": "Full Webinar here: https://youtu.be/Zl2B1zOpIYk?si=Z0-usoExcuULZAYs",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UgEuMuvy8A8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UgEuMuvy8A8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UgEuMuvy8A8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UgEuMuvy8A8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UgEuMuvy8A8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "LandingAI",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "How ADE Supercharges Your RAG Pipeline 🚀📄 #ADE #RAG #DocumentAI",
+        "description": "Full Webinar here: https://youtu.be/Zl2B1zOpIYk?si=Z0-usoExcuULZAYs"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT54S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": false,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "8",
+      "likeCount": "0",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "cached_at": 1764436236.2363572,
+  "cache_type": "video_details",
+  "key": "UAXwK8kNFWY",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "IrPVHqZVGxcVRDtqdsKmC7jXzAc",
+    "id": "UAXwK8kNFWY",
+    "snippet": {
+      "publishedAt": "2025-11-28T12:41:13Z",
+      "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+      "title": "software engineering #softwareengineering #programming",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UAXwK8kNFWY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UAXwK8kNFWY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UAXwK8kNFWY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UAXwK8kNFWY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UAXwK8kNFWY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Data Science in your pocket",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-IN",
+      "localized": {
+        "title": "software engineering #softwareengineering #programming",
+        "description": ""
+      },
+      "defaultAudioLanguage": "en-IN"
+    },
+    "contentDetails": {
+      "duration": "PT9S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "917",
+      "likeCount": "10",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}

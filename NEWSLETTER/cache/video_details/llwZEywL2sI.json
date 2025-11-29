@@ -1,0 +1,62 @@
+{
+  "cached_at": 1764436236.235744,
+  "cache_type": "video_details",
+  "key": "llwZEywL2sI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "_RIxyf4lBYGAIJJDZwjU5dPii4g",
+    "id": "llwZEywL2sI",
+    "snippet": {
+      "publishedAt": "2025-11-28T13:48:06Z",
+      "channelId": "UCQoNosQTIxiMTL9C-gvFdjA",
+      "title": "Z-Image-Turbo : Smallest AI Image Generator ",
+      "description": "Z-Image-Turbo is the most efficient AI image generator model #ai #chatgpt #coding #programming #generativeai #llm #computerscience #computer #engineering #modelcontextprotocol",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/llwZEywL2sI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/llwZEywL2sI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/llwZEywL2sI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/llwZEywL2sI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "Data Science in your pocket",
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en-IN",
+      "localized": {
+        "title": "Z-Image-Turbo : Smallest AI Image Generator ",
+        "description": "Z-Image-Turbo is the most efficient AI image generator model #ai #chatgpt #coding #programming #generativeai #llm #computerscience #computer #engineering #modelcontextprotocol"
+      },
+      "defaultAudioLanguage": "en-IN"
+    },
+    "contentDetails": {
+      "duration": "PT4M11S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "118",
+      "likeCount": "9",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

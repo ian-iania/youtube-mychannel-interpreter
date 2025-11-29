@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285760.539741,
+  "cached_at": 1764436255.801446,
   "cache_type": "channel_info",
   "key": "UCgc3NEslE8oISOEawhcpMCA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "5hVyKkEBhnCtrmo0__JdG8sLSOo",
+    "etag": "aiQM6jmY_YnKkUsu0GOwxTxPjtw",
     "id": "UCgc3NEslE8oISOEawhcpMCA",
     "snippet": {
       "title": "Microsoft Power Platform",
@@ -36,8 +36,8 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "7228062",
-      "subscriberCount": "76000",
+      "viewCount": "7235348",
+      "subscriberCount": "76100",
       "hiddenSubscriberCount": false,
       "videoCount": "1171"
     }

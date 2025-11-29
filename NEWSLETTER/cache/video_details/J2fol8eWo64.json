@@ -1,0 +1,70 @@
+{
+  "cached_at": 1764436266.711618,
+  "cache_type": "video_details",
+  "key": "J2fol8eWo64",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "V22CisD30MU0A6SR43i83DSc-Fo",
+    "id": "J2fol8eWo64",
+    "snippet": {
+      "publishedAt": "2025-11-28T09:33:02Z",
+      "channelId": "UC4JX40jDee_tINbkjycV4Sg",
+      "title": "Data Structures  - Full Course for Beginners",
+      "description": "This course will teach you about Data Structures and how they will apply in real-world scenarios, like computer science courses, preparing for technical interviews, or diving into LeetCode.\n\nDevLaunch is my mentorship program where I work with you directly one on one to help you land a software engineering job, learn more from here: https://training.devlaunch.us/tim?video=J2fol8eWo64\n\n🎞 Video Resources 🎞\nTime Complexity Analysis: https://www.youtube.com/watch?v=6aDHWSNKlVw\n\n⏳ Timestamps ⏳\n00:01:59 | Arrays\n00:21:07 | Single Linked List\n00:35:07 | Doubly Linked List\n00:45:42 | Queue\n00:58:11 | Stack\n01:08:36 | Binary Trees\n01:35:45 | Binary Trees Continued\n01:51:53 | Binary Search Trees\n02:20:07 | Heaps\n02:46:58 | Graphs\n03:02:42 | Hashing\n\n\nHashtags\n#datastructures #arrays #binarytree #heaps #hashing #singlelinkedlist #doublylinkedlist #datastructuresforbeginners #datastructurescourse",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/J2fol8eWo64/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/J2fol8eWo64/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/J2fol8eWo64/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/J2fol8eWo64/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/J2fol8eWo64/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Tech With Tim",
+      "tags": [
+        "tech with tim"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Data Structures  - Full Course for Beginners",
+        "description": "This course will teach you about Data Structures and how they will apply in real-world scenarios, like computer science courses, preparing for technical interviews, or diving into LeetCode.\n\nDevLaunch is my mentorship program where I work with you directly one on one to help you land a software engineering job, learn more from here: https://training.devlaunch.us/tim?video=J2fol8eWo64\n\n🎞 Video Resources 🎞\nTime Complexity Analysis: https://www.youtube.com/watch?v=6aDHWSNKlVw\n\n⏳ Timestamps ⏳\n00:01:59 | Arrays\n00:21:07 | Single Linked List\n00:35:07 | Doubly Linked List\n00:45:42 | Queue\n00:58:11 | Stack\n01:08:36 | Binary Trees\n01:35:45 | Binary Trees Continued\n01:51:53 | Binary Search Trees\n02:20:07 | Heaps\n02:46:58 | Graphs\n03:02:42 | Hashing\n\n\nHashtags\n#datastructures #arrays #binarytree #heaps #hashing #singlelinkedlist #doublylinkedlist #datastructuresforbeginners #datastructurescourse"
+      },
+      "defaultAudioLanguage": "en-CA"
+    },
+    "contentDetails": {
+      "duration": "PT3H11M8S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "12113",
+      "likeCount": "928",
+      "favoriteCount": "0",
+      "commentCount": "33"
+    }
+  }
+}

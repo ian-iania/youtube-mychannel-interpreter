@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285743.3904068,
+  "cached_at": 1764436239.475044,
   "cache_type": "channel_info",
   "key": "UCsBjURrPoezykLs9EqgamOA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "psVc3hSKTMVdX8jsZc1df9Y1L5I",
+    "etag": "b7xlsC-ytAeZ2TpYrTT3eT1I0mE",
     "id": "UCsBjURrPoezykLs9EqgamOA",
     "snippet": {
       "title": "Fireship",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "653148048",
+      "viewCount": "653516356",
       "subscriberCount": "4050000",
       "hiddenSubscriberCount": false,
       "videoCount": "776"

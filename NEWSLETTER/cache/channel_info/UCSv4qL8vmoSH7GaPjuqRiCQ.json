@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285733.81342,
+  "cached_at": 1764436230.3168561,
   "cache_type": "channel_info",
   "key": "UCSv4qL8vmoSH7GaPjuqRiCQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "Lk4ThdbEANxHOu7XO_WT19Tt0P0",
+    "etag": "mCCspX8ssQ7kv47gjuc_WMo9Aik",
     "id": "UCSv4qL8vmoSH7GaPjuqRiCQ",
     "snippet": {
       "title": "Arseny Shatokhin",
@@ -34,10 +34,10 @@
       }
     },
     "statistics": {
-      "viewCount": "2136820",
-      "subscriberCount": "67600",
+      "viewCount": "2139921",
+      "subscriberCount": "67700",
       "hiddenSubscriberCount": false,
-      "videoCount": "134"
+      "videoCount": "135"
     }
   }
 }

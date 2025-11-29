@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285750.4912572,
+  "cached_at": 1764436245.924194,
   "cache_type": "channel_info",
   "key": "UCe57-fTSlOsHIrXA6mBHe3g",
   "data": {
     "kind": "youtube#channel",
-    "etag": "mbArj4FaKPbwClVDYCmqAct9JnY",
+    "etag": "XEQQf9IpLiSrQdv2PuM7im1eOh8",
     "id": "UCe57-fTSlOsHIrXA6mBHe3g",
     "snippet": {
       "title": "Inteligencia Artificial para advogados",
@@ -35,10 +35,10 @@
       "country": "BR"
     },
     "statistics": {
-      "viewCount": "3047954",
+      "viewCount": "3066292",
       "subscriberCount": "11900",
       "hiddenSubscriberCount": false,
-      "videoCount": "870"
+      "videoCount": "873"
     }
   }
 }

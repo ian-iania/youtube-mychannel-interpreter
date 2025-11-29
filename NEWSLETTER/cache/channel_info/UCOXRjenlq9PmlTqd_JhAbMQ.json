@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285741.601969,
+  "cached_at": 1764436238.106125,
   "cache_type": "channel_info",
   "key": "UCOXRjenlq9PmlTqd_JhAbMQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "arnlLTfJ98eet-0h7GqQJWaNcNI",
+    "etag": "wa9JmwaBHZT5aH9W4gb31GGMQGI",
     "id": "UCOXRjenlq9PmlTqd_JhAbMQ",
     "snippet": {
       "title": "Eric Tech",
@@ -35,10 +35,10 @@
       "country": "CA"
     },
     "statistics": {
-      "viewCount": "1436319",
-      "subscriberCount": "28900",
+      "viewCount": "1463014",
+      "subscriberCount": "29100",
       "hiddenSubscriberCount": false,
-      "videoCount": "155"
+      "videoCount": "156"
     }
   }
 }

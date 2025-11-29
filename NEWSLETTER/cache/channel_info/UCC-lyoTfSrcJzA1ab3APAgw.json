@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285755.080448,
+  "cached_at": 1764436250.8423018,
   "cache_type": "channel_info",
   "key": "UCC-lyoTfSrcJzA1ab3APAgw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "9Tu14U-UUn85ICfHms3LIg1V8U4",
+    "etag": "3wdecGDYH9cH_9Ub8AxzrBMZCQo",
     "id": "UCC-lyoTfSrcJzA1ab3APAgw",
     "snippet": {
       "title": "LangChain",
@@ -34,7 +34,7 @@
       }
     },
     "statistics": {
-      "viewCount": "8000995",
+      "viewCount": "8019892",
       "subscriberCount": "160000",
       "hiddenSubscriberCount": false,
       "videoCount": "396"

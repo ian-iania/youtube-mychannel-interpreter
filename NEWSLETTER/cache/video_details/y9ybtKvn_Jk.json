@@ -1,0 +1,74 @@
+{
+  "cached_at": 1764436256.953313,
+  "cache_type": "video_details",
+  "key": "y9ybtKvn_Jk",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "QLpGm_Mrj5rc_HGiuDFOUjYado0",
+    "id": "y9ybtKvn_Jk",
+    "snippet": {
+      "publishedAt": "2025-11-28T19:54:24Z",
+      "channelId": "UCYx10jQ_0QeqkV7gWiUE5yw",
+      "title": "Se você perder isso, não tem volta…",
+      "description": "A Black IA Na Veia termina HOJE dia 28. Depois disso, acabou: valores, bônus e acesso completo. \n\nSe você quer dominar IA de verdade, esse é o momento. \nAcesse agora 👉 https://bit.ly/4oGY8e5",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/y9ybtKvn_Jk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/y9ybtKvn_Jk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/y9ybtKvn_Jk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/y9ybtKvn_Jk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/y9ybtKvn_Jk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "NoCode StartUp",
+      "tags": [
+        "curso ia",
+        "formação ia",
+        "inteligência artificial",
+        "ia",
+        "nocode startup"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Se você perder isso, não tem volta…",
+        "description": "A Black IA Na Veia termina HOJE dia 28. Depois disso, acabou: valores, bônus e acesso completo. \n\nSe você quer dominar IA de verdade, esse é o momento. \nAcesse agora 👉 https://bit.ly/4oGY8e5"
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT45S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "209",
+      "likeCount": "4",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  }
+}

@@ -1,39 +1,39 @@
 {
-  "cached_at": 1764285745.493543,
+  "cached_at": 1764436241.258206,
   "cache_type": "video_details",
   "key": "-eRjenGV2OM",
   "data": {
     "kind": "youtube#video",
-    "etag": "VYI1HmSjWqeR8TQeLLvQjTGGgjE",
+    "etag": "wXhO-Jje3YIu5qY9lijJtDQZ0Iw",
     "id": "-eRjenGV2OM",
     "snippet": {
-      "publishedAt": "2025-11-25T08:44:19Z",
+      "publishedAt": "2025-11-28T01:07:06Z",
       "channelId": "UC7c3Kb6jYCRj4JOHHZTxKsQ",
       "title": "Rubber Duck Thursdays - Let's build with custom agents",
       "description": "Join us for Rubber Duck Thursdays! A lighthearted and informal stream where we live code on some projects.\n\nIn this episode, we'll explore custom agents and how you can provide Copilot with tailored expertise for specific tasks.",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/-eRjenGV2OM/default_live.jpg",
+          "url": "https://i.ytimg.com/vi/-eRjenGV2OM/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/-eRjenGV2OM/mqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/-eRjenGV2OM/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/-eRjenGV2OM/hqdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/-eRjenGV2OM/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/-eRjenGV2OM/sddefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/-eRjenGV2OM/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/-eRjenGV2OM/maxresdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/-eRjenGV2OM/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -49,17 +49,17 @@
       "defaultAudioLanguage": "en-US"
     },
     "contentDetails": {
-      "duration": "PT1H48M49S",
+      "duration": "PT1H48M55S",
       "dimension": "2d",
-      "definition": "sd",
+      "definition": "hd",
       "caption": "false",
       "licensedContent": false,
       "contentRating": {},
       "projection": "rectangular"
     },
     "statistics": {
-      "viewCount": "426",
-      "likeCount": "17",
+      "viewCount": "758",
+      "likeCount": "23",
       "favoriteCount": "0",
       "commentCount": "0"
     }

@@ -1,42 +1,42 @@
 {
-  "cached_at": 1764285740.017629,
+  "cached_at": 1764436236.976293,
   "cache_type": "channel_info",
   "key": "UCn8ujwUInbJkBhffxqAPBVQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "xUoiQICrxg_VCvKyjelHYfqG4Y8",
+    "etag": "d1O4J3TB8sbyDxI_iF9OsHXJ4Rs",
     "id": "UCn8ujwUInbJkBhffxqAPBVQ",
     "snippet": {
       "title": "Dave Ebbelaar",
-      "description": "Hi! I'm Dave, AI Engineer and founder of Datalumina®. On this channel, I share practical tutorials that teach developers how to build production-ready AI systems that actually work in the real world. Beyond these tutorials, I also help people start successful freelancing careers. Check out the links below to learn more!",
+      "description": "Hi! I’m Dave, an AI Engineer and founder of Datalumina®.\n\nOn this channel, I share practical tutorials that show developers how to build production-ready AI systems.\n\nMy goal is to cut through the hype and avoid unnecessary complexity, focusing instead on engineering principles that actually last.\n\nI also help developers kick-start their freelance careers.\n\nCheck out the links below to learn more!",
       "customUrl": "@daveebbelaar",
       "publishedAt": "2012-07-01T19:50:53Z",
       "thumbnails": {
         "default": {
-          "url": "https://yt3.ggpht.com/wmpcHTFI0XVXFYjDtJZnQmWdHv_LtB66i9B07G6NtFg5g07rnI4lkydpPnpFn5fSCUE2Gr4d=s88-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/Yrszi4xpAFaT3R44EnXCXkfN_ldrd14oomFrnfhKg-BJlpv0buAQOoQc1_Cy1T0zTBWBELV-s6o=s88-c-k-c0x00ffffff-no-rj",
           "width": 88,
           "height": 88
         },
         "medium": {
-          "url": "https://yt3.ggpht.com/wmpcHTFI0XVXFYjDtJZnQmWdHv_LtB66i9B07G6NtFg5g07rnI4lkydpPnpFn5fSCUE2Gr4d=s240-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/Yrszi4xpAFaT3R44EnXCXkfN_ldrd14oomFrnfhKg-BJlpv0buAQOoQc1_Cy1T0zTBWBELV-s6o=s240-c-k-c0x00ffffff-no-rj",
           "width": 240,
           "height": 240
         },
         "high": {
-          "url": "https://yt3.ggpht.com/wmpcHTFI0XVXFYjDtJZnQmWdHv_LtB66i9B07G6NtFg5g07rnI4lkydpPnpFn5fSCUE2Gr4d=s800-c-k-c0x00ffffff-no-rj",
+          "url": "https://yt3.ggpht.com/Yrszi4xpAFaT3R44EnXCXkfN_ldrd14oomFrnfhKg-BJlpv0buAQOoQc1_Cy1T0zTBWBELV-s6o=s800-c-k-c0x00ffffff-no-rj",
           "width": 800,
           "height": 800
         }
       },
       "localized": {
         "title": "Dave Ebbelaar",
-        "description": "Hi! I'm Dave, AI Engineer and founder of Datalumina®. On this channel, I share practical tutorials that teach developers how to build production-ready AI systems that actually work in the real world. Beyond these tutorials, I also help people start successful freelancing careers. Check out the links below to learn more!"
+        "description": "Hi! I’m Dave, an AI Engineer and founder of Datalumina®.\n\nOn this channel, I share practical tutorials that show developers how to build production-ready AI systems.\n\nMy goal is to cut through the hype and avoid unnecessary complexity, focusing instead on engineering principles that actually last.\n\nI also help developers kick-start their freelance careers.\n\nCheck out the links below to learn more!"
       },
       "country": "NL"
     },
     "statistics": {
-      "viewCount": "7638764",
-      "subscriberCount": "222000",
+      "viewCount": "7651146",
+      "subscriberCount": "223000",
       "hiddenSubscriberCount": false,
       "videoCount": "103"
     }

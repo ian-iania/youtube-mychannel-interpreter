@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285766.792414,
+  "cached_at": 1764436262.6971369,
   "cache_type": "channel_info",
   "key": "UCUBqu_z5uP0AZhYtuyFZB3g",
   "data": {
     "kind": "youtube#channel",
-    "etag": "yFtYWzgxg5KZ14abbZW1d99CUf4",
+    "etag": "cmkdjUmWqxFxFGv1pnmiIrmZdRA",
     "id": "UCUBqu_z5uP0AZhYtuyFZB3g",
     "snippet": {
       "title": "Runway",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "5377144",
+      "viewCount": "5382857",
       "subscriberCount": "121000",
       "hiddenSubscriberCount": false,
       "videoCount": "89"

@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285737.701557,
+  "cached_at": 1764436234.8085928,
   "cache_type": "channel_info",
   "key": "UCrPbAoQKz42Gm0mLdWatAEA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "zMEvfLlr04WZSDAIkZh1K_VH1Mk",
+    "etag": "K-4h2aRxP3bD3PeoGBa-Howp99M",
     "id": "UCrPbAoQKz42Gm0mLdWatAEA",
     "snippet": {
       "title": "Comunidade ZDG",
@@ -35,10 +35,10 @@
       "country": "BR"
     },
     "statistics": {
-      "viewCount": "3376984",
-      "subscriberCount": "54700",
+      "viewCount": "3380920",
+      "subscriberCount": "54900",
       "hiddenSubscriberCount": false,
-      "videoCount": "376"
+      "videoCount": "377"
     }
   }
 }

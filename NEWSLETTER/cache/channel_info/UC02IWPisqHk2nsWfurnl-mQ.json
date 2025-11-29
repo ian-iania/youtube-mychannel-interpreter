@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285763.0832598,
+  "cached_at": 1764436257.831881,
   "cache_type": "channel_info",
   "key": "UC02IWPisqHk2nsWfurnl-mQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "tK1mjsXECu0aZw6w-Ruy_eTOj7k",
+    "etag": "b2QeHa6_lkwoPOfreGk41heqgd0",
     "id": "UC02IWPisqHk2nsWfurnl-mQ",
     "snippet": {
       "title": "Pinecone",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "594127",
+      "viewCount": "594475",
       "subscriberCount": "12600",
       "hiddenSubscriberCount": false,
       "videoCount": "140"

@@ -1,0 +1,74 @@
+{
+  "cached_at": 1764436252.997679,
+  "cache_type": "video_details",
+  "key": "LukbMZtPQyk",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "zhsDjNTjZy-AlL0cH9rAeso4fV0",
+    "id": "LukbMZtPQyk",
+    "snippet": {
+      "publishedAt": "2025-11-28T13:00:43Z",
+      "channelId": "UCu9_-NMnyN1ltBBG1tKJzJw",
+      "title": "Gemini 3 Humilhado? IA GRÁTIS que cria App, Site, Micro-SaaS, QUALQUER COISA! Mostro Passo a Passo",
+      "description": "Crie apps, sites, micro-saas de forma simples com gestão de banco de dados como se fosse planilha do excel usando essa inteligência artificial. Integre login do google e até sistema de pagamento.\n✅ Acesse: https://www.getmocha.com/?utm_source=ManualdeIA\n\n✅ Curso Filmmaker com IA (com meu suporte)\nhttps://manualdeia.com.br/r/cursovideo/LukbMZtPQyk \n🔥Aprenda as melhores técnicas em como gerar vídeos, web séries, animes com inteligência artificial.\n\n# Prompt usado no vídeo:\n\nCrie um app de lista de produtos para compras no supermercado chamado \"IA no Mercado\". Esse app deve ter uma tela de login com gmail, e deve ter as seguintes funcionalidades:\n\n- Tela Inicial: Tela de login com gmail.\n\n- Tela 1 (Lista Criadas): Exibir as listas criadas, essa pode ser a primeira página assim que logar;\n\n- Tela 2 (Página Interna da Lista): Mostrar a página interna da lista com os itens que devo comprar em cima com opção de marcar que já comprei, e a abaixo os itens que já marquei como comprado. Nessa página também precisa ter um botão de adicionar novos itens;\n\n- Tela 3 (Página Cadastro de Nova Lista): Apenas um campo para cadastrar o nome do item, e ao digitar buscar outros itens/produtos já cadastrados no banco, e exibir como sugestão ao digitar.\n\n# Sobre o MOCHA\n\nO Mocha chega com uma proposta ambiciosa: permitir que qualquer pessoa transforme uma ideia em um aplicativo funcional sem escrever uma linha de código. Ao utilizar inteligência artificial, a plataforma traduz descrições em linguagem natural, seja em inglês, português ou outro idioma, em aplicações web completas, com front-end, back-end, banco de dados, autenticação e hospedagem integrados.\n\nO diferencial do Mocha está exatamente na simplicidade: você descreve o que quer, por exemplo, “quero um site de portfólio com página de contato, painel de admin e login via Google”, e a ferramenta cuida de toda a construção. Não há necessidade de arrastar componentes visuais complicados ou gerenciar servidores e infraestrutura manualmente.\n\nPara quem pode ser útil? Essa solução se destaca para empreendedores, criadores de conteúdo, pessoas com ideias de serviços digitais ou lojas online, e qualquer um que quer validar um projeto rapidamente sem depender de desenvolvedores profissionais. Também serve para quem deseja testar uma ideia rapidamente, criar protótipos ou MVPs (versões mínimas de produtos), de forma ágil e com baixo custo.\n\nAlém disso, o Mocha oferece planos flexíveis, inclusive com uma opção gratuita, o que permite experimentar a plataforma antes de decidir por um compromisso financeiro. Isso torna a curva de entrada baixa e acessível para quem está começando.\n\nNo contexto atual, com a ascensão das ferramentas de “no-code” e “low-code”, o Mocha representa um passo além: uma automação guiada por IA, que reduz drasticamente o tempo entre a concepção de uma ideia e sua implementação. Em um mundo onde a agilidade e a experimentação são cada vez mais valorizadas, plataformas como essa podem abrir portas para quem nunca teve experiência técnica, e pode ser uma forma de empoderar criadores e empreendedores a construir seus próprios projetos com segurança e independência.\n\n#nocode #lowcode #vibecoding #vibecode #nocodetools #nocodeapps #manualdeia",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LukbMZtPQyk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LukbMZtPQyk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LukbMZtPQyk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LukbMZtPQyk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LukbMZtPQyk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Manual de Inteligência Artificial",
+      "tags": [
+        "criar app com ia",
+        "como criar um app com ia",
+        "micro saas com ia",
+        "inteligência artificial",
+        "criar site com ia"
+      ],
+      "categoryId": "27",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Gemini 3 Humilhado? IA GRÁTIS que cria App, Site, Micro-SaaS, QUALQUER COISA! Mostro Passo a Passo",
+        "description": "Crie apps, sites, micro-saas de forma simples com gestão de banco de dados como se fosse planilha do excel usando essa inteligência artificial. Integre login do google e até sistema de pagamento.\n✅ Acesse: https://www.getmocha.com/?utm_source=ManualdeIA\n\n✅ Curso Filmmaker com IA (com meu suporte)\nhttps://manualdeia.com.br/r/cursovideo/LukbMZtPQyk \n🔥Aprenda as melhores técnicas em como gerar vídeos, web séries, animes com inteligência artificial.\n\n# Prompt usado no vídeo:\n\nCrie um app de lista de produtos para compras no supermercado chamado \"IA no Mercado\". Esse app deve ter uma tela de login com gmail, e deve ter as seguintes funcionalidades:\n\n- Tela Inicial: Tela de login com gmail.\n\n- Tela 1 (Lista Criadas): Exibir as listas criadas, essa pode ser a primeira página assim que logar;\n\n- Tela 2 (Página Interna da Lista): Mostrar a página interna da lista com os itens que devo comprar em cima com opção de marcar que já comprei, e a abaixo os itens que já marquei como comprado. Nessa página também precisa ter um botão de adicionar novos itens;\n\n- Tela 3 (Página Cadastro de Nova Lista): Apenas um campo para cadastrar o nome do item, e ao digitar buscar outros itens/produtos já cadastrados no banco, e exibir como sugestão ao digitar.\n\n# Sobre o MOCHA\n\nO Mocha chega com uma proposta ambiciosa: permitir que qualquer pessoa transforme uma ideia em um aplicativo funcional sem escrever uma linha de código. Ao utilizar inteligência artificial, a plataforma traduz descrições em linguagem natural, seja em inglês, português ou outro idioma, em aplicações web completas, com front-end, back-end, banco de dados, autenticação e hospedagem integrados.\n\nO diferencial do Mocha está exatamente na simplicidade: você descreve o que quer, por exemplo, “quero um site de portfólio com página de contato, painel de admin e login via Google”, e a ferramenta cuida de toda a construção. Não há necessidade de arrastar componentes visuais complicados ou gerenciar servidores e infraestrutura manualmente.\n\nPara quem pode ser útil? Essa solução se destaca para empreendedores, criadores de conteúdo, pessoas com ideias de serviços digitais ou lojas online, e qualquer um que quer validar um projeto rapidamente sem depender de desenvolvedores profissionais. Também serve para quem deseja testar uma ideia rapidamente, criar protótipos ou MVPs (versões mínimas de produtos), de forma ágil e com baixo custo.\n\nAlém disso, o Mocha oferece planos flexíveis, inclusive com uma opção gratuita, o que permite experimentar a plataforma antes de decidir por um compromisso financeiro. Isso torna a curva de entrada baixa e acessível para quem está começando.\n\nNo contexto atual, com a ascensão das ferramentas de “no-code” e “low-code”, o Mocha representa um passo além: uma automação guiada por IA, que reduz drasticamente o tempo entre a concepção de uma ideia e sua implementação. Em um mundo onde a agilidade e a experimentação são cada vez mais valorizadas, plataformas como essa podem abrir portas para quem nunca teve experiência técnica, e pode ser uma forma de empoderar criadores e empreendedores a construir seus próprios projetos com segurança e independência.\n\n#nocode #lowcode #vibecoding #vibecode #nocodetools #nocodeapps #manualdeia"
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT12M50S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "956",
+      "likeCount": "64",
+      "favoriteCount": "0",
+      "commentCount": "9"
+    }
+  }
+}

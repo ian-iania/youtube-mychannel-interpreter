@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285734.8526201,
+  "cached_at": 1764436231.56571,
   "cache_type": "channel_info",
   "key": "UCxXL5491Db9U8Rhfs-2LVFg",
   "data": {
     "kind": "youtube#channel",
-    "etag": "DI6WBB2EKriJpOytRvxuXyfAJrQ",
+    "etag": "W-Y9VNvlnsYtoRbODB6i7q6Hq2Y",
     "id": "UCxXL5491Db9U8Rhfs-2LVFg",
     "snippet": {
       "title": "Asimov Academy",
@@ -35,7 +35,7 @@
       "country": "BR"
     },
     "statistics": {
-      "viewCount": "9164749",
+      "viewCount": "9183973",
       "subscriberCount": "143000",
       "hiddenSubscriberCount": false,
       "videoCount": "227"

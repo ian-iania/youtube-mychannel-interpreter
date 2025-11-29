@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285770.046986,
+  "cached_at": 1764436265.629659,
   "cache_type": "channel_info",
   "key": "UCItTSkM7qX2YmkZBl7ktpvQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "67jgeBdR4YE2sOs0WZJ1u8fp4bo",
+    "etag": "2ldMn5cK2l-wL8DiV3h6OSpU-o8",
     "id": "UCItTSkM7qX2YmkZBl7ktpvQ",
     "snippet": {
       "title": "Synthflow AI",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "2833462",
+      "viewCount": "2834213",
       "subscriberCount": "3620",
       "hiddenSubscriberCount": false,
       "videoCount": "208"

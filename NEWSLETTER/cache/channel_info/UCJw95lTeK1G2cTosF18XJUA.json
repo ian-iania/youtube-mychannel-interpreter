@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285735.2909818,
+  "cached_at": 1764436232.072093,
   "cache_type": "channel_info",
   "key": "UCJw95lTeK1G2cTosF18XJUA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "z1zSLXPxiie7UU1rh6XihLV7MW0",
+    "etag": "97MpxBS-UQjKI8P-a4hlUmvwyIk",
     "id": "UCJw95lTeK1G2cTosF18XJUA",
     "snippet": {
       "title": "Billy Automações",
@@ -35,7 +35,7 @@
       "country": "BR"
     },
     "statistics": {
-      "viewCount": "556446",
+      "viewCount": "558080",
       "subscriberCount": "11000",
       "hiddenSubscriberCount": false,
       "videoCount": "257"

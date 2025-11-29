@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285761.035754,
+  "cached_at": 1764436256.179165,
   "cache_type": "channel_info",
   "key": "UCvze3hU6OZBkB1vkhH2lH9Q",
   "data": {
     "kind": "youtube#channel",
-    "etag": "fEDQ4VL2jFlA8rB8x9igEW4AF1E",
+    "etag": "nmFwQxCUxCeTLWq9PcbwqVfPylY",
     "id": "UCvze3hU6OZBkB1vkhH2lH9Q",
     "snippet": {
       "title": "Neo4j",
@@ -35,8 +35,8 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "34434659",
-      "subscriberCount": "58200",
+      "viewCount": "34438163",
+      "subscriberCount": "58300",
       "hiddenSubscriberCount": false,
       "videoCount": "2459"
     }

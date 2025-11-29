@@ -1,0 +1,95 @@
+{
+  "cached_at": 1764436227.843575,
+  "cache_type": "video_details",
+  "key": "5nxnNRYQIoI",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "5gJWTO48WYJBAiBaGi9HI1rrCeo",
+    "id": "5nxnNRYQIoI",
+    "snippet": {
+      "publishedAt": "2025-11-29T12:35:38Z",
+      "channelId": "UCelfWQr9sXVMTvBzviPGlFw",
+      "title": "5 Things I Bet You Didn't Know About Antigravity",
+      "description": "Gemini Antigravity just dropped alongside Gemini 3, and it's packed with features that set it apart from typical VS Code forks. In this Google Antigravity tutorial, I break down everything you need to know about the Antigravity IDE and how it compares—Antigravity vs Cursor included.\n\nGemini Antigravity just dropped alongside Gemini 3, and it's packed with features that set it apart from typical VS Code forks. In this Google Antigravity tutorial, I break down everything you need to know about the Antigravity IDE and how it compares—Antigravity vs Cursor included.\n\n1. What is Google Antigravity?\nGoogle Antigravity launched alongside Gemini 3 as Google's answer to the AI coding space. At first glance, it looks like another VS Code fork, but Antigravity Google packs several unique features that set it apart. With Google AI Studio integration and artificial intelligence baked into every workflow, this Antigravity IDE is worth exploring. Here's everything covered in this Antigravity Google tutorial.\n\n2. Nano Banana Integration\n2.1 Generating UI Styles with AI\nThe Nano Banana Pro integration is one of the standout AI news features in Google Antigravity. You can ask the model to generate UI styles for your website before building anything. I asked it to create three vintage-themed designs for a photography portfolio, and the results had clean fonts and an editorial aesthetic.\n2.2 Image Generation Built In\nThe crazy part? You can also ask Nano Banana to generate images directly for your website. I used this to fill placeholder images, making the entire vibe coding workflow seamless. If you're learning how to use Antigravity, start here.\n\n3. Agents Manager\n3.1 Multiple Agents, One Project\nThis is where Antigravity Google separates itself. Unlike Cursor AI, where agents operate in isolated worktrees, Google Antigravity lets multiple AI agents work within the same project simultaneously. You can assign different tasks to different agents and watch them work in real time.\n3.2 Workspaces and Inbox System\nThe Agents Manager runs in the background with an inbox that notifies you when tasks complete. Workspaces let you manage multiple projects at once, each with its own set of agents. When comparing Cursor vs Antigravity or Google Antigravity vs Cursor, this manager-style control is a major differentiator.\n\n4. Browser Subagent\n4.1 Separate Chrome Profile\nWhen you install Google Antigravity, it prompts you to add a browser extension. This how to use Google Antigravity feature runs on a separate Chrome profile so AI agents don't interfere with your actual browser activity.\n4.2 Automated Research\nThe browser subagent enables the model to launch and conduct grounded research automatically. I asked it to look up popular photography website themes, and it handled everything—including cookie prompts. It also provides full recordings as artifacts, which ties into the Antigravity MCP capabilities.\n\n5. Screenshots and Recordings\n5.1 Automated Testing\nThis is the most interesting how to use Antigravity Google feature. The browser tests your web apps by simulating scrolls, button clicks, and other interactions. It takes screenshots and recordings throughout to detect issues.\n5.2 Iterative Fixes\nWhen I asked it to check my website, it navigated through all pages and captured numerous screenshots to identify problems. The testing and fixing took time, and while it didn't catch every padding issue, the final result improved significantly.\n\n6. Google Docs-Style Commenting\n6.1 Planning Mode\nWhen you prompt the model in planning mode, it generates an extensive implementation plan and waits for your review. This Antigravity tutorial feature creates a more natural feedback loop than typical chat interfaces.\n6.2 Mid-Execution Feedback\nYou can add comments on the implementation plan or any artifacts, and the model incorporates changes directly. You can even comment midway through execution—something that makes this Gemini 3 Antigravity workflow feel genuinely collaborative.\n\n7. Final Thoughts\nFor those debating Cursor vs Antigravity, each has strengths. But with features like multi-agent collaboration, browser testing, and inline commenting, Google is making a strong case. Whether you're into coding, AI agents, or just exploring artificial intelligence tools, Gemini Antigravity is worth trying. With a few upgrades, this could become a daily driver for AGI-level vibe coding workflows.\n\n#ai #gemini3 #gemini #googleaistudio #ainews #vibecoding #cursorai #coding #aiagents #artificialintelligence #agiClaude can make mistakes. Please double-check responses.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5nxnNRYQIoI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5nxnNRYQIoI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5nxnNRYQIoI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5nxnNRYQIoI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5nxnNRYQIoI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "AI LABS",
+      "tags": [
+        "antigravity gemini",
+        "antigravity",
+        "antigravity ide",
+        "antigravity google",
+        "google antigravity",
+        "antigravity vs cursor",
+        "google antigravity ide",
+        "gemini 3 gratis",
+        "antigravity google tutorial",
+        "gemini",
+        "เปรียบเทียบ cursor antigravity",
+        "gemini 3",
+        "gemini 3 review",
+        "gemini 3 design",
+        "gemini 3 ui",
+        "gemini 2.5",
+        "gemini 3.0",
+        "gemini 3 ai",
+        "google gemini ai",
+        "gemini 3 announcement",
+        "gemini 3 frontend",
+        "gemini 3 pro",
+        "gemini 3 tutorial",
+        "gemini 3 vibe code",
+        "gemini 3 pro review",
+        "gemini 3 agent mode"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "5 Things I Bet You Didn't Know About Antigravity",
+        "description": "Gemini Antigravity just dropped alongside Gemini 3, and it's packed with features that set it apart from typical VS Code forks. In this Google Antigravity tutorial, I break down everything you need to know about the Antigravity IDE and how it compares—Antigravity vs Cursor included.\n\nGemini Antigravity just dropped alongside Gemini 3, and it's packed with features that set it apart from typical VS Code forks. In this Google Antigravity tutorial, I break down everything you need to know about the Antigravity IDE and how it compares—Antigravity vs Cursor included.\n\n1. What is Google Antigravity?\nGoogle Antigravity launched alongside Gemini 3 as Google's answer to the AI coding space. At first glance, it looks like another VS Code fork, but Antigravity Google packs several unique features that set it apart. With Google AI Studio integration and artificial intelligence baked into every workflow, this Antigravity IDE is worth exploring. Here's everything covered in this Antigravity Google tutorial.\n\n2. Nano Banana Integration\n2.1 Generating UI Styles with AI\nThe Nano Banana Pro integration is one of the standout AI news features in Google Antigravity. You can ask the model to generate UI styles for your website before building anything. I asked it to create three vintage-themed designs for a photography portfolio, and the results had clean fonts and an editorial aesthetic.\n2.2 Image Generation Built In\nThe crazy part? You can also ask Nano Banana to generate images directly for your website. I used this to fill placeholder images, making the entire vibe coding workflow seamless. If you're learning how to use Antigravity, start here.\n\n3. Agents Manager\n3.1 Multiple Agents, One Project\nThis is where Antigravity Google separates itself. Unlike Cursor AI, where agents operate in isolated worktrees, Google Antigravity lets multiple AI agents work within the same project simultaneously. You can assign different tasks to different agents and watch them work in real time.\n3.2 Workspaces and Inbox System\nThe Agents Manager runs in the background with an inbox that notifies you when tasks complete. Workspaces let you manage multiple projects at once, each with its own set of agents. When comparing Cursor vs Antigravity or Google Antigravity vs Cursor, this manager-style control is a major differentiator.\n\n4. Browser Subagent\n4.1 Separate Chrome Profile\nWhen you install Google Antigravity, it prompts you to add a browser extension. This how to use Google Antigravity feature runs on a separate Chrome profile so AI agents don't interfere with your actual browser activity.\n4.2 Automated Research\nThe browser subagent enables the model to launch and conduct grounded research automatically. I asked it to look up popular photography website themes, and it handled everything—including cookie prompts. It also provides full recordings as artifacts, which ties into the Antigravity MCP capabilities.\n\n5. Screenshots and Recordings\n5.1 Automated Testing\nThis is the most interesting how to use Antigravity Google feature. The browser tests your web apps by simulating scrolls, button clicks, and other interactions. It takes screenshots and recordings throughout to detect issues.\n5.2 Iterative Fixes\nWhen I asked it to check my website, it navigated through all pages and captured numerous screenshots to identify problems. The testing and fixing took time, and while it didn't catch every padding issue, the final result improved significantly.\n\n6. Google Docs-Style Commenting\n6.1 Planning Mode\nWhen you prompt the model in planning mode, it generates an extensive implementation plan and waits for your review. This Antigravity tutorial feature creates a more natural feedback loop than typical chat interfaces.\n6.2 Mid-Execution Feedback\nYou can add comments on the implementation plan or any artifacts, and the model incorporates changes directly. You can even comment midway through execution—something that makes this Gemini 3 Antigravity workflow feel genuinely collaborative.\n\n7. Final Thoughts\nFor those debating Cursor vs Antigravity, each has strengths. But with features like multi-agent collaboration, browser testing, and inline commenting, Google is making a strong case. Whether you're into coding, AI agents, or just exploring artificial intelligence tools, Gemini Antigravity is worth trying. With a few upgrades, this could become a daily driver for AGI-level vibe coding workflows.\n\n#ai #gemini3 #gemini #googleaistudio #ainews #vibecoding #cursorai #coding #aiagents #artificialintelligence #agiClaude can make mistakes. Please double-check responses."
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT3M42S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1926",
+      "likeCount": "107",
+      "favoriteCount": "0",
+      "commentCount": "20"
+    }
+  }
+}

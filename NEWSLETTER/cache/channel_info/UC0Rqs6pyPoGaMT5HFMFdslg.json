@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285769.658904,
+  "cached_at": 1764436265.132661,
   "cache_type": "channel_info",
   "key": "UC0Rqs6pyPoGaMT5HFMFdslg",
   "data": {
     "kind": "youtube#channel",
-    "etag": "gCvWDeKi_oNMKEmzNoq88UphMck",
+    "etag": "Opas6SXbWhklt6NflOB0ffF6-SA",
     "id": "UC0Rqs6pyPoGaMT5HFMFdslg",
     "snippet": {
       "title": "Synthesia",
@@ -35,8 +35,8 @@
       "country": "GB"
     },
     "statistics": {
-      "viewCount": "3804168",
-      "subscriberCount": "78000",
+      "viewCount": "3815781",
+      "subscriberCount": "78100",
       "hiddenSubscriberCount": false,
       "videoCount": "760"
     }

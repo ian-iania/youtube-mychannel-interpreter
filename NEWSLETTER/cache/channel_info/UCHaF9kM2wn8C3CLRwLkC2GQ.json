@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285757.419749,
+  "cached_at": 1764436253.074111,
   "cache_type": "channel_info",
   "key": "UCHaF9kM2wn8C3CLRwLkC2GQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "VUD0Pl28MoeMpapz90aw1DpRSCg",
+    "etag": "CXUHn6UNvHfxf3vIys_eQnHlO-0",
     "id": "UCHaF9kM2wn8C3CLRwLkC2GQ",
     "snippet": {
       "title": "Matt Williams",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "4271488",
+      "viewCount": "4276537",
       "subscriberCount": "87400",
       "hiddenSubscriberCount": false,
       "videoCount": "452"

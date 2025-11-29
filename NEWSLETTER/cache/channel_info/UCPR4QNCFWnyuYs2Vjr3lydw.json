@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285730.0466611,
+  "cached_at": 1764436226.908695,
   "cache_type": "channel_info",
   "key": "UCPR4QNCFWnyuYs2Vjr3lydw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "bnQx5IVmjWFQZtOPxU2l_GV2QxA",
+    "etag": "NkXA1hCrbPB9lHuipodhXVBdV-Q",
     "id": "UCPR4QNCFWnyuYs2Vjr3lydw",
     "snippet": {
       "title": "AI Engineer Brasil",
@@ -35,8 +35,8 @@
       }
     },
     "statistics": {
-      "viewCount": "10762",
-      "subscriberCount": "674",
+      "viewCount": "10852",
+      "subscriberCount": "682",
       "hiddenSubscriberCount": false,
       "videoCount": "10"
     }

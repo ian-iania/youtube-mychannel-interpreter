@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285741.0750048,
+  "cached_at": 1764436237.760816,
   "cache_type": "channel_info",
   "key": "UCcIXc5mJsHVYTZR1maL5l9w",
   "data": {
     "kind": "youtube#channel",
-    "etag": "qVJ3Dp8F0soNPOcfFt2Ug4AQbUA",
+    "etag": "S4Z5YeGZUd7XIhE6mq61AGq7WA0",
     "id": "UCcIXc5mJsHVYTZR1maL5l9w",
     "snippet": {
       "title": "DeepLearningAI",
@@ -34,7 +34,7 @@
       }
     },
     "statistics": {
-      "viewCount": "24178207",
+      "viewCount": "24198385",
       "subscriberCount": "462000",
       "hiddenSubscriberCount": false,
       "videoCount": "525"

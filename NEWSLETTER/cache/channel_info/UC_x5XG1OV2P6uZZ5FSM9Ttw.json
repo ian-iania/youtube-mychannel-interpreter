@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285747.057395,
+  "cached_at": 1764436242.78816,
   "cache_type": "channel_info",
   "key": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "8Lw3tT5ZQWdlcSibaOaodqpL5VQ",
+    "etag": "M5GSHAtyFKI2yQG_JFZkcT0fAoo",
     "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
     "snippet": {
       "title": "Google for Developers",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "406633376",
+      "viewCount": "406720972",
       "subscriberCount": "2570000",
       "hiddenSubscriberCount": false,
       "videoCount": "6866"

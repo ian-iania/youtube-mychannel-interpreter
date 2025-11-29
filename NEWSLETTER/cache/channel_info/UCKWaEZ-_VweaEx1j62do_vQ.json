@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285749.6759481,
+  "cached_at": 1764436244.998113,
   "cache_type": "channel_info",
   "key": "UCKWaEZ-_VweaEx1j62do_vQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "Lo3L_fP80Rvanb0fT5QafDQ7-mg",
+    "etag": "lzRJHB1WoY1RiWIvwYaXBymRGJc",
     "id": "UCKWaEZ-_VweaEx1j62do_vQ",
     "snippet": {
       "title": "IBM Technology",
@@ -35,10 +35,10 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "97958895",
+      "viewCount": "98148222",
       "subscriberCount": "1470000",
       "hiddenSubscriberCount": false,
-      "videoCount": "1472"
+      "videoCount": "1475"
     }
   }
 }

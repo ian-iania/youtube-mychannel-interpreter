@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285773.769824,
+  "cached_at": 1764436268.7719,
   "cache_type": "channel_info",
   "key": "UCYwLV1gDwzGbg7jXQ52bVnQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "OEvpsTv-UaDyZ0yFrAarIeydHyw",
+    "etag": "G_U9-9hoEpQU-Jz_ep6qQ3Ywo9A",
     "id": "UCYwLV1gDwzGbg7jXQ52bVnQ",
     "snippet": {
       "title": "Universe of AI",
@@ -35,10 +35,10 @@
       "country": "CA"
     },
     "statistics": {
-      "viewCount": "409027",
+      "viewCount": "410646",
       "subscriberCount": "10800",
       "hiddenSubscriberCount": false,
-      "videoCount": "61"
+      "videoCount": "62"
     }
   }
 }

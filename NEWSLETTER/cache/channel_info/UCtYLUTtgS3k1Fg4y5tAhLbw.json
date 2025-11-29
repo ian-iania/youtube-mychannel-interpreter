@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285769.117895,
+  "cached_at": 1764436264.751925,
   "cache_type": "channel_info",
   "key": "UCtYLUTtgS3k1Fg4y5tAhLbw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "vtSH86F9aqy1oYOcqqVgLhU5kVg",
+    "etag": "Qaa2oHvjxI-zFIaFuArNJCGxids",
     "id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
     "snippet": {
       "title": "StatQuest with Josh Starmer",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "85978702",
+      "viewCount": "86044959",
       "subscriberCount": "1540000",
       "hiddenSubscriberCount": false,
       "videoCount": "292"

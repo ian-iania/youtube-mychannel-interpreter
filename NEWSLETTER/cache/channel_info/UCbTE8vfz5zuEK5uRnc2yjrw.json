@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285767.759514,
+  "cached_at": 1764436263.4858549,
   "cache_type": "channel_info",
   "key": "UCbTE8vfz5zuEK5uRnc2yjrw",
   "data": {
     "kind": "youtube#channel",
-    "etag": "PkyAVPjs2IJLGu58gxQg3Fni9D8",
+    "etag": "pgj1prp_U_Q6ELpBSwr2vYFQvGc",
     "id": "UCbTE8vfz5zuEK5uRnc2yjrw",
     "snippet": {
       "title": "SingularityNET",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "1631861",
+      "viewCount": "1632693",
       "subscriberCount": "31500",
       "hiddenSubscriberCount": false,
       "videoCount": "719"

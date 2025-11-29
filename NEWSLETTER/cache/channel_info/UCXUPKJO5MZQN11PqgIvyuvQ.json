@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285732.466954,
+  "cached_at": 1764436229.275115,
   "cache_type": "channel_info",
   "key": "UCXUPKJO5MZQN11PqgIvyuvQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "Ay7Wt0R2dPG2rXMde3v17Zyu97Q",
+    "etag": "cD1JdVfcONPcXiV2aQ4Y6Gea4zg",
     "id": "UCXUPKJO5MZQN11PqgIvyuvQ",
     "snippet": {
       "title": "Andrej Karpathy",
@@ -35,8 +35,8 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "23688658",
-      "subscriberCount": "1140000",
+      "viewCount": "23747787",
+      "subscriberCount": "1150000",
       "hiddenSubscriberCount": false,
       "videoCount": "17"
     }

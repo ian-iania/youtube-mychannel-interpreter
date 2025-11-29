@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285760.078818,
+  "cached_at": 1764436255.1299,
   "cache_type": "channel_info",
   "key": "UC0m-80FnNY2Qb7obvTL_2fA",
   "data": {
     "kind": "youtube#channel",
-    "etag": "kPGRB3z69B-amdTfOm0e-jgViE8",
+    "etag": "QMT0vLauckjwG3IcWT7Bc_HFUNk",
     "id": "UC0m-80FnNY2Qb7obvTL_2fA",
     "snippet": {
       "title": "Microsoft Azure",
@@ -35,10 +35,10 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "39784999",
+      "viewCount": "39939751",
       "subscriberCount": "351000",
       "hiddenSubscriberCount": false,
-      "videoCount": "1391"
+      "videoCount": "1392"
     }
   }
 }

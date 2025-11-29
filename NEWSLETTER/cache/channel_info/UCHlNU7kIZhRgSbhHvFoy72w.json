@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285749.17438,
+  "cached_at": 1764436244.556263,
   "cache_type": "channel_info",
   "key": "UCHlNU7kIZhRgSbhHvFoy72w",
   "data": {
     "kind": "youtube#channel",
-    "etag": "-8HsVDhoEGmWd_Rf_Bzw7p5Wheg",
+    "etag": "9fGztyhjpIQvAIN8sO5AUlpKaIA",
     "id": "UCHlNU7kIZhRgSbhHvFoy72w",
     "snippet": {
       "title": "HuggingFace",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "4224677",
+      "viewCount": "4231081",
       "subscriberCount": "102000",
       "hiddenSubscriberCount": false,
       "videoCount": "313"

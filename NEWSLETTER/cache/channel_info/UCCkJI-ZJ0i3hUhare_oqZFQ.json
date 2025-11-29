@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285734.3659022,
+  "cached_at": 1764436231.0334568,
   "cache_type": "channel_info",
   "key": "UCCkJI-ZJ0i3hUhare_oqZFQ",
   "data": {
     "kind": "youtube#channel",
-    "etag": "fVDq7TCj90vJEq82-zyzHFurtS4",
+    "etag": "w5AG23eZ_VSI-Uy7dEz4DedfdmE",
     "id": "UCCkJI-ZJ0i3hUhare_oqZFQ",
     "snippet": {
       "title": "Arxiv Papers",
@@ -34,7 +34,7 @@
       }
     },
     "statistics": {
-      "viewCount": "379660",
+      "viewCount": "379854",
       "subscriberCount": "10100",
       "hiddenSubscriberCount": false,
       "videoCount": "2641"

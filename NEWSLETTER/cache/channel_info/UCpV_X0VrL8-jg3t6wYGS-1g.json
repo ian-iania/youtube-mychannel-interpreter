@@ -1,10 +1,10 @@
 {
-  "cached_at": 1764285728.4277709,
+  "cached_at": 1764436225.292475,
   "cache_type": "channel_info",
   "key": "UCpV_X0VrL8-jg3t6wYGS-1g",
   "data": {
     "kind": "youtube#channel",
-    "etag": "fr6Xxvq15sReEshRBYmZFM2L01s",
+    "etag": "yxdrGNyQNQSoOS5Y0Bc9-khslx8",
     "id": "UCpV_X0VrL8-jg3t6wYGS-1g",
     "snippet": {
       "title": "1littlecoder",
@@ -35,7 +35,7 @@
       "country": "US"
     },
     "statistics": {
-      "viewCount": "14146522",
+      "viewCount": "14149997",
       "subscriberCount": "107000",
       "hiddenSubscriberCount": false,
       "videoCount": "1390"

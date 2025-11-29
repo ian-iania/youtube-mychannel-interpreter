@@ -1,0 +1,75 @@
+{
+  "cached_at": 1764436256.953716,
+  "cache_type": "video_details",
+  "key": "gWqv3NAFfYo",
+  "data": {
+    "kind": "youtube#video",
+    "etag": "o0dQ1V4wd4ukU0eTnXgfCc5e7xQ",
+    "id": "gWqv3NAFfYo",
+    "snippet": {
+      "publishedAt": "2025-11-28T14:01:24Z",
+      "channelId": "UCYx10jQ_0QeqkV7gWiUE5yw",
+      "title": "Essa IA Faz Tarefas Sozinha pra Você",
+      "description": "A Comet é uma IA que literalmente trabalha por você: busca vagas, mapeia locais no Google Maps, analisa sites e faz pesquisas completas sem você tocar em nada.\n\nBaixe o navegador e comece a usar — e segue a gente para mais conteúdos práticos de IA. 🚀🤖",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gWqv3NAFfYo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gWqv3NAFfYo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gWqv3NAFfYo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gWqv3NAFfYo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gWqv3NAFfYo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "NoCode StartUp",
+      "tags": [
+        "comet ai",
+        "ia",
+        "inteligência artificial",
+        "comet",
+        "perplexity",
+        "ai web browsers"
+      ],
+      "categoryId": "28",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "pt-BR",
+      "localized": {
+        "title": "Essa IA Faz Tarefas Sozinha pra Você",
+        "description": "A Comet é uma IA que literalmente trabalha por você: busca vagas, mapeia locais no Google Maps, analisa sites e faz pesquisas completas sem você tocar em nada.\n\nBaixe o navegador e comece a usar — e segue a gente para mais conteúdos práticos de IA. 🚀🤖"
+      },
+      "defaultAudioLanguage": "pt-BR"
+    },
+    "contentDetails": {
+      "duration": "PT34S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "1169",
+      "likeCount": "26",
+      "favoriteCount": "0",
+      "commentCount": "1"
+    }
+  }
+}
