@@ -101,8 +101,8 @@ const ARENA_CATEGORIES: ArenaCategory[] = [
   },
 ];
 
-// Escala fixa para todos os gráficos (ELO máximo teórico)
-const MAX_ELO_SCALE = 2000;
+// Escala fixa para todos os gráficos
+const MAX_ELO_SCALE = 1500;
 
 // Componente de barra de progresso com escala fixa
 function ScoreBar({ 
@@ -112,7 +112,7 @@ function ScoreBar({
   score: number; 
   color: string;
 }) {
-  // Escala fixa de 2000 para todos - leitura consistente
+  // Escala fixa de 1500 para todos - leitura consistente
   const percentage = (score / MAX_ELO_SCALE) * 100;
   
   return (
