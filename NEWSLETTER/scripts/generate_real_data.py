@@ -112,10 +112,10 @@ import {{ CATEGORY_META }} from "./types";
         for video in filtered_videos:
             views_formatted = format_views(video.get('viewCount', 0))
             
-            # Escapar strings (remover quebras de linha e aspas)
-            title = video.get('title', '').replace('"', '\\"').replace('\n', ' ').replace('\r', '')
-            channel = video.get('channel', '').replace('"', '\\"').replace('\n', ' ').replace('\r', '')
-            summary = video.get('summary', '').replace('"', '\\"').replace('\n', ' ').replace('\r', '')
+            # Escapar strings
+            title = video.get('title', '').replace('"', '\\"').replace('\n', ' ')
+            channel = video.get('channel', '').replace('"', '\\"')
+            summary = video.get('summary', '').replace('"', '\\"').replace('\n', ' ')
             
             # Key points
             key_points = video.get('keyPoints', [])
