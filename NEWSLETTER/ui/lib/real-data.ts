@@ -1,6 +1,6 @@
 /**
  * Dados reais dos 158 vídeos coletados e categorizados
- * Gerado automaticamente em: 2025-11-29 23:08:42
+ * Gerado automaticamente em: 2025-11-29 23:44:02
  * Edição: 2025-11-29
  * Fonte: ui/public/editions/2025-11-29.json
  */
